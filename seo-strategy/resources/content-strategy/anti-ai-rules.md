@@ -17,7 +17,32 @@ Tài liệu này quy định các tiêu chuẩn về ngôn ngữ để tránh "A
 | "Đại dương (cơ hội)", "Sóng dữ" | Quá hoa mỹ, không phù hợp văn phong tài chính chuyên nghiệp. | "Thị trường tiềm năng", "Biến động phức tạp", "Thách thức". |
 | "Giải pháp toàn diện" | Mơ hồ. | Liệt kê cụ thể giải pháp đó giải quyết được gì. |
 
-## 2. Quy tắc viết (Style Rules)
+## 2. Transition Phrases — AI-signal cần tránh
+
+Các cụm chuyển đoạn dưới đây khiến bài đọc như AI-generated, dùng quá nhiều:
+
+| Cụm AI-signal | Thay bằng |
+| :--- | :--- |
+| "Điều đáng chú ý là..." | "Quan trọng hơn:", hoặc bỏ luôn, đi thẳng vào điểm |
+| "Về bản chất,..." | Bỏ, viết thẳng câu mang ý nghĩa đó |
+| "Không phải ngẫu nhiên mà..." | Bỏ hoặc dùng "Lý do là:" |
+| "Thêm vào đó," / "Hơn nữa," (liên tiếp) | Dùng tối đa 1 lần/bài, thay bằng cấu trúc câu nối tự nhiên |
+| "Nói cách khác," (lạm dụng) | Chỉ dùng khi thực sự cần giải thích lại, không dùng mở đầu đoạn mới |
+| "Điều này có nghĩa là" (mỗi đoạn) | Nối trực tiếp bằng câu tiếp theo |
+| "Có thể thấy rằng," | Bỏ, câu sau tự thể hiện |
+| "Rõ ràng là," | Bỏ — nếu rõ ràng thì không cần nói |
+| "Quan trọng hơn hết," (dùng >1 lần) | Chỉ dùng 1 lần cho điểm quan trọng nhất |
+| "Để làm rõ hơn," | Bỏ — ví dụ tiếp theo tự làm rõ |
+| "Điểm mấu chốt ở đây là" | "Điểm cần nhớ:" hoặc xuống dòng nhấn mạnh |
+
+**Quy tắc tổng quát cho transitions:**
+- Tránh dùng cùng một cụm chuyển đoạn 2 lần trong 1 bài
+- Câu mở đầu đoạn: đừng dùng transition — bắt đầu ngay bằng ý chính
+- Đoạn ngắn <5 câu: không cần transition
+
+---
+
+## 3. Quy tắc viết (Style Rules)
 
 1.  **Chống lạm dụng Icon:** Tuyệt đối không dùng icon trong các tiêu đề (H1, H2, H3). Trong nội dung, chỉ dùng icon khi cần phân tách danh mục một cách trực quan (ví dụ: checklist).
 2.  **Sát thực tế (Thực chiến):** Ưu tiên các ví dụ về thị trường Việt Nam (sàn HOSE, mã VCB, phí giao dịch 0.1%...). Tránh các ví dụ chung chung mang tính lý thuyết suông.

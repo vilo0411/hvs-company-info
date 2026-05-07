@@ -1,24 +1,23 @@
-# 🤖 HVS Multi-Agent Team (AGENTS.md)
+# HVS Multi-Agent Team (AGENTS.md)
 
-Danh sách đội ngũ AI chuyên trách dự án HVS SEO.
-
----
-
-## 👥 Danh sách nhân sự
-
-1.  **SEO Collector** ([agents/seo-collector.md](file:///e:/project/hvs-company-info/.agent/agents/seo-collector.md))
-    - **Vai trò:** Nghiên cứu thị trường.
-    - **Sử dụng script:** `scripts/seo_parser.py`.
-
-2.  **Brand Guardian** ([agents/brand-guardian.md](file:///e:/project/hvs-company-info/.agent/agents/brand-guardian.md))
-    - **Vai trò:** Bảo vệ bản sắc HVS.
-    - **Tham chiếu:** `anti-ai-rules.md`, `persona.md`.
-
-3.  **Quality Guardian** ([agents/quality-guardian.md](file:///e:/project/hvs-company-info/.agent/agents/quality-guardian.md))
-    - **Vai trò:** Kiểm soát chất lượng & Audit.
-    - **Sử dụng skill:** `skills/internal-audit`.
+Danh sách sub-agents chuyên biệt. Chỉ thu thập context — Main Agent viết bài.
 
 ---
 
-## 🛠️ Cách hệ thống vận hành
-Hệ thống chạy trên các quy trình được định nghĩa tại thư mục [docs/](file:///e:/project/hvs-company-info/.agent/docs/). Luôn bắt đầu bằng việc đọc `docs/structure.md` để nắm bắt Workspace.
+## Danh sách nhân sự
+
+1. **SEO Collector** ([agents/seo-collector.md](.antigravity/agents/seo-collector.md))
+   - **Vai trò:** SERP research, tạo Content Brief — kích hoạt bởi `/write` (có SERP)
+   - **Skill:** `.antigravity/skills/seo-research/SKILL.md`
+
+2. **Brand Guardian** ([agents/brand-guardian.md](.antigravity/agents/brand-guardian.md))
+   - **Vai trò:** Brand audit văn phong & thương hiệu — kích hoạt bởi `/optimize`
+   - **Tham chiếu:** `anti-ai-rules.md`, `hvs-target-audience.csv`
+
+3. **Quality Guardian** ([agents/quality-guardian.md](.antigravity/agents/quality-guardian.md))
+   - **Vai trò:** QA/QC bài viết — kích hoạt tại Phase 4 của write-track
+   - **Skill:** `.antigravity/skills/qa-qc/SKILL.md`
+
+4. **Research Agent** ([agents/research-agent.md](.antigravity/agents/research-agent.md))
+   - **Vai trò:** Xây dựng Knowledge Base nền tảng — kích hoạt bởi `/setup`
+   - **Output:** `resources/company/`, `resources/audience/`, `resources/market/`

@@ -23,10 +23,10 @@ Dự án yêu cầu sự kiểm soát của con người tại 2 điểm chốt:
 - `Final-[slug].md`
 
 ## 4. Slash Commands & Workflows
-- `/detailed`: [Detailed Track](file:///e:/project/hvs-company-info/.antigravity/rules/detailed-track.md)
-- `/optimize`: [Content Optimization](file:///e:/project/hvs-company-info/.antigravity/rules/content-optimization.md)
+- `/detailed`: [Detailed Track](.antigravity/rules/detailed-track.md)
+- `/optimize`: [Content Optimization](.antigravity/rules/content-optimization.md)
 - `/approve`: Phê duyệt giai đoạn hiện tại.
-- `/link`: [Internal Linking](file:///e:/project/hvs-company-info/.antigravity/skills/internal-linking/SKILL.md).
+- `/link`: [Internal Linking](.antigravity/skills/internal-linking/SKILL.md).
 
 ---
 *Ghi chú: Luôn ưu tiên tham khảo `agent.md` và `rules/` để đảm bảo quy trình chính xác.*

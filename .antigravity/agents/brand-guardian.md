@@ -19,15 +19,16 @@ Trích xuất bộ quy tắc viết (Writing Guide) dành riêng cho từng bài
 ## ⚙️ Quy trình xử lý
 
 ### Bước 1: Tiếp nhận SEO Context
-- Nhận Intent, Archetype và Keyword từ Main Agent (do [SEO Collector](file:///e:/project/hvs-company-info/.agent/agents/seo-collector.md) cung cấp).
+- Nhận Intent, Archetype và Keyword từ Main Agent (do [SEO Collector](.agent/agents/seo-collector.md) cung cấp).
 
 ### Bước 2: Lọc quy tắc
-- Truy cập trực tiếp: `e:\project\hvs-company-info\seo-strategy\resources\content-strategy\anti-ai-rules.md`.
+- Truy cập trực tiếp: `seo-strategy\resources\content-strategy\anti-ai-rules.md`.
 - Tuyệt đối không dùng lệnh tìm kiếm (dir/find) nếu đã biết đường dẫn này.
 - Chỉ lấy ra các từ khóa cấm và style viết liên quan đến chủ đề (ví dụ: Nếu viết về hướng dẫn, tập trung vào rule "Actionable").
 
 ### Bước 3: Đề xuất HVS Unique Data
-- Dựa trên [glossary.md](file:///e:/project/hvs-company-info/.agent/skills/qa-qc/resources/glossary.md), chọn ra các tính năng của HVS Demo, Forum hoặc Chat AI cần lồng ghép vào bài.
+- Tham chiếu: `resources/company/identity.md` và `resources/company/usps.md` để lấy thông tin mới nhất về hệ sinh thái.
+- Dựa trên [glossary.md](.agent/skills/qa-qc/resources/glossary.md), chọn ra các tính năng của HVS Demo, Forum hoặc Chat AI cần lồng ghép vào bài.
 
 ---
 

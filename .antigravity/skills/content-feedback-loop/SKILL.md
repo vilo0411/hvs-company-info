@@ -29,4 +29,5 @@ This skill acts as the "long-term memory" for the agent. It triggers after an ar
    - Add an entry to the **Feedback Learning Log** section of that file.
 
 ## Rule for Future Content
-- Every time `/fast`, `/detailed`, or `/optimize` is triggered, the agent **MUST** read `anti-ai-rules.md` and adhere to its latest version.
+- Every time `/write` or `/optimize` is triggered, the agent **MUST** read `anti-ai-rules.md` and adhere to its latest version.
+- **Note:** Fresh articles without a Revision Log at the bottom of the file → skip this skill automatically.

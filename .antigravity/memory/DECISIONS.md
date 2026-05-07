@@ -12,6 +12,7 @@ Tệp này lưu trữ các quyết định quan trọng đã được thống nh
 ## ✍️ Quyết định Nội dung
 - **[2026-05-07]:** Tất cả bài viết F0 bắt buộc phải dẫn dắt đến sản phẩm **HVS Demo** và **HVS Forum**.
 - **[2026-05-07]:** Naming convention bắt buộc dùng tiền tố `Outline-`, `Draft-`, `Final-`.
+- **[2026-05-07]:** Hoàn tất thiết lập bộ nhận diện thương hiệu tại `resources/company/` (Identity, USPs) để làm giàu Context cho Brand Guardian.
 - **[2026-05-07]:** Content Brief phải tuân thủ mẫu chuẩn của `content-brief-example.md` (H1, Sapo, Heading Details, Conclusion).
 
 ## 💡 Bài học kinh nghiệm (Retrospective)

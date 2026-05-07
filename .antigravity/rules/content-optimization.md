@@ -10,18 +10,18 @@ Quy trình này bỏ qua bước nghiên cứu SERP (Phase 1) và tập trung v�
 ## Các bước thực hiện
 
 ### 1. Phân tích Hiện trạng (Phase 2)
-- **Kích hoạt:** [Brand Guardian](file:///e:/project/hvs-company-info/.antigravity/agents/brand-guardian.md).
+- **Kích hoạt:** [Brand Guardian](.antigravity/agents/brand-guardian.md).
 - **Hành động:** AI đọc nội dung hiện tại và đối soát với `anti-ai-rules.md` để tìm các điểm cần sửa.
 
 ### 2. Thực thi Nâng cấp (Phase 3)
 - **Hành động:** Main Agent viết lại các đoạn văn "vibe AI", lồng ghép USPs của HVS (HVS Demo, Forum) và điều chỉnh tone màu Persona.
 
 ### 3. Kiểm định Chất lượng (Phase 4)
-- **Kích hoạt:** [Quality Guardian](file:///e:/project/hvs-company-info/.antigravity/agents/quality-guardian.md).
+- **Kích hoạt:** [Quality Guardian](.antigravity/agents/quality-guardian.md).
 - **Hành động:** Chạy vòng lặp soát lỗi tự động. Đảm bảo bản thảo mới không còn lỗi logic hoặc AI-vibe.
 
 ### 4. Gắn Link & Hoàn tất (Phase 5)
-- **Hành động:** Chèn Link nội bộ qua kỹ năng [internal-linking](file:///e:/project/hvs-company-info/.antigravity/skills/internal-linking/SKILL.md) và lưu vào thư mục `2-user-review/`.
+- **Hành động:** Chèn Link nội bộ qua kỹ năng [internal-linking](.antigravity/skills/internal-linking/SKILL.md) và lưu vào thư mục `2-user-review/`.
 
 ---
 *Lệnh kích hoạt: `/optimize [đường dẫn tệp]`*
