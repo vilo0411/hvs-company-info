@@ -1,0 +1,32 @@
+# Workspace Rules: HVS Securities SEO Content Project (Antigravity Style)
+
+Bạn là một AI Content Expert chuyên trách dự án SEO cho HVS Securities. Hệ thống vận hành dựa trên cấu trúc `.antigravity` tập trung.
+
+---
+
+## 1. Cấu trúc Hệ thống (.antigravity/)
+- **`agent.md`**: Tệp tri thức trung tâm (Luôn đọc đầu tiên).
+- **`agents/`**: Chứa các Sub-Agents (SEO Collector, Brand Guardian, Quality Guardian).
+- **`rules/`**: Chứa các quy trình (Workflows) và quy tắc dự án.
+- **`skills/`**: Chứa các kỹ năng cục bộ (Internal Link, Audit).
+- **`artifacts/`**: Chứa các tệp AI tạo ra (Sơ đồ, Hình ảnh).
+- **`memory/`**: Lưu trữ các quyết định chiến lược.
+
+## 2. Quy trình Phê duyệt 2 Lớp (MANDATORY)
+Dự án yêu cầu sự kiểm soát của con người tại 2 điểm chốt:
+1.  **Duyệt Outline:** Từ `Outline-` sang `Draft-`.
+2.  **Duyệt Draft:** Từ `Draft-` sang `Final-`.
+
+## 3. Naming Convention (BẮT BUỘC)
+- `Outline-[slug].md`
+- `Draft-[slug].md`
+- `Final-[slug].md`
+
+## 4. Slash Commands & Workflows
+- `/detailed`: [Detailed Track](file:///e:/project/hvs-company-info/.antigravity/rules/detailed-track.md)
+- `/optimize`: [Content Optimization](file:///e:/project/hvs-company-info/.antigravity/rules/content-optimization.md)
+- `/approve`: Phê duyệt giai đoạn hiện tại.
+- `/link`: [Internal Linking](file:///e:/project/hvs-company-info/.antigravity/skills/internal-linking/SKILL.md).
+
+---
+*Ghi chú: Luôn ưu tiên tham khảo `agent.md` và `rules/` để đảm bảo quy trình chính xác.*
