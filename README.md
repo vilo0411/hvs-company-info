@@ -21,7 +21,9 @@ Hệ thống hỗ trợ 4 chế độ vận hành chính thông qua các Slash C
 ### 2. Bộ kỹ năng Đặc thù (Specialized Skills)
 *   **Keyword Management:** Tự động theo dõi và quản lý từ khóa từ file CSV, tránh trùng lặp nội dung.
 *   **QA-QC Loop:** Bộ kiểm tra tự động đối chiếu bài viết với `anti-ai-rules.md` và tiêu chuẩn thương hiệu HVS.
-*   **Content Feedback Loop:** Tự động phân tích nhật ký sửa đổi (Revision Logs) để "học" gu thẩm mỹ và lỗi sai từ người dùng, cập nhật lại bộ quy tắc `Anti-AI`.
+*   **Dashboard Logging:** Hệ thống tự động cập nhật tiến độ tại `progress-log.md` sau mỗi hành động, giúp quản lý kho nội dung theo thời gian thực.
+*   **Semantic Internal Linking:** Tự động quét kho dữ liệu `3-finalized/` để gợi ý liên kết nội bộ tự nhiên, tối ưu cấu trúc Link Wheel cho SEO.
+*   **Content Feedback Loop:** Tự động phân tích nhật ký sửa đổi (Revision Logs) để "học" gu thẩm mỹ và lỗi sai từ người dùng.
 
 ---
 
@@ -49,13 +51,13 @@ Mọi tệp tin di chuyển qua các giai đoạn nghiêm ngặt:
 Dựa trên cấu trúc hiện tại, đây là các hướng có thể nâng cấp hệ thống:
 
 ### ⚡ Tối ưu Quy trình (Efficiency)
-1.  **Automated Dashboard:** Tự động hóa việc cập nhật `progress-log.md` thành một Dashboard trực quan (có thể dùng Mermaid Diagram) để theo dõi tiến độ toàn bộ kho nội dung trong nháy mắt.
-2.  **API Integration:** Kết nối Agent trực tiếp với CMS (WordPress/Ghost) để đẩy bài viết từ `3-finalized/` lên bản nháp trên website chỉ bằng một lệnh `/publish`.
+1.  **WordPress/Ghost Integration:** Kết nối Agent trực tiếp với CMS để đẩy bài viết từ `3-finalized/` lên bản nháp trên website chỉ bằng một lệnh `/publish`.
+2.  **Image Generation Workflow:** Tự động hóa việc tạo Prompts cho Designer hoặc dùng AI tạo ảnh minh họa chuẩn brand ngay trong bản Draft.
 
 ### 🧠 Tối ưu Trí tuệ (Intelligence)
-3.  **Semantic Internal Linking:** Xây dựng một kỹ năng tự động quét thư mục `3-finalized/` để gợi ý các liên kết nội bộ (internal links) chính xác và tự nhiên nhất cho bài viết mới.
-4.  **Real-time Market Data:** Tích hợp công cụ lấy dữ liệu thị trường thời gian thực (Giá cổ phiếu, tin vĩ mô mới nhất) để các ví dụ trong bài viết luôn mang tính thời sự cao nhất.
-5.  **Automatic SEO Audit:** Tích hợp kỹ năng giả lập Google Bot để chấm điểm SEO (Headline, Meta, Keyword Density) ngay trong bước QA-QC.
+3.  **Real-time Market Data Integration:** Tích hợp công cụ lấy dữ liệu thị trường thời gian thực (Giá cổ phiếu, tin vĩ mô mới nhất) để các ví dụ trong bài viết luôn mang tính thời sự cao nhất.
+4.  **Automatic SEO Audit (Simulation):** Tích hợp kỹ năng giả lập Google Bot để chấm điểm SEO (Headline, Meta, Keyword Density) ngay trong bước QA-QC.
+5.  **Multi-Agent Coordination:** Nâng cấp hệ thống Sub-Agents (SEO Collector, Quality Guardian) để hoạt động độc lập và báo cáo định kỳ.
 
 ---
 
