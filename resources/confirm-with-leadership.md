@@ -1,16 +1,36 @@
-# Xác nhận thông tin — HVS Securities
-_Tạo bởi Research Agent ngày 2026-05-07_
+# Tài liệu Xác nhận với Ban lãnh đạo (Knowledge Base Approval)
 
-Dưới đây là các thông tin chúng tôi CẦN XÁC NHẬN trước khi triển khai content để đảm bảo tính chính xác và nhất quán của thương hiệu.
-
-| # | Hạng mục | Thông tin hiện có (assumed/TBD) | Xác nhận chính xác |
-|---|----------|----------------------------|-------------------|
-| 1 | **Slogan chính thức** | "Hệ sinh thái Tư vấn & Đào tạo Số" (hay còn slogan nào khác?) | |
-| 2 | **Mối quan hệ với DSC** | Research thấy nhiều bài PR HVS trên site dsc.com.vn. Đây là đối tác chiến lược hay cùng hệ thống? | |
-| 3 | **Trạng thái AI-Powered** | Tính năng AI-Powered Analytics đang ở giai đoạn phát triển hay đã có thể dùng làm key USP? | |
-| 4 | **Phí giao dịch** | Bảng phí trên web ghi 0.15%, có ưu đãi riêng cho sinh viên hoàn thành Thực tập số không? | |
-| 5 | **Mentor chủ chốt** | Ngoài các tiêu chuẩn CFA, có cái tên Mentor nào cụ thể cần PR không? | |
+**Ngày soạn:** 2026-05-08
+**Người soạn:** Research Agent (Antigravity)
 
 ---
-> [!NOTE]
-> Sau khi xác nhận các thông tin này, chúng tôi sẽ cập nhật vào file `hvs-profile.md` và chuyển sang giai đoạn lập kế hoạch từ khóa.
+
+## 1. Mục tiêu
+Tài liệu này tổng hợp các thông tin cốt lõi đã được nghiên cứu và giả định để xây dựng Knowledge Base cho dự án Content SEO. Ban lãnh đạo đã phản hồi và xác nhận các điểm dưới đây.
+
+## 2. Kết quả xác nhận (Resolved ✅)
+
+### A. Sản phẩm & Phí dịch vụ
+- **Cấu trúc sản phẩm:** **HVS Thực tập số** là sản phẩm đào tạo cốt lõi. Bỏ qua các bài viết về Excel do chưa sẵn sàng. [Resolved ✅]
+- **Phí giao dịch:** Hiện tại chưa có bảng giá chi tiết, **KHÔNG** đề cập con số cụ thể (như 0.15%) trong bài viết. [Resolved ✅]
+- **Hệ sinh thái HVS:** Xác nhận **Tài chính số + Demo + Forum + Tư vấn số** là một hệ sinh thái thống nhất, hỗ trợ toàn diện cho nhà đầu tư. [Resolved ✅]
+- **AI-Powered:** Tính năng phân tích dữ liệu bằng AI là **tự động hoàn toàn**. [Resolved ✅]
+
+### B. Persona & Đối tượng mục tiêu
+- **Chiến lược đối tượng:** "HVS Thực tập số" tập trung vào sinh viên, nhưng các bài SEO sẽ đánh vào **nhóm rộng (F0 nói chung)** để tối ưu traffic. [Resolved ✅]
+- **Nỗi đau & Kỳ vọng:** Đã cập nhật vào hồ sơ Persona và ICP. [Resolved ✅]
+
+### C. Lịch sử & Uy tín
+- **Xử lý truyền thông:** **KHÔNG** nhắc đến các vấn đề đình chỉ/khắc phục trong quá khứ trong các bài blog/SEO. [Resolved ✅]
+
+## 3. Danh sách Knowledge Base đã hoàn thiện (Verified ✅)
+- [x] [HVS Profile](file:///e:/project/hvs-company-info/resources/company/hvs-profile.md)
+- [x] [Brand Identity](file:///e:/project/hvs-company-info/resources/company/identity.md)
+- [x] [Market Landscape](file:///e:/project/hvs-company-info/resources/market/market-landscape.md)
+- [x] [Deep Personas](file:///e:/project/hvs-company-info/resources/audience/personas-deep.md)
+- [x] [ICP (Ideal Customer Profile)](file:///e:/project/hvs-company-info/resources/audience/icp.md)
+
+---
+**Trạng thái hiện tại:** Knowledge Base đã chuyển sang `Verified ✅`.
+**Hành động tiếp theo:** Chạy `/keyword-plan` để lên lịch bài viết dựa trên chiến lược "Phễu rộng" đã thống nhất.
+

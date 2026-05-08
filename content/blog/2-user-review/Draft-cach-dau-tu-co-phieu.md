@@ -21,7 +21,7 @@ HVS Tài chính số cung cấp lộ trình tinh gọn, giúp bạn xây dựng 
 
 ## Đầu tư cổ phiếu là gì?
 
-Hiểu một cách đơn giản, khi bạn mua cổ phiếu của một doanh nghiệp niêm yết, bạn đang sở hữu một phần giá trị của công ty đó và trở thành **cổ đông**.
+Hiểu một cách đơn giản, khi bạn mua cổ phiếu của một doanh nghiệp niêm yết, bạn đang nắm giữ **[quyền sở hữu doanh nghiệp](content/blog/3-finalized/Final-co-phieu-la-gi.md)** và trở thành **cổ đông**.
 
 Lợi nhuận từ đầu tư cổ phiếu đến từ hai nguồn chính:
 
@@ -39,7 +39,7 @@ Người mới cần phân biệt rõ giữa **đầu tư** (nắm giữ tài s�
 Kiến thức là bộ giáp quan trọng nhất của nhà đầu tư. Đừng bắt đầu dựa trên tin đồn hay lời "phím hàng" từ các hội nhóm. Bạn cần nắm vững:
 *   **Cách đọc bảng điện:** Hiểu các thông số về giá tham chiếu, giá trần, giá sàn và các mã màu xanh, đỏ, vàng.
 *   **Cơ cấu thị trường:** Phân biệt các sàn giao dịch HOSE, HNX và UPCoM.
-*   **Chỉ số VN-Index:** Hiểu cách chỉ số này đại diện cho sức khỏe của thị trường chứng khoán Việt Nam.
+*   **Chỉ số VN-Index:** Hiểu cách chỉ số này đại diện cho sức khỏe của **[thị trường chứng khoán](content/blog/3-finalized/Final-chung-khoan-la-gi.md)** Việt Nam.
 *   **Tư duy dài hạn:** Rèn luyện sự kiên nhẫn và tránh bị tác động bởi những biến động nhỏ trong ngắn hạn.
 
 ### Bước 2: Quản trị nguồn vốn và rủi ro
@@ -114,7 +114,7 @@ Tại Việt Nam, bạn có thể bắt đầu với số vốn từ 1-2 triệu
 Nếu bạn chọn các doanh nghiệp uy tín (trong rổ VN30) và không sử dụng Margin (tiền vay) quá đà, khả năng mất trắng là cực kỳ thấp. Rủi ro chủ yếu đến từ biến động giá trong ngắn hạn.
 
 **Nên chọn mã cổ phiếu nào lúc này?**
-Với người mới, hãy ưu tiên các doanh nghiệp đầu ngành, có lịch sử trả cổ tức đều đặn và tài chính lành mạnh trước khi thử sức với các mã đầu cơ rủi ro cao.
+Với người mới, để biết **[nên đầu tư cổ phiếu nào](content/blog/3-finalized/Final-nen-dau-tu-co-phieu-nao.md)** hiệu quả, hãy ưu tiên các doanh nghiệp đầu ngành, có lịch sử trả cổ tức đều đặn và tài chính lành mạnh trước khi thử sức với các mã đầu cơ rủi ro cao.
 
 ---
 

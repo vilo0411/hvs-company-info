@@ -1,0 +1,4 @@
+
+# Credentials and Secrets
+.antigravity/secrets/
+.env

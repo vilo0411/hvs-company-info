@@ -1,8 +1,8 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 13 bài
-- **Active Pipeline:** 2 items
+- **Published:** 14 bài
+- **Active Pipeline:** 6 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
@@ -13,6 +13,10 @@
 | :--- | :--- | :--- | :--- | :--- |
 | Cổ phiếu penny là gì (Chi tiết) | Outline | `content/blog/1-outlines/Outline-co-phieu-penny-chuyen-sau.md` | 2026-05-07 | Cần /approve |
 | Cách đầu tư cổ phiếu | Draft | `content/blog/2-user-review/Draft-cach-dau-tu-co-phieu.md` | 2026-05-07 | Cần feedback |
+| etf là gì | Outline | `content/blog/1-outlines/Outline-etf-la-gi.md` | 2026-05-08 | Cần /approve |
+| Chỉ số DAX là gì | Outline | `content/blog/1-outlines/Outline-chi-so-dax-la-gi.md` | 2026-05-08 | Cần /approve |
+| p/e là gì | Outline | `content/blog/1-outlines/Outline-p-e-la-gi.md` | 2026-05-08 | Cần /approve |
+| nến búa | Outline | `content/blog/1-outlines/Outline-nen-bua.md` | 2026-05-08 | Cần /approve |
 
 ---
 
@@ -20,6 +24,7 @@
 
 | Date | Keyword | Persona | Mode | File |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-05-08 | Cách mua cổ phiếu VCB | F0 | Express | `content/blog/3-finalized/Final-cach-mua-co-phieu-vcb.md` |
 | 2026-05-07 | Cổ phiếu là gì | F0 | Auto | `content/blog/3-finalized/Final-co-phieu-la-gi.md` |
 | 2026-05-07 | Cổ phiếu penny là gì | NV VP | Fast | `content/blog/3-finalized/Final-co-phieu-penny-la-gi.md` |
 | 2026-05-07 | Cách đầu tư chứng khoán | Sinh viên | Optimize | `content/blog/3-finalized/Final-cach-dau-tu-chung-khoan.md` |

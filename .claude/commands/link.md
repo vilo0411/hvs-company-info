@@ -1,43 +1,42 @@
 ---
-description: "Gắn internal links cho bài đang viết, ưu tiên theo Topic Cluster"
+description: "Gắn internal links cho bài đang viết với nhiều chế độ: Cluster, Silo, Power, Conversion"
 allowed-tools: Read, Write, Bash
 ---
 
-Chạy quy trình **Internal Linking** cho bài đang làm.
+Chạy quy trình **Internal Linking** để tối ưu hóa sức mạnh SEO và trải nghiệm người dùng.
 
 **Cách dùng:**
 ```
-/link             → Gắn link cho bài đang mở/làm việc
+/link [mode]       → Gắn link cho bài đang mở theo chế độ đã chọn
 ```
+
+**Các chế độ (Modes):**
+- `--cluster` (Mặc định): Liên kết Pillar <-> Cluster trong cùng một nhóm chủ đề.
+- `--silo`: Liên kết dọc và ngang trong cùng một Category lớn (Group).
+- `--power`: Tập trung đẩy link về các trang "Super Pillar" có authority cao.
+- `--conversion`: Ưu tiên link về sản phẩm/dịch vụ của HVS (Demo, Forum, Tài chính số).
 
 ---
 
 Đọc `.antigravity/skills/internal-linking/SKILL.md` để biết đầy đủ quy tắc.
 
-1. **Kiểm tra Topic Cluster** (nếu `topic-clusters.md` tồn tại):
-   - Xác định bài này thuộc cluster nào
-   - Báo cáo: "Bài này thuộc Cluster: [X] — Pillar: [Y]"
-   - Nếu là Cluster article → link về Pillar là **bắt buộc**
-   - Nếu là Pillar → link xuống ít nhất 2 Cluster articles đã Published
-
-2. **Quét kho bài:** đọc `content/blog/3-finalized/`, lấy Target_Keyword từ YAML
-
-3. **Đề xuất links** (phân loại rõ):
+1. **Xác định Mode:** Nếu không chỉ định, mặc định dùng `--cluster`.
+2. **Kiểm tra Topic Cluster** (`seo-strategy/content-plan/topic-clusters.md`):
+   - Xác định vị trí của bài viết hiện tại trong cấu trúc tổng thể.
+3. **Quét kho bài:** Đọc `content/blog/3-finalized/` để verify các bài đã xuất bản.
+4. **Đề xuất links theo Mode:**
    ```
-   🏛️ PILLAR LINK (bắt buộc nếu là Cluster article):
-   "[anchor text]" → Final-xxx.md
-
-   🛰️ CLUSTER LINKS (khuyến nghị):
-   "[anchor text]" → Final-xxx.md  (lý do: liên quan về X)
-
-   🔗 CROSS-CLUSTER (nếu phù hợp ngữ nghĩa):
-   "[anchor text]" → Final-xxx.md
+   🚀 MODE ĐANG CHẠY: [Tên mode]
+   
+   🏛️ PRIMARY LINKS: "[anchor]" → Final-xxx.md
+   🛰️ SECONDARY LINKS: "[anchor]" → Final-xxx.md
+   🎁 CONVERSION LINKS (nếu có): "[anchor]" → [URL/File]
    ```
+5. **Trình bày → chờ user xác nhận** trước khi chèn.
+6. **Chèn link:** 
+   - Inline: Lồng vào câu văn một cách tự nhiên.
+   - Link Wheel: `>> Xem thêm: [Tên bài](...)` cuối H2 hoặc cuối bài.
 
-4. **Trình bày danh sách → chờ user xác nhận** trước khi chèn
-
-5. **Chèn link:**
-   - Ngữ nghĩa: `[anchor](đường dẫn)` lồng vào câu văn
-   - Link Wheel: `>> Xem thêm: [Tên bài](đường dẫn)` cuối H2
-
-**Ràng buộc:** Mỗi URL đích chỉ xuất hiện **đúng 1 lần** trong toàn bài.
+**Ràng buộc:** 
+- Mỗi URL đích chỉ xuất hiện **đúng 1 lần** trong toàn bài.
+- Anchor text phải tự nhiên, không dùng các từ "AI-vibe" (xem `anti-ai-rules.md`).

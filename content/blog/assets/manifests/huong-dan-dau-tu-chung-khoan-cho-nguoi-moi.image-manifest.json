@@ -1,0 +1,23 @@
+{
+  "article_slug": "huong-dan-dau-tu-chung-khoan-cho-nguoi-moi",
+  "article_path": "content/blog/1-outlines/Outline-huong-dan-dau-tu-chung-khoan.md",
+  "generated_at": "2026-05-08T15:34:00Z",
+  "images": [
+    {
+      "id": "img_001",
+      "type": "featured_image",
+      "placement": "top_of_article",
+      "section": "Hero",
+      "source": "content/blog/assets/raw-images/huong-dan-dau-tu-chung-khoan-cho-nguoi-moi/featured.png",
+      "output": "content/blog/assets/images/huong-dan-dau-tu-chung-khoan-cho-nguoi-moi/huong-dan-dau-tu-chung-khoan-cho-nguoi-moi-featured.webp",
+      "alt": "Hệ sinh thái giao dịch chứng khoán hiện đại của HVS Securities",
+      "title": "Hướng dẫn đầu tư chứng khoán cho người mới bắt đầu",
+      "caption": "Bắt đầu hành trình đầu tư chuyên nghiệp cùng HVS Securities",
+      "width": 1200,
+      "height": 675,
+      "format": "webp",
+      "status": "planned",
+      "created_by": "visual_architect"
+    }
+  ]
+}

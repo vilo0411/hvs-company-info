@@ -169,9 +169,10 @@ sequenceDiagram
     par Thu thập SEO context
         Main->>SEO: Research SERP + image opportunities
         SEO-->>Main: SERP Intelligence + Image Opportunities
-    and Thu thập brand context
-        Main->>Brand: Lấy visual brand rules cho topic/persona
-        Brand-->>Main: Visual Brand Context
+    and Thu thập Brand Guidelines
+        Main->>Main: Đọc resources/company/visual-brand-guidelines.md
+        Main->>Brand: Lấy visual brand rules dựa trên Guidelines
+        Brand-->>Main: Visual Brand Context (Confirmed Colors/Sizes)
     end
 
     Main->>Main: Tạo outline/content brief
@@ -212,8 +213,9 @@ sequenceDiagram
         SEO-->>Main: SERP visual patterns + visual gaps
     end
 
-    Main->>Brand: Lấy visual constraints cho persona/topic
-    Brand-->>Main: Visual Brand Context
+    Main->>Main: Tham chiếu resources/company/visual-brand-guidelines.md
+    Main->>Brand: Lấy visual constraints cho persona/topic (Check Color/Size Matrix)
+    Brand-->>Main: Visual Brand Context (Confirmed)
 
     Main->>ImgCtx: Build image context objects
     ImgCtx-->>Main: Context cho featured/process/checklist images

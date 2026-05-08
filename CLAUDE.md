@@ -54,6 +54,7 @@ Hệ thống sản xuất nội dung SEO cho HVS Securities. Triết lý cốt l
 | `/optimize [path]` | Tối ưu bài cũ — Brand audit + rewrite + QA |
 | `/link` | Gắn internal links cho bài đang làm |
 | `/raw [path]` | Xử lý nội dung thô từ `content/blog/0-raw/` |
+| `/gdocs [path]` | Xuất bài Finalized lên Google Docs (cần xác thực Drive MCP 1 lần) |
 
 *Alias: `/detailed [kw]` = `/write [kw] --step` | `/fast [kw]` = `/write [kw] --no-serp`*
 

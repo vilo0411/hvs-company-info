@@ -146,10 +146,11 @@ Mục tiêu: PASS toàn bộ checklist trong ≤2 vòng.
 ## Phase 5: Internal Linking
 
 Chạy `.antigravity/skills/internal-linking/SKILL.md`:
-- Primary source: `topic-clusters.md` (đã trong context từ Phase 0)
-- Verify slug: scan `content/blog/3-finalized/` để confirm file tồn tại
-- Ưu tiên: Pillar link (bắt buộc nếu Cluster article) → Same-cluster → Cross-cluster
-- Chèn link theo Linking Plan trong Outline
+- Mode: Mặc định `--cluster`. Có thể tùy chỉnh thành `--silo`, `--power`, `--conversion` theo yêu cầu.
+- Primary source: `topic-clusters.md` (đã trong context từ Phase 0).
+- Verify slug: scan `content/blog/3-finalized/` để confirm file tồn tại.
+- Logic: Tuân thủ quy tắc của từng mode đã chọn (Pillar link, Group-silo, Power authority, hoặc Conversion-led).
+- Chèn link theo đề xuất của workflow `/link`.
 
 **→ Guided: DỪNG — chờ `/approve`**
 **→ Express / Auto: tiếp tục Phase 6**
@@ -165,5 +166,8 @@ Chạy `.antigravity/skills/internal-linking/SKILL.md`:
    - `progress-log.md`: xóa khỏi Active Pipeline, thêm lên đầu Publication Log, cập nhật count
    - `topic-clusters.md`: ⭕/🔄 → ✅ + filename + cập nhật cluster header count
    - `sprint-backlog.md`: xóa bài vừa finalize (nếu có)
-5. **Trigger Content Feedback Loop**: đọc Revision Log cuối file (nếu có) → chạy `.antigravity/skills/content-feedback-loop/SKILL.md` → đề xuất cập nhật `anti-ai-rules.md` nếu phát hiện pattern mới
+5. **Trigger Back-filling Prompt**:
+   - Agent hỏi user: *"Bài [Slug] đã finalize. Bạn có muốn quét các bài cũ để trỏ link về bài mới này không?"*
+   - Nếu user đồng ý: Chạy `/link --backfill [slug]`.
+6. **Trigger Content Feedback Loop**: đọc Revision Log cuối file (nếu có) → chạy `.antigravity/skills/content-feedback-loop/SKILL.md` → đề xuất cập nhật `anti-ai-rules.md` nếu phát hiện pattern mới
 6. Báo cáo: keyword | word count | file path | files updated

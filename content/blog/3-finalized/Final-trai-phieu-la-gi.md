@@ -22,7 +22,7 @@ Khác với việc mua cổ phiếu để trở thành cổ đông, việc sở 
 - Khoản tiền lãi định kỳ (Coupon).
 - Hoàn trả vốn gốc khi đến ngày đáo hạn.
 
-Trong hệ sinh thái [chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-chung-khoan-la-gi.md), trái phiếu được coi là công cụ thu nhập cố định (Fixed Income) vì bạn thường biết trước số tiền lãi mình sẽ nhận được.
+Trong hệ sinh thái [chứng khoán](content/blog/3-finalized/Final-chung-khoan-la-gi.md), trái phiếu được coi là công cụ thu nhập cố định (Fixed Income) vì bạn thường biết trước số tiền lãi mình sẽ nhận được.
 
 ## 2. 3 thành phần cốt lõi của một tờ trái phiếu
 

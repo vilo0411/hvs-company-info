@@ -6,10 +6,10 @@ Khởi chạy pipeline viết bài SEO.
 
 **Single keyword modes:**
 ```
-/write ETF là gì                 → Express: duyệt Outline → AI tự hoàn thiện
-/write ETF là gì --step          → Guided: duyệt Outline + duyệt Draft
-/write ETF là gì --auto          → Auto: không duyệt, chạy thẳng đến Final
-/write ETF là gì --no-serp       → Express, bỏ SERP research
+/write ETF là gì                 → Express (Mặc định CÓ SERP research) → Duyệt Outline → Auto-finalize
+/write ETF là gì --step          → Guided (Mặc định CÓ SERP research) → Duyệt Outline → Duyệt Draft
+/write ETF là gì --auto          → Auto (Mặc định CÓ SERP research) → Không dừng, chạy thẳng Final
+/write ETF là gì --no-serp       → Bỏ qua SERP research (Chỉ dùng khi keyword quá đơn giản)
 ```
 
 **Batch sprint modes:**
