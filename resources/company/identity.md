@@ -23,12 +23,12 @@ Tuân thủ nghiêm ngặt **Anti-AI Rules**:
 - **Chủ động:** Sử dụng câu chủ động, ngắn gọn. Tránh văn phong dịch thuật (Translation-vibe).
 - **Xưng hô:** "HVS/Chúng tôi" và "Bạn".
 
-## 4. Hệ sinh thái 4 Lớp (The 4-Layer Ecosystem)
-Mọi nội dung content cần lồng ghép khéo léo 4 lớp sản phẩm này:
-1. **Lớp Học (HVS Tài chính số):** Nền tảng đào tạo trực tuyến với các khóa học như **HVS Thực tập số** và **Excel ứng dụng**.
-2. **Lớp Hành (HVS Demo):** Nền tảng giao dịch mô phỏng thời gian thực giúp rèn luyện kỹ năng.
-3. **Lớp Hỏi (HVS Forum):** Cộng đồng thảo luận và nhận phản hồi từ chuyên gia.
-4. **Lớp Đầu tư (HVS Brokerage):** Dịch vụ môi giới chính quy để tối ưu lợi nhuận thực tế.
+## 4. Hệ sinh thái tích hợp HVS Tài chính số (Integrated Ecosystem)
+Mọi nội dung content cần lồng ghép khéo léo các đặc điểm nổi bật này như một hệ sinh thái nhất quán:
+1. **Học (Learning):** Nền tảng **HVS Tài chính số** cung cấp công cụ tra cứu biên độ Trần/Sàn real-time và hệ thống bài giảng chuyên sâu. Chương trình trọng tâm **HVS Thực tập số** giúp học viên thực hành phân tích biến động giá và áp dụng quy tắc biên độ.
+2. **Hành (Practice):** Giao dịch chứng khoán mô phỏng tại **HVS Demo** (tích hợp dữ liệu thời gian thực).
+3. **Hỏi (Community):** Cộng đồng trao đổi đầu tư **HVS Forum** (nơi kết nối Mentor và nhà đầu tư).
+4. **Tư vấn (Advisory):** Nhận báo cáo phân tích và hỗ trợ ra quyết định chuyên sâu ngay trên nền tảng.
 
 ## 5. Visual Guidelines (Content context)
 - **Tiêu đề:** Không dùng icon ở H1, H2, H3.

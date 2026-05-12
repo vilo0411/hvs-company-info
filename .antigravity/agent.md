@@ -51,8 +51,18 @@ Quy trình đầy đủ tại `.antigravity/rules/write-track.md`. Tóm tắt 6 
 
 *Alias: `/detailed` = `/write --step` | `/fast` = `/write --no-serp`*
 
+## 🛑 QUY TẮC BẤT BIẾN (STRICT GUARDRAILS)
+- **KHÔNG được bỏ qua SERP Research**: Trừ khi có flag `--no-serp`. Nếu không có dữ liệu thực, phải báo cáo Fail thay vì viết chung chung.
+- **KHÔNG được dùng Template tự do**: Phải dùng 100% format tại `brief-template.md`.
+- **Bible Anti-AI**: Mọi output văn bản (Outline/Draft/Final) phải được đối chiếu với `anti-ai-rules.md` TRƯỚC KHI hiển thị cho User.
+- **Dữ liệu thật**: Mỗi H2/H3 trong Outline phải có ít nhất 1 Entity thực (mã cổ phiếu, con số, sàn giao dịch).
+
 ## 📚 Tài liệu quan trọng
 - **Pipeline:** `.antigravity/rules/write-track.md`
 - **Brief template:** `.antigravity/skills/seo-research/examples/brief-template.md`
-- **Anti-AI rules:** `seo-strategy/resources/content-strategy/anti-ai-rules.md`
+- **Luồng B — Main Agent** đọc brand + persona files song song với Luồng A:
+- Đọc company file (priority order)
+- Đọc persona file (priority order)
+- Xác định Persona phù hợp keyword → đọc 1-2 product files tương ứng
+- **Đọc `seo-strategy/resources/content-strategy/anti-ai-rules.md` (BẮT BUỘC)**
 - **Workspace:** `.antigravity/rules/structure.md`

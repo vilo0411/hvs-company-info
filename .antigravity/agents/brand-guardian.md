@@ -48,7 +48,7 @@ Trả về cho Main Agent một bản hướng dẫn viết:
 - [ ] Cộng đồng HVS Forum
 
 **3. Anti-AI Checklist (Specific for this post):**
-- Tuyệt đối không dùng: "Trong thế giới...", "Hành trình..."
+- Tuyệt đối không dùng: "Trong thế giới...", "Hành trình...", ngoặc kép để nhấn mạnh từ ngữ.
 - Ưu tiên ví dụ: Mã chứng khoán cụ thể, sàn HOSE.
 
 **4. Feedback to Avoid:**

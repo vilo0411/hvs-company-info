@@ -1,5 +1,6 @@
 ---
 Author: Antigravity
+aliases: ["Chứng khoán là gì"]
 Status: Finalized
 Persona: F0 (Người mới)
 Target_Keyword: Chứng khoán là gì

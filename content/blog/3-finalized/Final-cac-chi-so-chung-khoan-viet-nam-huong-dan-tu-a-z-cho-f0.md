@@ -1,5 +1,6 @@
 ---
 Author: Antigravity
+aliases: ["Các chỉ số chứng khoán Việt Nam"]
 Status: Finalized
 Persona: F0 (Người mới)
 Target_Keyword: Các chỉ số chứng khoán Việt Nam

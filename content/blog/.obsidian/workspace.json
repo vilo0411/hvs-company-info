@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "65084d12ff7c0416",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac390393ec5f1307",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "947ed19f73789bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-outlines/Outline-cach-mua-co-phieu-mb-bank.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outline-cach-mua-co-phieu-mb-bank"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fec4195e079270d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20555e4e30a6cb4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-outlines/Outline-cach-mua-co-phieu-hoa-phat.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outline-cach-mua-co-phieu-hoa-phat"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fcc1a1633911195",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a12af4f0ad8ce98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3148ac975f575374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3f6eac853b5a4e50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53ff774648f21e6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "right": {
+    "id": "e202eaafb35c1ec0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f383c8949ed3de4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "955094774a85ca88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3-finalized/Final-nen-dau-tu-co-phieu-nao.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Final-nen-dau-tu-co-phieu-nao"
+            }
+          },
+          {
+            "id": "7d007d0c52980798",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3-finalized/Final-nen-dau-tu-co-phieu-nao.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Final-nen-dau-tu-co-phieu-nao"
+            }
+          },
+          {
+            "id": "0c1eede62495ee2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f0ae7bc1e81beda9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4f4ef3121326e340",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-outlines/Outline-cach-mua-co-phieu-mb-bank.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Outline-cach-mua-co-phieu-mb-bank"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "947ed19f73789bf8",
+  "lastOpenFiles": [
+    "1-outlines/Outline-cach-mua-co-phieu-hoa-phat.md",
+    "1-outlines/Outline-cach-mua-co-phieu-fpt.md",
+    "1-outlines/Outline-cach-mua-co-phieu.md",
+    "1-outlines/Outline-cach-mo-tai-khoan-chung-khoan.md",
+    "1-outlines/Outline-breakout-trong-chung-khoan-la-gi.md",
+    "2-user-review/Draft-cach-dau-tu-co-phieu.md",
+    "1-outlines/Outline-bien-do-dao-dong-la-gi.md",
+    "3-finalized/Final-cac-chi-so-chung-khoan-viet-nam-huong-dan-tu-a-z-cho-f0.md",
+    "3-finalized/Final-chi-so-chung-khoan-the-gioi.md",
+    "3-finalized/Final-khoa-hoc-chung-khoan.md",
+    "3-finalized/Final-co-phieu-la-gi.md",
+    "3-finalized/Final-nen-dau-tu-co-phieu-nao.md",
+    "3-finalized/Final-cach-dau-tu-chung-khoan.md",
+    "3-finalized/Final-co-phieu-penny-la-gi.md",
+    "3-finalized/Final-tam-ly-dau-tu-chung-khoan.md",
+    "3-finalized/Final-trai-phieu-la-gi.md",
+    "3-finalized/Final-chung-khoan-la-gi.md",
+    "2-user-review/Draft-bien-do-dao-dong-la-gi.md",
+    "2-user-review/Draft-duong-ma-la-gi.md",
+    "2-user-review/Draft-etf-la-gi.md",
+    "2-user-review/Draft-gia-tran-gia-san.md",
+    "2-user-review/Draft-rsi-la-gi.md",
+    "1-outlines/Outline-gia-tran-gia-san.md",
+    "1-outlines/Outline-chi-so-vn30-la-gi.md",
+    "1-outlines/Outline-co-tuc-la-gi.md",
+    "1-outlines/Outline-etf-la-gi.md"
+  ]
+}

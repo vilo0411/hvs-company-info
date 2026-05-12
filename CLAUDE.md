@@ -35,17 +35,15 @@ Hệ thống sản xuất nội dung SEO cho HVS Securities. Triết lý cốt l
 **Single keyword:**
 | Lệnh | Mô tả |
 | :--- | :--- |
-| `/write [keyword]` | **Express** — duyệt Outline, AI tự hoàn thiện Draft→Final |
-| `/write [keyword] --step` | **Guided** — duyệt Outline + duyệt Draft |
-| `/write [keyword] --auto` | **Auto** — không duyệt, chạy thẳng đến Final |
-| `/write [keyword] --no-serp` | Bỏ SERP research (kết hợp được với mọi mode) |
+| /write [keyword] | **Express** — BẮT BUỘC nghiên cứu SERP, duyệt Outline, AI tự hoàn thiện Draft→Final |
+| /write [keyword] --step | **Guided** — duyệt Outline + duyệt Draft (SERP-first) |
+| /write [keyword] --auto | **Auto** — không duyệt, chạy thẳng đến Final (SERP-first) |
 
 **Batch sprint:**
 | Lệnh | Mô tả |
 | :--- | :--- |
-| `/write --sprint` | Generate outlines cho tất cả `Planned` items (unattended, no-serp) |
-| `/write --sprint --with-serp` | Như trên, có SERP research |
-| `/write --sprint --flush` | Viết tất cả `Outline-Approved` items → Final (unattended) |
+| /write --sprint | Generate outlines cho tất cả `Planned` items (có SERP research mặc định) |
+| /write --sprint --flush | Viết tất cả `Outline-Approved` items → Final (unattended) |
 
 **Utilities:**
 | Lệnh | Mô tả |
@@ -56,7 +54,7 @@ Hệ thống sản xuất nội dung SEO cho HVS Securities. Triết lý cốt l
 | `/raw [path]` | Xử lý nội dung thô từ `content/blog/0-raw/` |
 | `/gdocs [path]` | Xuất bài Finalized lên Google Docs (cần xác thực Drive MCP 1 lần) |
 
-*Alias: `/detailed [kw]` = `/write [kw] --step` | `/fast [kw]` = `/write [kw] --no-serp`*
+*Alias: `/detailed [kw]` = `/write [kw] --step`*
 
 ### Sprint Status Values (sprint-backlog.md)
 | Status | Ý nghĩa |

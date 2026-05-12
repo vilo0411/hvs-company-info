@@ -1,5 +1,6 @@
 ---
 Author: Antigravity
+aliases: ["nên đầu tư cổ phiếu nào"]
 Status: Finalized
 Persona: Nhà đầu tư cá nhân (F0, F1)
 Target_Keyword: nên đầu tư cổ phiếu nào

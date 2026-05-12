@@ -8,15 +8,14 @@ trigger: always_on
 Sản xuất nội dung SEO thực chiến cho HVS Securities. Triết lý cốt lõi: **loại bỏ hoàn toàn "AI-vibe"**, mọi bài viết phải có dữ liệu thật, ví dụ cụ thể, giọng văn con người.
 
 ## Kiến trúc 3 lớp
-- **Layer 1 — Knowledge Base** (`/setup`): Research công ty, thị trường, audience, ICP — chạy 1 lần
-- **Layer 2 — Keyword Strategy** (`/cluster`, `/keyword-plan`): Topic Cluster map Pillar + Cluster
-- **Layer 3 — Content Pipeline** (`/detailed`, `/fast`, `/optimize`, `/approve`, `/link`)
+- **Layer 1 — Knowledge Base** (`/setup`): Research công ty, thị trường, audience, ICP — chạy 1 lần.
+- **Layer 2 — Keyword Strategy** (`/cluster`, `/keyword-plan`): Topic Cluster map Pillar + Cluster.
+- **Layer 3 — Content Pipeline** (`/write`, `/optimize`, `/raw`): 
+    - **BẮT BUỘC:** Mọi bài viết phải có bước nghiên cứu SERP (Top 10 Google) trước khi lên Outline.
+    - **Cấm:** Không được viết bài dựa trên kiến thức nội tại mà chưa đối chiếu với đối thủ đang đứng Top.
 
-## Sub-Agents (không viết bài, chỉ thu thập context)
-- **SEO Collector** (`.antigravity/agents/seo-collector.md`): SERP, PAA, Featured Snippet, Intent
-- **Brand Guardian** (`.antigravity/agents/brand-guardian.md`): Anti-AI rules, HVS USPs, Persona
-- **Quality Guardian** (`.antigravity/agents/quality-guardian.md`): QA/QC audit loop
-- **Research Agent** (`.antigravity/agents/research-agent.md`): Knowledge Base builder (Layer 1)
+## Sub-Agents (Nghiên cứu là gốc)
+- **SEO Collector** (`.antigravity/agents/seo-collector.md`): **BẮT BUỘC** phân tích SERP, PAA, Featured Snippet, Intent. Trích xuất Entities thực tế từ đối thủ.
 
 ## Sản phẩm HVS cần lồng ghép đúng persona
 - **HVS Demo** → F0, Sinh viên (luyện tập không rủi ro)

@@ -1,5 +1,6 @@
 ---
 Author: Antigravity
+aliases: ["Tâm lý đầu tư chứng khoán"]
 Status: Finalized
 Persona: F0 (Người mới)
 Target_Keyword: Tâm lý đầu tư chứng khoán

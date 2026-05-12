@@ -9,8 +9,8 @@ HVS không chỉ là một đơn vị đào tạo, mà xuất thân là một **
 
 ## 2. Hệ sinh thái "Học - Hành - Đối thoại"
 Đây là điểm khác biệt lớn nhất so với các khóa học chứng khoán thông thường trên thị trường:
-- **Học:** Lộ trình bài bản từ chuyên gia CFA/Master Finance.
-- **Hành:** Thực hành 100% trên **HVS Demo** (không mất tiền thật nhưng cảm xúc thật).
+- **Học:** Nền tảng **HVS Tài chính số** với công cụ tra cứu biên độ Trần/Sàn real-time và hệ thống bài giảng chuyên sâu về quy tắc giao dịch trên 3 sàn (HOSE, HNX, UPCoM).
+- **Hành:** Chương trình **HVS Thực tập số** giúp thực hành phân tích biến động giá và áp dụng quy tắc biên độ vào chiến thuật giao dịch thực tế trên **HVS Demo**.
 - **Đối thoại:** Tương tác trực tiếp trên **HVS Forum**, nơi mọi thắc mắc được giải đáp bởi Mentor.
 
 ## 3. Chứng chỉ uy tín từ Định chế Tài chính

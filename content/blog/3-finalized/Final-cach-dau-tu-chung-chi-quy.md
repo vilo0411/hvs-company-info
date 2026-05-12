@@ -1,5 +1,6 @@
 ---
 Author: Antigravity
+aliases: ["cách đầu tư chứng chỉ quỹ"]
 Status: Finalized
 Persona: Sinh viên, Nhân viên văn phòng
 Target_Keyword: cách đầu tư chứng chỉ quỹ

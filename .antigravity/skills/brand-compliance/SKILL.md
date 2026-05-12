@@ -17,7 +17,7 @@ Kỹ năng này cho phép Agent đối chiếu nội dung với bộ quy tắc t
 ## 📝 Quy trình trích xuất Context
 
 1.  **Persona Filter:** Dựa trên Intent (ví dụ: Informational), Agent sẽ lọc ra các sản phẩm HVS phù hợp (F0 cần HVS Demo, Sinh viên cần HVS Thực tập số).
-2.  **Anti-AI Filter:** Chỉ trích xuất các "từ cấm" liên quan đến chủ đề bài viết.
+2.  **Anti-AI Filter:** Trích xuất các "từ cấm" và quy tắc trình bày (không dùng ngoặc kép nhấn mạnh) liên quan đến chủ đề bài viết.
 3.  **Terminology Sync:** Luôn lấy dữ liệu từ `glossary.md` để đảm bảo dùng đúng thuật ngữ (ví dụ: dùng "HVS Demo" thay vì "App chơi thử").
 
 ---

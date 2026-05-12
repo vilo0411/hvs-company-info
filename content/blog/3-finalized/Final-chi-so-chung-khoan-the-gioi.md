@@ -1,5 +1,6 @@
 ---
 Author: Antigravity
+aliases: ["Chỉ số chứng khoán thế giới"]
 Status: Finalized
 Persona: F0 (Người mới)
 Target_Keyword: Chỉ số chứng khoán thế giới
@@ -8,7 +9,7 @@ Content_Type: Listicle, How-to
 Article_Style: Authoritative, Analytical
 Writing_Method: PAS
 Source_Ref: content/blog/0-raw/Chỉ số Chứng khoán Thế giới.md
-Meta_Description: Tổng hợp các chỉ số chứng khoán thế giới quan trọng nhất: S&P 500, Dow Jones, Nasdaq... Tìm hiểu mối liên hệ mật thiết giữa tài chính toàn cầu và thị trường Việt Nam.
+Meta_Description: "Tổng hợp các chỉ số chứng khoán thế giới quan trọng nhất: S&P 500, Dow Jones, Nasdaq... Tìm hiểu mối liên hệ mật thiết giữa tài chính toàn cầu và thị trường Việt Nam."
 ---
 
 # **Chỉ số chứng khoán thế giới: Tổng hợp và hướng dẫn theo dõi cho nhà đầu tư F0**

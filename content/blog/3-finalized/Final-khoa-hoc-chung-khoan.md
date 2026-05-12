@@ -1,5 +1,6 @@
 ---
 Author: Antigravity
+aliases: ["khóa học chứng khoán"]
 Status: Finalized
 Persona: Sinh viên, Người đi làm (F0, F1)
 Target_Keyword: khóa học chứng khoán

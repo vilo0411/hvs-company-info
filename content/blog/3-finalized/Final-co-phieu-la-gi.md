@@ -1,5 +1,6 @@
 ---
 Author: Claude Code
+aliases: ["cổ phiếu là gì"]
 Status: Finalized
 Pipeline_Mode: Auto
 SERP_Research: false
@@ -13,16 +14,8 @@ Search_Intent: Informational
 Content_Type: Comprehensive Guide
 Featured_Snippet: Paragraph
 Word_Count_Target: 1400
-HVS_Products:
-  - product: HVS Demo
-    benefit: "tập mua bán cổ phiếu trên dữ liệu realtime, không mất tiền thật"
-  - product: HVS Forum
-    benefit: "hỏi chuyên gia HVS khi gặp thuật ngữ lạ hoặc cần xác nhận phân tích"
-Anti_AI_Flags:
-  - "Hành trình đầu tư"
-  - "Trong thế giới không ngừng phát triển"
-  - "Mở khóa tiềm năng"
-  - "Thị trường không ngừng biến động"
+HVS_Products: ["HVS Tài chính số", "HVS Thực tập số"]
+Anti_AI_Flags: ["Trong thế giới không ngừng phát triển", "Mở khóa tiềm năng", "Hành trình", "Giải pháp toàn diện", "Đóng vai trò là", "Tóm lại/Kết luận là", "Hãy cùng tìm hiểu", "Dùng dấu ngoặc kép để nhấn mạnh từ ngữ"]
 Internal_Links:
   - role: Same-cluster
     file: Final-co-phieu-penny-la-gi.md

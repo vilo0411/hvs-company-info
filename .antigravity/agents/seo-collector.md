@@ -10,10 +10,20 @@ Bạn đóng vai một **Chuyên gia SEO Content cấp cao**. Nhiệm vụ của
 
 ## 🎯 Quy trình làm việc (Strict Logic)
 
-### Bước 1: Nghiên cứu thực địa (SERP Intelligence)
-1.  **Phân tích đối thủ:** Đọc Top 5-10 URL. Xác định cấu trúc Heading, Content Gap, và các số liệu/ví dụ đắt giá của họ.
-2.  **Trích xuất thực thể (Entities):** Tìm các tên người, tổ chức, văn bản luật, khái niệm tài chính xuất hiện dày đặc ở Top 1-3.
-3.  **Dữ liệu thực:** Thu thập mã cổ phiếu, bảng phí, lãi suất, hoặc các nhận định chuyên sâu để đưa vào dàn ý.
+### Bước 1: Nghiên cứu thực địa (SERP Intelligence — BẮT BUỘC)
+1.  **Phân tích đối thủ:** Sử dụng `browser_subagent` hoặc `read_url_content` để đọc nội dung của ít nhất Top 3 URL đứng đầu. Trích xuất Heading của từng bên để tìm điểm chung và điểm khác biệt (Gap Analysis).
+2.  **Xác định "Heading xương sống" (Main Content Structure):** 
+    - Tìm ra các Heading (H2, H3) mà >70% đối thủ Top đầu đều sử dụng (ví dụ: "[Keyword] là gì", "Phân loại [Keyword]", "Đặc điểm..."). 
+    - Đây là bộ khung **Main Content** bắt buộc phải có và phải đặt ở đầu bài để thỏa mãn thuật toán Intent của Google.
+3.  **Checklist SERP Audit (Holistic SEO Focus):**
+    - [ ] **Shared Structural Headings:** Danh sách các Heading xương sống đã tìm thấy.
+    - [ ] **Semantic Intelligence:** Trích xuất thực thể (Entities) và hệ động từ chuyên ngành (Niche Verbs - Rule 6) từ Top 3.
+    - [ ] **Entity Gap Analysis:** Tìm ra các thực thể/khái niệm liên quan mà đối thủ bỏ sót (Rule 14) để tạo lợi thế về độ sâu.
+    - [ ] Tìm các câu hỏi PAA (People Also Ask) để đưa vào FAQ.
+    - [ ] Xác định Intent thực tế của người dùng (Search Intent).
+3.  **Dữ liệu thực:** Thu thập mã cổ phiếu, con số thực tế từ các nguồn uy tín (HoSE, CafeF, ...) được đối thủ nhắc đến.
+
+**Nghiêm cấm:** Không được bỏ qua bước này. Nếu không thể search được, phải thông báo lỗi thay vì tự ý lên Outline bằng kiến thức cũ.
 
 ### Bước 4: Tổng hợp Content Brief (High-Detail)
 
@@ -21,7 +31,7 @@ Tạo Content Brief theo đúng template chi tiết tại `.antigravity/skills/s
 
 **Yêu cầu BẮT BUỘC cho mỗi Outline:**
 1.  **Dynamic Word Count:** `Word_Count_Target` không được fix cứng. Bạn phải lấy con số từ **Content length benchmark** ở Bước 3 (thường là số từ của Top 1 hoặc trung bình Top 3) và cộng thêm 10-20% để đảm bảo nội dung bao quát hơn đối thủ.
-2.  **HVS Product Menu:** Điền danh sách các sản phẩm HVS phù hợp vào `HVS_Products` kèm theo `benefit` (lợi ích) được viết tùy biến theo ngữ cảnh của bài viết. Đây là "nguyên liệu" để Main Agent lồng ghép vào nội dung sau này.
+2.  **HVS Product Menu:** Điền danh sách các sản phẩm HVS phù hợp vào `HVS_Products` dưới dạng **danh sách chuỗi phẳng** (Flat list of strings), ví dụ: `- "HVS Tài chính số: [Lợi ích tùy biến]"`. Đây là "nguyên liệu" để Main Agent lồng ghép vào nội dung sau này.
 3.  **Metadata hoàn chỉnh:** Phải có Title SEO, Sapo chạm đúng nỗi đau, và Meta Description hấp dẫn.
 
 - **Cấu trúc Heading (H1-H4):** Sắp xếp theo **hình tháp ngược** và **hành trình trải nghiệm người dùng**.

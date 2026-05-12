@@ -1,5 +1,6 @@
 ---
 Author: Antigravity
+aliases: ["Chỉ số chứng khoán châu Á"]
 Status: Finalized
 Persona: F0 (Người mới)
 Target_Keyword: Chỉ số chứng khoán châu Á

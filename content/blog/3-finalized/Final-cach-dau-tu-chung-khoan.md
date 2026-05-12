@@ -1,5 +1,6 @@
 ---
 Author: Antigravity
+aliases: ["cách đầu tư chứng khoán"]
 Status: Finalized
 Persona: Sinh viên, Nhân viên văn phòng (F0)
 Target_Keyword: cách đầu tư chứng khoán

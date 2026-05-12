@@ -2,7 +2,7 @@
 
 ## Dashboard
 - **Published:** 14 bài
-- **Active Pipeline:** 6 items
+- **Active Pipeline:** 40 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
@@ -11,12 +11,49 @@
 
 | Keyword | Phase | File | Cập nhật | Action |
 | :--- | :--- | :--- | :--- | :--- |
-| Cổ phiếu penny là gì (Chi tiết) | Outline | `content/blog/1-outlines/Outline-co-phieu-penny-chuyen-sau.md` | 2026-05-07 | Cần /approve |
-| Cách đầu tư cổ phiếu | Draft | `content/blog/2-user-review/Draft-cach-dau-tu-co-phieu.md` | 2026-05-07 | Cần feedback |
-| etf là gì | Outline | `content/blog/1-outlines/Outline-etf-la-gi.md` | 2026-05-08 | Cần /approve |
-| Chỉ số DAX là gì | Outline | `content/blog/1-outlines/Outline-chi-so-dax-la-gi.md` | 2026-05-08 | Cần /approve |
-| p/e là gì | Outline | `content/blog/1-outlines/Outline-p-e-la-gi.md` | 2026-05-08 | Cần /approve |
-| nến búa | Outline | `content/blog/1-outlines/Outline-nen-bua.md` | 2026-05-08 | Cần /approve |
+| Keyword | Phase | File | Cập nhật | Action |
+| :--- | :--- | :--- | :--- | :--- |
+| Biên độ dao động là gì | Outline | `content/blog/1-outlines/Outline-bien-do-dao-dong-la-gi.md` | 2026-05-12 | Cần /approve |
+| etf là gì | Outline | `content/blog/1-outlines/Outline-etf-la-gi.md` | 2026-05-12 | Cần /approve |
+| Chỉ số DAX là gì | Outline | `content/blog/1-outlines/Outline-chi-so-dax-la-gi.md` | 2026-05-12 | Cần /approve |
+| p/e là gì | Outline | `content/blog/1-outlines/Outline-p-e-la-gi.md` | 2026-05-12 | Cần /approve |
+| Cách mua cổ phiếu VCB | Outline | `content/blog/1-outlines/Outline-cach-mua-co-phieu-vcb.md` | 2026-05-12 | Cần /approve |
+| nến búa | Outline | `content/blog/1-outlines/Outline-nen-bua.md` | 2026-05-12 | Cần /approve |
+| cách mua cổ phiếu | Outline | `content/blog/1-outlines/Outline-cach-mua-co-phieu.md` | 2026-05-12 | Cần /approve |
+| cách mở tài khoản chứng khoán | Outline | `content/blog/1-outlines/Outline-cach-mo-tai-khoan-chung-khoan.md` | 2026-05-12 | Cần /approve |
+| chứng chỉ quỹ là gì | Outline | `content/blog/1-outlines/Outline-chung-chi-quy-la-gi.md` | 2026-05-12 | Cần /approve |
+| đầu tư giá trị | Outline | `content/blog/1-outlines/Outline-dau-tu-gia-tri.md` | 2026-05-12 | Cần /approve |
+| cổ tức là gì | Outline | `content/blog/1-outlines/Outline-co-tuc-la-gi.md` | 2026-05-12 | Cần /approve |
+| phân tích cơ bản là gì | Outline | `content/blog/1-outlines/Outline-phan-tich-co-ban-la-gi.md` | 2026-05-12 | Cần /approve |
+| phân tích kỹ thuật là gì | Outline | `content/blog/1-outlines/Outline-phan-tich-ky-thuat-la-gi.md` | 2026-05-12 | Cần /approve |
+| margin là gì | Outline | `content/blog/1-outlines/Outline-margin-la-gi.md` | 2026-05-12 | Cần /approve |
+| call margin là gì | Outline | `content/blog/1-outlines/Outline-call-margin-la-gi.md` | 2026-05-12 | Cần /approve |
+| ipo là gì | Outline | `content/blog/1-outlines/Outline-ipo-la-gi.md` | 2026-05-12 | Cần /approve |
+| rsi là gì | Outline | `content/blog/1-outlines/Outline-rsi-la-gi.md` | 2026-05-12 | Cần /approve |
+| macd là gì | Outline | `content/blog/1-outlines/Outline-macd-la-gi.md` | 2026-05-12 | Cần /approve |
+| đường ma là gì | Outline | `content/blog/1-outlines/Outline-duong-ma-la-gi.md` | 2026-05-12 | Cần /approve |
+| hỗ trợ kháng cự là gì | Outline | `content/blog/1-outlines/Outline-ho-tro-khang-cu-la-gi.md` | 2026-05-12 | Cần /approve |
+| mô hình nến | Outline | `content/blog/1-outlines/Outline-mo-hinh-nen.md` | 2026-05-12 | Cần /approve |
+| chỉ số eps là gì | Outline | `content/blog/1-outlines/Outline-chi-so-eps-la-gi.md` | 2026-05-12 | Cần /approve |
+| chỉ số roe là gì | Outline | `content/blog/1-outlines/Outline-chi-so-roe-la-gi.md` | 2026-05-12 | Cần /approve |
+| roa là gì | Outline | `content/blog/1-outlines/Outline-roa-la-gi.md` | 2026-05-12 | Cần /approve |
+| giá trị nội tại của cổ phiếu | Outline | `content/blog/1-outlines/Outline-gia-tri-noi-tai-cua-co-phieu.md` | 2026-05-12 | Cần /approve |
+| cách mua cổ phiếu fpt | Outline | `content/blog/1-outlines/Outline-cach-mua-co-phieu-fpt.md` | 2026-05-12 | Cần /approve |
+| vn-index là gì | Outline | `content/blog/1-outlines/Outline-vn-index-la-gi.md` | 2026-05-12 | Cần /approve |
+| hnx-index là gì | Outline | `content/blog/1-outlines/Outline-hnx-index-la-gi.md` | 2026-05-12 | Cần /approve |
+| upcom là gì | Outline | `content/blog/1-outlines/Outline-upcom-la-gi.md` | 2026-05-12 | Cần /approve |
+| thị trường gấu là gì | Outline | `content/blog/1-outlines/Outline-thi-truong-gau-la-gi.md` | 2026-05-12 | Cần /approve |
+| thị trường bò là gì | Outline | `content/blog/1-outlines/Outline-thi-truong-bo-la-gi.md` | 2026-05-12 | Cần /approve |
+| kline là gì | Outline | `content/blog/1-outlines/Outline-kline-la-gi.md` | 2026-05-12 | Cần /approve |
+| quản trị rủi ro chứng khoán | Outline | `content/blog/1-outlines/Outline-quan-tri-rui-ro-chung-khoan.md` | 2026-05-12 | Cần /approve |
+| đa dạng hóa danh mục đầu tư | Outline | `content/blog/1-outlines/Outline-da-dang-hoa-danh-muc-dau-tu.md` | 2026-05-12 | Cần /approve |
+| lãi suất kép trong đầu tư | Outline | `content/blog/1-outlines/Outline-lai-suat-kep-trong-dau-tu.md` | 2026-05-12 | Cần /approve |
+| cách mua cổ phiếu hpg | Outline | `content/blog/1-outlines/Outline-cach-mua-co-phieu-hpg.md` | 2026-05-12 | Cần /approve |
+| chỉ số vn30 là gì | Outline | `content/blog/1-outlines/Outline-chi-so-vn30-la-gi.md` | 2026-05-12 | Cần /approve |
+| lệnh lo là gì | Outline | `content/blog/1-outlines/Outline-lenh-lo-la-gi.md` | 2026-05-12 | Cần /approve |
+| lệnh mp là gì | Outline | `content/blog/1-outlines/Outline-lenh-mp-la-gi.md` | 2026-05-12 | Cần /approve |
+| lệnh ato atc là gì | Outline | `content/blog/1-outlines/Outline-lenh-ato-atc-la-gi.md` | 2026-05-12 | Cần /approve |
+| ngày giao dịch không hưởng quyền là gì | Outline | `content/blog/1-outlines/Outline-ngay-giao-dich-khong-huong-quyen-la-gi.md` | 2026-05-12 | Cần /approve |
 
 ---
 

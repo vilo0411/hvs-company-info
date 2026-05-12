@@ -9,11 +9,11 @@ description: Quy trình viết bài SEO 3 modes. Kích hoạt bởi lệnh /writ
 
 | Mode | Cách gọi | Human Gates | Dùng khi |
 |------|---------|------------|---------|
-| **Express** | `/write [keyword]` | Outline only | Mặc định — tin outline, AI hoàn thiện phần còn lại |
-| **Guided** | `/write [keyword] --step` | Outline + Draft | Muốn review từng bước |
-| **Auto** | `/write [keyword] --auto` | Không | Batch content, tin tưởng hoàn toàn |
+| **Express** | `/write [keyword]` | Outline only | Mặc định — BẮT BUỘC nghiên cứu SERP, AI tự hoàn thiện Draft sau khi Outline được duyệt |
+| **Guided** | `/write [keyword] --step` | Outline + Draft | Cần kiểm soát chặt chẽ từng bước (SERP → Outline → Draft) |
+| **Auto** | `/write [keyword] --auto` | Không | Batch content, tin tưởng hoàn toàn vào quy trình SERP-first |
 
-**Flag `--no-serp`:** Bỏ qua Phase 1 SERP research. Kết hợp được với mọi mode.
+**Lưu ý:** Flag `--no-serp` đã bị loại bỏ để đảm bảo chất lượng nội dung theo quy định mới. Mọi bài viết phải bắt đầu bằng Phase 1: Context Collection (SERP Research).
 
 Mode được lưu vào YAML Outline → `/approve` đọc để biết dừng hay chạy tiếp.
 
@@ -75,14 +75,9 @@ Products:
 
 ---
 
-## Phase 1: Context Collection
+## Phase 1: Context Collection (SERP-First Mandatory)
+Mọi bài viết đều phải thực hiện nghiên cứu SERP. Không có ngoại lệ.
 
-### Nếu `--no-serp`:
-- Main Agent đọc brand + persona files theo priority order ở trên
-- Đọc 1-2 product files phù hợp với persona dự kiến của keyword
-- Không chạy sub-agent, không WebSearch
-
-### Nếu có SERP (default):
 Chạy **song song**:
 
 **Luồng A — SEO Collector** (spawn Agent theo `.antigravity/agents/seo-collector.md`):
@@ -100,19 +95,11 @@ Chạy **song song**:
 ---
 
 ## Phase 2: Tạo Outline
-
-Kết hợp output Phase 1 + Cluster info từ Phase 0 → tạo Content Brief theo template `.antigravity/skills/seo-research/examples/brief-template.md`.
-
-YAML bắt buộc đủ các fields:
-- `Pipeline_Mode`, `SERP_Research`
-- `Target_Keyword`, `Search_Intent`, `Content_Type`, `Featured_Snippet`, `Word_Count_Target`
-- `Persona`, `Tone`, `Writing_Method`
-- `HVS_Products` — dạng benefit, không phải feature name
-- `Anti_AI_Flags` — chỉ phrases nguy cơ cao cho topic này
-- `Cluster`, `Cluster_Role`, `Internal_Links`
-
-Lưu: `content/blog/1-outlines/Outline-[slug].md`
-Hiển thị Outline cho user.
+1. Kết hợp output Phase 1 + Cluster info từ Phase 0.
+2. **BẮT BUỘC**: Tạo Content Brief theo ĐÚNG template tại `.antigravity/skills/seo-research/examples/brief-template.md`.
+3. Kiểm tra lại với `anti-ai-rules.md` để đảm bảo không dùng từ cấm trong Outline.
+4. **BẮT BUỘC**: Outline file phải chứa section `SERP Intelligence (Audit Proof)` trong YAML frontmatter, liệt kê ít nhất 3 đối thủ và 1 khoảng trống nội dung (Gap Analysis) tìm được qua việc truy cập trực tiếp URL.
+5. Lưu: `content/blog/1-outlines/Outline-[slug].md`
 
 **→ Express / Guided: DỪNG — chờ `/approve`**
 **→ Auto: tiếp tục Phase 3**

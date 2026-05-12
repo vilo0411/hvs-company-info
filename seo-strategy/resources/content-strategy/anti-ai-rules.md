@@ -5,6 +5,16 @@ Tài liệu này quy định các tiêu chuẩn về ngôn ngữ để tránh "A
 ## 1. Danh sách từ vựng "Đen" (Forbidden/Restricted)
 
 ### Tier 1: Cấm tuyệt đối (Flag & Remove)
+
+- "Trong thế giới không ngừng phát triển" (Tier 1 - Sáo rỗng)
+- "Mở khóa tiềm năng" (Tier 1 - Unlock potential)
+- "Hành trình" (Tier 1 - Overused)
+- "Giải pháp toàn diện" (Tier 1 - Mơ hồ)
+- "Đóng vai trò là" (Pattern - Copula)
+- "Tóm lại/Kết luận là" (Tier 1 - Chuyển đoạn cứng)
+- "Hãy cùng tìm hiểu" (Pattern - Let's construction)
+- "Dùng dấu ngoặc kép để nhấn mạnh từ ngữ (Ví dụ: đúng giá)"
+
 | Từ/Cụm từ AI-vibe | Lý do | Cách thay thế |
 | :--- | :--- | :--- |
 | "Trong thế giới không ngừng phát triển..." | Mở đầu sáo rỗng. | Đi thẳng vào vấn đề/nỗi đau. |
@@ -58,11 +68,11 @@ Tài liệu này quy định các tiêu chuẩn về ngôn ngữ để tránh "A
 1.  **Sát thực tế:** Luôn kèm mã cổ phiếu (VCB, HPG), sàn (HOSE), hoặc con số cụ thể.
 2.  **Xưng hô:** "HVS" và "Bạn". Không dùng "Quý nhà đầu tư".
 3.  **Nguồn pháp lý:** Chỉ `vanban.chinhphu.vn` hoặc `vbpl.vn`.
-4.  **Hạn chế ngoặc kép:** Không dùng trong Sapo và tiêu đề.
+4.  **Cấm ngoặc kép nhấn mạnh:** Tuyệt đối không dùng dấu ngoặc kép để nhấn mạnh các từ ngữ, thuật ngữ (Ví dụ: ❌ "đúng giá", ❌ "quyền lực", ❌ "thần tốc"). Nếu cần nhấn mạnh, hãy dùng Bold hoặc viết lại câu để làm nổi bật ý nghĩa.
+5.  **Ngoặc kép hợp lệ:** Chỉ dùng cho trích dẫn nguyên văn lời nói hoặc tên tài liệu pháp lý cụ thể.
 
 ## 4. Nhật ký học hỏi (Feedback Learning Log)
 
 - [2026-05-08]: Tối ưu toàn bộ rules dựa trên `avoid-ai-writing` framework. Thêm Tiered Vocabulary và Categorized Patterns (Content, Language, Structure, Communication).
 - [2026-05-07]: Thêm quy tắc hạn chế ngoặc kép và cá nhân hóa sản phẩm theo Persona.
 - [2026-05-07]: Bổ sung quy tắc về nguồn trích dẫn Chính phủ, cấm ẩn dụ hoa mỹ (đại dương, sóng dữ).
-

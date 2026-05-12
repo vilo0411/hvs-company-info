@@ -26,6 +26,7 @@ Dựa trên các tiêu chí:
 - [ ] Đúng Search Intent?
 - [ ] Không có "AI-vibe"? (Check theo `anti-ai-rules.md`)
 - [ ] Thuật ngữ HVS chuẩn xác? (Check theo `glossary.md`)
+- [ ] Không dùng ngoặc kép để nhấn mạnh từ ngữ?
 - [ ] CTA (Call to action) hợp lý?
 
 ### Bước 3: Phản hồi (Feedback)

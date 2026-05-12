@@ -30,12 +30,14 @@ Sources: HoSE, Hoạt động môi giới 2026, Cafef, Vietstock
 - **Đào tạo thực chiến:** Nhà đầu tư đã chán lý thuyết suông, họ cần "Skin in the game" (Demo) trước khi xuống tiền thật.
 - **Social Trading:** Xu hướng Copy trade và thảo luận cộng đồng (Forum) bùng nổ.
 
-## 3. Vị thế của HVS (Strategic Positioning)
-HVS không cạnh tranh trực tiếp về thị phần môi giới với VPS/SSI. HVS chiếm lĩnh **"Vùng xanh" (Blue Ocean)**:
-- **HVS = CTCK Chính quy + Học viện Thực chiến + Nền tảng Giao dịch Demo.**
-- Đây là điểm giao thoa mà các đối thủ khác chưa làm trọn vẹn hoặc chưa có pháp lý CTCK để bảo chứng.
+## 3. Vị thế của HVS Tài chính số (Strategic Positioning)
+HVS không cạnh tranh trực tiếp về thị phần môi giới với VPS/SSI. **HVS Tài chính số** chiếm lĩnh vùng xanh (Blue Ocean) bằng cách tích hợp:
+- **CTCK Chính quy:** Bảo chứng cho kiến thức và pháp lý.
+- **Học viện Thực chiến:** Cung cấp các chương trình đào tạo chuyên sâu như **HVS Thực tập số**.
+- **Công cụ bổ trợ:** Tích hợp sẵn **HVS Demo** (Học đi đôi với Hành) và **HVS Forum** (Cộng đồng hỏi đáp).
 
-## 4. Content Opportunities (Gaps to Fill)
-- **Minh bạch hóa rủi ro:** Trong khi các bên khác khoe lãi, HVS tập trung vào "How to not lose money" (Quản trị rủi ro).
-- **Chứng chỉ thực tập:** Tận dụng "Thực tập số" để tạo phễu khách hàng từ các trường đại học (vốn là tệp khách hàng tiềm năng dài hạn).
-- **Giải mã "AI-vibe":** Viết về chứng khoán bằng ngôn ngữ của người thực, mã thực, lỗ thực, lãi thực.
+## 4. Cơ hội nội dung cho HVS Tài chính số (Content Opportunities)
+- **Quản trị rủi ro thực tế:** Thay vì hứa hẹn lợi nhuận, nội dung tập trung vào cách bảo vệ vốn và tư duy đầu tư bền vững.
+- **Chứng chỉ hoàn thành đào tạo:** Tận dụng uy tín của CTCK để cấp chứng chỉ có giá trị cho học viên, tạo lợi thế cạnh tranh với các học viện tự phát.
+- **Hệ sinh thái khép kín:** Viết về chứng khoán nhưng luôn dẫn dắt người dùng trải nghiệm các công cụ hỗ trợ thực tế (Demo, Forum) ngay trong bài viết.
+- **Xóa bỏ AI-vibe:** Sử dụng dữ liệu thực, mã cổ phiếu thực và các tình huống thị trường thực tế để tạo sự tin cậy tuyệt đối.

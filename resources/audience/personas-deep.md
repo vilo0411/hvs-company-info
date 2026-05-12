@@ -1,49 +1,40 @@
 ---
 Author: Antigravity
 Status: Verified ✅
-Last_Updated: 2026-05-08
+Last_Updated: 2026-05-12
+Sources: resources/products/*, taichinhso.hvsvn.com (Verified), Leadership Confirmation
 ---
 
-# Deep Personas — HVS Audience
+# Deep Personas — HVS Tài Chính Số Audience
 
-## Persona 1: "Sơn Sinh Viên" (F0 - Học hỏi & Xây dựng CV)
-- **Độ tuổi:** 18 - 22 (Sinh viên Kinh tế, Tài chính hoặc trái ngành).
-- **Trình độ:** Đã nghe nói về chứng khoán, có thể đã mở tài khoản app rác/mô phỏng nhưng chưa biết đầu tư thật.
-- **Nỗi đau (Pain Points):**
-    - Sợ bị lừa (app lừa đảo, đa cấp).
-    - Vốn ít (chỉ có 1-2 triệu tiền tiết kiệm).
-    - CV trống trơn, cần kinh nghiệm thực tế để xin việc sau này.
-    - Học trên lớp quá lý thuyết, không biết đọc bảng điện, không biết đặt lệnh.
-- **Trigger:** Muốn kiếm thêm thu nhập hoặc muốn có chứng chỉ thực tập để tốt nghiệp/xin việc.
-- **Kỳ vọng:** Được cầm tay chỉ việc, có mentor giải đáp, không mất tiền oan khi tập chơi.
+## Persona 1: "Sơn Sinh Viên" (F0 - Tìm kiếm sự nghiệp)
+- **Đặc điểm:** Sinh viên năm 3-4 hoặc mới ra trường (Kinh tế, Tài chính).
+- **Nỗi đau:** CV trống trơn, thiếu kỹ năng viết báo cáo và phân tích thực tế để vượt qua vòng phỏng vấn.
+- **Kỳ vọng:** Được "nhập vai" Analyst/Advisor, có chứng chỉ uy tín và sản phẩm thực tế (Báo cáo mẫu) để làm đẹp hồ sơ.
+- **Chiến lược dẫn dắt (Leading Strategy):**
+    - Đưa ra các case study về cách viết báo cáo chuẩn ngành.
+    - Nhấn mạnh vào giá trị của chứng chỉ từ CTCK HVS.
+    - **Sản phẩm dẫn:** **HVS Thực tập số** (Lộ trình Analyst/Advisor) để "Học việc".
 
-## Persona 2: "Lan Newbie" (F0 - Người đi làm muốn tối ưu vốn)
-- **Độ tuổi:** 23 - 30 (Nhân viên văn phòng, Freelancer).
-- **Trình độ:** Có thu nhập ổn định, muốn tìm kênh đầu tư thay vì gửi tiết kiệm lãi suất thấp.
-- **Nỗi đau (Pain Points):**
-    - Không có thời gian soi bảng điện 24/7.
-    - Sợ "đu đỉnh" vì nghe theo đồng nghiệp phím hàng.
-    - Bị bội thực thông tin (quá nhiều nhóm zalo, telegram).
-    - Sợ "cháy tài khoản" ảnh hưởng đến cuộc sống.
-- **Trigger:** Thấy lạm phát tăng, tiền để trong ngân hàng mất giá, hoặc thấy bạn bè khoe lãi chứng khoán.
-- **Kỳ vọng:** Một nơi tư vấn tin cậy, minh bạch, có phương pháp đầu tư bài bản (không phải đánh bạc).
+## Persona 2: "Lan Newbie" (F0 - Đầu tư bài bản)
+- **Độ tuổi:** 23 - 35 (Nhân viên văn phòng, Freelancer).
+- **Nỗi đau:** Thua lỗ do thiếu phương pháp, bị nhiễu thông tin bởi các hội nhóm, không biết định giá cổ phiếu.
+- **Kỳ vọng:** Xây dựng tư duy đầu tư bài bản (cả FA & TA), có người hướng dẫn để tự tin quản lý tài sản.
+- **Chiến lược dẫn dắt (Leading Strategy):**
+    - Chia sẻ về tư duy "Hybrid Analysis" để bảo vệ vốn.
+    - Nhấn mạnh vào việc thực hành trên **HVS Demo** trước khi dùng tiền thật.
+    - **Sản phẩm dẫn:** **HVS Thực tập số** (3 môn nền tảng + Lộ trình Advisor) để "Học đầu tư".
 
-## Persona 3: "Anh Minh F1" (Nhà đầu tư đã từng thua lỗ)
+## Persona 3: "Anh Minh F1" (Nhà đầu tư nâng cao)
 - **Độ tuổi:** 30+.
-- **Trình độ:** Đã chơi chứng khoán 1-2 năm, từng thua lỗ hoặc "về bờ" trầy trật.
-- **Nỗi đau (Pain Points):**
-    - Đầu tư theo cảm xúc, chưa có hệ thống.
-    - Mất niềm tin vào các Broker chỉ biết "giục mua giục bán" để lấy phí giao dịch.
-    - Cần một cộng đồng văn minh để thảo luận, không phải nơi shill hàng.
-- **Trigger:** Muốn làm lại từ đầu một cách nghiêm túc, chuyên nghiệp.
-- **Kỳ vọng:** Báo cáo phân tích chất lượng, công cụ quản lý danh mục tốt, mentor có trình độ thật sự.
-
-## Persona mapping với Sản phẩm HVS
-| Persona | Sản phẩm phễu | Giá trị nhận được |
-| :--- | :--- | :--- |
-| **Sơn Sinh Viên** | HVS Thực tập số | Chứng chỉ, kiến thức thực tế, làm đẹp CV. |
-| **Lan Newbie** | HVS Demo + Academy | Tập chơi không rủi ro, học kiến thức nền tảng. |
-| **Anh Minh F1** | HVS Forum + Tư vấn số | Cộng đồng chuyên gia, báo cáo phân tích sâu bằng AI. |
+- **Nỗi đau:** Hiệu quả đầu tư chưa ổn định, cần công cụ chuyên sâu để bóc tách doanh nghiệp và chọn thời điểm tối ưu.
+- **Kỳ vọng:** Tiếp cận các báo cáo khuyến nghị chất lượng và cộng đồng chuyên gia thực thụ.
+- **Chiến lược dẫn dắt (Leading Strategy):**
+    - Giới thiệu các báo cáo mẫu chuyên sâu từ lộ trình Analyst.
+    - Nhấn mạnh vào sự hỗ trợ của **HVS Chat AI** và cộng đồng Mentor trên **HVS Forum**.
+    - **Sản phẩm dẫn:** **HVS Forum** và các nội dung chuyên sâu của lộ trình Analyst.
 
 ---
-**Chiến lược SEO Content:** Mặc dù "HVS Thực tập số" tập trung vào sinh viên, các bài viết SEO sẽ đánh vào nhóm đối tượng **Rộng** (F0 nói chung) để thu hút traffic đa dạng, sau đó điều hướng về các sản phẩm phù hợp trong hệ sinh thái.
+**Lưu ý chiến lược:**
+- Mọi nội dung dẫn dắt đều tập trung vào lộ trình **HVS Thực tập số** (gồm 3 môn nền tảng + Chuyên sâu).
+- Các khóa học bổ trợ (Excel, Phân tích DN) chỉ được nhắc tới như lộ trình phát triển tương lai (Coming Soon), không trình bày như sản phẩm đã sẵn sàng.

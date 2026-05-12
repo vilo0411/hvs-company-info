@@ -1,5 +1,6 @@
 ---
 Author: Antigravity
+aliases: ["Cách đầu tư cổ phiếu"]
 Status: User_Review
 Persona: F0 (Người mới bắt đầu)
 Target_Keyword: Cách đầu tư cổ phiếu
