@@ -20,10 +20,19 @@ Tuân thủ danh sách từ vựng và pattern cấm tại `seo-strategy/resourc
 
 ## 4. Persona & Brand Voice
 - **Xưng hô:** "HVS" (hoặc "chúng tôi") và "Bạn". Tuyệt đối không dùng "Quý nhà đầu tư".
+- **HVS Persona:** Tuân thủ `seo-strategy/resources/content-strategy/tone-and-voice.md` (HVS Senior Mentor).
 - **Tone:** Chuyên nghiệp, tin cậy nhưng gần gũi (Conversational + Authoritative).
-- **Product Integration:** Lồng ghép sản phẩm HVS theo hướng "giải quyết vấn đề", không quảng cáo lộ liễu.
+- **Lexicon:** Luôn sử dụng bộ từ vựng chuyên gia tại `seo-strategy/resources/content-strategy/glossary.md` (Phần Professional vs Amateur).
+- **Product Integration & Hierarchy (BẮT BUỘC):** Lồng ghép sản phẩm HVS theo hướng giải pháp. Luôn ưu tiên giới thiệu **HVS Tài Chính Số** (nền tảng đào tạo trực tuyến đầu tư tài chính và chương trình **HVS Thực tập số**) làm giải pháp chính. Các sản phẩm **HVS Demo** (app giao dịch mô phỏng) và **HVS Forum** (cộng đồng hỗ trợ 24/7 từ CFA) đóng vai trò bổ trợ đắc lực phía dưới.
 
-## 5. Formatting Standards
+## 5. Financial Integrity & Professional Logic
+Mọi bài viết phải vượt qua bộ lọc tư duy tài chính tại `seo-strategy/resources/content-strategy/financial-logic.md`.
+- **Scenario-based (BẮT BUỘC):** Luôn đưa ra các kịch bản thực tế dựa trên công thức rõ ràng: "Nếu [Biến số A] -> [Kịch bản 1]. Nếu [Biến số B] -> [Kịch bản 2]".
+- **Risk-Reward:** Mọi đề cập đến hiệu suất sinh lời hoặc đặt lệnh bắt buộc phải đi kèm cảnh báo rủi ro hoặc điều kiện thị trường tương ứng.
+- **Practicality:** Gắn liền với thực tế sàn chứng khoán Việt Nam (T+2.5, biên độ sàn HOSE/HNX/UPCoM, đơn vị lô tối thiểu...).
+
+## 6. Formatting Standards
+- **Formatting Diversity (BẮT BUỘC):** Không viết các khối văn bản thô (walls of text) liên tục. Phải sử dụng linh hoạt và đan xen các định dạng: đoạn văn ngắn (không quá 3-4 câu), danh sách liệt kê bullet/numbered lists cho các quy trình, và ít nhất một bảng so sánh hoặc đối chiếu (Markdown Table) để trực quan hóa kiến thức.
 - **Bold Strategy:** Chỉ bôi đậm câu trả lời trực tiếp hoặc thông số quan trọng. Không bôi đậm từ khóa SEO một cách máy móc.
 - **Lists:** Sử dụng bullet points đồng nhất về từ loại (toàn bộ là động từ hoặc toàn bộ là danh từ).
 - **Ngoặc kép:** Không dùng ngoặc kép để nhấn mạnh. Chỉ dùng cho trích dẫn nguyên văn.

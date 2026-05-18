@@ -14,17 +14,14 @@ Nếu không có args → hỏi user đường dẫn file cần tối ưu.
 
 Đọc `.antigravity/rules/content-optimization.md` để nắm toàn bộ quy trình.
 
-1. **Phân tích hiện trạng:** Đọc nội dung file + `anti-ai-rules.md`
-
-2. **Brand Guardian (Sub-Agent)** (`.antigravity/agents/brand-guardian.md`):
-   - Liệt kê câu/đoạn "AI-vibe" cần sửa (kèm số dòng)
-   - Điểm thiếu HVS USPs
-   - Đề xuất Persona / tone phù hợp hơn
-
-3. **Rewrite:** Sửa AI-vibe, lồng ghép HVS products tự nhiên, điều chỉnh tone
-
-4. **QA/QC** → loop đến PASS
-
-5. **Internal Linking**
-
-6. **Lưu** `content/blog/2-user-review/Draft-[slug].md` → trình bày → chờ `/approve`
+1. **Phân tích hiện trạng:** Đọc nội dung file + `.antigravity/rules/anti-ai-digest.md` + `glossary.md` + `tone-and-voice.md` + `financial-logic.md`.
+2. **Khởi tạo Revision Log:** Nếu file chưa có section `## Revision Log`, Agent phải tự động tạo ở cuối file để ghi nhận các yêu cầu tối ưu.
+3. **Brand Guardian Mode B (Sub-Agent) Audit:**
+   - Scan bài hiện tại theo `.antigravity/rules/anti-ai-digest.md`.
+   - Liệt kê vi phạm cụ thể (dấu ngoặc kép nhấn mạnh, FORBIDDEN_STRINGS...).
+   - Đề xuất Persona/tone và cấu trúc HVS Bridge (Vấn đề → Giải pháp).
+4. **Rewrite & Strict Audit (BẮT BUỘC):** 
+   - Agent thực hiện sửa bài.
+   - Hiển thị **Bảng Kiểm định Anti-AI (Audit Table)** theo `content-feedback-loop/SKILL.md` trong phản hồi.
+5. **User Review:** Trình bày bản tối ưu + Bảng Kiểm định cho người dùng.
+6. **Lưu & Hoàn tất:** Sau khi `/approve Final`, di chuyển vào `3-finalized/` và cập nhật tri thức vào Knowledge Base.

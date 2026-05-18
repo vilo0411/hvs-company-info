@@ -12,9 +12,9 @@ Hệ thống hoạt động theo 3 lớp: **Knowledge Base** → **Keyword Strat
 
 | Sub-Agent | Nhiệm vụ |
 | :--- | :--- |
-| **SEO Collector** | SERP research + tạo Content Brief |
-| **Brand Guardian** | Brand audit cho `/optimize` |
-| **Quality Guardian** | QA/QC độc lập |
+| **SEO Collector** | SERP research + tạo Content Brief (Phase 1 của `/write`) |
+| **Brand Guardian** | Mode A: Brand Context (`/write`) · Mode B: Audit bài cũ (`/optimize`) · Mode C: Knowledge Update (`/approve`) |
+| **Quality Guardian** | QA/QC PASS/FAIL — kích hoạt Phase 3 (`/write`) và Phase 4 (`/optimize`) |
 | **Research Agent** | Build Knowledge Base cho `/setup` |
 
 > Nguyên tắc: Chỉ Main Agent viết bài. Sub-agents chỉ thu thập context.
@@ -51,7 +51,7 @@ Hệ thống hoạt động theo 3 lớp: **Knowledge Base** → **Keyword Strat
 
 | Lệnh | Mô tả |
 | :--- | :--- |
-| `/write --sprint` | Generate outlines cho tất cả `Planned` items (unattended, no-serp) |
+| `/write --sprint` | Generate outlines cho tất cả `Planned` items (`--no-serp` mặc định, unattended) |
 | `/write --sprint --with-serp` | Như trên, có SERP research |
 | `/write --sprint --flush` | Viết tất cả `Outline-Approved` items → Final (unattended) |
 
@@ -104,7 +104,8 @@ content/blog/
 | Resource | Path |
 | :--- | :--- |
 | Pipeline rules | `.antigravity/rules/write-track.md` |
-| Anti-AI Rules | `seo-strategy/resources/content-strategy/anti-ai-rules.md` |
+| Anti-AI Rules | `seo-strategy/resources/content-strategy/anti-ai-rules.md` (full rationale) |
+| Anti-AI Digest | `.antigravity/rules/anti-ai-digest.md` (compact — agents dùng khi scan) |
 | Glossary | `seo-strategy/resources/content-strategy/glossary.md` |
 | Topic Clusters | `seo-strategy/content-plan/topic-clusters.md` |
 | Sprint Backlog | `seo-strategy/content-plan/sprint-backlog.md` |

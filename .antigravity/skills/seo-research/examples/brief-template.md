@@ -1,6 +1,6 @@
 ---
 name: Content Brief Template — HVS SEO (Expert & Holistic Metadata)
-description: Template dàn ý SEO chi tiết tích hợp hệ thống Koray Gübür (Holistic SEO Writing) và tiêu chuẩn Anti-AI HVS.
+description: Template dàn ý SEO chi tiết tích hợp hệ thống Koray Gübür (Holistic SEO Writing) và tiêu chuẩn chuyên gia tài chính HVS.
 ---
 
 # SEO Content Outline: [Tên bài viết]
@@ -9,111 +9,121 @@ description: Template dàn ý SEO chi tiết tích hợp hệ thống Koray Güb
 
 ```yaml
 ---
-Author: Claude Code
+Author: Antigravity
 aliases: ["[Từ khóa chính]"]
 Status: Outline
 Pipeline_Mode: Express | Guided | Auto
 SERP_Research: true
 
-# SEO Technical & Holistic
+# SEO Technical & Holistic (Koray Gübür Standard)
 Target_Keyword: [Từ khóa chính]
 Secondary_Keywords: [Từ khóa phụ 1, phụ 2...]
 LSI_Keywords: [Từ khóa LSI]
-Niche_Context: [Ví dụ: Securities Trading | Personal Finance] # Rule 6: Xác định niche để dùng đúng hệ động từ
-Entities: [List các thực thể quan trọng: tên người, tổ chức, khái niệm chuyên ngành]
-Entities_Gap_Analysis: [Các thực thể đối thủ bỏ sót nhưng HVS sẽ khai thác - Rule 14]
+Niche_Context: [Ví dụ: Securities Trading | Personal Finance]
+Entities: [List thực thể quan trọng từ SERP & KB]
+Entities_Gap_Analysis: [Các thực thể đối thủ bỏ sót - Rule 14]
 Search_Intent: [Informational | Transactional | Commercial]
-Content_Type: [Comprehensive Guide | How-to | Listicle | Comparison]
-Featured_Snippet: [Paragraph | List | Table | None]
-Word_Count_Target: [Số từ - Đề xuất dựa trên Top 1-3 đối thủ + 10%]
+Word_Count_Target: [Số từ đề xuất]
+
+# Strategic Guardrails (Professionalism & Memory)
+Persona: [HVS Senior Mentor - tham chiếu @tone-and-voice.md]
+Tone_Style: [Direct, Data-driven, Objective]
+Lexicon_Focus: [Professional terms từ @glossary.md]
+Financial_Logic: [Scenario-based, Risk-Reward - tham chiếu @financial-logic.md]
+Avoid_Mistakes: [Danh sách lỗi cần tránh trích xuất từ Past Revision Logs]
+
+# Mandatory Compliance (BẮT BUỘC ĐỌC TRƯỚC KHI VIẾT)
+Mandatory_Rules:
+  - "@.antigravity/rules/writing-guidelines.md"
+  - "@seo-strategy/resources/content-strategy/anti-ai-rules.md"
+  - "@seo-strategy/resources/content-strategy/financial-logic.md"
+  - "@seo-strategy/resources/content-strategy/tone-and-voice.md"
+  - "@seo-strategy/resources/content-strategy/glossary.md"
 
 # Response Mapping (Rule 9 & 12)
 Direct_Answer_Targets:
   - heading: "H2: [Tên heading]"
     type: "Definition / Direct Answer"
-    bold_target: "[Cụm từ then chốt sẽ bôi đậm]" # Rule 13
+    bold_target: "[Cụm từ then chốt sẽ bôi đậm]"
 
 # Audience & Brand
-Persona: [Tên Persona - Ví dụ: F0, Sinh viên...]
-Tone: [Ví dụ: Conversational + Authoritative]
 Writing_Method: [PAS | AIDA | 4Cs]
 HVS_Products: ["HVS Tài chính số", "HVS Thực tập số"]
 
-# Anti-AI
-Anti_AI_Flags: ["Trong thế giới không ngừng phát triển", "Mở khóa tiềm năng", "Hành trình", "Giải pháp toàn diện", "Đóng vai trò là", "Tóm lại/Kết luận là", "Hãy cùng tìm hiểu", "Dùng dấu ngoặc kép để nhấn mạnh từ ngữ"]
-
 # Cluster info
 Cluster: [Tên Cluster]
-Cluster_Role: [Pillar | Cluster]
 Internal_Links: []
 ---
 ```
 
-- **Title:** [Tối đa 59 ký tự, chứa từ khóa chính - Rule 11: Khớp với Anchor text]
-- **Sapo:** [Chứa từ khóa chính, bao quát nội dung, ưu tiên thực thể ở đầu câu - Rule 1]
-- **Meta description:** [~155 ký tự, chứa từ khóa chính, tóm tắt nội dung, kêu gọi đọc bài]
+- **Title:** [Tối đa 59 ký tự, chứa từ khóa chính]
+- **Sapo:** [Chứa từ khóa chính, ưu tiên thực thể ở đầu câu]
+- **Meta description:** [~155 ký tự, chứa keyword]
 
 ---
 
 ## 2. Cấu trúc Heading (Main vs Supplemental)
-
-**Quy tắc:**
-1.  **Main Content (Khối A):** BẮT BUỘC đưa lên đầu bài. Đây là các Heading "xương sống" (Shared Structural Headings) mà đa số đối thủ Top 10 đều có, giúp Google xác định bài viết đúng Intent.
-2.  **Supplemental Content (Khối B):** Nội dung gia tăng giá trị độc bản (Unique Value), nghiên cứu riêng của HVS, hoặc lồng ghép sản phẩm/dịch vụ chuyên sâu.
 
 ---
 
 ### H1: [Tiêu đề chính - Chứa keyword]
 
 ### [PART A: MAIN CONTENT — NHÓM HEADING XƯƠNG SỐNG]
+*(Nội dung thỏa mãn Search Intent dựa trên phân tích SERP đối thủ)*
 
-#### H2: [Tiêu đề Section 1 - Ví dụ: "[Keyword] là gì?"]
-- **Nhiệm vụ:** [Heading xương sống bắt buộc - Giải quyết Search Intent cơ bản dựa trên cấu trúc chung của Top 10 đối thủ]
+#### H2: [Tiêu đề Section 1]
+- **Nhiệm vụ:** [Heading xương sống bắt buộc]
 - **Direct Answer (Rule 9/12):** [Nháp 1 câu trả lời trực diện ≤40 từ]
 - **Entities & Keywords:** [List cụ thể]
-- **Specific Examples (Rule 7):** [Ví dụ sau danh từ số nhiều]
-- **Data & Numeric Points (Rule 4):** [Con số thực tế]
-- **Max word count:** [Số từ]
+- **Word_Count:** [Số từ] ← MAIN (chiếm 60-70% tổng từ, viết đầy đủ, có ví dụ, số liệu cụ thể)
 
-#### H2: [Tiêu đề Section 2 - Ví dụ: "Phân loại / Đặc điểm của [Keyword]"]
-- **Nhiệm vụ:** [Các ý mà SERP Intelligence xác nhận là "Shared Patterns"]
+#### H2: [Tiêu đề Section 2]
+- **Nhiệm vụ:** [Heading xương sống bắt buộc]
+- **Direct Answer (Rule 9/12):** [Nháp 1 câu trả lời trực diện ≤40 từ]
 - **Entities & Keywords:** [List cụ thể]
-- **Max word count:** [Số từ]
+- **Word_Count:** [Số từ] ← MAIN (chiếm 60-70% tổng từ, viết đầy đủ, có ví dụ, số liệu cụ thể)
 
 ---
 
 ### [PART B: SUPPLEMENTAL CONTENT — GIÁ TRỊ GIA TĂNG HVS]
+*(Nội dung độc bản, lồng ghép giải pháp thực chiến của HVS)*
 
-#### H2: [Tiêu đề tích hợp giải pháp HVS Tài chính số / Thực tập số]
-- **Mục tiêu:** Dẫn dắt tự nhiên từ chủ đề sang giải pháp thực chiến của HVS.
-- **Unique Value:** [Nội dung mà đối thủ không có hoặc viết sơ sài - Dựa trên Entity Gap]
-- **Specific Evidence:** [Lồng ghép case study thực tế từ HVS Forum hoặc HVS Demo]
-- **Max word count:** [Số từ]
-
-#### H2: Câu hỏi thường gặp (FAQ)
-- **PAA Analysis:** [Câu hỏi trích xuất từ Google PAA mà đối thủ chưa trả lời tốt]
-- **Target:** Trả lời súc tích, trực diện (Rule 12), bold vào câu trả lời quan trọng (Rule 13).
-
-### Kết bài & CTA
-- **Mục tiêu:** Tóm tắt insight đắt giá nhất + Lời khuyên chuyên gia.
-- **CTA:** [Lời kêu gọi hành động cụ thể cho Persona - Dựa trên Knowledge Base]
+#### H2: [Tiêu đề tích hợp giải pháp HVS]
+- **Mục tiêu:** Dẫn dắt sang giải pháp HVS theo @financial-logic.md.
+- **Unique Value:** [Nội dung Entity Gap]
+- **Specific Evidence:** [Lồng ghép case study HVS Forum/Demo]
+- **Word_Count:** [Số từ] ← SUPPLEMENTAL (30-40% tổng từ, không kéo dài, focus vào CTA và bridge)
 
 ---
 
 ## 3. Chiến lược liên kết & Tối ưu hóa
-
-- **External Links:** [Đề xuất nguồn uy tín: Chính phủ, Tài chính quốc tế]
-- **Internal Links:** [Đề xuất Anchor text (phải khớp Title bài đích - Rule 11) + nội dung liên kết]
-- **Yếu tố cạnh tranh:** [Đề xuất Bảng biểu / Infographic / Box chuyên gia]
-- **Holistic Syntax Checklist:** 
-    - [ ] **Word Sequence:** Thực thể quan trọng nằm ở 5-7 từ đầu câu? (Rule 1)
-    - [ ] **Niche Verbs:** Sử dụng đúng động từ chuyên ngành tài chính? (Rule 6)
-    - [ ] **Certainty:** Loại bỏ các từ "có lẽ", "nên", "cần"? (Rule 2)
-    - [ ] **Bolding:** Bôi đậm câu trả lời, không bôi đậm từ khóa chính? (Rule 13)
+- **Internal Links:** [Anchor text khớp Title bài đích]
+- **Yếu tố cạnh tranh:** [Bảng biểu / Box chuyên gia]
 
 ---
 
 ## 4. Nhật ký chỉnh sửa (Revision Log)
-> Phần này ghi lại các phản hồi từ người dùng để Agent học hỏi cho các bài sau.
-- **v1.1 (2026-05-12):** Tích hợp Holistic SEO Writing (Koray Gübür). Thêm Niche Context, Entities Gap và Syntax Rules.
-- **v1.0 (2026-05-08):** Tạo dàn ý lần đầu.
+- **v1.2 (2026-05-13):** Tích hợp Mandatory Rules & Compliance Links.
+
+---
+
+## 5. 🛡️ Quy định tuân thủ (Mandatory Compliance)
+
+Để bài viết đạt chuẩn HVS, người viết (Agent) **BẮT BUỘC** phải tuân thủ các tài liệu tham chiếu sau:
+
+1.  **Văn phong & Persona:** Phải đúng chất "Senior Mentor" theo [tone-and-voice.md](file:///e:/project/hvs-company-info/seo-strategy/resources/content-strategy/tone-and-voice.md).
+2.  **Thuật ngữ:** Chỉ dùng từ Professional, tuyệt đối không dùng từ Amateur trong [glossary.md](file:///e:/project/hvs-company-info/seo-strategy/resources/content-strategy/glossary.md).
+3.  **Tư duy tài chính:** Mọi nhận định phải theo kịch bản và có cảnh báo rủi ro theo [financial-logic.md](file:///e:/project/hvs-company-info/seo-strategy/resources/content-strategy/financial-logic.md).
+4.  **Anti-AI:** Kiểm tra lại danh sách từ cấm tại [anti-ai-rules.md](file:///e:/project/hvs-company-info/seo-strategy/resources/content-strategy/anti-ai-rules.md).
+
+---
+
+## 6. ⛔ Anti-AI — Enforcement
+
+> Đọc **Section 0 — QUICK SCAN** trong `seo-strategy/resources/content-strategy/anti-ai-rules.md` (ngắn, luôn cập nhật).  
+> Loop qua từng `FORBIDDEN_STRINGS`, `FORBIDDEN_PATTERNS`, và `REQUIRED` trước khi viết bất kỳ section nào.
+
+### Word Count — BẮT BUỘC đạt số từ trong outline
+- Main sections: viết đủ Word_Count ghi trong Brief, KHÔNG cắt ngắn
+- Nếu thiếu từ: bổ sung ví dụ cụ thể, kịch bản thực tế, hoặc bảng so sánh
+- Không được dừng lại khi chưa đạt Word_Count của từng section

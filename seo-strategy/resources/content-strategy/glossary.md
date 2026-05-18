@@ -51,3 +51,19 @@ Mỗi term gồm: tên chuẩn | định nghĩa ngắn | cách dùng trong bài 
 | Gọi bản thân HVS | "HVS" hoặc "chúng tôi" | "chúng em", "đội ngũ HVS", "team" |
 | Kêu gọi hành động | "Thử ngay HVS Demo", "Tham gia HVS Forum" | "Click vào đây", "Đăng ký ngay!", "Nhấn vào" |
 | Nguồn pháp lý | vanban.chinhphu.vn hoặc vbpl.vn | thuvienphapluat.vn |
+
+---
+
+## Thuật ngữ Thị trường & Phân tích (Professional vs Amateur)
+
+| Bối cảnh | Tránh dùng (Amateur) | Nên dùng (Professional) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| **Giá giảm** | giá giảm mạnh, sập sàn, rớt giá | áp lực điều chỉnh, nhịp thoái lui, nới rộng đà giảm | "Thoái lui" dùng cho nhịp giảm ngắn trong xu hướng tăng. |
+| **Giá tăng** | giá tăng mạnh, bay cao, dựng đứng | bứt phá, nới rộng đà tăng, xung lực tăng trưởng mạnh | "Bứt phá" dùng khi vượt kháng cự. |
+| **Thị trường đi ngang** | đứng yên, lình xình, không biến động | trạng thái giằng co, tích lũy trong biên độ hẹp | "Giằng co" thể hiện sự đấu tranh giữa bên mua và bán. |
+| **Áp lực bán** | tháo chạy, bán tháo, người bán đông | áp lực chốt lời, lực cung gia tăng, kích hoạt cung giá thấp | "Chốt lời" mang sắc thái chủ động và tích cực hơn "bán tháo". |
+| **Lực mua** | người mua ít, không ai mua | thanh khoản sụt giảm, tâm lý thận trọng, lực cầu yếu | Dùng "cầu" và "cung" thay vì "người mua/bán". |
+| **Chỉ báo kỹ thuật** | dựa dẫm vào chỉ báo, dùng chỉ báo | khai thác chỉ báo, tín hiệu từ chỉ báo, lạm dụng chỉ báo | Tránh từ "dựa dẫm" gây cảm giác thiếu chủ động. |
+| **Về rủi ro** | rất nguy hiểm, đừng mua, lừa đảo | rủi ro bất định, tín hiệu suy yếu, ưu tiên quản trị rủi ro | Dùng ngôn ngữ khách quan, phân tích rủi ro thay vì hù dọa. |
+| **Khác** | chơi chứng khoán, đánh chứng | đầu tư chứng khoán, giao dịch, tham gia thị trường | Tuyệt đối không dùng từ "chơi" hoặc "đánh". |
+

@@ -8,9 +8,9 @@ Hệ thống sản xuất nội dung SEO cho HVS Securities. Triết lý cốt l
 
 | Sub-Agent | File hướng dẫn | Nhiệm vụ |
 | :--- | :--- | :--- |
-| **SEO Collector** | `.antigravity/agents/seo-collector.md` | SERP research + tạo Content Brief |
-| **Brand Guardian** | `.antigravity/agents/brand-guardian.md` | Brand audit cho `/optimize` |
-| **Quality Guardian** | `.antigravity/agents/quality-guardian.md` | QA/QC độc lập |
+| **SEO Collector** | `.antigravity/agents/seo-collector.md` | SERP research + tạo Content Brief (Phase 1 của `/write`) |
+| **Brand Guardian** | `.antigravity/agents/brand-guardian.md` | Mode A: Brand Context (`/write`) · Mode B: Audit bài cũ (`/optimize`) · Mode C: Knowledge Update (`/approve`) |
+| **Quality Guardian** | `.antigravity/agents/quality-guardian.md` | QA/QC PASS/FAIL — kích hoạt Phase 3 (`/write`) và Phase 4 (`/optimize`) |
 | **Research Agent** | `.antigravity/agents/research-agent.md` | Build Knowledge Base cho `/setup` |
 
 **Nguyên tắc:** Chỉ Main Agent viết bài. Sub-agents chỉ thu thập context.
@@ -42,7 +42,8 @@ Hệ thống sản xuất nội dung SEO cho HVS Securities. Triết lý cốt l
 **Batch sprint:**
 | Lệnh | Mô tả |
 | :--- | :--- |
-| /write --sprint | Generate outlines cho tất cả `Planned` items (có SERP research mặc định) |
+| /write --sprint | Generate outlines cho tất cả `Planned` items (`--no-serp` mặc định) |
+| /write --sprint --with-serp | Như trên nhưng có SERP research |
 | /write --sprint --flush | Viết tất cả `Outline-Approved` items → Final (unattended) |
 
 **Utilities:**
@@ -84,7 +85,8 @@ content/blog/
 | :--- | :--- |
 | **Pipeline rules** | `.antigravity/rules/write-track.md` |
 | **Brief template** | `.antigravity/skills/seo-research/examples/brief-template.md` |
-| **Anti-AI Rules** | `seo-strategy/resources/content-strategy/anti-ai-rules.md` |
+| **Anti-AI Rules** | `seo-strategy/resources/content-strategy/anti-ai-rules.md` (full rationale) |
+| **Anti-AI Digest** | `.antigravity/rules/anti-ai-digest.md` (compact — agents dùng khi scan) |
 | **Glossary** | `seo-strategy/resources/content-strategy/glossary.md` |
 | **Topic Clusters** | `seo-strategy/content-plan/topic-clusters.md` |
 | **Progress Log** | `seo-strategy/content-plan/progress-log.md` |

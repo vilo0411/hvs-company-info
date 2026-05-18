@@ -75,7 +75,7 @@ Với mỗi keyword, đánh dấu:
 ## 📊 Output File: `seo-strategy/content-plan/topic-clusters.md`
 
 File này là **nguồn sự thật duy nhất** cho content strategy. Được đọc bởi:
-- `/detailed` — để biết bài mới thuộc cluster nào, cần link gì
+- `/write` — để biết bài mới thuộc cluster nào, cần link gì
 - `/link` — để gợi ý internal links theo cluster
 - `/keyword-plan` — để tránh duplicate và xác định gaps
 

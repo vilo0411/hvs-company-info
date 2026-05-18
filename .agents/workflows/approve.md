@@ -40,7 +40,7 @@ User đã duyệt. Tự xác định trạng thái file đang làm việc và th
 
 1. Di chuyển → `content/blog/3-finalized/Final-[slug].md`
 2. Cập nhật YAML: `Status: Finalized`
-3. Xóa Draft cũ
+3. Xóa Draft cũ tại `2-user-review/` VÀ Outline cũ tại `1-outlines/`
 4. Cập nhật `seo-strategy/content-plan/progress-log.md`:
    - Xóa khỏi Active Pipeline
    - Thêm lên đầu Publication Log
@@ -50,5 +50,7 @@ User đã duyệt. Tự xác định trạng thái file đang làm việc và th
    - Cập nhật count ✅ trong cluster header và summary header
 6. Cập nhật `seo-strategy/content-plan/sprint-backlog.md` (nếu tồn tại):
    - Xóa bài vừa finalize khỏi backlog
-7. **Content Feedback Loop**: nếu có Revision Log → chạy `.antigravity/skills/content-feedback-loop/SKILL.md`
+7. **Learning** (nếu có Revision Log):
+   - Chạy `.antigravity/skills/content-feedback-loop/SKILL.md` → cập nhật `anti-ai-rules.md` + `anti-ai-digest.md`
+   - Gọi **Brand Guardian Mode C** → đề xuất cập nhật `glossary.md` / `hvs-profile.md` / `financial-logic.md`
 8. Báo cáo: keyword, word count, file path, các file đã cập nhật

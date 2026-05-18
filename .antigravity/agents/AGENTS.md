@@ -11,11 +11,13 @@ Danh sách sub-agents chuyên biệt. Chỉ thu thập context — Main Agent vi
    - **Skill:** `.antigravity/skills/seo-research/SKILL.md`
 
 2. **Brand Guardian** ([agents/brand-guardian.md](.antigravity/agents/brand-guardian.md))
-   - **Vai trò:** Brand audit văn phong & thương hiệu — kích hoạt bởi `/optimize`
-   - **Tham chiếu:** `anti-ai-rules.md`, `hvs-target-audience.csv`
+   - **Mode A:** Brand Context tại Phase 1 của `/write`
+   - **Mode B:** Audit bài cũ tại Phase 2 của `/optimize`
+   - **Mode C:** Knowledge Update sau `/approve`
+   - **Tham chiếu:** `.antigravity/rules/anti-ai-digest.md`, `hvs-target-audience.csv`
 
 3. **Quality Guardian** ([agents/quality-guardian.md](.antigravity/agents/quality-guardian.md))
-   - **Vai trò:** QA/QC bài viết — kích hoạt tại Phase 4 của write-track
+   - **Vai trò:** QA/QC bài viết — kích hoạt tại Phase 3 của write-track
    - **Skill:** `.antigravity/skills/qa-qc/SKILL.md`
 
 4. **Research Agent** ([agents/research-agent.md](.antigravity/agents/research-agent.md))

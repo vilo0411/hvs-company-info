@@ -1,14 +1,14 @@
 # Topic Clusters — HVS SEO Content Map
-> Cập nhật: 2026-05-07 | Nguồn: keyword-hvs.csv (491 articles)
-> ✅ Published: 13 | 🔄 In Progress: 2 | ⭕ Planned: 476
+> Cập nhật: 2026-05-14 | Nguồn: keyword-hvs.csv (491 articles)
+> ✅ Published: 62 | 🔄 In Progress: 1 | ⭕ Planned: 428
 
 ---
 
 ## Group: Cho người mới (489 articles)
 
-### Cluster: Chỉ số chứng khoán (13 articles | ✅ 2 | 🔄 0 | ⭕ 11)
+### Cluster: Chỉ số chứng khoán (13 articles | ✅ 6 | 🔄 0 | ⭕ 7)
 
-**Pillar:** ⭕ Chỉ số DAX là gì *(Planned)*
+**Pillar:** ✅ Chỉ số DAX là gì *(Published — Final-chi-so-dax-la-gi.md)*
 
 **Priority 1:**
 - ⭕ chỉ số nikkei là gì *(Planned)*
@@ -16,17 +16,17 @@
 - ⭕ chỉ số nasdaq là gì *(Planned)*
 - ⭕ Chỉ số msci là gì *(Planned)*
 - ⭕ Chỉ số DXY là gì *(Planned)*
-- ⭕ Chỉ số VN-Index là gì *(Planned)*
-- ⭕ Chỉ số VN30-Index là gì *(Planned)*
-- ⭕ Chỉ số HNX Index *(Planned)*
+- ✅ Chỉ số VN-Index là gì *(Published — Final-chi-so-vn-index-la-gi.md)*
+- ✅ Chỉ số VN30-Index là gì *(Published — Final-chi-so-vn30-index-la-gi.md)*
+- ✅ hnx-index là gì *(Published — Final-hnx-index-la-gi.md)*
 - ⭕ các chỉ số chứng khoán việt nam *(Planned)*
 - ✅ chỉ số chứng khoán châu Á *(Published — Final-chi-so-chung-khoan-chau-a.md)*
 - ✅ chỉ số chứng khoán thế giới *(Published — Final-chi-so-chung-khoan-the-gioi.md)*
 - ⭕ chỉ số hang seng là gì *(Planned)*
 
-### Cluster: Chứng chỉ quỹ (8 articles | ✅ 0 | 🔄 0 | ⭕ 8)
+### Cluster: Chứng chỉ quỹ (8 articles | ✅ 1 | 🔄 0 | ⭕ 7)
 
-**Pillar:** ⭕ etf là gì *(Planned)*
+**Pillar:** ✅ etf là gì *(Published — Final-etf-la-gi.md)*
 
 **Priority 1:**
 - ⭕ Quỹ mở là gì *(Planned)*
@@ -37,15 +37,15 @@
 - ⭕ Nên đầu tư quỹ ETF nào *(Planned)*
 - ⭕ Phân biệt quỹ ETF và quỹ tương hỗ *(Planned)*
 
-### Cluster: Cách mua cổ phiếu (34 articles | ✅ 0 | 🔄 0 | ⭕ 34)
+### Cluster: Cách mua cổ phiếu (34 articles | ✅ 5 | 🔄 0 | ⭕ 29)
 
-**Pillar:** ⭕ Cách mua cổ phiếu VCB *(Planned)*
+**Pillar:** ✅ Cách mua cổ phiếu VCB *(Published — Final-cach-mua-co-phieu-vcb.md)*
 
 **Priority 1:**
-- ⭕ Cách mua cổ phiếu mb bank *(Planned)*
-- ⭕ cách mua cổ phiếu fpt *(Planned)*
-- ⭕ Cách mua cổ phiếu Vinamilk *(Planned)*
-- ⭕ cách mua cổ phiếu hòa phát *(Planned)*
+- ✅ Cách mua cổ phiếu mb bank *(Published — Final-cach-mua-co-phieu-mb-bank.md)*
+- ✅ cách mua cổ phiếu fpt *(Published — Final-cach-mua-co-phieu-fpt.md)*
+- ✅ Cách mua cổ phiếu Vinamilk *(Published — Final-cach-mua-co-phieu-vinamilk.md)*
+- ✅ cách mua cổ phiếu hòa phát *(Published — Final-cach-mua-co-phieu-hoa-phat.md)*
 - ⭕ cách mua cổ phiếu techcombank *(Planned)*
 - ⭕ Cách mua cổ phiếu FLC  *(Planned)*
 - ⭕ cách mua cổ phiếu vingroup *(Planned)*
@@ -76,16 +76,16 @@
 - ⭕ Cách mua cổ phiếu MSN *(Planned)*
 - ⭕ Cách mua cổ phiếu SAB *(Planned)*
 
-### Cluster: Cách đầu tư (6 articles | ✅ 2 | 🔄 0 | ⭕ 4)
+### Cluster: Cách đầu tư (6 articles | ✅ 5 | 🔄 0 | ⭕ 1)
 
 **Pillar:** ⭕ cách mua cổ phiếu *(Planned)*
 
 **Priority 1:**
-- ⭕ cách chơi chứng khoán trên điện thoại *(Planned)*
+- ✅ cách chơi chứng khoán trên điện thoại *(Published — Final-cach-choi-chung-khoan-tren-dien-thoai.md)*
 - ✅ cách đầu tư chứng chỉ quỹ *(Published — Final-cach-dau-tu-chung-chi-quy.md)*
 - ✅ cách đầu tư chứng khoán *(Published — Final-cach-dau-tu-chung-khoan.md)*
-- ⭕ cách đầu tư chứng khoán phái sinh *(Planned)*
-- ⭕ cách đầu tư chứng khoán với số vốn nhỏ *(Planned)*
+- ✅ cách đầu tư chứng khoán phái sinh *(Published — Final-cach-dau-tu-chung-khoan-phai-sinh.md)*
+- ✅ cách đầu tư chứng khoán với số vốn nhỏ *(Published — Final-cach-dau-tu-chung-khoan-voi-so-von-nho.md)*
 
 ### Cluster: Có nên mua cổ phiếu (30 articles | ✅ 0 | 🔄 0 | ⭕ 30)
 
@@ -122,9 +122,9 @@
 - ⭕ Có nên mua cổ phiếu MWG *(Planned)*
 - ⭕ Có nên mua cổ phiếu SBT *(Planned)*
 
-### Cluster: Cổ phiếu (25 articles | ✅ 3 | 🔄 0 | ⭕ 22)
+### Cluster: Cổ phiếu (25 articles | ✅ 4 | 🔄 0 | ⭕ 21)
 
-**Pillar:** ⭕ Cổ tức là gì *(Planned)*
+**Pillar:** ✅ Cổ tức là gì *(Published — Final-co-tuc-la-gi.md)*
 
 **Priority 1:**
 - ⭕ Cổ phiếu OTC là gì *(Planned)*
@@ -186,14 +186,14 @@
 - ⭕ cổ phiếu ngành hóa chất *(Planned)*
 - ⭕ cổ phiếu ngành nông nghiệp *(Planned)*
 
-### Cluster: Phân tích cơ bản (115 articles | ✅ 1 | 🔄 0 | ⭕ 114)
+### Cluster: Phân tích cơ bản (115 articles | ✅ 7 | 🔄 0 | ⭕ 108)
 
-**Pillar:** ⭕ p/e là gì *(Planned)*
+**Pillar:** ✅ p/e là gì *(Published — Final-p-e-la-gi.md)*
 
 **Priority 1:**
 - ✅ phân tích ngành là gì *(Published — Final-phan-tich-nganh-la-gi.md)*
-- ⭕ phân tích doanh nghiệp là gì *(Planned)*
-- ⭕ phân tích cơ bản là gì *(Planned)*
+- ✅ phân tích doanh nghiệp là gì *(Published — Final-phan-tich-doanh-nghiep-la-gi.md)*
+- ✅ phân tích cơ bản là gì *(Published — Final-phan-tich-co-ban-la-gi.md)*
 - ⭕ giá trị sổ sách của cổ phiếu *(Planned)*
 - ⭕ Tỷ số thanh toán nhanh là gì *(Planned)*
 - ⭕ Tỷ số nợ trên tổng tài sản *(Planned)*
@@ -208,7 +208,7 @@
 - ⭕ vòng quay vốn lưu động *(Planned)*
 - ⭕ Vòng quay khoản phải trả là gì *(Planned)*
 - ⭕ roic là gì *(Planned)*
-- ⭕ chỉ số eps là gì *(Planned)*
+- ✅ chỉ số eps là gì *(Published — Final-chi-so-eps-la-gi.md)*
 - ⭕ tỷ suất cổ tức là gì *(Planned)*
 - ⭕ tỷ lệ đòn bẩy tài chính *(Planned)*
 - ⭕ p/b là gì *(Planned)*
@@ -217,11 +217,11 @@
 - ⭕ biên lợi nhuận gộp là gì *(Planned)*
 - ⭕ biên lợi nhuận ròng *(Planned)*
 - ⭕ EBITDA là gì *(Planned)*
-- ⭕ roa là gì *(Planned)*
+- ✅ roa là gì *(Published — Final-roa-la-gi.md)*
 - ⭕ current ratio là gì *(Planned)*
 - ⭕ vốn chủ sở là gì *(Planned)*
-- ⭕ chỉ số roe là gì *(Planned)*
-- ⭕ giá trị nội tại của cổ phiếu *(Planned)*
+- ✅ chỉ số roe là gì *(Published — Final-chi-so-roe-la-gi.md)*
+- ✅ giá trị nội tại của cổ phiếu *(Published — Final-gia-tri-noi-tai-cua-co-phieu.md)*
 - ⭕ Vốn lưu động là gì *(Planned)*
 - ⭕ thặng dư vốn cổ phần là gì *(Planned)*
 - ⭕ Phân tích báo cáo tài chính Vinamilk *(Planned)*
@@ -306,13 +306,13 @@
 - ⭕ Mô hình CAPM là gì *(Planned)*
 - ⭕ các chỉ số phân tích báo cáo tài chính *(Planned)*
 
-### Cluster: Phân tích kỹ thuật (113 articles | ✅ 0 | 🔄 0 | ⭕ 113)
+### Cluster: Phân tích kỹ thuật (113 articles | ✅ 7 | 🔄 0 | ⭕ 106)
 
-**Pillar:** ⭕ nến búa *(Planned)*
+**Pillar:** ✅ nến búa *(Published — Final-nen-bua.md)*
 
 **Priority 1:**
-- ⭕ phân tích kỹ thuật là gì *(Planned)*
-- ⭕ mô hình nến *(Planned)*
+- ✅ phân tích kỹ thuật là gì *(Published — Final-phan-tich-ky-thuat-la-gi.md)*
+- ✅ mô hình nến *(Published — Final-mo-hinh-nen.md)*
 - ⭕ chỉ báo bollinger bands width *(Planned)*
 - ⭕ chỉ báo Bollinger Bands *(Planned)*
 - ⭕ chỉ báo bollinger bands b *(Planned)*
@@ -333,12 +333,12 @@
 - ⭕ Cách sử dụng 4 đường MA *(Planned)*
 - ⭕ phân tích kỹ thuật kết hợp Bollinger Bands và đường MA *(Planned)*
 - ⭕ đường ma200 *(Planned)*
-- ⭕ đường ma là gì *(Planned)*
+- ✅ đường ma là gì *(Published — Final-duong-ma-la-gi.md)*
 - ⭕ đường ema *(Planned)*
 - ⭕ kết hợp 3 đường MA *(Planned)*
 - ⭕ Đường WMA là gì *(Planned)*
 - ⭕ chỉ báo macd histogram là gì *(Planned)*
-- ⭕ MACD là gì *(Planned)*
+- ✅ MACD là gì *(Published — Final-macd-la-gi.md)*
 - ⭕ Mô hình 2 đỉnh là gì *(Planned)*
 - ⭕ Mô hình lá cờ là gì *(Planned)*
 - ⭕ Nến Evening Star là gì *(Planned)*
@@ -362,7 +362,7 @@
 - ⭕ hành động giá *(Planned)*
 - ⭕ trend following là gì *(Planned)*
 - ⭕ phân kỳ rsi *(Planned)*
-- ⭕ rsi là gì *(Planned)*
+- ✅ rsi là gì *(Published — Final-rsi-la-gi.md)*
 - ⭕ chỉ báo stochastic rsi là gì *(Planned)*
 - ⭕ phân kỳ ẩn *(Planned)*
 - ⭕ chiến lược giao dịch rsi *(Planned)*
@@ -389,7 +389,7 @@
 - ⭕ Vùng đỉnh và đáy là gì *(Planned)*
 - ⭕ Phân phối đỉnh là gì *(Planned)*
 - ⭕ spread là gì *(Planned)*
-- ⭕ hỗ trợ kháng cự là gì *(Planned)*
+- ✅ hỗ trợ kháng cự là gì *(Published — Final-ho-tro-khang-cu-la-gi.md)*
 - ⭕ chỉ báo roc là gì *(Planned)*
 - ⭕ washout là gì *(Planned)*
 - ⭕ Đảo chiều xu hướng là gì *(Planned)*
@@ -404,7 +404,7 @@
 - ⭕ chỉ báo parabolic sar *(Planned)*
 - ⭕ chỉ báo adx *(Planned)*
 - ⭕ lý thuyết dow *(Planned)*
-- ⭕ breakout trong chứng khoán là gì *(Planned)*
+- ✅ breakout trong chứng khoán là gì *(Published — Final-breakout-trong-chung-khoan-la-gi.md)*
 - ⭕ giao dịch theo xu hướng *(Planned)*
 - ⭕ kênh giá là gì *(Planned)*
 - ⭕ Bear Trap là gì *(Planned)*
@@ -424,13 +424,13 @@
 - ⭕ Đầu tư tăng trưởng là gì *(Planned)*
 - ⭕ copy trade là gì *(Planned)*
 
-### Cluster: Phương pháp đầu tư (13 articles | ✅ 0 | 🔄 0 | ⭕ 13)
+### Cluster: Phương pháp đầu tư (13 articles | ✅ 3 | 🔄 0 | ⭕ 10)
 
-**Pillar:** ⭕ đầu tư giá trị *(Planned)*
+**Pillar:** ✅ đầu tư giá trị *(Published — Final-dau-tu-gia-tri.md)*
 
 **Priority 1:**
-- ⭕ chiến lược đầu tư chứng khoán *(Planned)*
-- ⭕ Đầu tư tích sản cổ phiếu là gì *(Planned)*
+- ✅ chiến lược đầu tư chứng khoán *(Published — Final-chien-luoc-dau-tu-chung-khoan.md)*
+- ✅ đầu tư tích sản cổ phiếu là gì *(Published — Final-dau-tu-tich-san-co-phieu-la-gi.md)*
 - ⭕ phương pháp top down *(Planned)*
 - ⭕ phương pháp canslim *(Planned)*
 - ⭕ sách về đầu tư giá trị *(Planned)*
@@ -454,15 +454,15 @@
 - ⭕ Trái phiếu doanh nghiệp là gì *(Planned)*
 - ⭕ Trái phiếu ngân hàng là gì *(Planned)*
 
-### Cluster: Tài khoản chứng khoán (8 articles | ✅ 0 | 🔄 0 | ⭕ 8)
+### Cluster: Tài khoản chứng khoán (8 articles | ✅ 3 | 🔄 0 | ⭕ 5)
 
-**Pillar:** ⭕ cách mở tài khoản chứng khoán *(Planned)*
+**Pillar:** ✅ cách mở tài khoản chứng khoán *(Published — Final-cach-mo-tai-khoan-chung-khoan.md)*
 
 **Priority 1:**
-- ⭕ Nên mở tài khoản chứng khoán ở đâu *(Planned)*
+- ✅ Nên mở tài khoản chứng khoán ở đâu *(Published — Final-nen-mo-tai-khoan-chung-khoan-o-dau.md)*
 - ⭕ mở tài khoản chứng khoán có mất phí không? *(Planned)*
 - ⭕ các loại tài khoản chứng khoán *(Planned)*
-- ⭕ mở tài khoản chứng khoán online có an toàn không *(Planned)*
+- ✅ mở tài khoản chứng khoán online có an toàn không *(Published — Final-mo-tai-khoan-chung-khoan-online-co-an-toan-khong.md)*
 - ⭕ hợp đồng mở tài khoản chứng khoán *(Planned)*
 - ⭕ Một người được mở bao nhiêu tài khoản chứng khoán *(Planned)*
 - ⭕ cháy tài khoản chứng khoán là gì *(Planned)*
@@ -477,7 +477,7 @@
 - ⭕ chứng chỉ hành nghề chứng khoán *(Planned)*
 - ⭕ chứng chỉ tài chính *(Planned)*
 
-### Cluster: chứng khoán (66 articles | ✅ 2 | 🔄 0 | ⭕ 64)
+### Cluster: chứng khoán (68 articles | ✅ 13 | 🔄 0 | ⭕ 55)
 
 **Pillar:** ⭕ ce là gì *(Planned)*
 
@@ -486,26 +486,27 @@
 - ⭕ app theo dõi chứng khoán *(Planned)*
 - ⭕ app đầu tư chứng khoán *(Planned)*
 - ⭕ quản lý danh mục đầu tư chứng khoán *(Planned)*
-- ⭕ Call margin là gì *(Planned)*
+- ✅ Call margin là gì *(Published — Final-call-margin-la-gi.md)*
 - ⭕ cắt margin là gì *(Planned)*
-- ⭕ Margin là gì *(Planned)*
+- ✅ Margin là gì *(Published — Final-margin-la-gi.md)*
 - ⭕ full margin là gì *(Planned)*
 - ⭕ bán khống là gì *(Planned)*
 - ⭕ sàn giao dịch chứng khoán là gì *(Planned)*
 - ⭕ Trading là gì *(Planned)*
+- ✅ upcom là gì *(Published — Final-upcom-la-gi.md)*
 - ⭕ dư mua dư bán là gì *(Planned)*
 - ⭕ Các màu trong chứng khoán *(Planned)*
 - ⭕ dca là gì *(Planned)*
 - ⭕ điểm trong chứng khoán là gì *(Planned)*
 - ⭕ nyse là gì *(Planned)*
-- ⭕ lệnh mtl là gì *(Planned)*
+- ✅ lệnh mtl là gì *(Published — Final-lenh-mtl-la-gi.md)*
 - ⭕ Ứng trước tiền bán chứng khoán là gì *(Planned)*
 - ⭕ sec là gì *(Planned)*
 - ⭕ diễn đàn chứng khoán *(Planned)*
-- ⭕ khối ngoại chứng khoán là gì *(Planned)*
-- ⭕ giờ giao dịch chứng khoán *(Planned)*
+- ✅ khối ngoại chứng khoán là gì *(Published — Final-khoi-ngoai-la-gi.md)*
+- ✅ giờ giao dịch chứng khoán *(Published — Final-gio-giao-dich-chung-khoan.md)*
 - ⭕ Có nên đầu tư chứng khoán không *(Planned)*
-- ⭕ giá trần giá sàn *(Planned)*
+- ✅ giá trần giá sàn *(Published — Final-gia-tran-gia-san.md)*
 - ⭕ môi giới chứng khoán là gì *(Planned)*
 - ⭕ So sánh kênh đầu tư vàng và đầu tư chứng khoán *(Planned)*
 - ⭕ kinh nghiệm chơi chứng khoán *(Planned)*
@@ -513,7 +514,7 @@
 - ⭕ đòn bẩy tài chính trong đầu tư chứng khoán *(Planned)*
 - ⭕ Tư vấn chứng khoán là gì *(Planned)*
 - ⭕ người giàu nhất sàn chứng khoán việt nam *(Planned)*
-- ⭕ ipo là gì *(Planned)*
+- ✅ ipo là gì *(Published — Final-ipo-la-gi.md)*
 - ⭕ Nhà đầu tư chứng khoán chuyên nghiệp là gì *(Planned)*
 - ⭕ Sàn OTC là gì *(Planned)*
 - ⭕ nav là gì *(Planned)*
@@ -526,7 +527,7 @@
 - ⭕ giao dịch chứng khoán là gì *(Planned)*
 - ⭕ bullish là gì *(Planned)*
 - ⭕ uỷ thác đầu tư chứng khoán *(Planned)*
-- ⭕ Vốn hóa thị trường là gì *(Planned)*
+- ✅ Vốn hóa thị trường là gì *(Published — Final-von-hoa-thi-truong-la-gi.md)*
 - ⭕ Đầu cơ chứng khoán là gì *(Planned)*
 - ⭕ giao dịch nội gián *(Planned)*
 - ⭕ Sell in may and go away là gì *(Planned)*
@@ -545,6 +546,7 @@
 - ⭕ IMF là gì *(Planned)*
 - ⭕ các thuật ngữ chứng khoán *(Planned)*
 - ✅ chứng khoán là gì *(Published — Final-chung-khoan-la-gi.md)*
+- ✅ thị trường chứng khoán là gì *(Published — Final-thi-truong-chung-khoan-la-gi.md)*
 - ✅ tâm lý đầu tư chứng khoán *(Published — Final-tam-ly-dau-tu-chung-khoan.md)*
 - ⭕ biên độ giao động giá *(Planned)*
 
@@ -566,14 +568,14 @@
 - ⭕ chứng khoán phái sinh là gì *(Planned)*
 - ⭕ chứng khoán cơ sở và chứng khoán phái sinh *(Planned)*
 
-### Cluster: rủi ro (4 articles | ✅ 0 | 🔄 0 | ⭕ 4)
+### Cluster: rủi ro (4 articles | ✅ 1 | 🔄 0 | ⭕ 3)
 
 **Pillar:** ⭕ khẩu vị rủi ro *(Planned)*
 
 **Priority 1:**
 - ⭕ Rủi ro doanh nghiệp trong đầu tư chứng khoán là gì *(Planned)*
 - ⭕ Đầu tư chứng khoán có những rủi ro gì *(Planned)*
-- ⭕ Quản trị rủi ro là gì *(Planned)*
+- ✅ quản trị rủi ro chứng khoán *(Published — Final-quan-tri-rui-ro-chung-khoan.md)*
 
 ### Cluster: tài liệu (5 articles | ✅ 0 | 🔄 0 | ⭕ 5)
 
@@ -587,9 +589,9 @@
 
 ## Group: Chứng chỉ quỹ (2 articles)
 
-### Cluster: Chứng chỉ quỹ (2 articles | ✅ 0 | 🔄 0 | ⭕ 2)
+### Cluster: Chứng chỉ quỹ (2 articles | ✅ 1 | 🔄 0 | ⭕ 1)
 
-**Pillar:** ⭕ chứng chỉ quỹ là gì *(Planned)*
+**Pillar:** ✅ chứng chỉ quỹ là gì *(Published — Final-chung-chi-quy-la-gi.md)*
 
 **Priority 1:**
 - ⭕ chứng chỉ quỹ tốt nhất hiện nay *(Planned)*
