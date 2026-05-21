@@ -32,10 +32,15 @@ Mọi bài viết phải vượt qua bộ lọc tư duy tài chính tại `seo-s
 - **Practicality:** Gắn liền với thực tế sàn chứng khoán Việt Nam (T+2.5, biên độ sàn HOSE/HNX/UPCoM, đơn vị lô tối thiểu...).
 
 ## 6. Formatting Standards
-- **Formatting Diversity (BẮT BUỘC):** Không viết các khối văn bản thô (walls of text) liên tục. Phải sử dụng linh hoạt và đan xen các định dạng: đoạn văn ngắn (không quá 3-4 câu), danh sách liệt kê bullet/numbered lists cho các quy trình, và ít nhất một bảng so sánh hoặc đối chiếu (Markdown Table) để trực quan hóa kiến thức.
+- **Formatting Diversity (BẮT BUỘC):** Không viết các khối văn bản thô (walls of text) liên tục. Bắt buộc tuân thủ:
+  - **Giới hạn độ dài đoạn văn:** Mỗi đoạn văn không vượt quá 4 câu và không quá 80 từ.
+  - **Giới hạn đoạn văn liên tục:** Không có quá 2 đoạn văn bản thông thường nằm liền kề nhau mà không có danh sách (bullet/numbered list), bảng biểu (Markdown Table), hoặc công thức toán học ngắt quãng.
+  - **Quy trình dạng danh sách:** Toàn bộ các hướng dẫn dạng quy trình hoặc từng bước hành động bắt buộc phải viết dưới dạng danh sách liệt kê có đánh số hoặc dấu đầu dòng.
+  - **Mật độ bảng biểu:** Bắt buộc chèn ít nhất một bảng so sánh, đối chiếu hoặc tóm tắt dữ liệu (Markdown Table) cho mỗi 1000 từ viết ra.
+  - **Trình bày công thức:** Mọi công thức tính toán hoặc minh họa số liệu (ví dụ: tính vốn tối thiểu, chi phí giao dịch) bắt buộc phải viết bằng ký hiệu toán học cụ thể ($...$ hoặc $$...$$) thay vì mô tả bằng chữ thuần túy.
 - **Bold Strategy:** Chỉ bôi đậm câu trả lời trực tiếp hoặc thông số quan trọng. Không bôi đậm từ khóa SEO một cách máy móc.
 - **Lists:** Sử dụng bullet points đồng nhất về từ loại (toàn bộ là động từ hoặc toàn bộ là danh từ).
 - **Ngoặc kép:** Không dùng ngoặc kép để nhấn mạnh. Chỉ dùng cho trích dẫn nguyên văn.
 
 ---
-*Vi phạm bất kỳ nguyên tắc nào trong 5 mục trên đều dẫn đến kết quả QA "FAIL".*
+*Vi phạm bất kỳ nguyên tắc nào trong 6 mục trên đều dẫn đến kết quả QA "FAIL".*

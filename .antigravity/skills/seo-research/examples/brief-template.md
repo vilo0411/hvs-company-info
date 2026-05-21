@@ -23,6 +23,7 @@ Niche_Context: [Ví dụ: Securities Trading | Personal Finance]
 Entities: [List thực thể quan trọng từ SERP & KB]
 Entities_Gap_Analysis: [Các thực thể đối thủ bỏ sót - Rule 14]
 Search_Intent: [Informational | Transactional | Commercial]
+Search_Intent_Deep: [Nỗi đau thực sự của user]
 Word_Count_Target: [Số từ đề xuất]
 
 # Strategic Guardrails (Professionalism & Memory)
@@ -62,37 +63,23 @@ Internal_Links: []
 
 ---
 
-## 2. Cấu trúc Heading (Main vs Supplemental)
+## 2. Cấu trúc Heading Đề xuất (Dynamic Structure)
 
----
+*(Cấu trúc này được sinh tự động dựa trên Recommended Unique Structure từ SERP & Strategy Collector, đảm bảo lấp đầy Entity Gap và chèn HVS Bridge tự nhiên)*
 
 ### H1: [Tiêu đề chính - Chứa keyword]
 
-### [PART A: MAIN CONTENT — NHÓM HEADING XƯƠNG SỐNG]
-*(Nội dung thỏa mãn Search Intent dựa trên phân tích SERP đối thủ)*
+[DYNAMIC_HEADINGS]
+*(Agent tự động render danh sách các H2, H3 theo định dạng sau cho mỗi mục:)*
 
-#### H2: [Tiêu đề Section 1]
-- **Nhiệm vụ:** [Heading xương sống bắt buộc]
-- **Direct Answer (Rule 9/12):** [Nháp 1 câu trả lời trực diện ≤40 từ]
-- **Entities & Keywords:** [List cụ thể]
-- **Word_Count:** [Số từ] ← MAIN (chiếm 60-70% tổng từ, viết đầy đủ, có ví dụ, số liệu cụ thể)
+#### H2: [Tiêu đề Section]
+- **Nhiệm vụ/Trọng tâm:** [Giải quyết intent gì? Giải thích khái niệm hay so sánh?]
+- **HVS Bridge:** [Có lồng ghép sản phẩm HVS không? Nếu có, lồng ghép thế nào?]
+- **Entities & Keywords:** [List cụ thể các entity cần xuất hiện trong section này]
+- **Direct Answer (nếu có):** [Nháp 1 câu trả lời trực diện ≤40 từ]
+- **Word_Count:** [Số từ dự kiến]
 
-#### H2: [Tiêu đề Section 2]
-- **Nhiệm vụ:** [Heading xương sống bắt buộc]
-- **Direct Answer (Rule 9/12):** [Nháp 1 câu trả lời trực diện ≤40 từ]
-- **Entities & Keywords:** [List cụ thể]
-- **Word_Count:** [Số từ] ← MAIN (chiếm 60-70% tổng từ, viết đầy đủ, có ví dụ, số liệu cụ thể)
-
----
-
-### [PART B: SUPPLEMENTAL CONTENT — GIÁ TRỊ GIA TĂNG HVS]
-*(Nội dung độc bản, lồng ghép giải pháp thực chiến của HVS)*
-
-#### H2: [Tiêu đề tích hợp giải pháp HVS]
-- **Mục tiêu:** Dẫn dắt sang giải pháp HVS theo @financial-logic.md.
-- **Unique Value:** [Nội dung Entity Gap]
-- **Specific Evidence:** [Lồng ghép case study HVS Forum/Demo]
-- **Word_Count:** [Số từ] ← SUPPLEMENTAL (30-40% tổng từ, không kéo dài, focus vào CTA và bridge)
+[END_DYNAMIC_HEADINGS]
 
 ---
 
@@ -103,7 +90,7 @@ Internal_Links: []
 ---
 
 ## 4. Nhật ký chỉnh sửa (Revision Log)
-- **v1.2 (2026-05-13):** Tích hợp Mandatory Rules & Compliance Links.
+- **v1.3 (2026-05-20):** Cập nhật Cấu trúc Động (Dynamic Structure) dựa trên Search Intent sâu sắc.
 
 ---
 
@@ -124,6 +111,6 @@ Internal_Links: []
 > Loop qua từng `FORBIDDEN_STRINGS`, `FORBIDDEN_PATTERNS`, và `REQUIRED` trước khi viết bất kỳ section nào.
 
 ### Word Count — BẮT BUỘC đạt số từ trong outline
-- Main sections: viết đủ Word_Count ghi trong Brief, KHÔNG cắt ngắn
-- Nếu thiếu từ: bổ sung ví dụ cụ thể, kịch bản thực tế, hoặc bảng so sánh
-- Không được dừng lại khi chưa đạt Word_Count của từng section
+- Viết đủ Word_Count ghi trong Brief, KHÔNG cắt ngắn.
+- Nếu thiếu từ: bổ sung ví dụ cụ thể, kịch bản thực tế, hoặc bảng so sánh.
+- Không được dừng lại khi chưa đạt Word_Count của từng section.

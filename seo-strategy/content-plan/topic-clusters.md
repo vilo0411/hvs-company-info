@@ -1,6 +1,6 @@
 # Topic Clusters — HVS SEO Content Map
 > Cập nhật: 2026-05-14 | Nguồn: keyword-hvs.csv (491 articles)
-> ✅ Published: 62 | 🔄 In Progress: 1 | ⭕ Planned: 428
+> ✅ Published: 85 | 🔄 In Progress: 1 | ⭕ Planned: 405
 
 ---
 
@@ -37,7 +37,7 @@
 - ⭕ Nên đầu tư quỹ ETF nào *(Planned)*
 - ⭕ Phân biệt quỹ ETF và quỹ tương hỗ *(Planned)*
 
-### Cluster: Cách mua cổ phiếu (34 articles | ✅ 5 | 🔄 0 | ⭕ 29)
+### Cluster: Cách mua cổ phiếu (34 articles | ✅ 28 | 🔄 0 | ⭕ 6)
 
 **Pillar:** ✅ Cách mua cổ phiếu VCB *(Published — Final-cach-mua-co-phieu-vcb.md)*
 
@@ -46,29 +46,29 @@
 - ✅ cách mua cổ phiếu fpt *(Published — Final-cach-mua-co-phieu-fpt.md)*
 - ✅ Cách mua cổ phiếu Vinamilk *(Published — Final-cach-mua-co-phieu-vinamilk.md)*
 - ✅ cách mua cổ phiếu hòa phát *(Published — Final-cach-mua-co-phieu-hoa-phat.md)*
-- ⭕ cách mua cổ phiếu techcombank *(Planned)*
-- ⭕ Cách mua cổ phiếu FLC  *(Planned)*
-- ⭕ cách mua cổ phiếu vingroup *(Planned)*
-- ⭕ Cách mua cổ phiếu ACB *(Planned)*
-- ⭕ cách mua cổ phiếu MWG *(Planned)*
-- ⭕  cách mua cổ phiếu VFS *(Planned)*
-- ⭕ Cách mua cổ phiếu trên sàn HOSE *(Planned)*
-- ⭕ Cách Mua Cổ Phiếu SSI *(Planned)*
-- ⭕ Cách mua cổ phiếu IPO *(Planned)*
-- ⭕ cách mua cổ phiếu pvd *(Planned)*
-- ⭕ cách mua cổ phiếu bvh *(Planned)*
-- ⭕ cách mua cổ phiếu bcm *(Planned)*
-- ⭕ cách mua cổ phiếu nvl *(Planned)*
-- ⭕ cách mua cổ phiếu pdr *(Planned)*
-- ⭕ cách mua cổ phiếu vhm *(Planned)*
-- ⭕ Cách mua cổ phiếu VRE *(Planned)*
-- ⭕ Cách mua cổ phiếu GAS *(Planned)*
-- ⭕ Cách mua cổ phiếu POW *(Planned)*
-- ⭕ Cách mua cổ phiếu VJC *(Planned)*
-- ⭕ Cách mua cổ phiếu GVR *(Planned)*
-- ⭕ Cách mua cổ phiếu BID *(Planned)*
-- ⭕ Cách mua cổ phiếu CTG *(Planned)*
-- ⭕ Cách mua cổ phiếu HDB *(Planned)*
+- ✅ cách mua cổ phiếu Techcombank *(Published — Final-cach-mua-co-phieu-techcombank.md)*
+- ✅ Cách mua cổ phiếu FLC *(Published — Final-cach-mua-co-phieu-flc.md)*
+- ✅ Cách mua cổ phiếu Vingroup *(Published — Final-cach-mua-co-phieu-vingroup.md)*
+- ✅ Cách mua cổ phiếu ACB *(Published — Final-cach-mua-co-phieu-acb.md)*
+- ✅ cách mua cổ phiếu MWG *(Published — Final-cach-mua-co-phieu-mwg.md)*
+- ✅ cách mua cổ phiếu VFS *(Published — Final-cach-mua-co-phieu-vfs.md)*
+- ✅ Cách mua cổ phiếu trên sàn HOSE *(Published — Final-cach-mua-co-phieu-tren-san-hose.md)*
+- ✅ Cách mua cổ phiếu SSI *(Published — Final-cach-mua-co-phieu-ssi.md)*
+- ✅ Cách mua cổ phiếu IPO *(Published — Final-cach-mua-co-phieu-ipo.md)*
+- ✅ cách mua cổ phiếu PVD *(Published — Final-cach-mua-co-phieu-pvd.md)*
+- ✅ cách mua cổ phiếu bvh *(Published — Final-cach-mua-co-phieu-bvh.md)*
+- ✅ cách mua cổ phiếu bcm *(Published — Final-cach-mua-co-phieu-bcm.md)*
+- ✅ cách mua cổ phiếu nvl *(Published — Final-cach-mua-co-phieu-nvl.md)*
+- ✅ cách mua cổ phiếu pdr *(Published — Final-cach-mua-co-phieu-pdr.md)*
+- ✅ cách mua cổ phiếu VHM *(Published — Final-cach-mua-co-phieu-vhm.md)*
+- ✅ Cách mua cổ phiếu VRE *(Published — Final-cach-mua-co-phieu-vre.md)*
+- ✅ Cách mua cổ phiếu GAS *(Published — Final-cach-mua-co-phieu-gas.md)*
+- ✅ Cách mua cổ phiếu POW *(Published — Final-cach-mua-co-phieu-pow.md)*
+- ✅ Cách mua cổ phiếu VJC *(Published — Final-cach-mua-co-phieu-vjc.md)*
+- ✅ Cách mua cổ phiếu GVR *(Published — Final-cach-mua-co-phieu-gvr.md)*
+- ✅ Cách mua cổ phiếu BID *(Published — Final-cach-mua-co-phieu-bid.md)*
+- ✅ Cách mua cổ phiếu CTG *(Published — Final-cach-mua-co-phieu-ctg.md)*
+- ✅ Cách mua cổ phiếu HDB *(Published — Final-cach-mua-co-phieu-hdb.md)*
 - ⭕ Cách mua cổ phiếu SHB *(Planned)*
 - ⭕ Cách mua cổ phiếu STB *(Planned)*
 - ⭕ Cách mua cổ phiếu TPB *(Planned)*

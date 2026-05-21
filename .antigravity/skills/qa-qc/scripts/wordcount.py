@@ -29,8 +29,8 @@ def count_words_vn(text: str) -> int:
     Đếm từ tiếng Việt: tách theo khoảng trắng, loại bỏ ký tự markdown
     (**, *, #, [], (), ---) và YAML frontmatter.
     """
-    # Bỏ YAML frontmatter
-    text = re.sub(r'^---[\s\S]*?---\n', '', text, flags=re.MULTILINE)
+    # Bỏ YAML frontmatter ở đầu file (chỉ khớp ở đầu chuỗi)
+    text = re.sub(r'^---[\s\S]*?---\r?\n', '', text)
     # Bỏ markdown links [text](url)
     text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)
     # Bỏ ký tự markdown còn lại
@@ -112,7 +112,7 @@ def parse_outline_targets(outline_path: Path) -> dict[str, dict]:
             continue
         heading = heading_match.group(1).strip()
 
-        wc_match = re.search(r'[-*]\s*\*{0,2}Word_Count\*{0,2}:\s*(\d+)', block)
+        wc_match = re.search(r'[-*]\s*\*{0,2}Word_Count\*{0,2}(?::\*{0,2}|\*{0,2}:)\s*(\d+)', block)
         if not wc_match:
             continue
         target = int(wc_match.group(1))

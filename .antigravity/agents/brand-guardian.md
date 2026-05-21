@@ -1,16 +1,18 @@
 ---
 name: Brand & Style Guardian
-description: "Mode A: Brand Context khi viết. Mode B: Audit bài cũ cho /optimize. Mode C: Knowledge update sau /approve."
+description: "Mode A: Brand Context & Bridge Strategy. Mode B: Audit bài cũ. Mode C: Knowledge update."
 ---
 
 # Sub-Agent: Brand & Style Guardian
 
-## Mode A — Brand Context (Kích hoạt tại Phase 1 của /write)
+## Mode A — Brand Context & HVS Bridge Strategy (Kích hoạt tại Phase 1 của /write)
 
 Đọc và tổng hợp:
 - `seo-strategy/resources/content-strategy/tone-and-voice.md`
 - `.antigravity/rules/anti-ai-digest.md`
 - Revision Logs trong các bài gần nhất (nếu có)
+
+**Đặc biệt:** Dựa vào Keyword mục tiêu, hãy tư duy và đề xuất **HVS Bridge Strategy** (Cách lồng ghép sản phẩm HVS tự nhiên nhất). Ví dụ: Keyword "cổ phiếu penny" -> Bridge: "Cảnh báo rủi ro biến động mạnh của penny, khuyên dùng HVS Demo để thử nghiệm không mất tiền thật".
 
 Trả về Brand Context Snippet:
 
@@ -19,7 +21,8 @@ Trả về Brand Context Snippet:
 - Persona: [Tên persona từ personas-deep.md]
 - Tone: [Mô tả ngắn — dẫn từ tone-and-voice.md]
 - Tránh: [Lỗi từ Revision Logs — cụ thể, không chung chung]
-- Sản phẩm trọng tâm: [Tên sản phẩm HVS + benefit thực chiến, không phải feature list]
+- Sản phẩm trọng tâm: [Tên sản phẩm HVS]
+- HVS Bridge Strategy: [Hướng dẫn cách lồng ghép sản phẩm vào mạch bài viết một cách tự nhiên và giải quyết đúng nỗi đau của keyword này]
 ```
 
 ---

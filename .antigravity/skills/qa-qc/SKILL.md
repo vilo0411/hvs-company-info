@@ -28,7 +28,12 @@ Mục tiêu: PASS trong ≤2 vòng. Nếu cần >2 vòng → vấn đề ở Bri
 ### SEO Structure & Holistic (Koray Gübür)
 - [ ] H1 chứa keyword chính xác & ≤65 ký tự?
 - [ ] Sapo: keyword xuất hiện trong 100 từ đầu & ≤150 từ?
-- [ ] **Formatting Diversity (BẮT BUỘC):** Bài viết sử dụng linh hoạt các định dạng: đoạn văn ngắn, danh sách bullet/numbered lists cho các quy trình và ít nhất một bảng so sánh Markdown Table để trực quan hóa?
+- [ ] **Formatting Diversity (BẮT BUỘC):**
+  - [ ] Không có đoạn văn nào dài >4 câu hoặc >80 từ?
+  - [ ] Không có quá 2 đoạn văn bản thông thường nằm liền kề nhau mà không có danh sách hoặc bảng ngắt quãng?
+  - [ ] Toàn bộ các quy trình, bước thực hiện bắt buộc phải viết dưới dạng danh sách (bullet/numbered lists)?
+  - [ ] Có ít nhất một bảng so sánh hoặc đối chiếu dữ liệu (Markdown Table) cho mỗi 1000 từ?
+  - [ ] Các công thức tính toán hoặc minh họa số liệu được trình bày bằng ký hiệu toán học ($...$ hoặc $$...$$)?
 - [ ] **Word Sequence:** Thực thể quan trọng nằm ở 5-7 từ đầu câu? (Rule 1)
 - [ ] **Direct Answers:** Câu đầu tiên dưới mỗi H2 trả lời trực tiếp cho Heading? (Rule 9/12)
 - [ ] **Bolding:** Chỉ bôi đậm câu trả lời/giá trị cốt lõi (không bold keyword)? (Rule 13)

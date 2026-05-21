@@ -1,10 +1,10 @@
 ---
 name: SEO SERP Research & Analysis
-description: Cào dữ liệu đối thủ tại Phase 1. Kích hoạt bởi SEO Collector Agent trong luồng /write (có SERP).
+description: Cào dữ liệu đối thủ và phân tích chiến lược nội dung. Kích hoạt bởi SEO & Strategy Collector trong luồng /write.
 ---
 # Skill: SEO SERP Research & Analysis
 
-Kỹ năng này cho phép Agent thực hiện nghiên cứu chuyên sâu về đối thủ cạnh tranh trên công cụ tìm kiếm và trả về dữ liệu cấu trúc sạch.
+Kỹ năng này cho phép Agent thực hiện nghiên cứu chuyên sâu về đối thủ cạnh tranh trên công cụ tìm kiếm, phân tích mạch logic (Narrative Flow) và đề xuất cấu trúc bài viết linh hoạt.
 
 ---
 
@@ -17,24 +17,36 @@ Kỹ năng này cho phép Agent thực hiện nghiên cứu chuyên sâu về đ
 
 ## Định dạng Output (Standardized Context Snippet)
 
-Mọi kết quả trả về phải tuân thủ cấu trúc sau để Main Agent có thể đọc tự động:
+Mọi kết quả trả về phải tuân thủ cấu trúc sau để Main Agent có thể đọc và viết bài tự động:
 
 ```json
 {
   "keyword": "từ khóa mục tiêu",
   "intent": {
     "primary": "Informational/Commercial/...",
-    "secondary": ["intent 1", "intent 2"]
+    "secondary": ["intent 1", "intent 2"],
+    "deep_pain_point": "Nỗi đau thực sự user muốn giải quyết là gì?"
   },
-  "archetype": "Loại bài viết (Guide, News, ...)",
-  "style": "Văn phong (Chuyên nghiệp, Gần gũi, ...)",
-  "competitor_outline": [
-    { "url": "link đối thủ", "headings": ["H1", "H2", "H3..."] }
+  "competitor_analysis": [
+    {
+      "url": "link đối thủ top 1",
+      "narrative_flow": "Mạch logic của bài viết này là gì? (Ví dụ: Định nghĩa -> Phân loại -> So sánh -> Ví dụ -> CTA)",
+      "gaps": "Phần nào họ nói hời hợt hoặc bỏ sót?"
+    }
   ],
-  "paa": ["Câu hỏi People Also Ask"],
-  "entities": ["Thực thể quan trọng trong ngành"],
-  "lexicon": ["Thuật ngữ chuyên môn từ nguồn uy tín"],
-  "gaps": ["Các điểm đối thủ chưa nói tới hoặc nói sơ sài"]
+  "entities": ["Thực thể quan trọng trong ngành", "LSI Keywords"],
+  "recommended_unique_structure": [
+    {
+      "heading": "H2: [Tên heading gợi ý]",
+      "focus": "Trọng tâm cần viết (Ví dụ: Giải thích trực diện khái niệm, dùng ví dụ VCB)",
+      "is_hvs_bridge": false
+    },
+    {
+      "heading": "H2: [Tên heading lồng ghép HVS]",
+      "focus": "Điểm chạm để giới thiệu HVS Demo hoặc giải pháp",
+      "is_hvs_bridge": true
+    }
+  ]
 }
 ```
 
@@ -48,4 +60,4 @@ Mọi kết quả trả về phải tuân thủ cấu trúc sau để Main Agent
 
 ## Kích hoạt
 
-Skill này được gọi bởi **SEO Collector Agent** tại Phase 1 của `/write` (khi có SERP research).
+Skill này được gọi bởi **SEO & Strategy Collector** tại Phase 1 của `/write` (khi có SERP research).

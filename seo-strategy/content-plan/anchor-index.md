@@ -17,3 +17,27 @@
 | [Final-co-phieu-penny-la-gi.md](content/blog/3-finalized/Final-co-phieu-penny-la-gi.md) | cổ phiếu penny là gì | cổ phiếu vốn hóa nhỏ, mã cổ phiếu trà đá, rủi rỏ khi đầu tư penny, đầu cơ cổ phiếu giá rẻ |
 | [Final-tam-ly-dau-tu-chung-khoan.md](content/blog/3-finalized/Final-tam-ly-dau-tu-chung-khoan.md) | tâm lý đầu tư chứng khoán | kiểm soát cảm xúc khi giao dịch, lỗi tâm lý FOMO và hoảng loạn, tư duy đầu tư vững vàng, tài chính hành vi |
 | [Final-khoa-hoc-chung-khoan.md](content/blog/3-finalized/Final-khoa-hoc-chung-khoan.md) | khóa học chứng khoán | đào tạo đầu tư thực chiến, học chứng khoán cho người mới, chương trình HVS Thực tập số, lớp học phân tích kỹ thuật/cơ bản |
+| [Final-cach-mua-co-phieu-bcm.md](content/blog/3-finalized/Final-cach-mua-co-phieu-bcm.md) | cách mua cổ phiếu bcm | hướng dẫn mua cổ phiếu BCM, mua cổ phiếu BCM ở đâu, đầu tư cổ phiếu BCM, sở hữu cổ phiếu BCM |
+| [Final-cach-mua-co-phieu-bvh.md](content/blog/3-finalized/Final-cach-mua-co-phieu-bvh.md) | cách mua cổ phiếu bvh | hướng dẫn mua cổ phiếu BVH, mua cổ phiếu BVH ở đâu, đầu tư cổ phiếu BVH, sở hữu cổ phiếu BVH |
+| [Final-cach-mua-co-phieu-flc.md](content/blog/3-finalized/Final-cach-mua-co-phieu-flc.md) | cách mua cổ phiếu flc | hướng dẫn mua cổ phiếu FLC, mua cổ phiếu FLC ở đâu, đầu tư cổ phiếu FLC, sở hữu cổ phiếu FLC |
+| [Final-cach-mua-co-phieu-ipo.md](content/blog/3-finalized/Final-cach-mua-co-phieu-ipo.md) | cách mua cổ phiếu ipo | hướng dẫn mua cổ phiếu IPO, mua cổ phiếu IPO ở đâu, đầu tư cổ phiếu IPO, sở hữu cổ phiếu IPO |
+| [Final-cach-mua-co-phieu-mwg.md](content/blog/3-finalized/Final-cach-mua-co-phieu-mwg.md) | cách mua cổ phiếu mwg | hướng dẫn mua cổ phiếu MWG, mua cổ phiếu Thế Giới Di Động, hướng dẫn mua cổ phiếu MWG, mã chứng khoán MWG |
+| [Final-cach-mua-co-phieu-acb.md](content/blog/3-finalized/Final-cach-mua-co-phieu-acb.md) | cách mua cổ phiếu acb | hướng dẫn mua cổ phiếu ACB, mua cổ phiếu ACB ở đâu, đầu tư cổ phiếu ACB, sở hữu cổ phiếu ACB |
+| [Final-cach-mua-co-phieu-nvl.md](content/blog/3-finalized/Final-cach-mua-co-phieu-nvl.md) | cách mua cổ phiếu nvl | hướng dẫn mua cổ phiếu NVL, mua cổ phiếu NVL ở đâu, đầu tư cổ phiếu NVL, sở hữu cổ phiếu NVL |
+| [Final-cach-mua-co-phieu-pdr.md](content/blog/3-finalized/Final-cach-mua-co-phieu-pdr.md) | cách mua cổ phiếu pdr | hướng dẫn mua cổ phiếu PDR, mua cổ phiếu PDR ở đâu, đầu tư cổ phiếu PDR, sở hữu cổ phiếu PDR |
+| [Final-cach-mua-co-phieu-tren-san-hose.md](content/blog/3-finalized/Final-cach-mua-co-phieu-tren-san-hose.md) | cách mua cổ phiếu trên sàn HOSE | giao dịch trên sàn HOSE, Hướng dẫn mua cổ phiếu HOSE, quy định giao dịch sàn HOSE, lô tối thiểu HOSE |
+| [Final-cach-mua-co-phieu-vingroup.md](content/blog/3-finalized/Final-cach-mua-co-phieu-vingroup.md) | cách mua cổ phiếu vingroup | cổ phiếu VIC, mua cổ phiếu Vingroup ở đâu, cách mua cổ phiếu VIC, mở tài khoản mua cổ phiếu Vingroup |
+| [Final-cach-mua-co-phieu-ssi.md](content/blog/3-finalized/Final-cach-mua-co-phieu-ssi.md) | cách mua cổ phiếu ssi | Hướng dẫn cách mua cổ phiếu SSI, mua cổ phiếu SSI ở đâu, đầu tư cổ phiếu SSI, mã chứng khoán SSI |
+| [Final-cach-mua-co-phieu-pvd.md](content/blog/3-finalized/Final-cach-mua-co-phieu-pvd.md) | cách mua cổ phiếu pvd | hướng dẫn mua cổ phiếu PVD, mua cổ phiếu PVD ở đâu, đầu tư cổ phiếu PVD, mã chứng khoán PVD |
+| [Final-cach-mua-co-phieu-vhm.md](content/blog/3-finalized/Final-cach-mua-co-phieu-vhm.md) | cách mua cổ phiếu vhm | hướng dẫn mua cổ phiếu VHM, mua cổ phiếu Vinhomes ở đâu, đầu tư cổ phiếu Vinhomes, mã chứng khoán VHM |
+| [Final-cach-mua-co-phieu-techcombank.md](content/blog/3-finalized/Final-cach-mua-co-phieu-techcombank.md) | cách mua cổ phiếu techcombank | hướng dẫn mua cổ phiếu Techcombank, mua cổ phiếu Techcombank ở đâu, đầu tư cổ phiếu Techcombank, mã chứng khoán TCB |
+| [Final-cach-mua-co-phieu-vfs.md](content/blog/3-finalized/Final-cach-mua-co-phieu-vfs.md) | cách mua cổ phiếu VFS | hướng dẫn mua cổ phiếu VFS, mua cổ phiếu VinFast ở đâu, đầu tư cổ phiếu VinFast, mã chứng khoán VFS |
+
+
+
+
+
+
+
+
+
