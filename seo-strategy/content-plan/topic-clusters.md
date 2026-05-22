@@ -1,6 +1,6 @@
 # Topic Clusters — HVS SEO Content Map
 > Cập nhật: 2026-05-14 | Nguồn: keyword-hvs.csv (491 articles)
-> ✅ Published: 85 | 🔄 In Progress: 1 | ⭕ Planned: 405
+> ✅ Published: 101 | 🔄 In Progress: 0 | ⭕ Planned: 389
 
 ---
 
@@ -24,20 +24,20 @@
 - ✅ chỉ số chứng khoán thế giới *(Published — Final-chi-so-chung-khoan-the-gioi.md)*
 - ⭕ chỉ số hang seng là gì *(Planned)*
 
-### Cluster: Chứng chỉ quỹ (8 articles | ✅ 1 | 🔄 0 | ⭕ 7)
+### Cluster: Chứng chỉ quỹ (8 articles | ✅ 7 | 🔄 0 | ⭕ 1)
 
 **Pillar:** ✅ etf là gì *(Published — Final-etf-la-gi.md)*
 
 **Priority 1:**
-- ⭕ Quỹ mở là gì *(Planned)*
-- ⭕ Nên đầu tư quỹ mở hay quỹ etf *(Planned)*
+- ✅ Quỹ mở là gì *(Published — Final-quy-mo-la-gi.md)*
+- ✅ Nên đầu tư quỹ mở hay quỹ etf *(Published — Final-nen-dau-tu-quy-mo-hay-quy-etf.md)*
 - ⭕ đầu tư etf *(Planned)*
-- ⭕ quỹ etf tại việt nam *(Planned)*
-- ⭕ quy trình hoán đổi danh mục ETF *(Planned)*
-- ⭕ Nên đầu tư quỹ ETF nào *(Planned)*
-- ⭕ Phân biệt quỹ ETF và quỹ tương hỗ *(Planned)*
+- ✅ quỹ etf tại việt nam *(Published — Final-quy-etf-tai-viet-nam.md)*
+- ✅ quy trình hoán đổi danh mục ETF *(Published — Final-quy-trinh-hoan-doi-danh-muc-etf.md)*
+- ✅ Nên đầu tư quỹ ETF nào *(Published — Final-nen-dau-tu-quy-etf-nao.md)*
+- ✅ Phân biệt quỹ ETF và quỹ tương hỗ *(Published — Final-phan-biet-quy-etf-va-quy-tuong-ho.md)*
 
-### Cluster: Cách mua cổ phiếu (34 articles | ✅ 28 | 🔄 0 | ⭕ 6)
+### Cluster: Cách mua cổ phiếu (34 articles | ✅ 34 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ Cách mua cổ phiếu VCB *(Published — Final-cach-mua-co-phieu-vcb.md)*
 
@@ -69,12 +69,12 @@
 - ✅ Cách mua cổ phiếu BID *(Published — Final-cach-mua-co-phieu-bid.md)*
 - ✅ Cách mua cổ phiếu CTG *(Published — Final-cach-mua-co-phieu-ctg.md)*
 - ✅ Cách mua cổ phiếu HDB *(Published — Final-cach-mua-co-phieu-hdb.md)*
-- ⭕ Cách mua cổ phiếu SHB *(Planned)*
-- ⭕ Cách mua cổ phiếu STB *(Planned)*
-- ⭕ Cách mua cổ phiếu TPB *(Planned)*
-- ⭕ Cách mua cổ phiếu VIB *(Planned)*
-- ⭕ Cách mua cổ phiếu MSN *(Planned)*
-- ⭕ Cách mua cổ phiếu SAB *(Planned)*
+- ✅ Cách mua cổ phiếu SHB *(Published — Final-cach-mua-co-phieu-shb.md)*
+- ✅ Cách mua cổ phiếu STB *(Published — Final-cach-mua-co-phieu-stb.md)*
+- ✅ Cách mua cổ phiếu TPB *(Published — Final-cach-mua-co-phieu-tpb.md)*
+- ✅ Cách mua cổ phiếu VIB *(Published — Final-cach-mua-co-phieu-vib.md)*
+- ✅ Cách mua cổ phiếu MSN *(Published — Final-cach-mua-co-phieu-msn.md)*
+- ✅ Cách mua cổ phiếu SAB *(Published — Final-cach-mua-co-phieu-sab.md)*
 
 ### Cluster: Cách đầu tư (6 articles | ✅ 5 | 🔄 0 | ⭕ 1)
 
@@ -87,9 +87,9 @@
 - ✅ cách đầu tư chứng khoán phái sinh *(Published — Final-cach-dau-tu-chung-khoan-phai-sinh.md)*
 - ✅ cách đầu tư chứng khoán với số vốn nhỏ *(Published — Final-cach-dau-tu-chung-khoan-voi-so-von-nho.md)*
 
-### Cluster: Có nên mua cổ phiếu (30 articles | ✅ 0 | 🔄 0 | ⭕ 30)
+### Cluster: Có nên mua cổ phiếu (30 articles | ✅ 1 | 🔄 0 | ⭕ 29)
 
-**Pillar:** ⭕ Có nên mua cổ phiếu POW *(Planned)*
+**Pillar:** ✅ Có nên mua cổ phiếu POW *(Published — Final-co-nen-mua-co-phieu-pow.md)*
 
 **Priority 1:**
 - ⭕ Có nên mua cổ phiếu HPG *(Planned)*
@@ -122,7 +122,7 @@
 - ⭕ Có nên mua cổ phiếu MWG *(Planned)*
 - ⭕ Có nên mua cổ phiếu SBT *(Planned)*
 
-### Cluster: Cổ phiếu (25 articles | ✅ 4 | 🔄 0 | ⭕ 21)
+### Cluster: Cổ phiếu (25 articles | ✅ 5 | 🔄 0 | ⭕ 20)
 
 **Pillar:** ✅ Cổ tức là gì *(Published — Final-co-tuc-la-gi.md)*
 
@@ -150,11 +150,11 @@
 - ⭕ cổ phiếu ưu đãi là gì *(Planned)*
 - ✅ cổ phiếu penny là gì *(Published — Final-co-phieu-penny-la-gi.md)*
 - ⭕ mid cap là gì *(Planned)*
-- ⭕ blue chip là gì *(Planned)*
+- ✅ blue chip là gì *(Published — Final-co-phieu-blue-chip-la-gi.md)*
 
-### Cluster: Cổ phiếu ngành (29 articles | ✅ 0 | 🔄 0 | ⭕ 29)
+### Cluster: Cổ phiếu ngành (29 articles | ✅ 1 | 🔄 0 | ⭕ 28)
 
-**Pillar:** ⭕ cổ phiếu đầu cơ *(Planned)*
+**Pillar:** ✅ cổ phiếu đầu cơ *(Published — Final-co-phieu-dau-co.md)*
 
 **Priority 1:**
 - ⭕ cổ phiếu dầu khí *(Planned)*
@@ -589,9 +589,9 @@
 
 ## Group: Chứng chỉ quỹ (2 articles)
 
-### Cluster: Chứng chỉ quỹ (2 articles | ✅ 1 | 🔄 0 | ⭕ 1)
+### Cluster: Chứng chỉ quỹ (2 articles | ✅ 2 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ chứng chỉ quỹ là gì *(Published — Final-chung-chi-quy-la-gi.md)*
 
 **Priority 1:**
-- ⭕ chứng chỉ quỹ tốt nhất hiện nay *(Planned)*
+- ✅ chứng chỉ quỹ tốt nhất hiện nay *(Published — Final-chung-chi-quy-tot-nhat-hien-nay.md)*

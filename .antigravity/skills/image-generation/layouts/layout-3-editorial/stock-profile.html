@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>HVS - Layout 3 Editorial — Stock Profile</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        :root { --primary:#311B92; --secondary:#00838F; --accent:#00E5FF; --industry-accent:#FFD600; --dark:#0A0A12; }
+        *{box-sizing:border-box;margin:0;padding:0;font-family:'Plus Jakarta Sans',Arial,sans-serif;}
+        body{display:flex;justify-content:center;align-items:center;min-height:100vh;background:#050508;}
+
+        .template-container{width:1000px;height:562px;overflow:hidden;position:relative;display:flex;flex-direction:column;border:1px solid rgba(255,255,255,0.08);box-shadow:0 40px 100px rgba(0,0,0,0.9);}
+
+        /* TOP: Photo strip 58% */
+        .photo-strip{position:relative;height:58%;overflow:hidden;flex-shrink:0;}
+        .photo-strip img{width:100%;height:100%;object-fit:cover;object-position:center 40%;display:block;}
+        .photo-strip::after{content:'';position:absolute;bottom:0;left:0;right:0;height:65%;background:linear-gradient(to bottom,transparent,rgba(10,10,18,0.88) 70%,var(--dark) 100%);}
+
+        /* Brand + badge header over photo */
+        .photo-header{position:absolute;top:0;left:0;right:0;padding:24px 36px;display:flex;justify-content:space-between;align-items:center;z-index:10;background:linear-gradient(to bottom,rgba(8,8,16,0.7),transparent);}
+        .brand-logo{display:flex;align-items:center;gap:9px;}
+        .brand-logo img{height:24px;width:24px;object-fit:contain;}
+        .brand-name{font-size:11px;font-weight:800;color:rgba(255,255,255,0.45);text-transform:uppercase;letter-spacing:1.5px;}
+        /* CỔNG CHỜ: badge màu ngành */
+        .industry-badge{font-size:11px;font-weight:800;color:var(--industry-accent);background:rgba(255,214,0,0.12);border:1px solid rgba(255,214,0,0.28);padding:5px 13px;border-radius:100px;text-transform:uppercase;letter-spacing:0.5px;}
+
+        /* Ticker + company name overlaid bottom of photo */
+        .ticker-overlay{position:absolute;bottom:20px;left:36px;z-index:10;display:flex;align-items:flex-end;gap:16px;}
+        /* CỔNG CHỜ: mã cổ phiếu — dùng .ac cho chữ neon */
+        .stock-ticker{font-size:80px;font-weight:900;line-height:1;letter-spacing:-4px;color:#FFF;}
+        .stock-ticker .ac{color:var(--industry-accent);text-shadow:0 0 40px rgba(255,214,0,0.7);}
+        .ticker-meta{display:flex;flex-direction:column;gap:5px;padding-bottom:7px;}
+        /* CỔNG CHỜ: tên công ty */
+        .company-name-sm{font-size:11px;font-weight:700;color:rgba(255,255,255,0.5);text-transform:uppercase;letter-spacing:1.5px;}
+        .exchange-tag{display:inline-block;font-size:10px;font-weight:700;color:rgba(255,255,255,0.45);background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);padding:3px 9px;border-radius:4px;text-transform:uppercase;}
+
+        /* BOTTOM: Dark data bar */
+        .data-bar{flex-grow:1;background:var(--dark);padding:18px 36px;display:flex;align-items:center;justify-content:space-between;gap:16px;border-top:1px solid rgba(255,255,255,0.06);position:relative;}
+        .data-bar::before{content:'';position:absolute;top:-1px;left:36px;width:100px;height:2px;background:linear-gradient(to right,var(--industry-accent),transparent);}
+
+        /* Description left */
+        .desc-block{flex:1;max-width:260px;}
+        /* CỔNG CHỜ: mô tả 1-2 dòng */
+        .stock-desc{font-size:12px;color:rgba(255,255,255,0.5);line-height:1.65;}
+
+        /* Vertical divider */
+        .vdivider{width:1px;height:56px;background:rgba(255,255,255,0.07);flex-shrink:0;}
+
+        /* Metrics strip center */
+        .metrics{display:flex;flex:2;}
+        .metric{flex:1;text-align:center;padding:0 14px;border-right:1px solid rgba(255,255,255,0.06);}
+        .metric:last-child{border-right:none;}
+        .metric-label{font-size:10px;font-weight:700;color:rgba(255,255,255,0.3);text-transform:uppercase;letter-spacing:0.8px;margin-bottom:5px;}
+        /* CỔNG CHỜ: giá trị metric */
+        .metric-value{font-size:22px;font-weight:900;color:#FFF;letter-spacing:-0.5px;}
+        .metric-sub{font-size:10px;color:rgba(255,255,255,0.28);margin-top:3px;}
+
+        /* Footer branding */
+        .footer-brand{flex-shrink:0;text-align:right;}
+        .dot{width:4px;height:4px;border-radius:50%;background:var(--accent);box-shadow:0 0 8px var(--accent);display:inline-block;margin-right:6px;}
+        .footer-text{font-size:10px;font-weight:700;color:rgba(255,255,255,0.18);text-transform:uppercase;letter-spacing:1px;}
+    </style>
+</head>
+<body>
+    <div class="template-container">
+
+        <!-- TOP: Photo Strip -->
+        <div class="photo-strip">
+            <!-- CỔNG CHỜ: thay src theo mã cổ phiếu -->
+            <img src="../../assets/company-photos/POW.png" alt="POW">
+
+            <div class="photo-header">
+                <div class="brand-logo">
+                    <img src="../../assets/favicon.ico" alt="HVS Logo">
+                    <span class="brand-name">HVS Tài Chính Số</span>
+                </div>
+                <!-- CỔNG CHỜ: tên ngành -->
+                <span class="industry-badge">Ngành Năng lượng</span>
+            </div>
+
+            <div class="ticker-overlay">
+                <!-- CỔNG CHỜ: mã cổ phiếu -->
+                <div class="stock-ticker">P<span class="ac">O</span>W</div>
+                <div class="ticker-meta">
+                    <!-- CỔNG CHỜ: tên công ty + sàn -->
+                    <span class="company-name-sm">Tổng Công ty Điện lực Dầu khí VN</span>
+                    <span class="exchange-tag">HOSE · Niêm yết 2018</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- BOTTOM: Data Bar -->
+        <div class="data-bar">
+
+            <!-- Description -->
+            <div class="desc-block">
+                <!-- CỔNG CHỜ: mô tả 1-2 dòng -->
+                <p class="stock-desc">Nhà sản xuất điện khí lớn nhất VN, đang triển khai dự án Nhơn Trạch 3 &amp; 4 (3.150 MW)</p>
+            </div>
+
+            <div class="vdivider"></div>
+
+            <!-- CỔNG CHỜ: thay 3 metric theo mã cổ phiếu -->
+            <div class="metrics">
+                <div class="metric">
+                    <div class="metric-label">Vốn hóa</div>
+                    <div class="metric-value">28.6K</div>
+                    <div class="metric-sub">Tỷ đồng</div>
+                </div>
+                <div class="metric">
+                    <div class="metric-label">Biên độ</div>
+                    <div class="metric-value">±7%</div>
+                    <div class="metric-sub">Quy định HOSE</div>
+                </div>
+                <div class="metric">
+                    <div class="metric-label">Ngành</div>
+                    <div class="metric-value" style="font-size:16px;padding-top:4px;">Điện khí</div>
+                    <div class="metric-sub">Năng lượng tái tạo</div>
+                </div>
+            </div>
+
+            <div class="vdivider"></div>
+
+            <div class="footer-brand">
+                <div class="dot"></div>
+                <!-- CỔNG CHỜ: thay mã cổ phiếu -->
+                <span class="footer-text">Phân tích POW · hvs.vn</span>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

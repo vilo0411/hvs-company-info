@@ -58,14 +58,14 @@ Internal_Links: []
 
 ### H1: Cổ phiếu Blue Chip là gì? Tiêu chí và Danh sách các mã hàng đầu 2026
 
-#### H2: Cổ phiếu blue chip là gì? Nguồn gốc và Định nghĩa
+#### H2: Cổ phiếu blue chip là gì?
 - **Nhiệm vụ/Trọng tâm:** Giải thích trực diện định nghĩa, nguồn gốc từ vựng (chip xanh trong poker là mệnh giá cao nhất).
 - **HVS Bridge:** Không.
 - **Entities & Keywords:** [cổ phiếu blue chip là gì, vốn hóa lớn, công ty đầu ngành]
 - **Direct Answer:** Cổ phiếu blue chip là loại cổ phiếu được phát hành bởi các công ty có vốn hóa lớn, tài chính vững mạnh, dẫn đầu trong ngành và có lịch sử trả cổ tức đều đặn qua nhiều năm.
 - **Word_Count:** 200
 
-#### H2: 4 Đặc điểm "nhận diện" một cổ phiếu Blue Chip chuẩn
+#### H2: 4 Tiêu chí nhận diện cổ phiếu Blue Chip chuẩn
 - **Nhiệm vụ/Trọng tâm:** Thay vì liệt kê chung chung, đưa ra các con số tiêu chuẩn thực tế tại Việt Nam (Ví dụ: Vốn hóa >10.000 tỷ, nằm trong rổ VN30, lịch sử lãi >5 năm liên tiếp).
 - **HVS Bridge:** Không.
 - **Entities & Keywords:** [VN30, vốn hóa, thanh khoản, cổ tức đều đặn]

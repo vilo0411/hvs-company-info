@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HVS Tài Chính Số - Definition Template Reference</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #311B92;
+            /* Tím đậm HVS */
+            --secondary: #00838F;
+            /* Xanh ngọc Teal */
+            --accent: #00E5FF;
+            /* Cyan Neon */
+            --bg-dark: #121212;
+            /* Nền carbon tối */
+            --card-glass: rgba(255, 255, 255, 0.03);
+            --card-border: rgba(255, 255, 255, 0.08);
+            --neon-green: #00E676;
+            /* Xanh lá neon tăng trưởng */
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Plus Jakarta Sans', 'Segoe UI', Arial, sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: var(--bg-dark);
+        }
+
+        /* Khung ảnh 16:9 chuẩn */
+        .template-container {
+            width: 1000px;
+            height: 562px;
+            background-color: #151419;
+            overflow: hidden;
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.7);
+            border: 1px solid var(--card-border);
+            padding: 44px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            position: relative;
+        }
+
+        /* Background glows */
+        .glow {
+            position: absolute;
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            filter: blur(100px);
+            opacity: 0.15;
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        .glow-1 {
+            background-color: var(--primary);
+            top: -50px;
+            left: -50px;
+        }
+
+        .glow-2 {
+            background-color: var(--secondary);
+            bottom: -50px;
+            right: -50px;
+        }
+
+        /* 1. Header */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 10;
+        }
+
+        .brand-logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .brand-logo img {
+            height: 32px;
+            width: 32px;
+            object-fit: contain;
+        }
+
+        .brand-name {
+            font-weight: 800;
+            font-size: 22px;
+            color: #FFFFFF;
+            letter-spacing: -0.5px;
+        }
+
+        .header-tag {
+            font-size: 12px;
+            font-weight: 700;
+            color: var(--accent);
+            background: rgba(0, 229, 255, 0.15);
+            border: 1px solid rgba(0, 229, 255, 0.25);
+            padding: 6px 14px;
+            border-radius: 100px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* 2. Content Body */
+        .content-body {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-grow: 1;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            z-index: 10;
+            height: 100%;
+        }
+
+        /* Định nghĩa bên trái */
+        .definition-left {
+            width: 52%;
+        }
+
+        .term-tag {
+            display: inline-block;
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            color: #FFFFFF;
+            padding: 6px 14px;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 800;
+            margin-bottom: 16px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .definition-title {
+            font-size: 40px;
+            font-weight: 900;
+            color: #FFFFFF;
+            line-height: 1.2;
+            text-transform: uppercase;
+            letter-spacing: -1px;
+            margin-bottom: 16px;
+        }
+
+        .definition-title span {
+            color: var(--accent);
+            text-shadow: 0 0 20px rgba(0, 229, 255, 0.3);
+        }
+
+        .definition-text {
+            font-size: 16px;
+            color: rgba(255, 255, 255, 0.75);
+            line-height: 1.6;
+        }
+
+        /* Mảng bên phải - Tổng hợp các Widget linh hoạt */
+        .definition-right {
+            width: 42%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* --- WIDGET 1: GIỎ CỔ PHIẾU CHỈ SỐ (Mặc định hiển thị cho ETF) --- */
+        .widget-basket {
+            display: flex;
+            /* Dùng flex để dễ bật tắt display: none/flex */
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            background: var(--card-glass);
+            border: 1px solid var(--card-border);
+            padding: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .basket-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: #FFFFFF;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .stocks-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+            width: 100%;
+        }
+
+        .stock-item {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 8px;
+            padding: 12px 6px;
+            text-align: center;
+            font-size: 14px;
+            font-weight: 800;
+            color: #FFFFFF;
+        }
+
+        .stock-item.highlight {
+            background: rgba(0, 229, 255, 0.1);
+            border-color: var(--accent);
+            color: var(--accent);
+            box-shadow: 0 0 15px rgba(0, 229, 255, 0.2);
+        }
+
+        /* --- WIDGET 2: THẺ CỔ PHIẾU ĐƠN LẺ (Cho các bài cổ phiếu cụ thể) --- */
+        .widget-single-stock {
+            display: none;
+            /* Ẩn mặc định, hiển thị khi cần */
+            flex-direction: column;
+            width: 100%;
+            background: var(--card-glass);
+            border: 1px solid var(--card-border);
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+            position: relative;
+        }
+
+        .stock-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+            padding-bottom: 12px;
+            margin-bottom: 16px;
+        }
+
+        .stock-code-big {
+            font-size: 28px;
+            font-weight: 900;
+            color: #FFFFFF;
+            letter-spacing: -0.5px;
+        }
+
+        .stock-exchange {
+            font-size: 11px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.4);
+            background: rgba(255, 255, 255, 0.05);
+            padding: 4px 8px;
+            border-radius: 4px;
+            text-transform: uppercase;
+        }
+
+        .stock-price-block {
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+
+        .stock-price-val {
+            font-size: 36px;
+            font-weight: 800;
+            color: var(--neon-green);
+        }
+
+        .stock-price-change {
+            font-size: 14px;
+            font-weight: 700;
+            color: var(--neon-green);
+        }
+
+        .stock-stats-row {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+        }
+
+        .stock-stat-box {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.04);
+            border-radius: 8px;
+            padding: 10px;
+        }
+
+        .stat-box-lbl {
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.4);
+            margin-bottom: 4px;
+            font-weight: 600;
+        }
+
+        .stat-box-val {
+            font-size: 14px;
+            color: #FFFFFF;
+            font-weight: 700;
+        }
+
+        /* --- WIDGET 3: KHÁI NIỆM AI MINH HỌA NỀN TRONG SUỐT --- */
+        .widget-concept-icon {
+            display: none;
+            /* Ẩn mặc định, hiển thị khi nhúng ảnh minh họa khái niệm */
+            width: 100%;
+            height: 240px;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+
+        .concept-image-container {
+            width: 220px;
+            height: 220px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(0, 229, 255, 0.1) 0%, transparent 70%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 1px dashed rgba(255, 255, 255, 0.08);
+            position: relative;
+        }
+
+        /* Ảnh concept trong suốt do AI vẽ */
+        .concept-image-container img {
+            width: 80%;
+            height: 80%;
+            object-fit: contain;
+            filter: drop-shadow(0 15px 30px rgba(0, 0, 0, 0.5));
+        }
+
+        /* 3. Footer */
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.3);
+            font-weight: 600;
+            z-index: 10;
+        }
+
+        .footer-tag {
+            color: var(--accent);
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="template-container">
+        <!-- Glow Backdrops -->
+        <div class="glow glow-1"></div>
+        <div class="glow glow-2"></div>
+
+        <!-- Header -->
+        <div class="header">
+            <div class="brand-logo">
+                <img src="../assets/favicon.ico" alt="HVS Logo">
+                <div class="brand-name">HVS Tài Chính Số</div>
+            </div>
+            <div class="header-tag">Định nghĩa tài chính</div>
+        </div>
+
+        <!-- Content Body -->
+        <div class="content-body">
+            <!-- Left Side: Text definition -->
+            <div class="definition-left">
+                <span class="term-tag">Thuật ngữ chứng khoán</span>
+                <h1 class="definition-title">Quỹ <span>ETF</span> là gì?</h1>
+                <p class="definition-text">
+                    Exchange Traded Fund (Quỹ hoán đổi danh mục) là một rổ chứng khoán mô phỏng biến động của một chỉ số
+                    tham chiếu (như VN30). Giống như việc bạn mua nguyên một "giỏ trái cây cổ phiếu" thay vì mua lẻ từng
+                    quả, giúp tối ưu hóa đa dạng hóa danh mục chỉ với một chứng chỉ quỹ duy nhất.
+                </p>
+            </div>
+
+            <!-- Right Side: Flexible Widget Container -->
+            <div class="definition-right">
+
+                <!-- WIDGET 1: GIỎ CỔ PHIẾU (Mặc định cho ETF/Danh mục) -->
+                <div class="widget-basket" id="widgetBasket">
+                    <h3 class="basket-title">Giỏ cổ phiếu chỉ số</h3>
+                    <div class="stocks-grid">
+                        <div class="stock-item highlight">FPT</div>
+                        <div class="stock-item">HPG</div>
+                        <div class="stock-item highlight">VCB</div>
+                        <div class="stock-item">VNM</div>
+                        <div class="stock-item highlight">MWG</div>
+                        <div class="stock-item">TCB</div>
+                    </div>
+                </div>
+
+                <!-- WIDGET 2: THẺ CỔ PHIẾU ĐƠN LẺ (Agent có thể ẩn Widget 1 và bật Widget này bằng display: flex) -->
+                <div class="widget-single-stock" id="widgetSingleStock">
+                    <div class="stock-header">
+                        <div class="stock-code-big">VCB</div>
+                        <div class="stock-exchange">Sàn HOSE</div>
+                    </div>
+                    <div class="stock-price-block">
+                        <div class="stock-price-val">92,400</div>
+                        <div class="stock-price-change">▲ +1,200 (+1.3%)</div>
+                    </div>
+                    <div class="stock-stats-row">
+                        <div class="stock-stat-box">
+                            <div class="stat-box-lbl">Vốn hóa</div>
+                            <div class="stat-box-val">516.4K Tỷ</div>
+                        </div>
+                        <div class="stock-stat-box">
+                            <div class="stat-box-lbl">P/E</div>
+                            <div class="stat-box-val">14.2</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- WIDGET 3: ICON KHÁI NIỆM AI TRONG SUỐT (Dành cho các bài trừu tượng ví dụ: cổ tức, thanh khoản...) -->
+                <div class="widget-concept-icon" id="widgetConceptIcon">
+                    <div class="concept-image-container">
+                        <!-- Đường dẫn ảnh minh họa do AI sinh động sẽ nhúng vào đây -->
+                        <img src="../assets/favicon.ico" alt="Concept Icon">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <div>Kiến thức nền tảng vững chắc cùng HVS Securities &copy; 2026</div>
+            <div class="footer-tag">HVS TÀI CHÍNH SỐ - KIẾN THỨC LÀ SỨC MẠNH</div>
+        </div>
+    </div>
+
+</body>
+
+</html>

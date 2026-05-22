@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HVS Tài Chính Số - Comparison Template Reference</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800;900&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #311B92;
+            /* Tím đậm HVS */
+            --secondary: #00838F;
+            /* Xanh ngọc Teal */
+            --accent: #00E5FF;
+            /* Cyan Neon */
+            --dark-bg: #121212;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Plus Jakarta Sans', sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: var(--dark-bg);
+        }
+
+        /* Khung ảnh 16:9 */
+        .template-container {
+            width: 1000px;
+            height: 562px;
+            overflow: hidden;
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.6);
+            display: flex;
+            position: relative;
+            background-color: #1A1A1A;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        /* Cột bên Trái (Màu chủ đạo Tím) */
+        .left-col {
+            width: 50%;
+            height: 100%;
+            background: linear-gradient(135deg, var(--primary) 0%, #15093A 100%);
+            padding: 48px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            position: relative;
+        }
+
+        /* Cột bên Phải (Màu đối chiếu Xanh ngọc) */
+        .right-col {
+            width: 50%;
+            height: 100%;
+            background: linear-gradient(135deg, var(--secondary) 0%, #00363A 100%);
+            padding: 48px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            position: relative;
+        }
+
+        /* Line chia đôi ở giữa bóng bẩy */
+        .divider {
+            position: absolute;
+            left: 50%;
+            top: 10%;
+            bottom: 10%;
+            width: 2px;
+            background: linear-gradient(to bottom, transparent, rgba(255, 255, 255, 0.2), transparent);
+            transform: translateX(-50%);
+            z-index: 10;
+        }
+
+        /* Logo đặt ở giữa cạnh trên cùng để cân bằng */
+        .logo-center {
+            position: absolute;
+            top: 24px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 20;
+            background: rgba(18, 18, 18, 0.6);
+            backdrop-filter: blur(10px);
+            padding: 8px 16px;
+            border-radius: 30px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .logo-center img {
+            height: 20px;
+            width: 20px;
+            object-fit: contain;
+        }
+
+        .brand-text {
+            font-weight: 700;
+            font-size: 14px;
+            color: #FFFFFF;
+            letter-spacing: 0.5px;
+        }
+
+        /* Header của từng cột */
+        .col-header {
+            font-weight: 800;
+            font-size: 28px;
+            color: #FFFFFF;
+            text-transform: uppercase;
+            letter-spacing: -0.5px;
+            margin-top: 20px;
+        }
+
+        .left-col .col-header {
+            text-shadow: 0 0 20px rgba(123, 87, 224, 0.4);
+        }
+
+        .right-col .col-header {
+            text-shadow: 0 0 20px rgba(0, 229, 255, 0.4);
+        }
+
+        /* Danh sách so sánh */
+        .features-list {
+            list-style: none;
+            margin-top: 40px;
+            margin-bottom: 40px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .feature-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            font-size: 15px;
+            color: rgba(255, 255, 255, 0.85);
+            line-height: 1.5;
+        }
+
+        .bullet-icon {
+            font-weight: bold;
+            font-size: 18px;
+        }
+
+        .left-col .bullet-icon {
+            color: var(--accent);
+        }
+
+        .right-col .bullet-icon {
+            color: var(--accent);
+        }
+
+        /* Chú thích ở dưới cùng */
+        .col-footer {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.4);
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="template-container">
+
+        <!-- Logo định vị giữa -->
+        <div class="logo-center">
+            <img src="../assets/favicon.ico" alt="HVS Logo">
+            <div class="brand-text">Taichinhso</div>
+        </div>
+
+        <div class="divider"></div>
+
+        <!-- Cột Trái: Cổ phiếu Blue Chip -->
+        <div class="left-col">
+            <h2 class="col-header">Cổ phiếu Blue Chip</h2>
+
+            <ul class="features-list">
+                <li class="feature-item">
+                    <span class="bullet-icon">✓</span>
+                    <span><strong>Vốn hóa lớn:</strong> Đầu ngành, có nền tảng tài chính cực mạnh và bền vững.</span>
+                </li>
+                <li class="feature-item">
+                    <span class="bullet-icon">✓</span>
+                    <span><strong>Biến động thấp:</strong> Tăng trưởng ổn định, an toàn cao, khó bị thao túng
+                        giá.</span>
+                </li>
+                <li class="feature-item">
+                    <span class="bullet-icon">✓</span>
+                    <span><strong>Cổ tức đều đặn:</strong> Luôn chi trả cổ tức hàng năm bằng tiền mặt hoặc cổ
+                        phiếu.</span>
+                </li>
+            </ul>
+
+            <div class="col-footer">AN TOÀN & BỀN VỮNG</div>
+        </div>
+
+        <!-- Cột Phải: Cổ phiếu Penny -->
+        <div class="right-col">
+            <h2 class="col-header">Cổ phiếu Penny</h2>
+
+            <ul class="features-list">
+                <li class="feature-item">
+                    <span class="bullet-icon">✓</span>
+                    <span><strong>Vốn hóa nhỏ:</strong> Các doanh nghiệp quy mô nhỏ hoặc đang gặp khó khăn.</span>
+                </li>
+                <li class="feature-item">
+                    <span class="bullet-icon">✓</span>
+                    <span><strong>Biến động cực cao:</strong> Giá dễ tăng kịch trần hoặc giảm sàn liên tục.</span>
+                </li>
+                <li class="feature-item">
+                    <span class="bullet-icon">✓</span>
+                    <span><strong>Rủi ro tối đa:</strong> Thích hợp cho lướt sóng ngắn hạn, đầu cơ mạo hiểm.</span>
+                </li>
+            </ul>
+
+            <div class="col-footer">LỢI NHUẬN CAO - RỦI RO LỚN</div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>

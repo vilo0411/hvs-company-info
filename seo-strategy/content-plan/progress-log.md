@@ -1,8 +1,8 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 85 bài
-- **Active Pipeline:** 19 items
+- **Published:** 101 bài
+- **Active Pipeline:** 4 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
@@ -14,27 +14,28 @@
 | chỉ số nikkei là gì | Outline | `content/blog/1-outlines/Outline-chi-so-nikkei-la-gi.md` | 2026-05-13 | Cần /write |
 | chỉ số dow jones | Outline | `content/blog/1-outlines/Outline-chi-so-dow-jones.md` | 2026-05-13 | Cần /write |
 | chỉ số nasdaq là gì | Outline | `content/blog/1-outlines/Outline-chi-so-nasdaq-la-gi.md` | 2026-05-13 | Cần /write |
-| Cách mua cổ phiếu SHB | Outline | `content/blog/1-outlines/Outline-cach-mua-co-phieu-shb.md` | 2026-05-21 | Cần /write |
-| Cách mua cổ phiếu STB | Outline | `content/blog/1-outlines/Outline-cach-mua-co-phieu-stb.md` | 2026-05-21 | Cần /write |
-| Cách mua cổ phiếu TPB | Outline | `content/blog/1-outlines/Outline-cach-mua-co-phieu-tpb.md` | 2026-05-21 | Cần /write |
-| Cách mua cổ phiếu VIB | Outline | `content/blog/1-outlines/Outline-cach-mua-co-phieu-vib.md` | 2026-05-21 | Cần /write |
-| Cách mua cổ phiếu MSN | Outline | `content/blog/1-outlines/Outline-cach-mua-co-phieu-msn.md` | 2026-05-21 | Cần /write |
-| Cách mua cổ phiếu SAB | Outline | `content/blog/1-outlines/Outline-cach-mua-co-phieu-sab.md` | 2026-05-21 | Cần /write |
-| Quỹ mở là gì | Outline | `content/blog/1-outlines/Outline-quy-mo-la-gi.md` | 2026-05-21 | Cần /write |
-| Nên đầu tư quỹ mở hay quỹ etf | Outline | `content/blog/1-outlines/Outline-nen-dau-tu-quy-mo-hay-quy-etf.md` | 2026-05-21 | Cần /write |
 | đầu tư etf | Outline | `content/blog/1-outlines/Outline-dau-tu-etf.md` | 2026-05-21 | Cần /write |
-| quỹ etf tại việt nam | Outline | `content/blog/1-outlines/Outline-quy-etf-tai-viet-nam.md` | 2026-05-21 | Cần /write |
-| quy trình hoán đổi danh mục ETF | Outline | `content/blog/1-outlines/Outline-quy-trinh-hoan-doi-danh-muc-etf.md` | 2026-05-21 | Cần /write |
-| Nên đầu tư quỹ ETF nào | Outline | `content/blog/1-outlines/Outline-nen-dau-tu-quy-etf-nao.md` | 2026-05-21 | Cần /write |
-| Phân biệt quỹ ETF và quỹ tương hỗ | Outline | `content/blog/1-outlines/Outline-phan-biet-quy-etf-va-quy-tuong-ho.md` | 2026-05-21 | Cần /write |
-| chứng chỉ quỹ tốt nhất hiện nay | Outline | `content/blog/1-outlines/Outline-chung-chi-quy-tot-nhat-hien-nay.md` | 2026-05-21 | Cần /write |
-| Có nên mua cổ phiếu POW | Outline | `content/blog/1-outlines/Outline-co-nen-mua-co-phieu-pow.md` | 2026-05-21 | Cần /write |
-| cổ phiếu đầu cơ | Outline | `content/blog/1-outlines/Outline-co-phieu-dau-co.md` | 2026-05-21 | Cần /write |
 
 ---
 
 ## Publication Log
 
+| 2026-05-22 | Phân biệt quỹ ETF và quỹ tương hỗ | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-phan-biet-quy-etf-va-quy-tuong-ho.md` |
+| 2026-05-22 | quy trình hoán đổi danh mục ETF | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-quy-trinh-hoan-doi-danh-muc-etf.md` |
+| 2026-05-22 | Quỹ mở là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-quy-mo-la-gi.md` |
+| 2026-05-22 | quỹ etf tại việt nam | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-quy-etf-tai-viet-nam.md` |
+| 2026-05-22 | Nên đầu tư quỹ mở hay quỹ etf | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-nen-dau-tu-quy-mo-hay-quy-etf.md` |
+| 2026-05-22 | Nên đầu tư quỹ ETF nào | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-nen-dau-tu-quy-etf-nao.md` |
+| 2026-05-22 | cổ phiếu đầu cơ | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-dau-co.md` |
+| 2026-05-22 | cổ phiếu blue chip là gì | HVS Senior Mentor | Guided | `content/blog/3-finalized/Final-co-phieu-blue-chip-la-gi.md` |
+| 2026-05-22 | Có nên mua cổ phiếu POW | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md` |
+| 2026-05-22 | chứng chỉ quỹ tốt nhất hiện nay | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-chung-chi-quy-tot-nhat-hien-nay.md` |
+| 2026-05-22 | Cách mua cổ phiếu SAB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cach-mua-co-phieu-sab.md` |
+| 2026-05-22 | Cách mua cổ phiếu MSN | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cach-mua-co-phieu-msn.md` |
+| 2026-05-22 | Cách mua cổ phiếu SHB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cach-mua-co-phieu-shb.md` |
+| 2026-05-22 | Cách mua cổ phiếu STB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cach-mua-co-phieu-stb.md` |
+| 2026-05-22 | Cách mua cổ phiếu TPB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cach-mua-co-phieu-tpb.md` |
+| 2026-05-22 | Cách mua cổ phiếu VIB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cach-mua-co-phieu-vib.md` |
 | 2026-05-20 | cách mua cổ phiếu vre | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cach-mua-co-phieu-vre.md` |
 | 2026-05-20 | cách mua cổ phiếu gas | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cach-mua-co-phieu-gas.md` |
 | 2026-05-20 | cách mua cổ phiếu pow | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cach-mua-co-phieu-pow.md` |

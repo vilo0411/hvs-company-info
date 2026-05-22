@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>HVS - Layout 2 Full Bleed — Definition (Light)</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #311B92;
+            --secondary: #00838F;
+            --accent: #00C2D4;
+            --bg-light: #FAF6F0;
+            --text-dark: #1E1C24;
+        }
+        *{box-sizing:border-box;margin:0;padding:0;font-family:'Plus Jakarta Sans',Arial,sans-serif;}
+        body{display:flex;justify-content:center;align-items:center;min-height:100vh;background:#121212;}
+
+        .template-container{width:1000px;height:562px;overflow:hidden;position:relative;box-shadow:0 30px 60px rgba(0,0,0,0.6);}
+
+        /* CỔNG CHỜ: ảnh nền — overlay nhạt để giữ nền sáng */
+        .bg-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;z-index:0;}
+        /* Overlay sáng: che gần hết texture, chỉ lộ nhẹ bên phải */
+        .overlay{position:absolute;inset:0;background:
+            linear-gradient(to right, rgba(250,246,240,1) 0%, rgba(250,246,240,0.97) 45%, rgba(250,246,240,0.75) 70%, rgba(250,246,240,0.40) 100%),
+            linear-gradient(to top,   rgba(250,246,240,0.95) 0%, rgba(250,246,240,0.50) 40%, transparent 70%);
+            z-index:1;}
+
+        /* Top accent bar */
+        .top-bar{position:absolute;top:0;left:0;right:0;height:4px;background:linear-gradient(to right,var(--primary),var(--secondary),transparent);z-index:10;}
+
+        .content{position:relative;z-index:10;width:100%;height:100%;padding:34px 44px;display:flex;flex-direction:column;justify-content:space-between;}
+
+        /* Header */
+        .header{display:flex;justify-content:space-between;align-items:center;}
+        .brand-logo{display:flex;align-items:center;gap:10px;}
+        .brand-logo img{height:26px;width:26px;object-fit:contain;}
+        .brand-name{font-size:13px;font-weight:800;color:var(--primary);}
+        /* CỔNG CHỜ: badge danh mục */
+        .category-badge{font-size:11px;font-weight:800;color:var(--primary);background:rgba(49,27,146,0.08);border:1px solid rgba(49,27,146,0.2);padding:5px 14px;border-radius:100px;text-transform:uppercase;letter-spacing:0.5px;}
+
+        /* Body */
+        .main-body{display:flex;align-items:center;gap:44px;flex-grow:1;padding-top:8px;}
+
+        /* Left: definition block */
+        .def-block{flex:1;max-width:510px;}
+        /* CỔNG CHỜ: nhãn ngữ cảnh */
+        .def-label{font-size:10px;font-weight:700;color:rgba(49,27,146,0.45);text-transform:uppercase;letter-spacing:2px;margin-bottom:10px;}
+        /* CỔNG CHỜ: tên thuật ngữ — dùng .ac cho từ nhấn mạnh */
+        .def-title{font-size:56px;font-weight:900;line-height:1.0;letter-spacing:-2.5px;color:var(--text-dark);margin-bottom:16px;}
+        .def-title .ac{color:var(--primary);}
+        /* CỔNG CHỜ: câu định nghĩa */
+        .def-summary{font-size:14px;font-weight:600;color:rgba(30,28,36,0.65);line-height:1.65;border-left:3px solid var(--primary);padding-left:14px;margin-bottom:20px;}
+        /* CỔNG CHỜ: 2-3 điểm chính */
+        .key-facts{display:flex;flex-direction:column;gap:8px;}
+        .fact-item{display:flex;align-items:flex-start;gap:10px;font-size:12px;color:rgba(30,28,36,0.6);line-height:1.5;}
+        .fact-dot{width:5px;height:5px;border-radius:50%;background:var(--secondary);flex-shrink:0;margin-top:5px;}
+
+        /* Right: concept widget — white card */
+        .concept-widget{width:220px;flex-shrink:0;}
+        .widget-card{background:#FFFFFF;border:1px solid rgba(49,27,146,0.1);border-radius:16px;padding:24px 20px;box-shadow:0 10px 30px rgba(49,27,146,0.07);position:relative;overflow:hidden;}
+        .widget-card::before{content:'';position:absolute;top:0;left:0;right:0;height:4px;background:linear-gradient(to right,var(--primary),var(--secondary));}
+        .widget-label{font-size:10px;font-weight:700;color:rgba(49,27,146,0.45);text-transform:uppercase;letter-spacing:1.5px;margin-bottom:16px;margin-top:4px;}
+        /* CỔNG CHỜ: 3 metric */
+        .widget-metric{display:flex;justify-content:space-between;align-items:center;padding:10px 0;border-bottom:1px solid rgba(49,27,146,0.07);}
+        .widget-metric:last-child{border-bottom:none;}
+        .wm-label{font-size:11px;color:rgba(30,28,36,0.45);font-weight:600;}
+        .wm-value{font-size:15px;font-weight:800;color:var(--text-dark);}
+        .wm-value.highlight{color:var(--primary);}
+
+        /* Footer */
+        .footer{display:flex;align-items:center;justify-content:space-between;border-top:1px solid rgba(49,27,146,0.08);padding-top:14px;}
+        .footer-left{display:flex;align-items:center;gap:8px;}
+        .dot{width:5px;height:5px;border-radius:50%;background:var(--secondary);}
+        /* CỔNG CHỜ: chủ đề bài viết */
+        .footer-text{font-size:11px;font-weight:700;color:rgba(30,28,36,0.35);text-transform:uppercase;letter-spacing:1px;}
+        .footer-tag{font-size:11px;font-weight:700;color:var(--secondary);}
+    </style>
+</head>
+<body>
+    <div class="template-container">
+        <!-- CỔNG CHỜ: ảnh nền abstract concept -->
+        <img class="bg-photo" src="../../assets/bg-texture.png" alt="Background">
+        <div class="overlay"></div>
+        <div class="top-bar"></div>
+        <div class="content">
+
+            <div class="header">
+                <div class="brand-logo">
+                    <img src="../../assets/favicon.ico" alt="HVS Logo">
+                    <span class="brand-name">HVS Tài Chính Số</span>
+                </div>
+                <!-- CỔNG CHỜ: danh mục bài viết -->
+                <span class="category-badge">Thuật ngữ tài chính</span>
+            </div>
+
+            <div class="main-body">
+
+                <div class="def-block">
+                    <!-- CỔNG CHỜ: nhãn ngữ cảnh -->
+                    <div class="def-label">Định nghĩa · Phân tích kỹ thuật</div>
+                    <!-- CỔNG CHỜ: tên thuật ngữ — dùng .ac cho từ nhấn mạnh -->
+                    <div class="def-title">EPS <span class="ac">là</span> gì?</div>
+                    <!-- CỔNG CHỜ: câu định nghĩa -->
+                    <p class="def-summary">Lợi nhuận trên mỗi cổ phiếu — thước đo sinh lời cơ bản nhất khi định giá cổ phiếu.</p>
+                    <!-- CỔNG CHỜ: 2-3 điểm chính -->
+                    <div class="key-facts">
+                        <div class="fact-item"><div class="fact-dot"></div><span>Công thức: Lợi nhuận ròng ÷ Số CP lưu hành bình quân</span></div>
+                        <div class="fact-item"><div class="fact-dot"></div><span>EPS càng cao → doanh nghiệp tạo ra nhiều lợi nhuận hơn trên mỗi cổ phiếu</span></div>
+                        <div class="fact-item"><div class="fact-dot"></div><span>Dùng để tính P/E Ratio — chỉ số định giá phổ biến nhất TTCK VN</span></div>
+                    </div>
+                </div>
+
+                <div class="concept-widget">
+                    <div class="widget-card">
+                        <!-- CỔNG CHỜ: nhãn widget -->
+                        <div class="widget-label">Thông số tham chiếu</div>
+                        <!-- CỔNG CHỜ: 3 metric -->
+                        <div class="widget-metric">
+                            <span class="wm-label">Ngưỡng tốt</span>
+                            <span class="wm-value highlight">&gt; 2.000đ</span>
+                        </div>
+                        <div class="widget-metric">
+                            <span class="wm-label">Tần suất</span>
+                            <span class="wm-value">Quý / Năm</span>
+                        </div>
+                        <div class="widget-metric">
+                            <span class="wm-label">Liên quan</span>
+                            <span class="wm-value">P/E · P/B</span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="footer">
+                <div class="footer-left">
+                    <div class="dot"></div>
+                    <!-- CỔNG CHỜ: chủ đề bài viết -->
+                    <span class="footer-text">Kiến thức đầu tư cơ bản · hvs.vn</span>
+                </div>
+                <span class="footer-tag">HVS TÀI CHÍNH SỐ</span>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HVS Tài Chính Số - Finance Cover Template</title>
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@700;800&family=Montserrat:wght@800;900&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary-glow: rgba(49, 27, 146, 0.8);
+            --secondary-glow: rgba(0, 131, 143, 0.75);
+            --accent: #00E5FF;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #0A0A0C;
+        }
+
+        /* 
+           LAYER 1: FULL BACKGROUND IMAGE
+           Khung ảnh 16:9 trải rộng 100% toàn màn hình.
+           Ảnh nền biểu đồ thành phố và vật thể 3D do AI vẽ sẽ được nạp trực tiếp làm nền của container này.
+        */
+        .cover-container {
+            width: 1000px;
+            height: 562px;
+            position: relative;
+            overflow: hidden;
+            background: #111015 url('https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=1000&q=80') no-repeat center center;
+            background-size: cover;
+            /* Trải dài full-frame tích hợp */
+            box-shadow: 0 40px 80px rgba(0, 0, 0, 0.8);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            display: flex;
+            align-items: center;
+        }
+
+        /* 
+           LAYER 2: OVERLAY MASK
+           Mặt nạ Gradient chuyển tiếp dốc phủ kín 100% diện tích:
+           - Phía bên trái (0% - 40%): Màu tối cản sáng cực mạnh (>96%) giúp nổi bật chữ.
+           - Ở giữa (40% - 70%): Chuyển tiếp mượt mà.
+           - Phía bên phải (70% - 100%): Trong suốt hoàn toàn để lộ rõ vật thể 3D nghệ thuật.
+        */
+        .aura-mask {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background:
+                radial-gradient(circle at 15% 85%, var(--secondary-glow) 0%, rgba(10, 10, 14, 0) 55%),
+                radial-gradient(circle at 10% 20%, var(--primary-glow) 0%, rgba(10, 10, 14, 0) 50%),
+                linear-gradient(90deg,
+                    rgba(10, 10, 14, 0.98) 0%,
+                    rgba(10, 10, 14, 0.94) 38%,
+                    rgba(10, 10, 14, 0.6) 65%,
+                    rgba(10, 10, 14, 0.1) 100%);
+            z-index: 2;
+        }
+
+        /* 
+           LAYER 3: BRANDING AND HEADLINE
+           Tất cả các thành phần chữ và logo được đặt trên lớp z-index cao nhất.
+        */
+        .content-panel {
+            position: relative;
+            z-index: 10;
+            width: 100%;
+            height: 100%;
+            padding: 60px 60px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: 45px;
+        }
+
+        /* Logo thương hiệu "Taichinhso" */
+        .brand-logo-area {
+            display: flex;
+            flex-direction: column;
+            width: fit-content;
+        }
+
+        .brand-logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding-bottom: 12px;
+        }
+
+        .brand-logo img {
+            height: 36px;
+            width: 36px;
+            object-fit: contain;
+        }
+
+        .brand-name {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            font-weight: 800;
+            font-size: 24px;
+            color: #FFFFFF;
+            letter-spacing: -0.5px;
+        }
+
+        /* Đường kẻ mỏng bên dưới logo thương hiệu */
+        .brand-divider {
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(90deg, var(--accent), rgba(255, 255, 255, 0.1));
+            opacity: 0.8;
+        }
+
+        /* Tiêu đề chính */
+        .title-area {
+            max-width: 65%;
+            margin-bottom: 20px;
+        }
+
+        .main-title {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 900;
+            font-size: 38px;
+            color: #FFFFFF;
+            line-height: 1.35;
+            text-transform: uppercase;
+            letter-spacing: -1px;
+            /* Đổ bóng sâu sắc nét để tối ưu hóa khả năng đọc trên nền biểu đồ */
+            text-shadow:
+                0 4px 15px rgba(0, 0, 0, 0.8),
+                0 0 20px rgba(0, 229, 255, 0.1);
+        }
+
+        .main-title span {
+            background: linear-gradient(90deg, #FFFFFF, var(--accent));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            font-size: 14px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.4);
+            margin-top: 16px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- LAYER 1: Bức ảnh tích hợp vĩ mô do AI vẽ nằm trọn vẹn ở nền container này -->
+    <div class="cover-container" id="coverContainer">
+        <!-- LAYER 2: Lớp mặt nạ chuyển sắc dốc cản sáng bên trái, lộ rõ vật thể bên phải -->
+        <div class="aura-mask"></div>
+
+        <!-- LAYER 3: Logo thương hiệu và Tiêu đề đặt trên cùng lề trái -->
+        <div class="content-panel">
+            <div class="brand-logo-area">
+                <div class="brand-logo">
+                    <img src="../assets/favicon.ico" alt="HVS Logo">
+                    <div class="brand-name">Taichinhso</div>
+                </div>
+                <div class="brand-divider"></div>
+            </div>
+
+            <div class="title-area">
+                <h1 class="main-title">
+                    Phân tích & Dự báo<br>
+                    dòng vốn khối ngoại<br>
+                    cho hoạt động đầu tư
+                </h1>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

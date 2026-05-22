@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HVS - Timeline / Scenario Flow Template (I)</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #311B92;
+            --secondary: #00838F;
+            --accent: #00E5FF;
+            --bg-dark: #0B0B14;
+            --card-border: rgba(255, 255, 255, 0.07);
+            /*
+             * TIMELINE VARIANT — Agent chọn 1 trong 2:
+             *   "linear"   → Dùng cho lộ trình thời gian có đầu-cuối (mặc định)
+             *   "circular" → Dùng cho chu kỳ lặp lại (tái cơ cấu ETF hàng quý)
+             */
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Plus Jakarta Sans', Arial, sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #060610;
+        }
+
+        .template-container {
+            width: 1000px;
+            height: 562px;
+            background: var(--bg-dark);
+            overflow: hidden;
+            position: relative;
+            border: 1px solid var(--card-border);
+            box-shadow: 0 40px 80px rgba(0, 0, 0, 0.85);
+            padding: 40px 44px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Ambient glows */
+        .glow-tl {
+            position: absolute;
+            width: 380px;
+            height: 380px;
+            border-radius: 50%;
+            background: var(--primary);
+            filter: blur(140px);
+            opacity: 0.2;
+            top: -100px;
+            left: -80px;
+            pointer-events: none;
+        }
+
+        .glow-br {
+            position: absolute;
+            width: 260px;
+            height: 260px;
+            border-radius: 50%;
+            background: var(--secondary);
+            filter: blur(110px);
+            opacity: 0.15;
+            bottom: -60px;
+            right: -40px;
+            pointer-events: none;
+        }
+
+        /* HEADER */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 10;
+            margin-bottom: 28px;
+        }
+
+        .brand-logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .brand-logo img {
+            height: 28px;
+            width: 28px;
+            object-fit: contain;
+        }
+
+        .brand-name {
+            font-size: 12px;
+            font-weight: 800;
+            color: rgba(255, 255, 255, 0.28);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+
+        .header-badge {
+            font-size: 11px;
+            font-weight: 800;
+            color: var(--accent);
+            background: rgba(0, 229, 255, 0.1);
+            border: 1px solid rgba(0, 229, 255, 0.2);
+            padding: 5px 12px;
+            border-radius: 100px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* TITLE SECTION */
+        .title-section {
+            z-index: 10;
+            margin-bottom: 30px;
+        }
+
+        /* CỔNG CHỜ: thay tiêu đề section */
+        .main-title {
+            font-size: 22px;
+            font-weight: 900;
+            color: #FFF;
+            letter-spacing: -0.5px;
+            line-height: 1.25;
+        }
+
+        .main-title span {
+            color: var(--accent);
+        }
+
+        /* CỔNG CHỜ: subtitle */
+        .sub-title {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.38);
+            margin-top: 5px;
+        }
+
+        /* ====================================================
+           TIMELINE LINEAR — Chuỗi nút theo chiều ngang
+           Hỗ trợ 3, 4, hoặc 5 node (flex tự scale)
+        ==================================================== */
+        .timeline-linear {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            position: relative;
+            flex-grow: 1;
+            z-index: 10;
+            padding: 20px 0;
+        }
+
+        /* Đường connector ngang — nằm giữa các node */
+        .timeline-linear::before {
+            content: '';
+            position: absolute;
+            top: 44px;
+            /* căn với tâm node circle (20px padding + 24px = 44) */
+            left: 24px;
+            right: 24px;
+            height: 2px;
+            background: linear-gradient(to right,
+                    rgba(0, 229, 255, 0.8),
+                    rgba(49, 27, 146, 0.6),
+                    rgba(0, 131, 143, 0.8));
+        }
+
+        /* Timeline Node */
+        .tl-node {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: calc(100% / 4);
+            /* chia đều 4 node — thay số nếu khác */
+            text-align: center;
+        }
+
+        /* Circle */
+        .node-circle {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            font-weight: 900;
+            position: relative;
+            z-index: 2;
+            margin-bottom: 16px;
+            flex-shrink: 0;
+        }
+
+        /* Style mặc định (node chưa hoàn thành) */
+        .node-circle.pending {
+            background: rgba(255, 255, 255, 0.05);
+            border: 2px solid rgba(255, 255, 255, 0.15);
+            color: rgba(255, 255, 255, 0.4);
+        }
+
+        /* Node active — hiện tại đang ở bước này */
+        .node-circle.active {
+            background: rgba(0, 229, 255, 0.15);
+            border: 2px solid var(--accent);
+            color: var(--accent);
+            box-shadow: 0 0 20px rgba(0, 229, 255, 0.4);
+        }
+
+        /* Node done — đã hoàn thành */
+        .node-circle.done {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            border: 2px solid transparent;
+            color: #FFF;
+            box-shadow: 0 0 16px rgba(49, 27, 146, 0.5);
+        }
+
+        /* Node content */
+        /* CỔNG CHỜ: thay period (Quý/Tháng/Giai đoạn) */
+        .node-period {
+            font-size: 10px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.3);
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            margin-bottom: 6px;
+        }
+
+        /* CỔNG CHỜ: tên bước */
+        .node-title {
+            font-size: 13px;
+            font-weight: 800;
+            color: #FFF;
+            line-height: 1.3;
+            margin-bottom: 6px;
+        }
+
+        .tl-node.pending-state .node-title {
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        /* CỔNG CHỜ: mô tả ngắn */
+        .node-desc {
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.35);
+            line-height: 1.4;
+            max-width: 160px;
+            margin: 0 auto;
+        }
+
+        /* ====================================================
+           TIMELINE CIRCULAR — Dùng cho chu kỳ lặp lại
+           Comment/uncomment để chuyển variant
+        ==================================================== */
+        /*
+        .timeline-circular {
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 10;
+        }
+        .circle-container {
+            width: 280px; height: 280px;
+            border-radius: 50%;
+            border: 2px dashed rgba(255,255,255,0.1);
+            position: relative;
+            display: flex; align-items: center; justify-content: center;
+        }
+        .circle-center {
+            text-align: center;
+        }
+        .circle-label { font-size: 11px; font-weight: 800; color: rgba(255,255,255,0.35); text-transform: uppercase; }
+        .circle-title { font-size: 18px; font-weight: 900; color: #FFF; }
+        .orbit-node {
+            position: absolute;
+            width: 70px; height: 70px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.1);
+            display: flex; flex-direction: column; align-items: center; justify-content: center;
+            font-size: 10px; font-weight: 700; color: rgba(255,255,255,0.6); text-align: center;
+        }
+        orbit-node:nth-child(1) { top: -35px; left: 50%; transform: translateX(-50%); }
+        .orbit-node:nth-child(2) { right: -35px; top: 50%; transform: translateY(-50%); }
+        .orbit-node:nth-child(3) { bottom: -35px; left: 50%; transform: translateX(-50%); }
+        .orbit-node:nth-child(4) { left: -35px; top: 50%; transform: translateY(-50%); }
+        */
+
+        /* FOOTER */
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 10;
+            margin-top: 16px;
+        }
+
+        .footer-note {
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.18);
+        }
+
+        .footer-brand {
+            font-size: 11px;
+            font-weight: 800;
+            color: rgba(0, 229, 255, 0.5);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="template-container">
+        <div class="glow-tl"></div>
+        <div class="glow-br"></div>
+
+        <!-- HEADER -->
+        <div class="header">
+            <div class="brand-logo">
+                <img src="../assets/favicon.ico" alt="HVS Logo">
+                <span class="brand-name">HVS Tài Chính Số</span>
+            </div>
+            <!-- CỔNG CHỜ: thay loại timeline -->
+            <span class="header-badge">Quy trình từng bước</span>
+        </div>
+
+        <!-- TITLE -->
+        <div class="title-section">
+            <!-- CỔNG CHỜ: tiêu đề section -->
+            <h2 class="main-title">Quy trình hoán đổi danh mục ETF <span>hàng quý</span></h2>
+            <!-- CỔNG CHỜ: subtitle -->
+            <p class="sub-title">4 giai đoạn tái cân bằng danh mục · Áp dụng cho VN30 &amp; VN-Diamond</p>
+        </div>
+
+        <!-- TIMELINE LINEAR -->
+        <!-- CỔNG CHỜ: Agent điều chỉnh số lượng .tl-node (3-5), thay text, thay class node-circle state -->
+        <!-- node-circle classes: done (xong) | active (hiện tại) | pending (chưa đến) -->
+        <div class="timeline-linear">
+
+            <div class="tl-node">
+                <div class="node-circle done">1</div>
+                <!-- CỔNG CHỜ: thay period -->
+                <div class="node-period">Tháng 1</div>
+                <!-- CỔNG CHỜ: thay tên bước -->
+                <div class="node-title">Rà soát danh mục</div>
+                <!-- CỔNG CHỜ: mô tả hành động -->
+                <div class="node-desc">Đánh giá hiệu suất AUM · Tracking Error · So benchmark</div>
+            </div>
+
+            <div class="tl-node">
+                <div class="node-circle done">2</div>
+                <div class="node-period">Tháng 2</div>
+                <div class="node-title">Xác định cổ phiếu vào/ra</div>
+                <div class="node-desc">Công bố danh sách thêm/xóa khỏi rổ VN30 · HNX thông báo</div>
+            </div>
+
+            <div class="tl-node">
+                <div class="node-circle active">3</div>
+                <div class="node-period">Tháng 3</div>
+                <div class="node-title">Phiên hoán đổi chính thức</div>
+                <div class="node-desc">Quỹ ETF tái phân bổ danh mục · Thanh khoản tăng đột biến</div>
+            </div>
+
+            <div class="tl-node pending-state">
+                <div class="node-circle pending">4</div>
+                <div class="node-period">Sau hoán đổi</div>
+                <div class="node-title">Ổn định &amp; Tích lũy</div>
+                <div class="node-desc">Tracking Error thu hẹp · Chiến lược DCA tiếp tục</div>
+            </div>
+
+        </div>
+
+        <!-- FOOTER -->
+        <div class="footer">
+            <span class="footer-note">Quy trình tái cơ cấu diễn ra định kỳ mỗi quý · HVS Securities © 2026</span>
+            <span class="footer-brand">HVS Tài Chính Số</span>
+        </div>
+
+    </div>
+</body>
+
+</html>

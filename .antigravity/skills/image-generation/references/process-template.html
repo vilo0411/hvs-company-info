@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HVS Tài Chính Số - Process Template Reference</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #311B92;
+            /* Tím đậm HVS */
+            --secondary: #00838F;
+            /* Xanh ngọc Teal */
+            --accent: #00E5FF;
+            /* Cyan Neon */
+            --bg-light: #FAF6F0;
+            /* Nền kem sáng ấm */
+            --text-dark: #1E1C24;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Plus Jakarta Sans', 'Segoe UI', Arial, sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #121212;
+        }
+
+        /* Khung ảnh 16:9 quy chuẩn */
+        .template-container {
+            width: 1000px;
+            height: 562px;
+            background-color: var(--bg-light);
+            overflow: hidden;
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.6);
+            padding: 48px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            position: relative;
+        }
+
+        /* 1. Header */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid rgba(49, 27, 146, 0.1);
+            padding-bottom: 20px;
+        }
+
+        .brand-logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .brand-logo img {
+            height: 28px;
+            width: 28px;
+            object-fit: contain;
+        }
+
+        .brand-name {
+            font-weight: 800;
+            font-size: 20px;
+            color: var(--primary);
+        }
+
+        .process-title {
+            font-weight: 800;
+            font-size: 22px;
+            color: var(--primary);
+            text-transform: uppercase;
+        }
+
+        /* 
+           2. BỐ CỤC DYNAMIC FLEX CO GIÃN TỰ ĐỘNG (AUTO-SCALING)
+           Hệ thống Flexbox thông minh cho phép tự động dàn đều bất kỳ số lượng bước quy trình nào (2, 3, 4, 5...)
+        */
+        .steps-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: stretch;
+            /* Bắt các card có chiều cao bằng nhau tuyệt đối */
+            gap: 18px;
+            /* Sử dụng gap hiện đại thay thế cho việc chia tỷ lệ width cứng */
+            margin-top: 30px;
+            margin-bottom: 30px;
+            position: relative;
+            width: 100%;
+        }
+
+        .step-card {
+            flex: 1 1 0px;
+            /* Tự động dàn đều bề ngang cực kỳ cân bằng */
+            background: #FFFFFF;
+            border: 1px solid rgba(49, 27, 146, 0.08);
+            border-radius: 12px;
+            padding: 28px 18px;
+            box-shadow: 0 10px 25px rgba(49, 27, 146, 0.04);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            position: relative;
+        }
+
+        /* Đường viền gradient chóp đầu card */
+        .step-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            border-radius: 12px 12px 0 0;
+        }
+
+        .step-number {
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            background: rgba(49, 27, 146, 0.1);
+            color: var(--primary);
+            font-weight: 800;
+            font-size: 18px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+
+        .step-heading {
+            font-weight: 700;
+            font-size: 16px;
+            color: var(--text-dark);
+            margin-bottom: 10px;
+            line-height: 1.2;
+        }
+
+        .step-desc {
+            font-size: 13px;
+            color: rgba(30, 28, 36, 0.7);
+            line-height: 1.45;
+        }
+
+        /* 
+           MŨI TÊN KẾT NỐI MỀM MẠI CHÈN ĐỆM GIỮA CÁC BƯỚC
+           (Được chèn động qua code của Agent nếu cần, hoặc thiết lập bằng CSS)
+        */
+        .step-arrow {
+            display: flex;
+            align-items: center;
+            font-size: 26px;
+            color: rgba(49, 27, 146, 0.3);
+            font-weight: bold;
+            user-select: none;
+        }
+
+        /* 3. Footer */
+        .footer {
+            border-top: 1px solid rgba(49, 27, 146, 0.08);
+            padding-top: 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 12px;
+            color: rgba(30, 28, 36, 0.5);
+            font-weight: 600;
+        }
+
+        .footer-tag {
+            color: var(--secondary);
+            font-weight: 700;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="template-container">
+        <!-- Header -->
+        <div class="header">
+            <div class="brand-logo">
+                <img src="../assets/favicon.ico" alt="HVS Logo">
+                <div class="brand-name">Taichinhso</div>
+            </div>
+            <h2 class="process-title">Quy trình thực chiến</h2>
+        </div>
+
+        <!-- 
+            Mã HTML mẫu cơ bản 3 bước. 
+            Khi biên dịch bài viết 4 hay 5 bước, Agent chỉ cần chèn thêm các khối .step-card 
+            và .step-arrow vào đây. CSS Flexbox sẽ tự động co giãn tuyệt đối mà không bị vỡ.
+        -->
+        <div class="steps-container">
+            <!-- Step 1 -->
+            <div class="step-card">
+                <div class="step-number">01</div>
+                <h3 class="step-heading">Phân tích Số liệu</h3>
+                <p class="step-desc">Đọc vị báo cáo tài chính và dòng tiền doanh nghiệp với công cụ HVS Tài chính số.
+                </p>
+            </div>
+
+            <div class="step-arrow">→</div>
+
+            <!-- Step 2 -->
+            <div class="step-card">
+                <div class="step-number">02</div>
+                <h3 class="step-heading">Giao dịch Demo</h3>
+                <p class="step-desc">Luyện tập giao dịch thực chiến không rủi ro trên dữ liệu HOSE thực tại HVS Demo.
+                </p>
+            </div>
+
+            <div class="step-arrow">→</div>
+
+            <!-- Step 3 -->
+            <div class="step-card">
+                <div class="step-number">03</div>
+                <h3 class="step-heading">Tối ưu Danh mục</h3>
+                <p class="step-desc">Đánh giá hiệu suất và tối thiểu hóa rủi ro đầu tư thông qua phân tích kỹ thuật.</p>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <div>&copy; 2026 HVS Securities. Bảo lưu mọi quyền.</div>
+            <div class="footer-tag">HVS TÀI CHÍNH SỐ - KIẾN THỨC LÀ SỨC MẠNH</div>
+        </div>
+    </div>
+
+</body>
+
+</html>

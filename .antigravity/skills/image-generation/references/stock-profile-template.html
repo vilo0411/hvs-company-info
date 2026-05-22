@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HVS - Stock Profile Template (E)</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #311B92;
+            --secondary: #00838F;
+            --accent: #00E5FF;
+            --bg-dark: #0D0D14;
+            --card-border: rgba(255, 255, 255, 0.08);
+            /*
+             * INDUSTRY ACCENT — Agent thay theo ngành:
+             * Ngân hàng/TC → #2196F3 | Điện/NL → #FFD600 | BĐS → #FF7043
+             * Thép/VL      → #78909C | Công nghệ → #7C4DFF | Tiêu dùng → #66BB6A
+             * Dầu khí      → #FFA726 | Dược phẩm → #26C6DA
+             */
+            --industry-accent: #FFD600;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Plus Jakarta Sans', Arial, sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #080810;
+        }
+
+        .template-container {
+            width: 1000px;
+            height: 562px;
+            overflow: hidden;
+            display: flex;
+            position: relative;
+            border: 1px solid var(--card-border);
+            box-shadow: 0 40px 80px rgba(0, 0, 0, 0.8);
+        }
+
+        /* AI-generated background texture overlay */
+        .bg-texture {
+            position: absolute;
+            inset: 0;
+            background-image: url('../assets/bg-texture.png');
+            background-size: cover;
+            background-position: center;
+            opacity: 0.07;
+            pointer-events: none;
+            z-index: 0;
+            mix-blend-mode: screen;
+        }
+
+        /* LEFT 60% */
+        .left-panel {
+            width: 60%;
+            height: 100%;
+            background: var(--bg-dark);
+            padding: 44px 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .glow-purple {
+            position: absolute;
+            width: 400px;
+            height: 400px;
+            border-radius: 50%;
+            background: var(--primary);
+            filter: blur(120px);
+            opacity: 0.2;
+            top: -100px;
+            left: -100px;
+            pointer-events: none;
+        }
+
+        .glow-industry {
+            position: absolute;
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            background: var(--industry-accent);
+            filter: blur(80px);
+            opacity: 0.15;
+            bottom: -30px;
+            right: 60px;
+            pointer-events: none;
+        }
+
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            z-index: 10;
+        }
+
+        .brand-logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .brand-logo img {
+            height: 28px;
+            width: 28px;
+            object-fit: contain;
+        }
+
+        .brand-name {
+            font-size: 12px;
+            font-weight: 800;
+            color: rgba(255, 255, 255, 0.35);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+
+        /* CỔNG CHỜ: thay màu background/color theo --industry-accent */
+        .industry-badge {
+            font-size: 11px;
+            font-weight: 800;
+            color: var(--industry-accent);
+            background: rgba(255, 214, 0, 0.1);
+            border: 1px solid rgba(255, 214, 0, 0.25);
+            padding: 5px 12px;
+            border-radius: 100px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .main-content {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            z-index: 10;
+        }
+
+        /* CỔNG CHỜ: tên công ty */
+        .company-name {
+            font-size: 12px;
+            font-weight: 600;
+            color: rgba(255, 255, 255, 0.4);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 8px;
+        }
+
+        /* CỔNG CHỜ: mã cổ phiếu — chữ đầu hoặc toàn bộ có thể dùng class accent-letter */
+        .stock-ticker {
+            font-size: 88px;
+            font-weight: 900;
+            line-height: 1;
+            letter-spacing: -4px;
+            color: #FFF;
+            margin-bottom: 14px;
+        }
+
+        .stock-ticker .ac {
+            color: var(--accent);
+            text-shadow: 0 0 40px rgba(0, 229, 255, 0.5);
+        }
+
+        .stock-meta {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 16px;
+        }
+
+        .exchange-tag {
+            font-size: 11px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.35);
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            padding: 4px 10px;
+            border-radius: 4px;
+            text-transform: uppercase;
+        }
+
+        /* CỔNG CHỜ: mô tả 1-2 dòng */
+        .stock-desc {
+            font-size: 13px;
+            color: rgba(255, 255, 255, 0.5);
+            line-height: 1.55;
+            max-width: 380px;
+        }
+
+        /* Candlestick Chart SVG — thay sparkline đơn giản */
+        .candlestick-chart {
+            width: 100%;
+            height: 72px;
+            margin-top: 14px;
+        }
+
+        /* Nến tăng (xanh) */
+        .candle-bull { fill: #00C853; }
+        .wick-bull   { stroke: #00C853; stroke-width: 1.5; }
+
+        /* Nến giảm (đỏ) */
+        .candle-bear { fill: #FF3D57; }
+        .wick-bear   { stroke: #FF3D57; stroke-width: 1.5; }
+
+        /* Nến active — sáng neon hơn */
+        .candle-active { fill: var(--industry-accent); filter: drop-shadow(0 0 6px var(--industry-accent)); }
+        .wick-active   { stroke: var(--industry-accent); stroke-width: 1.5; }
+
+        .left-footer {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            z-index: 10;
+        }
+
+        .dot {
+            width: 4px;
+            height: 4px;
+            border-radius: 50%;
+            background: var(--accent);
+            box-shadow: 0 0 8px var(--accent);
+        }
+
+        .footer-text {
+            font-size: 11px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.22);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* RIGHT 40% — Company Photo Zone */
+        .right-panel {
+            width: 40%;
+            height: 100%;
+            border-left: 1px solid var(--card-border);
+            padding: 44px 32px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* CỔNG CHỜ: ảnh công ty — agent thay src theo mã cổ phiếu */
+        .company-photo {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+            z-index: 0;
+        }
+
+        /* Gradient overlay — fade trái (blend với left panel) + tối dưới (bảo vệ data cards) */
+        .photo-overlay {
+            position: absolute;
+            inset: 0;
+            background:
+                linear-gradient(to right,  rgba(13,13,20,0.95) 0%, rgba(13,13,20,0.5) 30%, rgba(13,13,20,0.15) 100%),
+                linear-gradient(to top,    rgba(13,13,20,0.92) 0%, rgba(13,13,20,0.3) 50%, transparent 100%);
+            z-index: 1;
+        }
+
+        /* Viền sáng ngành — đặt lên trên overlay */
+        .right-panel::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 2px;
+            height: 100%;
+            background: linear-gradient(to bottom, transparent, var(--industry-accent), transparent);
+            opacity: 0.5;
+            z-index: 2;
+        }
+
+        .panel-title {
+            font-size: 11px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.28);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            z-index: 10;
+        }
+
+        .data-cards {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 11px;
+            flex-grow: 1;
+            align-content: center;
+            z-index: 10;
+            position: relative;
+        }
+
+        .data-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.07);
+            border-radius: 10px;
+            padding: 15px 13px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .data-card::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 3px;
+            height: 100%;
+            background: var(--industry-accent);
+            opacity: 0.5;
+        }
+
+        .dc-label {
+            font-size: 10px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.32);
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            margin-bottom: 7px;
+        }
+
+        .dc-value {
+            font-size: 20px;
+            font-weight: 900;
+            color: #FFF;
+            letter-spacing: -0.5px;
+            line-height: 1;
+        }
+
+        .dc-sub {
+            font-size: 10px;
+            color: rgba(255, 255, 255, 0.28);
+            margin-top: 4px;
+        }
+
+        .cta-banner {
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            border-radius: 8px;
+            padding: 12px 16px;
+            z-index: 10;
+            position: relative;
+        }
+
+        .cta-main {
+            font-size: 12px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.88);
+            margin-bottom: 2px;
+        }
+
+        .cta-sub {
+            font-size: 10px;
+            color: rgba(255, 255, 255, 0.48);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="template-container">
+        <!-- AI background texture -->
+        <div class="bg-texture"></div>
+
+        <!-- LEFT PANEL -->
+        <div class="left-panel">
+            <div class="glow-purple"></div>
+            <div class="glow-industry"></div>
+
+            <div class="header">
+                <div class="brand-logo">
+                    <img src="../assets/favicon.ico" alt="HVS Logo">
+                    <span class="brand-name">HVS Tài Chính Số</span>
+                </div>
+                <!-- CỔNG CHỜ: tên ngành + màu badge -->
+                <span class="industry-badge">Ngành Năng lượng</span>
+            </div>
+
+            <div class="main-content">
+                <!-- CỔNG CHỜ: tên công ty đầy đủ -->
+                <div class="company-name">Tổng Công ty Điện lực Dầu khí VN</div>
+
+                <!-- CỔNG CHỜ: mã cổ phiếu — 2-4 ký tự, chữ giữa dùng class "ac" để neon -->
+                <div class="stock-ticker">P<span class="ac">O</span>W</div>
+
+                <div class="stock-meta">
+                    <!-- CỔNG CHỜ: sàn niêm yết -->
+                    <span class="exchange-tag">HOSE</span>
+                </div>
+
+                <!-- CỔNG CHỜ: mô tả đặc điểm nổi bật 1-2 dòng -->
+                <p class="stock-desc">Nhà sản xuất điện khí lớn nhất VN, đang triển khai dự án Nhơn Trạch 3 &amp; 4</p>
+
+                <!-- Candlestick Chart — 10 nến, xu hướng tăng dần -->
+                <!-- CỔNG CHỜ: Agent điều chỉnh rect y/height và class (bull/bear/active) theo dữ liệu thực -->
+                <svg class="candlestick-chart" viewBox="0 0 360 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <!-- Nến 1 — giảm -->
+                    <line class="wick-bear" x1="18" y1="18" x2="18" y2="62"/>
+                    <rect class="candle-bear" x="12" y="30" width="12" height="22" rx="1"/>
+                    <!-- Nến 2 — tăng -->
+                    <line class="wick-bull" x1="54" y1="20" x2="54" y2="60"/>
+                    <rect class="candle-bull" x="48" y="28" width="12" height="18" rx="1"/>
+                    <!-- Nến 3 — giảm nhỏ -->
+                    <line class="wick-bear" x1="90" y1="22" x2="90" y2="56"/>
+                    <rect class="candle-bear" x="84" y="30" width="12" height="14" rx="1"/>
+                    <!-- Nến 4 — tăng -->
+                    <line class="wick-bull" x1="126" y1="16" x2="126" y2="52"/>
+                    <rect class="candle-bull" x="120" y="24" width="12" height="20" rx="1"/>
+                    <!-- Nến 5 — tăng mạnh -->
+                    <line class="wick-bull" x1="162" y1="10" x2="162" y2="46"/>
+                    <rect class="candle-bull" x="156" y="18" width="12" height="22" rx="1"/>
+                    <!-- Nến 6 — giảm nhỏ -->
+                    <line class="wick-bear" x1="198" y1="14" x2="198" y2="44"/>
+                    <rect class="candle-bear" x="192" y="22" width="12" height="12" rx="1"/>
+                    <!-- Nến 7 — tăng -->
+                    <line class="wick-bull" x1="234" y1="8" x2="234" y2="38"/>
+                    <rect class="candle-bull" x="228" y="14" width="12" height="18" rx="1"/>
+                    <!-- Nến 8 — tăng mạnh -->
+                    <line class="wick-bull" x1="270" y1="4" x2="270" y2="32"/>
+                    <rect class="candle-bull" x="264" y="10" width="12" height="16" rx="1"/>
+                    <!-- Nến 9 — giảm nhỏ -->
+                    <line class="wick-bear" x1="306" y1="6" x2="306" y2="28"/>
+                    <rect class="candle-bear" x="300" y="10" width="12" height="10" rx="1"/>
+                    <!-- Nến 10 — active (nến hiện tại, màu ngành) -->
+                    <line class="wick-active" x1="342" y1="2" x2="342" y2="22"/>
+                    <rect class="candle-active" x="336" y="6" width="12" height="12" rx="1"/>
+                </svg>
+            </div>
+
+            <div class="left-footer">
+                <div class="dot"></div>
+                <!-- CỔNG CHỜ: thay mã cổ phiếu trong text -->
+                <span class="footer-text">Phân tích thực chiến POW · hvs.vn</span>
+            </div>
+        </div>
+
+        <!-- RIGHT PANEL — Company Photo Zone -->
+        <div class="right-panel">
+            <!-- CỔNG CHỜ: thay src theo mã cổ phiếu — ảnh lưu tại assets/company-photos/[MÃ].png -->
+            <img class="company-photo" src="../assets/company-photos/POW.png" alt="POW company photo">
+            <div class="photo-overlay"></div>
+
+            <div class="panel-title" style="z-index:10;">Thông số doanh nghiệp</div>
+
+            <!-- CỔNG CHỜ: Agent thay 4 data card theo từng mã cổ phiếu -->
+            <div class="data-cards">
+                <div class="data-card">
+                    <div class="dc-label">Vốn hóa</div>
+                    <div class="dc-value">28.6K</div>
+                    <div class="dc-sub">Tỷ đồng (ước tính)</div>
+                </div>
+                <div class="data-card">
+                    <div class="dc-label">Sàn niêm yết</div>
+                    <div class="dc-value">HOSE</div>
+                    <div class="dc-sub">Từ năm 2018</div>
+                </div>
+                <div class="data-card">
+                    <div class="dc-label">Biên độ giá</div>
+                    <div class="dc-value">±7%</div>
+                    <div class="dc-sub">Quy định HOSE</div>
+                </div>
+                <div class="data-card">
+                    <div class="dc-label">Nhóm ngành</div>
+                    <div class="dc-value" style="font-size:15px; padding-top:3px;">Điện khí</div>
+                    <div class="dc-sub">Năng lượng tái tạo</div>
+                </div>
+            </div>
+
+            <!-- CỔNG CHỜ: thay mã cổ phiếu trong CTA text -->
+            <div class="cta-banner">
+                <div class="cta-main">Thực hành mua POW không rủi ro</div>
+                <div class="cta-sub">HVS Demo · Dữ liệu thời gian thực HOSE</div>
+            </div>
+        </div>
+
+    </div>
+</body>
+
+</html>

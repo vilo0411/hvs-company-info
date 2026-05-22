@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HVS Tài Chính Số - UI Mockup Template Reference</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #311B92;
+            /* Tím đậm HVS */
+            --secondary: #00838F;
+            /* Xanh ngọc Teal */
+            --accent: #00E5FF;
+            /* Cyan Neon */
+            --bg-dark: #121212;
+            /* Nền tối chủ đạo */
+            --card-glass: rgba(255, 255, 255, 0.03);
+            --card-border: rgba(255, 255, 255, 0.08);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Plus Jakarta Sans', sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: var(--bg-dark);
+        }
+
+        /* Khung ảnh 16:9 */
+        .template-container {
+            width: 1000px;
+            height: 562px;
+            background-color: #151419;
+            overflow: hidden;
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.7);
+            border: 1px solid var(--card-border);
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            position: relative;
+        }
+
+        /* Background Glows */
+        .glow {
+            position: absolute;
+            width: 250px;
+            height: 250px;
+            border-radius: 50%;
+            filter: blur(80px);
+            opacity: 0.12;
+            pointer-events: none;
+        }
+
+        .glow-1 {
+            background-color: var(--primary);
+            top: -20px;
+            right: -20px;
+        }
+
+        .glow-2 {
+            background-color: var(--secondary);
+            bottom: -20px;
+            left: -20px;
+        }
+
+        /* 1. Header */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 10;
+        }
+
+        .brand-logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .brand-logo img {
+            height: 32px;
+            width: 32px;
+            object-fit: contain;
+        }
+
+        .brand-name {
+            font-weight: 800;
+            font-size: 20px;
+            color: #FFFFFF;
+            letter-spacing: -0.5px;
+        }
+
+        .header-tag {
+            font-size: 12px;
+            font-weight: 700;
+            color: var(--accent);
+            background: rgba(0, 229, 255, 0.1);
+            border: 1px solid rgba(0, 229, 255, 0.2);
+            padding: 6px 12px;
+            border-radius: 100px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* 2. Main Dashboard panel (Glassmorphism) */
+        .dashboard-panel {
+            flex-grow: 1;
+            margin-top: 24px;
+            margin-bottom: 24px;
+            background: var(--card-glass);
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 24px;
+            z-index: 10;
+            display: flex;
+            gap: 24px;
+        }
+
+        /* Bảng thống kê bên trái dashboard */
+        .stats-sidebar {
+            width: 30%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .stat-card {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.04);
+            border-radius: 8px;
+            padding: 16px;
+        }
+
+        .stat-label {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.4);
+            font-weight: 600;
+            text-transform: uppercase;
+            margin-bottom: 6px;
+        }
+
+        .stat-value {
+            font-size: 22px;
+            font-weight: 800;
+            color: #FFFFFF;
+        }
+
+        .stat-change {
+            font-size: 12px;
+            color: var(--accent);
+            font-weight: 700;
+            margin-top: 4px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        /* Vùng đồ thị bên phải dashboard */
+        .chart-area {
+            width: 70%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.01);
+            border-radius: 8px;
+            border: 1px solid rgba(255, 255, 255, 0.03);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* SVG Line Chart tuyệt đẹp */
+        .svg-chart {
+            width: 100%;
+            height: 100%;
+            padding: 10px;
+        }
+
+        /* 3. Footer */
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.3);
+            font-weight: 600;
+            z-index: 10;
+        }
+
+        .footer-tag {
+            color: var(--accent);
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="template-container">
+        <!-- Glow Backdrops -->
+        <div class="glow glow-1"></div>
+        <div class="glow glow-2"></div>
+
+        <!-- Header -->
+        <div class="header">
+            <div class="brand-logo">
+                <img src="../assets/favicon.ico" alt="HVS Logo">
+                <div class="brand-name">HVS Tài Chính Số</div>
+            </div>
+            <div class="header-tag">HVS TÀI CHÍNH SỐ - LIVE DASHBOARD</div>
+        </div>
+
+        <!-- Dashboard -->
+        <div class="dashboard-panel">
+            <!-- Sidebar Stats -->
+            <div class="stats-sidebar">
+                <div class="stat-card">
+                    <div class="stat-label">Chỉ số VN-Index</div>
+                    <div class="stat-value">1,248.50</div>
+                    <div class="stat-change">▲ +12.45 (1.01%)</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Khối ngoại mua ròng</div>
+                    <div class="stat-value">+480.2 Tỷ</div>
+                    <div class="stat-change" style="color: var(--accent);">▲ Tăng mạnh</div>
+                </div>
+            </div>
+
+            <!-- Chart Display -->
+            <div class="chart-area">
+                <!-- SVG Chart với dải Gradient tuyệt đẹp trùng màu ảnh bìa -->
+                <svg class="svg-chart" viewBox="0 0 500 200" preserveAspectRatio="none">
+                    <defs>
+                        <!-- Dải gradient chuyển màu cho nét vẽ -->
+                        <linearGradient id="chartGradient" x1="0" y1="0" x2="1" y2="0">
+                            <stop offset="0%" stop-color="#311B92" />
+                            <stop offset="100%" stop-color="#00E5FF" />
+                        </linearGradient>
+                        <!-- Dải gradient mờ làm bóng đổ phía dưới đồ thị -->
+                        <linearGradient id="areaGradient" x1="0" y1="0" x2="0" y2="1">
+                            <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.25" />
+                            <stop offset="100%" stop-color="#00E5FF" stop-opacity="0.0" />
+                        </linearGradient>
+                    </defs>
+
+                    <!-- Vùng diện tích mờ đổ bóng đồ thị -->
+                    <path d="M 0 200 L 0 160 Q 100 80, 200 130 T 400 50 L 500 30 L 500 200 Z"
+                        fill="url(#areaGradient)" />
+
+                    <!-- Đường đồ thị Line sắc nét -->
+                    <path d="M 0 160 Q 100 80, 200 130 T 400 50 L 500 30" fill="none" stroke="url(#chartGradient)"
+                        stroke-width="4" stroke-linecap="round" />
+
+                    <!-- Điểm chấm tăng trưởng Neon ở cuối -->
+                    <circle cx="500" cy="30" r="6" fill="#00E5FF" filter="drop-shadow(0 0 8px #00E5FF)" />
+                </svg>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <div>Dữ liệu thời gian thực được cung cấp bởi HVS Securities &copy; 2026</div>
+            <div class="footer-tag">HVS TÀI CHÍNH SỐ - CÔNG NGHỆ DẪN ĐẦU</div>
+        </div>
+    </div>
+
+</body>
+
+</html>

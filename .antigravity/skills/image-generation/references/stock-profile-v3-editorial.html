@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HVS - Stock Profile V3 — Editorial Top Strip</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #311B92;
+            --secondary: #00838F;
+            --accent: #00E5FF;
+            --industry-accent: #FFD600;
+            --dark: #0A0A12;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Plus Jakarta Sans', Arial, sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #050508;
+        }
+
+        .template-container {
+            width: 1000px;
+            height: 562px;
+            overflow: hidden;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            box-shadow: 0 40px 100px rgba(0, 0, 0, 0.9);
+        }
+
+        /* TOP: Photo strip (56% of height = 315px) */
+        .photo-strip {
+            position: relative;
+            height: 57%;
+            overflow: hidden;
+            flex-shrink: 0;
+        }
+
+        .photo-strip img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center 40%;
+            display: block;
+        }
+
+        /* Gradient at bottom of photo — transition to dark bar */
+        .photo-strip::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 60%;
+            background: linear-gradient(to bottom, transparent, rgba(10, 10, 18, 0.85) 70%, var(--dark) 100%);
+        }
+
+        /* Ticker overlay on photo */
+        .ticker-overlay {
+            position: absolute;
+            bottom: 24px;
+            left: 40px;
+            z-index: 10;
+            display: flex;
+            align-items: flex-end;
+            gap: 16px;
+        }
+
+        .stock-ticker {
+            font-size: 80px;
+            font-weight: 900;
+            line-height: 1;
+            letter-spacing: -4px;
+            color: #FFF;
+        }
+
+        .stock-ticker .ac {
+            color: var(--industry-accent);
+            text-shadow: 0 0 40px rgba(255, 214, 0, 0.7);
+        }
+
+        .ticker-meta {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            padding-bottom: 8px;
+        }
+
+        .company-name-sm {
+            font-size: 11px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.5);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+
+        .exchange-tag {
+            display: inline-block;
+            font-size: 10px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.45);
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid rgba(255, 255, 255, 0.12);
+            padding: 3px 9px;
+            border-radius: 4px;
+            text-transform: uppercase;
+        }
+
+        /* Brand + badge top-left over photo */
+        .photo-header {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            padding: 24px 36px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 10;
+            background: linear-gradient(to bottom, rgba(8, 8, 16, 0.7), transparent);
+        }
+
+        .brand-logo {
+            display: flex;
+            align-items: center;
+            gap: 9px;
+        }
+
+        .brand-logo img {
+            height: 24px;
+            width: 24px;
+            object-fit: contain;
+        }
+
+        .brand-name {
+            font-size: 11px;
+            font-weight: 800;
+            color: rgba(255, 255, 255, 0.45);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+
+        .industry-badge {
+            font-size: 11px;
+            font-weight: 800;
+            color: var(--industry-accent);
+            background: rgba(255, 214, 0, 0.12);
+            border: 1px solid rgba(255, 214, 0, 0.28);
+            padding: 5px 13px;
+            border-radius: 100px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* BOTTOM: Dark data bar */
+        .data-bar {
+            flex-grow: 1;
+            background: var(--dark);
+            padding: 20px 40px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+            border-top: 1px solid rgba(255, 255, 255, 0.06);
+            position: relative;
+        }
+
+        /* Accent line top */
+        .data-bar::before {
+            content: '';
+            position: absolute;
+            top: -1px;
+            left: 40px;
+            width: 120px;
+            height: 2px;
+            background: linear-gradient(to right, var(--industry-accent), transparent);
+        }
+
+        .desc-block {
+            flex: 1;
+            max-width: 280px;
+        }
+
+        .stock-desc {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.5);
+            line-height: 1.6;
+        }
+
+        /* Vertical divider */
+        .vdivider {
+            width: 1px;
+            height: 60px;
+            background: rgba(255, 255, 255, 0.07);
+            flex-shrink: 0;
+        }
+
+        /* Metrics strip */
+        .metrics {
+            display: flex;
+            gap: 0;
+            flex: 2;
+        }
+
+        .metric {
+            flex: 1;
+            text-align: center;
+            padding: 0 16px;
+            border-right: 1px solid rgba(255, 255, 255, 0.06);
+        }
+
+        .metric:last-child {
+            border-right: none;
+        }
+
+        .metric-label {
+            font-size: 10px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.3);
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            margin-bottom: 6px;
+        }
+
+        .metric-value {
+            font-size: 22px;
+            font-weight: 900;
+            color: #FFF;
+            letter-spacing: -0.5px;
+        }
+
+        .metric-sub {
+            font-size: 10px;
+            color: rgba(255, 255, 255, 0.28);
+            margin-top: 3px;
+        }
+
+        /* CTA block */
+        .cta-block {
+            text-align: right;
+            flex-shrink: 0;
+        }
+
+        .cta-btn {
+            display: block;
+            font-size: 11px;
+            font-weight: 800;
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            color: rgba(255, 255, 255, 0.9);
+            padding: 10px 18px;
+            border-radius: 8px;
+            margin-bottom: 6px;
+        }
+
+        .cta-sub {
+            font-size: 10px;
+            color: rgba(255, 255, 255, 0.22);
+            font-weight: 600;
+        }
+
+        /* Candlestick mini */
+        .candle-bull {
+            fill: #00C853;
+        }
+
+        .wick-bull {
+            stroke: #00C853;
+            stroke-width: 1.5;
+        }
+
+        .candle-bear {
+            fill: #FF3D57;
+        }
+
+        .wick-bear {
+            stroke: #FF3D57;
+            stroke-width: 1.5;
+        }
+
+        .candle-active {
+            fill: var(--industry-accent);
+            filter: drop-shadow(0 0 6px var(--industry-accent));
+        }
+
+        .wick-active {
+            stroke: var(--industry-accent);
+            stroke-width: 1.5;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="template-container">
+
+        <!-- TOP: Photo Strip -->
+        <div class="photo-strip">
+            <img src="../assets/company-photos/POW.png" alt="POW">
+
+            <!-- Brand header over photo -->
+            <div class="photo-header">
+                <div class="brand-logo">
+                    <img src="../assets/favicon.ico" alt="HVS Logo">
+                    <span class="brand-name">HVS Tài Chính Số</span>
+                </div>
+                <span class="industry-badge">Ngành Năng lượng</span>
+            </div>
+
+            <!-- Ticker overlaid on photo -->
+            <div class="ticker-overlay">
+                <!-- CỔNG CHỜ: thay mã + tên công ty -->
+                <div class="stock-ticker">P<span class="ac">O</span>W</div>
+                <div class="ticker-meta">
+                    <span class="company-name-sm">Tổng Công ty Điện lực Dầu khí VN</span>
+                    <span class="exchange-tag">HOSE · Niêm yết 2018</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- BOTTOM: Data Bar -->
+        <div class="data-bar">
+            <div class="desc-block">
+                <!-- CỔNG CHỜ: mô tả -->
+                <p class="stock-desc">Nhà sản xuất điện khí lớn nhất VN, đang triển khai dự án Nhơn Trạch 3 &amp; 4
+                    (3.150 MW)</p>
+            </div>
+
+            <div class="vdivider"></div>
+
+            <!-- CỔNG CHỜ: thay số liệu 3 metric -->
+            <div class="metrics">
+                <div class="metric">
+                    <div class="metric-label">Vốn hóa</div>
+                    <div class="metric-value">28.6K</div>
+                    <div class="metric-sub">Tỷ đồng</div>
+                </div>
+                <div class="metric">
+                    <div class="metric-label">Biên độ</div>
+                    <div class="metric-value">±7%</div>
+                    <div class="metric-sub">Quy định HOSE</div>
+                </div>
+                <div class="metric">
+                    <div class="metric-label">Ngành</div>
+                    <div class="metric-value" style="font-size:16px;padding-top:3px;">Điện khí</div>
+                    <div class="metric-sub">Năng lượng tái tạo</div>
+                </div>
+            </div>
+
+            <div class="vdivider"></div>
+
+            <div class="cta-block">
+                <div class="cta-btn">Thực hành mua POW</div>
+                <div class="cta-sub">HVS Demo · Không rủi ro</div>
+            </div>
+        </div>
+
+    </div>
+</body>
+
+</html>

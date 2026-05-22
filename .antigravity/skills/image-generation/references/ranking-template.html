@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HVS - Ranking / Listicle Template (F)</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #311B92;
+            --secondary: #00838F;
+            --accent: #00E5FF;
+            --bg-dark: #0D0D16;
+            --card-border: rgba(255, 255, 255, 0.07);
+            --rank1: #00E5FF;
+            /* Hạng 1 — Cyan neon */
+            --rank2: #A78BFA;
+            /* Hạng 2 — Tím lavender */
+            --rank3: #34D399;
+            /* Hạng 3 — Xanh lá mint */
+            --rank4: rgba(255, 255, 255, 0.45);
+            --rank5: rgba(255, 255, 255, 0.3);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Plus Jakarta Sans', Arial, sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #06060E;
+        }
+
+        .template-container {
+            width: 1000px;
+            height: 562px;
+            background: var(--bg-dark);
+            overflow: hidden;
+            position: relative;
+            border: 1px solid var(--card-border);
+            box-shadow: 0 40px 80px rgba(0, 0, 0, 0.8);
+            display: flex;
+            flex-direction: column;
+            padding: 40px 44px;
+        }
+
+        /* Ambient glows */
+        .glow-tl {
+            position: absolute;
+            width: 350px;
+            height: 350px;
+            border-radius: 50%;
+            background: var(--primary);
+            filter: blur(130px);
+            opacity: 0.18;
+            top: -100px;
+            left: -80px;
+            pointer-events: none;
+        }
+
+        .glow-br {
+            position: absolute;
+            width: 250px;
+            height: 250px;
+            border-radius: 50%;
+            background: var(--secondary);
+            filter: blur(100px);
+            opacity: 0.15;
+            bottom: -60px;
+            right: -40px;
+            pointer-events: none;
+        }
+
+        /* HEADER */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 10;
+            margin-bottom: 28px;
+        }
+
+        .brand-name {
+            font-size: 12px;
+            font-weight: 800;
+            color: rgba(255, 255, 255, 0.3);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+
+        .header-badge {
+            font-size: 11px;
+            font-weight: 800;
+            color: var(--accent);
+            background: rgba(0, 229, 255, 0.12);
+            border: 1px solid rgba(0, 229, 255, 0.2);
+            padding: 5px 12px;
+            border-radius: 100px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* MAIN TITLE */
+        /* CỔNG CHỜ: thay tiêu đề bài viết */
+        .main-title {
+            font-size: 26px;
+            font-weight: 900;
+            color: #FFF;
+            line-height: 1.25;
+            letter-spacing: -0.5px;
+            margin-bottom: 6px;
+            z-index: 10;
+            max-width: 640px;
+        }
+
+        .main-title span {
+            color: var(--accent);
+        }
+
+        /* CỔNG CHỜ: subtitle */
+        .sub-title {
+            font-size: 13px;
+            color: rgba(255, 255, 255, 0.4);
+            margin-bottom: 22px;
+            z-index: 10;
+        }
+
+        /* RANKING LIST */
+        .ranking-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            z-index: 10;
+            flex-grow: 1;
+            justify-content: center;
+        }
+
+        .rank-item {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            border-radius: 10px;
+            padding: 12px 16px;
+            position: relative;
+            overflow: hidden;
+            transition: none;
+        }
+
+        /* Rank 1 — nổi bật nhất */
+        .rank-item.rank-1 {
+            background: rgba(0, 229, 255, 0.06);
+            border-color: rgba(0, 229, 255, 0.2);
+            box-shadow: 0 0 24px rgba(0, 229, 255, 0.08);
+        }
+
+        .rank-item.rank-1::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 3px;
+            height: 100%;
+            background: var(--rank1);
+            border-radius: 3px 0 0 3px;
+        }
+
+        .rank-item.rank-2::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 3px;
+            height: 100%;
+            background: var(--rank2);
+            border-radius: 3px 0 0 3px;
+        }
+
+        .rank-item.rank-3::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 3px;
+            height: 100%;
+            background: var(--rank3);
+            border-radius: 3px 0 0 3px;
+        }
+
+        /* Rank number */
+        .rank-num {
+            font-size: 28px;
+            font-weight: 900;
+            line-height: 1;
+            width: 36px;
+            flex-shrink: 0;
+            text-align: center;
+            font-variant-numeric: tabular-nums;
+        }
+
+        .rank-1 .rank-num {
+            color: var(--rank1);
+            text-shadow: 0 0 20px rgba(0, 229, 255, 0.5);
+        }
+
+        .rank-2 .rank-num {
+            color: var(--rank2);
+        }
+
+        .rank-3 .rank-num {
+            color: var(--rank3);
+        }
+
+        .rank-4 .rank-num {
+            color: var(--rank4);
+            font-size: 22px;
+        }
+
+        .rank-5 .rank-num {
+            color: var(--rank5);
+            font-size: 22px;
+        }
+
+        /* Divider vertical */
+        .divider {
+            width: 1px;
+            height: 36px;
+            background: rgba(255, 255, 255, 0.08);
+            flex-shrink: 0;
+        }
+
+        /* Item content */
+        .rank-content {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 3px;
+        }
+
+        /* CỔNG CHỜ: tên item */
+        .rank-name {
+            font-size: 15px;
+            font-weight: 800;
+            color: #FFF;
+        }
+
+        .rank-4 .rank-name,
+        .rank-5 .rank-name {
+            color: rgba(255, 255, 255, 0.65);
+            font-size: 14px;
+        }
+
+        /* CỔNG CHỜ: mô tả ngắn */
+        .rank-desc {
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.4);
+        }
+
+        /* Tag bên phải */
+        /* CỔNG CHỜ: thay tag text và màu theo đặc điểm */
+        .rank-tag {
+            font-size: 10px;
+            font-weight: 800;
+            padding: 4px 10px;
+            border-radius: 100px;
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
+        .rank-1 .rank-tag {
+            color: var(--rank1);
+            background: rgba(0, 229, 255, 0.12);
+            border: 1px solid rgba(0, 229, 255, 0.2);
+        }
+
+        .rank-2 .rank-tag {
+            color: var(--rank2);
+            background: rgba(167, 139, 250, 0.1);
+            border: 1px solid rgba(167, 139, 250, 0.2);
+        }
+
+        .rank-3 .rank-tag {
+            color: var(--rank3);
+            background: rgba(52, 211, 153, 0.1);
+            border: 1px solid rgba(52, 211, 153, 0.2);
+        }
+
+        .rank-4 .rank-tag,
+        .rank-5 .rank-tag {
+            color: rgba(255, 255, 255, 0.35);
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        /* FOOTER */
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 18px;
+            z-index: 10;
+        }
+
+        .footer-left {
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.2);
+            font-weight: 600;
+        }
+
+        .footer-right {
+            font-size: 11px;
+            font-weight: 800;
+            color: rgba(0, 229, 255, 0.6);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="template-container">
+        <div class="glow-tl"></div>
+        <div class="glow-br"></div>
+
+        <!-- HEADER -->
+        <div class="header">
+            <span class="brand-name">HVS Tài Chính Số</span>
+            <!-- CỔNG CHỜ: thay loại nội dung -->
+            <span class="header-badge">So sánh &amp; Xếp hạng</span>
+        </div>
+
+        <!-- MAIN TITLE -->
+        <!-- CỔNG CHỜ: thay tiêu đề H2/H3 của section -->
+        <h2 class="main-title">Nên đầu tư quỹ ETF nào? <span>3 lựa chọn</span> phù hợp nhất</h2>
+        <!-- CỔNG CHỜ: subtitle ngắn gọn -->
+        <p class="sub-title">Phân tích theo AUM · Tracking Error · Thanh khoản · 2026</p>
+
+        <!-- RANKING LIST — CỔNG CHỜ: Agent thay toàn bộ content trong các rank-item -->
+        <!-- Hỗ trợ 3, 4, hoặc 5 item. Xoá bớt hoặc thêm .rank-item nếu cần -->
+        <div class="ranking-list">
+
+            <div class="rank-item rank-1">
+                <div class="rank-num">1</div>
+                <div class="divider"></div>
+                <div class="rank-content">
+                    <div class="rank-name">E1VFVN30 — Quỹ mô phỏng VN30</div>
+                    <div class="rank-desc">AUM ~6.500 tỷ · 30 cổ phiếu Blue-chip HOSE · Thanh khoản cao nhất</div>
+                </div>
+                <span class="rank-tag">An toàn nhất</span>
+            </div>
+
+            <div class="rank-item rank-2">
+                <div class="rank-num">2</div>
+                <div class="divider"></div>
+                <div class="rank-content">
+                    <div class="rank-name">FUEVFVND — Quỹ VN-Diamond</div>
+                    <div class="rank-desc">AUM ~14.000 tỷ · Cổ phiếu kín room ngoại · Hiệu suất vượt trội</div>
+                </div>
+                <span class="rank-tag">Tăng trưởng cao</span>
+            </div>
+
+            <div class="rank-item rank-3">
+                <div class="rank-num">3</div>
+                <div class="divider"></div>
+                <div class="rank-content">
+                    <div class="rank-name">FUESSVFL — Quỹ VN-Finlead</div>
+                    <div class="rank-desc">AUM ~1.200 tỷ · Tập trung ngành tài chính · Biến động lớn</div>
+                </div>
+                <span class="rank-tag">Lướt sóng</span>
+            </div>
+
+            <!-- Thêm rank-4, rank-5 nếu bài có nhiều hơn 3 lựa chọn -->
+            <!--
+        <div class="rank-item rank-4">
+            <div class="rank-num">4</div>
+            <div class="divider"></div>
+            <div class="rank-content">
+                <div class="rank-name">Tên item 4</div>
+                <div class="rank-desc">Mô tả ngắn</div>
+            </div>
+            <span class="rank-tag">Ghi chú</span>
+        </div>
+        -->
+
+        </div>
+
+        <!-- FOOTER -->
+        <div class="footer">
+            <span class="footer-left">Dữ liệu mang tính tham khảo · Không phải khuyến nghị đầu tư · HVS Securities ©
+                2026</span>
+            <span class="footer-right">HVS Tài Chính Số</span>
+        </div>
+
+    </div>
+</body>
+
+</html>
