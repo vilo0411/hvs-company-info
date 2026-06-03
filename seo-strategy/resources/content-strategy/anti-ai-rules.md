@@ -41,6 +41,9 @@ FORBIDDEN_STRINGS:
   - "Để mà"
   - "Do thực tế là"
   - "Trong nỗ lực nhằm"
+  - "Nghệ thuật săn tìm"
+  - "Chữ cái vàng"
+  - "Giải mã"
 
 FORBIDDEN_PATTERNS:
   - ngoặc_kép_nhấn_mạnh: 'bất kỳ từ/cụm từ trong "..." mà không phải trích dẫn nguyên văn hoặc tên tài liệu pháp lý'
@@ -52,6 +55,8 @@ FORBIDDEN_PATTERNS:
   - synonym_cycling: 'dùng >2 từ đồng nghĩa cho cùng một đối tượng' → chọn 1 từ chuẩn
   - inline_header: '"**[Từ]:** [Từ đó] giúp..."' → viết thành đoạn văn
   - generic_source: '"Các chuyên gia" | "Nhiều người"' → dùng tên tổ chức cụ thể
+  - formula_latex: 'tránh dùng công thức dạng LaTeX ($$ hoặc $) gây lỗi định dạng khi chuyển sang Google Docs, thay bằng blockquote in đậm'
+  - hvs_tai_chinh_so_sai_lech: 'mô tả HVS Tài chính số là công cụ theo dõi số liệu/bộ lọc tài chính tự động (thực tế: HVS Tài chính số là nền tảng đào tạo trực tuyến với các lộ trình thực chiến toàn diện)'
 ```
 
 ### TIER 2 — Hạn chế (tối đa 1 lần/bài)
@@ -135,6 +140,8 @@ REQUIRED:
 3. **Rhythm & Uniformity:** AI viết các câu có độ dài bằng nhau (15-20 chữ). -> HVS: Đan xen câu cực ngắn (5-7 chữ) và câu dài hơn.
 4. **Rhetorical Questions:** Tránh mở đầu bằng câu hỏi tu từ: "Bạn đã bao giờ tự hỏi...?". -> Đi thẳng vào khẳng định.
 5. **Active Voice Definitions:** Tránh định nghĩa kiểu bị động "Được khởi xướng bởi...", "Được xem là...". -> Thay bằng câu chủ động: "Benjamin Graham đã khởi xướng...", "Nhà đầu tư coi đây là...".
+6. **Formula Formatting for Google Docs:** Tránh sử dụng định dạng LaTeX như `$$` hoặc `$` cho các công thức tài chính. Bản sao lưu/chuyển đổi sang Google Docs sẽ bị lỗi hiển thị. Bắt buộc dùng khối trích dẫn in đậm thuần túy (ví dụ: `> **Công thức = A / B**`).
+
 
 ### D. Communication Patterns (Dấu vết Chatbot)
 1. **Chatbot Artifacts:** "Tôi hy vọng thông tin này hữu ích", "Hãy liên hệ nếu...". -> Xóa bỏ hoàn toàn.
@@ -168,3 +175,14 @@ REQUIRED:
 - [2026-05-14]: Cập nhật từ "Tích sản" và "Định giá" feedback: Cấm tuyệt đối dấu ngoặc kép nhấn mạnh (Quy tắc 3.4), yêu cầu chia nhỏ phương pháp tính toán thành H3 để tăng trải nghiệm đọc.
 - [2026-05-14]: Cập nhật từ "Hỗ trợ - Kháng cự" feedback: Cấm từ "Đọc vị" (AI filler), yêu cầu tách nhỏ các bước "Cách thực hiện" thành H3, và siết chặt cấu trúc Vấn đề - Giải pháp (phải nêu nỗi đau bẫy tâm lý/phá vỡ giả trước khi dẫn về HVS).
 - [2026-05-18]: Tái cấu trúc file: Thêm Section 0 (Quick Scan) để skills/QA đọc trực tiếp — loại bỏ anti-ai-digest.md riêng biệt. Content-feedback-loop cập nhật cả Section 0 khi học rule mới.
+- [2026-05-26]: Cập nhật từ "Dow Jones" feedback: Thay đổi tiêu đề H1 loại bỏ từ cấm "đọc vị"; cấm sử dụng công thức dạng LaTeX ($$ hoặc $) gây lỗi hiển thị khi chuyển sang Google Docs, bắt buộc dùng blockquote in đậm.
+- [2026-05-29]: Cập nhật từ "Dệt may" feedback: Tối ưu hóa cấu trúc bài viết Toplist ngành bằng cách chuyển các phần phân tích chi tiết ("Luận điểm đầu tư", "Rủi ro đầu tư") của mỗi doanh nghiệp từ dạng danh sách bullet points thành tiêu đề H4 sub-headings để tăng trải nghiệm phân cấp trực quan và đồng bộ hóa chuyên sâu.
+- [2026-05-29]: Cập nhật từ "Nhựa" feedback: Xây dựng cấu trúc danh mục cổ phiếu tiềm năng chuyên sâu (Comprehensive Stock Directory) bằng cách mở rộng từ 3 lên 5 mã cổ phiếu đặc trưng của ngành, triển khai đồng bộ thành tiêu đề H3 với các đề mục phân tích Luận điểm và Rủi ro chi tiết.
+- [2026-05-29]: Cập nhật từ "Thực phẩm" feedback: Tiếp tục củng cố cấu trúc danh mục cổ phiếu tiềm năng chuyên sâu (Comprehensive Stock Directory) cho ngành tiêu dùng thiết yếu bằng cách bóc tách 5 mã cổ phiếu tiêu biểu (MCH, VNM, MSN, SAB, DBC) dưới dạng H3 với các kịch bản so sánh biến động giá hàng hóa và đòn bẩy tài chính.
+- [2026-05-29]: Cập nhật từ "Thủy sản" feedback: Chuẩn hóa cấu trúc danh mục 5 mã cổ phiếu tiêu biểu (VHC, ANV, FMC, MPC, IDI), triệt tiêu các thuật từ học thuật AI-vibe ("Phân rã"), và rút gọn H1 tối ưu chuẩn SEO (< 65 ký tự) kết hợp định hướng kịch bản biến động giá cá đầu vào.
+- [2026-05-29]: Cập nhật từ "Xây dựng" feedback: Đồng bộ hóa cấu trúc danh mục 5 mã cổ phiếu tiêu biểu (CTD, HBC, VCG, HHV, LCG), triệt tiêu thuật từ học thuật cấm "Phân rã", rút ngắn H1 tối ưu chuẩn SEO (< 65 ký tự) kết hợp định hình kịch bản biến động dòng tiền hoạt động CFO thực tế.
+- [2026-05-29]: Cập nhật từ "Xuất nhập khẩu" feedback: Đồng bộ hóa cấu trúc danh mục Top 4 mã cổ phiếu tiềm năng (VHC, TNG, PTB, ANV) thành dạng H3 chi tiết, triệt tiêu sáo ngữ H1 "Hướng dẫn", và loại bỏ hoàn toàn mô hình tiêu đề H2 lặp lại "3 chất xúc tác" thành chuyên sâu theo ngành thực tế.
+- [2026-06-02]: Cập nhật từ "Richard Donchian" và "CANSLIM" feedback: Cấm dấu ngoặc kép nhấn mạnh ở tiêu đề; cấm các từ sáo rỗng "Nghệ thuật săn tìm", "Chữ cái vàng", "Giải mã" ở tiêu đề; đính chính định nghĩa HVS Tài chính số là nền tảng đào tạo trực tuyến chứ không phải công cụ theo dõi số liệu tài chính.
+
+
+

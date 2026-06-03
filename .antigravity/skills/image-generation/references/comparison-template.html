@@ -1,10 +1,20 @@
+﻿<!--
+  TEMPLATE:     comparison
+  LAYOUT:       layout-1-split (mặc định) | layout-3-editorial (alternate)
+  VISUAL MODE:  icon-mode — color split 50/50 (trái: tím, phải: teal), không dùng ảnh
+  DÙNG KHI:     Bài so sánh 2 khái niệm / sản phẩm đối lập
+                (Blue chip vs Penny, Cổ phiếu vs ETF, Trading vs Đầu tư dài hạn...)
+  CỔNG CHỜ:     col-header trái/phải, 3 feature-item mỗi cột, col-footer trái/phải
+  LƯU Ý:        Bullet icon (✓ / ✗ / !) thay theo tính chất: ✓ ưu điểm, ✗ hạn chế
+  AGENT-GUIDE:  Xem AGENT-GUIDE.md mục 1 + mục 2
+-->
 <!DOCTYPE html>
 <html lang="vi">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HVS Tài Chính Số - Comparison Template Reference</title>
+    <title>HVS Tài Chính Số - Comparison Template</title>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800;900&display=swap"
         rel="stylesheet">
     <style>
@@ -35,8 +45,8 @@
 
         /* Khung ảnh 16:9 */
         .template-container {
-            width: 1000px;
-            height: 562px;
+            width: 800px;
+            height: 500px;
             overflow: hidden;
             box-shadow: 0 30px 60px rgba(0, 0, 0, 0.6);
             display: flex;

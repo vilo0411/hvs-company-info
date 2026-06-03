@@ -1,195 +1,240 @@
+<!--
+  TEMPLATE:     cover
+  LAYOUT:       layout-2-fullbleed
+  VISUAL MODE:  photo-required — ảnh nền phủ toàn canvas, gradient overlay bên trái
+                Ảnh nguồn: assets/cover-photos/[slug].png
+  DÙNG KHI:     Featured image đầu bài viết blog (1 ảnh per bài)
+  CỔNG CHỜ:     background-image URL · badge-label · main-title (.hl cho keyword chính) · tagline · strip-tag x3
+  LƯU Ý:        Gradient overlay đậm bên trái — không giảm opacity. Logo đã ở trong HTML, KHÔNG thêm overlay qua Python.
+-->
 <!DOCTYPE html>
 <html lang="vi">
-
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HVS Tài Chính Số - Finance Cover Template</title>
-    <!-- Google Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@700;800&family=Montserrat:wght@800;900&display=swap"
-        rel="stylesheet">
+    <title>HVS - Cover Template</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&family=Montserrat:wght@800;900&display=swap" rel="stylesheet">
     <style>
-        :root {
-            --primary-glow: rgba(49, 27, 146, 0.8);
-            --secondary-glow: rgba(0, 131, 143, 0.75);
-            --accent: #00E5FF;
-        }
-
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
 
         body {
             display: flex;
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            background-color: #0A0A0C;
+            background: #040608;
         }
 
-        /* 
-           LAYER 1: FULL BACKGROUND IMAGE
-           Khung ảnh 16:9 trải rộng 100% toàn màn hình.
-           Ảnh nền biểu đồ thành phố và vật thể 3D do AI vẽ sẽ được nạp trực tiếp làm nền của container này.
-        */
         .cover-container {
             width: 1000px;
-            height: 562px;
+            height: 600px;
             position: relative;
             overflow: hidden;
-            background: #111015 url('https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=1000&q=80') no-repeat center center;
+            /* CỔNG CHỜ: thay URL ảnh nền AI-generated */
+            background: #0A0B14 url('https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80') no-repeat center center;
             background-size: cover;
-            /* Trải dài full-frame tích hợp */
-            box-shadow: 0 40px 80px rgba(0, 0, 0, 0.8);
-            border: 1px solid rgba(255, 255, 255, 0.05);
+            box-shadow: 0 40px 80px rgba(0,0,0,0.85);
+        }
+
+        /* Gradient overlay — bảo vệ text bên trái */
+        .overlay {
+            position: absolute;
+            inset: 0;
+            background:
+                radial-gradient(ellipse at 10% 82%, rgba(49,27,146,0.68) 0%, transparent 54%),
+                radial-gradient(ellipse at 8% 10%, rgba(0,131,143,0.5) 0%, transparent 50%),
+                linear-gradient(100deg,
+                    rgba(8,10,20,0.98) 0%,
+                    rgba(8,10,20,0.93) 36%,
+                    rgba(8,10,20,0.60) 60%,
+                    rgba(8,10,20,0.06) 100%);
+            z-index: 1;
+        }
+
+        /* Toàn bộ content nằm trên overlay */
+        .content {
+            position: absolute;
+            inset: 0;
+            z-index: 10;
+            padding: 40px 52px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* ── BRAND ROW ── */
+        .brand-row {
             display: flex;
             align-items: center;
+            gap: 10px;
+        }
+        .brand-icon {
+            width: 26px;
+            height: 26px;
+            object-fit: contain;
+        }
+        .brand-name {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            font-size: 14px;
+            font-weight: 800;
+            color: rgba(255,255,255,0.85);
+            letter-spacing: -0.3px;
+        }
+        .brand-sep {
+            width: 1px;
+            height: 14px;
+            background: rgba(255,255,255,0.16);
+        }
+        .brand-sub {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            font-size: 11px;
+            font-weight: 600;
+            color: rgba(255,255,255,0.28);
+            letter-spacing: 0.4px;
         }
 
-        /* 
-           LAYER 2: OVERLAY MASK
-           Mặt nạ Gradient chuyển tiếp dốc phủ kín 100% diện tích:
-           - Phía bên trái (0% - 40%): Màu tối cản sáng cực mạnh (>96%) giúp nổi bật chữ.
-           - Ở giữa (40% - 70%): Chuyển tiếp mượt mà.
-           - Phía bên phải (70% - 100%): Trong suốt hoàn toàn để lộ rõ vật thể 3D nghệ thuật.
-        */
-        .aura-mask {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background:
-                radial-gradient(circle at 15% 85%, var(--secondary-glow) 0%, rgba(10, 10, 14, 0) 55%),
-                radial-gradient(circle at 10% 20%, var(--primary-glow) 0%, rgba(10, 10, 14, 0) 50%),
-                linear-gradient(90deg,
-                    rgba(10, 10, 14, 0.98) 0%,
-                    rgba(10, 10, 14, 0.94) 38%,
-                    rgba(10, 10, 14, 0.6) 65%,
-                    rgba(10, 10, 14, 0.1) 100%);
-            z-index: 2;
-        }
-
-        /* 
-           LAYER 3: BRANDING AND HEADLINE
-           Tất cả các thành phần chữ và logo được đặt trên lớp z-index cao nhất.
-        */
-        .content-panel {
-            position: relative;
-            z-index: 10;
-            width: 100%;
-            height: 100%;
-            padding: 60px 60px;
+        /* ── HERO — centered vertically ── */
+        .hero {
+            flex: 1;
             display: flex;
             flex-direction: column;
             justify-content: center;
-            gap: 45px;
+            max-width: 54%;
+            gap: 16px;
         }
 
-        /* Logo thương hiệu "Taichinhso" */
-        .brand-logo-area {
-            display: flex;
-            flex-direction: column;
-            width: fit-content;
-        }
-
-        .brand-logo {
-            display: flex;
+        /* Category badge */
+        .badge {
+            display: inline-flex;
             align-items: center;
-            gap: 12px;
-            padding-bottom: 12px;
+            gap: 8px;
+            width: fit-content;
+            padding: 5px 14px 5px 10px;
+            border-radius: 100px;
+            background: rgba(0,229,255,0.07);
+            border: 1px solid rgba(0,229,255,0.22);
         }
-
-        .brand-logo img {
-            height: 36px;
-            width: 36px;
-            object-fit: contain;
+        .badge-dot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: #00E5FF;
+            box-shadow: 0 0 8px #00E5FF;
+            flex-shrink: 0;
         }
-
-        .brand-name {
+        /* CỔNG CHỜ: thay category text */
+        .badge-label {
             font-family: 'Plus Jakarta Sans', sans-serif;
+            font-size: 10.5px;
             font-weight: 800;
-            font-size: 24px;
-            color: #FFFFFF;
-            letter-spacing: -0.5px;
+            color: #00E5FF;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
         }
 
-        /* Đường kẻ mỏng bên dưới logo thương hiệu */
-        .brand-divider {
-            width: 100%;
-            height: 2px;
-            background: linear-gradient(90deg, var(--accent), rgba(255, 255, 255, 0.1));
-            opacity: 0.8;
-        }
-
-        /* Tiêu đề chính */
-        .title-area {
-            max-width: 65%;
-            margin-bottom: 20px;
-        }
-
+        /* Main title */
         .main-title {
             font-family: 'Montserrat', sans-serif;
             font-weight: 900;
-            font-size: 38px;
+            font-size: 48px;
             color: #FFFFFF;
-            line-height: 1.35;
+            line-height: 1.16;
             text-transform: uppercase;
-            letter-spacing: -1px;
-            /* Đổ bóng sâu sắc nét để tối ưu hóa khả năng đọc trên nền biểu đồ */
+            letter-spacing: -1.5px;
+            text-shadow: 0 2px 24px rgba(0,0,0,0.65);
+        }
+        /* CỔNG CHỜ: wrap keyword SEO chính trong <span class="hl"> */
+        .main-title .hl {
+            color: #00E5FF;
             text-shadow:
-                0 4px 15px rgba(0, 0, 0, 0.8),
-                0 0 20px rgba(0, 229, 255, 0.1);
+                0 0 50px rgba(0,229,255,0.4),
+                0 2px 24px rgba(0,0,0,0.65);
         }
 
-        .main-title span {
-            background: linear-gradient(90deg, #FFFFFF, var(--accent));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+        /* Tagline separator + text */
+        .tagline-row {
+            display: flex;
+            align-items: center;
+            gap: 12px;
         }
-
-        .subtitle {
+        .tagline-line {
+            width: 28px;
+            height: 2px;
+            background: rgba(255,255,255,0.16);
+            border-radius: 1px;
+            flex-shrink: 0;
+        }
+        /* CỔNG CHỜ: mô tả ngắn 1 dòng */
+        .tagline {
             font-family: 'Plus Jakarta Sans', sans-serif;
-            font-size: 14px;
+            font-size: 13px;
             font-weight: 700;
-            color: rgba(255, 255, 255, 0.4);
-            margin-top: 16px;
+            color: rgba(255,255,255,0.38);
+            letter-spacing: 0.2px;
+        }
+
+        /* ── BOTTOM STRIP ── */
+        .bottom-strip {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        /* CỔNG CHỜ: 2-3 tag ngắn liên quan */
+        .strip-tag {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            font-size: 10px;
+            font-weight: 700;
+            color: rgba(255,255,255,0.26);
             text-transform: uppercase;
-            letter-spacing: 2px;
+            letter-spacing: 1.2px;
+            padding: 5px 12px;
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 100px;
         }
     </style>
 </head>
-
 <body>
+    <div class="cover-container">
+        <div class="overlay"></div>
+        <div class="content">
 
-    <!-- LAYER 1: Bức ảnh tích hợp vĩ mô do AI vẽ nằm trọn vẹn ở nền container này -->
-    <div class="cover-container" id="coverContainer">
-        <!-- LAYER 2: Lớp mặt nạ chuyển sắc dốc cản sáng bên trái, lộ rõ vật thể bên phải -->
-        <div class="aura-mask"></div>
+            <!-- BRAND -->
+            <div class="brand-row">
+                <img class="brand-icon" src="../assets/favicon.ico" alt="HVS">
+                <span class="brand-name">Taichinhso</span>
+                <div class="brand-sep"></div>
+                <span class="brand-sub">HVS Securities</span>
+            </div>
 
-        <!-- LAYER 3: Logo thương hiệu và Tiêu đề đặt trên cùng lề trái -->
-        <div class="content-panel">
-            <div class="brand-logo-area">
-                <div class="brand-logo">
-                    <img src="../assets/favicon.ico" alt="HVS Logo">
-                    <div class="brand-name">Taichinhso</div>
+            <!-- HERO -->
+            <div class="hero">
+                <!-- CỔNG CHỜ: category badge -->
+                <div class="badge">
+                    <div class="badge-dot"></div>
+                    <span class="badge-label">Hướng dẫn đầu tư</span>
                 </div>
-                <div class="brand-divider"></div>
+
+                <!-- CỔNG CHỜ: tiêu đề bài viết — wrap keyword chính trong .hl -->
+                <h1 class="main-title">
+                    Cách đầu tư<br>
+                    <span class="hl">chứng khoán</span><br>
+                    từ A đến Z
+                </h1>
+
+                <!-- CỔNG CHỜ: tagline 1 dòng -->
+                <div class="tagline-row">
+                    <div class="tagline-line"></div>
+                    <span class="tagline">Hệ sinh thái thực chiến HVS · Dành cho nhà đầu tư mới</span>
+                </div>
             </div>
 
-            <div class="title-area">
-                <h1 class="main-title">
-                    Phân tích & Dự báo<br>
-                    dòng vốn khối ngoại<br>
-                    cho hoạt động đầu tư
-                </h1>
+            <!-- BOTTOM TAGS -->
+            <div class="bottom-strip">
+                <!-- CỔNG CHỜ: 2-3 tags -->
+                <span class="strip-tag">Cơ bản</span>
+                <span class="strip-tag">Người mới</span>
+                <span class="strip-tag">Thực chiến</span>
             </div>
+
         </div>
     </div>
-
 </body>
-
 </html>

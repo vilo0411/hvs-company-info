@@ -1,246 +1,289 @@
+<!--
+  TEMPLATE:     process
+  VISUAL MODE:  icon-mode — step flow, light background
+  DÙNG KHI:     Bài hướng dẫn từng bước (how-to), quy trình có thứ tự
+  CANVAS:       800 × 500 px  →  --window-size=800,500
+
+  ════════════════════════════════════════════════════════
+  HƯỚNG DẪN SỬ DỤNG CHO AGENT
+  ════════════════════════════════════════════════════════
+
+  Số bước → CSS class → Cách dùng
+  ─────────────────────────────────────────────────────
+  3 bước  → (default)      .steps-container KHÔNG thêm class
+  4 bước  → class "s4"     .steps-container.s4
+  5 bước  → class "s5"     .steps-container.s5  (bỏ .step-arrow)
+  6 bước  → class "s6"     .steps-container.s6  (layout 2×3, bỏ .step-arrow)
+  ─────────────────────────────────────────────────────
+
+  CỔNG CHỜ (thay theo bài viết):
+    - .process-title        → tên quy trình (VD: "QUY TRÌNH GIAO DỊCH")
+    - .step-number          → số thứ tự (01, 02, ...)
+    - .step-heading         → tên bước ngắn (3-5 từ)
+    - .step-desc            → mô tả 1-2 câu (ngắn gọn — xem ghi chú chiều dài bên dưới)
+    - .footer-tag           → tagline cuối trang
+
+  GHI CHÚ CHIỀU DÀI MÔ TẢ theo số bước:
+    3 bước → tối đa 25 từ/bước
+    4 bước → tối đa 18 từ/bước
+    5 bước → tối đa 12 từ/bước
+    6 bước → tối đa 10 từ/bước (cực ngắn)
+
+  LƯU Ý:
+    - Logo đã ở trong HTML — KHÔNG overlay logo qua Python.
+    - Nền sáng (#FAF6F0) — chủ ý để tạo cảm giác "hướng dẫn thực hành".
+    - Dark variant: đổi --bg → #0D0D16, --text → #FFFFFF, border sang rgba(255,255,255,0.08)
+-->
 <!DOCTYPE html>
 <html lang="vi">
-
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HVS Tài Chính Số - Process Template Reference</title>
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap"
-        rel="stylesheet">
+    <title>HVS - Process Template</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
     <style>
         :root {
-            --primary: #311B92;
-            /* Tím đậm HVS */
-            --secondary: #00838F;
-            /* Xanh ngọc Teal */
-            --accent: #00E5FF;
-            /* Cyan Neon */
-            --bg-light: #FAF6F0;
-            /* Nền kem sáng ấm */
-            --text-dark: #1E1C24;
+            --primary:  #311B92;
+            --secondary:#00838F;
+            --accent:   #00E5FF;
+            --bg:       #FAF6F0;
+            --text:     #1E1C24;
         }
 
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-            font-family: 'Plus Jakarta Sans', 'Segoe UI', Arial, sans-serif;
-        }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Plus Jakarta Sans', sans-serif; }
 
         body {
             display: flex;
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            background-color: #121212;
+            background: #121212;
         }
 
-        /* Khung ảnh 16:9 quy chuẩn */
         .template-container {
-            width: 1000px;
-            height: 562px;
-            background-color: var(--bg-light);
+            width: 800px;
+            height: 500px;
+            background: var(--bg);
             overflow: hidden;
-            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.6);
-            padding: 48px;
+            box-shadow: 0 30px 60px rgba(0,0,0,0.6);
+            padding: 36px 44px 28px;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
             position: relative;
         }
 
-        /* 1. Header */
+        /* ── HEADER ── */
         .header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            border-bottom: 2px solid rgba(49, 27, 146, 0.1);
-            padding-bottom: 20px;
+            border-bottom: 2px solid rgba(49,27,146,0.1);
+            padding-bottom: 16px;
         }
+        .brand-logo { display: flex; align-items: center; gap: 9px; }
+        .brand-logo img { height: 26px; width: 26px; object-fit: contain; }
+        .brand-name { font-weight: 800; font-size: 18px; color: var(--primary); }
+        /* CỔNG CHỜ: tiêu đề quy trình */
+        .process-title { font-weight: 800; font-size: 20px; color: var(--primary); text-transform: uppercase; }
 
-        .brand-logo {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .brand-logo img {
-            height: 28px;
-            width: 28px;
-            object-fit: contain;
-        }
-
-        .brand-name {
-            font-weight: 800;
-            font-size: 20px;
-            color: var(--primary);
-        }
-
-        .process-title {
-            font-weight: 800;
-            font-size: 22px;
-            color: var(--primary);
-            text-transform: uppercase;
-        }
-
-        /* 
-           2. BỐ CỤC DYNAMIC FLEX CO GIÃN TỰ ĐỘNG (AUTO-SCALING)
-           Hệ thống Flexbox thông minh cho phép tự động dàn đều bất kỳ số lượng bước quy trình nào (2, 3, 4, 5...)
-        */
+        /* ── STEPS CONTAINER — flex horizontal (default 3-4 bước) ── */
         .steps-container {
             display: flex;
             justify-content: space-between;
             align-items: stretch;
-            /* Bắt các card có chiều cao bằng nhau tuyệt đối */
-            gap: 18px;
-            /* Sử dụng gap hiện đại thay thế cho việc chia tỷ lệ width cứng */
-            margin-top: 30px;
-            margin-bottom: 30px;
-            position: relative;
-            width: 100%;
+            gap: 12px;
+            flex: 1;
+            margin: 20px 0 16px;
         }
 
-        .step-card {
-            flex: 1 1 0px;
-            /* Tự động dàn đều bề ngang cực kỳ cân bằng */
-            background: #FFFFFF;
-            border: 1px solid rgba(49, 27, 146, 0.08);
-            border-radius: 12px;
-            padding: 28px 18px;
-            box-shadow: 0 10px 25px rgba(49, 27, 146, 0.04);
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
-            position: relative;
-        }
-
-        /* Đường viền gradient chóp đầu card */
-        .step-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 4px;
-            background: linear-gradient(90deg, var(--primary), var(--secondary));
-            border-radius: 12px 12px 0 0;
-        }
-
-        .step-number {
-            width: 44px;
-            height: 44px;
-            border-radius: 50%;
-            background: rgba(49, 27, 146, 0.1);
-            color: var(--primary);
-            font-weight: 800;
-            font-size: 18px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin-bottom: 16px;
-        }
-
-        .step-heading {
-            font-weight: 700;
-            font-size: 16px;
-            color: var(--text-dark);
-            margin-bottom: 10px;
-            line-height: 1.2;
-        }
-
-        .step-desc {
-            font-size: 13px;
-            color: rgba(30, 28, 36, 0.7);
-            line-height: 1.45;
-        }
-
-        /* 
-           MŨI TÊN KẾT NỐI MỀM MẠI CHÈN ĐỆM GIỮA CÁC BƯỚC
-           (Được chèn động qua code của Agent nếu cần, hoặc thiết lập bằng CSS)
-        */
+        /* Arrow giữa các bước — chỉ dùng cho 3-4 bước */
         .step-arrow {
             display: flex;
             align-items: center;
-            font-size: 26px;
-            color: rgba(49, 27, 146, 0.3);
+            font-size: 22px;
+            color: rgba(49,27,146,0.28);
             font-weight: bold;
-            user-select: none;
+            flex-shrink: 0;
         }
 
-        /* 3. Footer */
+        /* Step card */
+        .step-card {
+            flex: 1 1 0px;
+            background: #FFFFFF;
+            border: 1px solid rgba(49,27,146,0.08);
+            border-radius: 10px;
+            padding: 22px 14px;
+            box-shadow: 0 8px 20px rgba(49,27,146,0.04);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            position: relative;
+        }
+        .step-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            border-radius: 10px 10px 0 0;
+        }
+        .step-number {
+            width: 40px; height: 40px;
+            border-radius: 50%;
+            background: rgba(49,27,146,0.1);
+            color: var(--primary);
+            font-weight: 800; font-size: 16px;
+            display: flex; justify-content: center; align-items: center;
+            margin-bottom: 12px;
+            flex-shrink: 0;
+        }
+        .step-heading { font-weight: 700; font-size: 14px; color: var(--text); margin-bottom: 8px; line-height: 1.25; }
+        .step-desc    { font-size: 12px; color: rgba(30,28,36,0.65); line-height: 1.45; }
+
+        /* ════════════════════════════════════════════════════
+           CLASS VARIANTS — thêm class vào .steps-container
+           ════════════════════════════════════════════════════ */
+
+        /* ── 4 BƯỚC — s4: font nhỏ hơn chút, ẩn mũi tên nếu muốn ── */
+        .s4 .step-card        { padding: 18px 10px; }
+        .s4 .step-number      { width: 36px; height: 36px; font-size: 14px; margin-bottom: 10px; }
+        .s4 .step-heading     { font-size: 13px; }
+        .s4 .step-desc        { font-size: 11px; }
+        .s4 .step-arrow       { font-size: 16px; }
+
+        /* ── 5 BƯỚC — s5: compact, KHÔNG dùng .step-arrow trong markup ── */
+        .s5 {
+            gap: 8px;
+        }
+        .s5 .step-card        { padding: 14px 8px; border-radius: 8px; }
+        .s5 .step-number      { width: 30px; height: 30px; font-size: 12px; margin-bottom: 8px; }
+        .s5 .step-heading     { font-size: 11.5px; margin-bottom: 5px; }
+        .s5 .step-desc        { font-size: 10px; line-height: 1.4; }
+        .s5 .step-arrow       { display: none; }  /* ẩn nếu vẫn có trong markup */
+
+        /* Dot connector thay mũi tên cho s5 */
+        .s5 .step-card::after {
+            content: '›';
+            position: absolute;
+            right: -10px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 16px;
+            color: rgba(49,27,146,0.25);
+            z-index: 5;
+        }
+        .s5 .step-card:last-child::after { display: none; }
+
+        /* ── 6 BƯỚC — s6: grid 2×3, KHÔNG dùng .step-arrow trong markup ── */
+        .s6 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-rows: 1fr 1fr;
+            gap: 10px;
+            margin: 14px 0 12px;
+        }
+        .s6 .step-card        { padding: 12px 10px; border-radius: 8px; }
+        .s6 .step-number      { width: 28px; height: 28px; font-size: 11px; margin-bottom: 6px; }
+        .s6 .step-heading     { font-size: 11px; margin-bottom: 4px; }
+        .s6 .step-desc        { font-size: 9.5px; line-height: 1.35; }
+        .s6 .step-arrow       { display: none; }
+
+        /* ── FOOTER ── */
         .footer {
-            border-top: 1px solid rgba(49, 27, 146, 0.08);
-            padding-top: 16px;
+            border-top: 1px solid rgba(49,27,146,0.08);
+            padding-top: 12px;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            font-size: 12px;
-            color: rgba(30, 28, 36, 0.5);
+            font-size: 11px;
+            color: rgba(30,28,36,0.45);
             font-weight: 600;
         }
-
-        .footer-tag {
-            color: var(--secondary);
-            font-weight: 700;
-        }
+        /* CỔNG CHỜ: tagline */
+        .footer-tag { color: var(--secondary); font-weight: 700; }
     </style>
 </head>
-
 <body>
-
     <div class="template-container">
-        <!-- Header -->
+
+        <!-- HEADER -->
         <div class="header">
             <div class="brand-logo">
-                <img src="../assets/favicon.ico" alt="HVS Logo">
+                <img src="../assets/favicon.ico" alt="HVS">
                 <div class="brand-name">Taichinhso</div>
             </div>
-            <h2 class="process-title">Quy trình thực chiến</h2>
+            <!-- CỔNG CHỜ: tiêu đề quy trình -->
+            <h2 class="process-title">Quy trình giao dịch</h2>
         </div>
 
-        <!-- 
-            Mã HTML mẫu cơ bản 3 bước. 
-            Khi biên dịch bài viết 4 hay 5 bước, Agent chỉ cần chèn thêm các khối .step-card 
-            và .step-arrow vào đây. CSS Flexbox sẽ tự động co giãn tuyệt đối mà không bị vỡ.
+        <!--
+            ════════════════════════════════════════════════════
+            AGENT: chọn class phù hợp với số bước thực tế
+            ════════════════════════════════════════════════════
+            3 bước → <div class="steps-container">
+            4 bước → <div class="steps-container s4">
+            5 bước → <div class="steps-container s5">  (bỏ .step-arrow)
+            6 bước → <div class="steps-container s6">  (bỏ .step-arrow)
+            ════════════════════════════════════════════════════
         -->
         <div class="steps-container">
-            <!-- Step 1 -->
+
+            <!-- BƯỚC 1 — CỔNG CHỜ: step-number / step-heading / step-desc -->
             <div class="step-card">
                 <div class="step-number">01</div>
-                <h3 class="step-heading">Phân tích Số liệu</h3>
-                <p class="step-desc">Đọc vị báo cáo tài chính và dòng tiền doanh nghiệp với công cụ HVS Tài chính số.
-                </p>
+                <h3 class="step-heading">Mở tài khoản eKYC</h3>
+                <p class="step-desc">Hoàn toàn online, miễn phí và xác thực CCCD cực nhanh qua điện thoại trong ngày.</p>
             </div>
 
             <div class="step-arrow">→</div>
 
-            <!-- Step 2 -->
+            <!-- BƯỚC 2 -->
             <div class="step-card">
                 <div class="step-number">02</div>
-                <h3 class="step-heading">Giao dịch Demo</h3>
-                <p class="step-desc">Luyện tập giao dịch thực chiến không rủi ro trên dữ liệu HOSE thực tại HVS Demo.
-                </p>
+                <h3 class="step-heading">Nạp vốn nhàn rỗi</h3>
+                <p class="step-desc">Chuẩn bị từ 2–5 triệu đồng để bắt đầu. Tuân thủ chu kỳ thanh toán T+2.5.</p>
             </div>
 
             <div class="step-arrow">→</div>
 
-            <!-- Step 3 -->
+            <!-- BƯỚC 3 -->
             <div class="step-card">
                 <div class="step-number">03</div>
-                <h3 class="step-heading">Tối ưu Danh mục</h3>
-                <p class="step-desc">Đánh giá hiệu suất và tối thiểu hóa rủi ro đầu tư thông qua phân tích kỹ thuật.</p>
+                <h3 class="step-heading">Đặt lệnh thực hành</h3>
+                <p class="step-desc">Xem bảng điện sàn HOSE/HNX để khớp lệnh LO hoặc phiên ATO/ATC dễ dàng.</p>
             </div>
+
+            <!--
+            AGENT: thêm bước 4 tại đây nếu bài có 4 bước (và dùng class s4)
+            <div class="step-arrow">→</div>
+            <div class="step-card">
+                <div class="step-number">04</div>
+                <h3 class="step-heading">Theo dõi danh mục</h3>
+                <p class="step-desc">Dùng HVS App để kiểm tra P&L theo thời gian thực và đặt cảnh báo giá.</p>
+            </div>
+            -->
+
+            <!--
+            AGENT: ví dụ 5 bước — dùng class s5, BỎ tất cả .step-arrow
+            <div class="step-card"><div class="step-number">05</div>...</div>
+            -->
+
+            <!--
+            AGENT: ví dụ 6 bước — dùng class s6, BỎ tất cả .step-arrow
+            <div class="step-card"><div class="step-number">06</div>...</div>
+            -->
+
         </div>
 
-        <!-- Footer -->
+        <!-- FOOTER -->
         <div class="footer">
             <div>&copy; 2026 HVS Securities. Bảo lưu mọi quyền.</div>
-            <div class="footer-tag">HVS TÀI CHÍNH SỐ - KIẾN THỨC LÀ SỨC MẠNH</div>
+            <!-- CỔNG CHỜ: tagline -->
+            <div class="footer-tag">Học thực chất · Hành thực chiến · Đầu tư thực thụ</div>
         </div>
+
     </div>
-
 </body>
-
 </html>

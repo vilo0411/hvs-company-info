@@ -1,9 +1,21 @@
+﻿<!--
+  TEMPLATE:     timeline
+  LAYOUT:       layout-3-editorial (mặc định) | layout-1-split (alternate)
+  VISUAL MODE:  icon-mode — SVG timeline tuyến tính hoặc vòng tròn, không cần ảnh
+                Chọn variant trong CSS comment: "linear" (mặc định) hoặc "circular"
+  DÙNG KHI:     Bài có lộ trình thời gian hoặc chu kỳ lặp
+                (Lộ trình học CK 6 tháng, Chu kỳ tái cơ cấu ETF, Timeline IPO...)
+  CỔNG CHỜ:     header-badge, main-title, sub-title, các timeline-node (label + date + desc)
+  LƯU Ý:        Variant "linear" → chuỗi sự kiện có đầu-cuối
+                Variant "circular" → chu kỳ lặp lại (Q1→Q2→Q3→Q4→Q1...)
+  AGENT-GUIDE:  Xem AGENT-GUIDE.md mục 1 + mục 2
+-->
 <!DOCTYPE html>
 <html lang="vi">
 
 <head>
     <meta charset="UTF-8">
-    <title>HVS - Timeline / Scenario Flow Template (I)</title>
+    <title>HVS - Timeline / Scenario Flow Template</title>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap"
         rel="stylesheet">
     <style>
@@ -36,8 +48,8 @@
         }
 
         .template-container {
-            width: 1000px;
-            height: 562px;
+            width: 800px;
+            height: 500px;
             background: var(--bg-dark);
             overflow: hidden;
             position: relative;
@@ -91,8 +103,7 @@
         }
 
         .brand-logo img {
-            height: 28px;
-            width: 28px;
+            height: 28px; width: 28px;
             object-fit: contain;
         }
 
@@ -325,7 +336,7 @@
         <div class="header">
             <div class="brand-logo">
                 <img src="../assets/favicon.ico" alt="HVS Logo">
-                <span class="brand-name">HVS Tài Chính Số</span>
+                <span class="brand-name">Taichinhso</span>
             </div>
             <!-- CỔNG CHỜ: thay loại timeline -->
             <span class="header-badge">Quy trình từng bước</span>
@@ -380,7 +391,7 @@
         <!-- FOOTER -->
         <div class="footer">
             <span class="footer-note">Quy trình tái cơ cấu diễn ra định kỳ mỗi quý · HVS Securities © 2026</span>
-            <span class="footer-brand">HVS Tài Chính Số</span>
+            <span class="footer-brand">Học thực chất · Hành thực chiến · Đầu tư thực thụ</span>
         </div>
 
     </div>

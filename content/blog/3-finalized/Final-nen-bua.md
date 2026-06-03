@@ -11,9 +11,15 @@ Meta_Description: Nến búa (Hammer) là gì? Cách nhận diện đặc điể
 
 # Nến búa (Hammer) là gì? Đặc điểm và cách giao dịch thực chiến (2026)
 
+![Nến búa Hammer là gì? Đặc điểm nhận diện và cách giao dịch thực chiến](file:///e:/project/hvs-company-info/content/blog/assets/images/nen-bua/nen-bua-cover.webp)
+*Hình 1: Mẫu hình nến búa (Hammer) báo hiệu lực cầu bắt đáy mạnh mẽ tại các vùng hỗ trợ quan trọng.*
+
 Trên biểu đồ kỹ thuật, một cây nến rút chân mạnh mẽ sau đà giảm dốc thường là tín hiệu đầu tiên cho thấy dòng tiền lớn bắt đầu nhập cuộc. Đó chính là **nến búa** (Hammer). Tuy nhiên, nếu chỉ nhìn vào hình dáng mà bỏ qua bối cảnh thị trường, bạn rất dễ rơi vào các bẫy tăng ảo. Bài viết này hướng dẫn bạn cách bóc tách cấu tạo và quy tắc giao dịch với nến búa để xác định điểm đảo chiều thực sự của cổ phiếu.
 
 ## Nến búa (Hammer) là gì?
+
+![Cấu tạo chi tiết của mô hình nến búa Hammer trong phân tích kỹ thuật](file:///e:/project/hvs-company-info/content/blog/assets/images/nen-bua/nen-bua-dinh-nghia.webp)
+*Hình 2: Cấu tạo đặc trưng của nến búa với bóng dưới dài gấp 2 đến 3 lần thân nến, thể hiện áp lực mua đảo chiều.*
 
 **Nến búa (Hammer)** là mẫu hình nến đơn báo hiệu khả năng đảo chiều từ giảm sang tăng. Nó xuất hiện khi giá cổ phiếu bị ép xuống sâu trong phiên nhưng lực cầu bất ngờ gia tăng mạnh mẽ vào cuối phiên, đẩy giá đóng cửa lên gần mức cao nhất. Hành động giá này tạo nên một cây nến có phần bóng dưới dài, trông giống như một chiếc búa đang đóng xuống để dò đáy thị trường.
 
@@ -27,6 +33,9 @@ Trên biểu đồ kỹ thuật, một cây nến rút chân mạnh mẽ sau đ�
 4.  **Bóng nến trên rất ngắn hoặc không có:** Cho thấy phe mua giữ vững được thế chủ động cho đến khi kết thúc phiên giao dịch, không có áp lực bán ngược lại ở vùng giá cao.
 
 ## Cách giao dịch với nến búa: Quy trình 3 bước thực chiến
+
+![Quy trình 3 bước giao dịch thực chiến với mô hình nến búa](file:///e:/project/hvs-company-info/content/blog/assets/images/nen-bua/cach-giao-dich-nen-bua-quy-trinh.webp)
+*Hình 3: Quy trình giao dịch thực chiến với nến búa dựa trên bối cảnh hỗ trợ, khối lượng và tín hiệu xác nhận.*
 
 Sai lầm phổ biến của người mới là đặt lệnh mua ngay lập tức khi thấy nến búa. Để an toàn, bạn nên tuân thủ quy trình xác nhận sau:
 

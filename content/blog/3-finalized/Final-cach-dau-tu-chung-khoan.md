@@ -14,11 +14,17 @@ Meta_Description: Hướng dẫn chi tiết cách đầu tư chứng khoán cho 
 
 # Hướng dẫn cách đầu tư chứng khoán cho người mới từ A–Z
 
+![Hướng dẫn cách đầu tư chứng khoán cho người mới bắt đầu từ A-Z](file:///e:/project/hvs-company-info/content/blog/assets/images/cach-dau-tu-chung-khoan/cach-dau-tu-chung-khoan-cover.webp)
+*Hình 1: Hướng dẫn cách đầu tư chứng khoán cho người mới bắt đầu từ A-Z cùng hệ sinh thái thực chiến HVS.*
+
 Bạn khao khát xây dựng sự nghiệp tài chính và gia tăng tài sản bền vững từ chứng khoán nhưng chưa biết bắt đầu từ đâu giữa "mê cung" thông tin? Đừng để nỗi sợ rủi ro hay những bảng điện tử chớp nháy làm bạn chùn bước. Bài viết này của HVS được thiết kế dành riêng cho bạn, cung cấp lộ trình thực chiến 4 bước từ mở tài khoản đến quản trị tâm lý chuyên nghiệp. Hãy cùng HVS biến chứng khoán thành công cụ sinh lời thông minh và an toàn ngay hôm nay.
 
 ## Hướng dẫn cách đầu tư chứng khoán cho người mới (4 bước)
 
 Việc đầu tư chứng khoán ngày nay đã trở nên vô cùng tiện lợi. Bạn có thể thực hiện mọi thao tác hoàn toàn online ngay trên điện thoại hoặc máy tính. Dưới đây là 4 bước cơ bản để một người mới bắt đầu đầu tư chứng khoán.
+
+![Quy trình giao dịch chứng khoán thực chiến cho F0](file:///e:/project/hvs-company-info/content/blog/assets/images/cach-dau-tu-chung-khoan/cach-dau-tu-chung-khoan-quy-trinh.webp)
+*Hình 2: Quy trình giao dịch chứng khoán thực chiến 3 bước cơ bản dành cho nhà đầu tư mới.*
 
 ### Bước 1: Mở tài khoản chứng khoán
 
@@ -100,9 +106,12 @@ Sai lầm cần tránh: Chạy theo đám đông, mua cổ phiếu theo "tin đ�
 
 Tâm lý giao dịch là yếu tố thường bị xem nhẹ nhưng lại quyết định đến 90% thành công của một nhà đầu tư. 3 bẫy tâm lý phổ biến nhà đầu tư mới cần tránh:
 
+![Cân bằng cảm xúc và kỷ luật trong giao dịch chứng khoán](file:///e:/project/hvs-company-info/content/blog/assets/images/cach-dau-tu-chung-khoan/cach-dau-tu-chung-khoan-tam-ly.webp)
+*Hình 3: Bản đồ cân bằng cảm xúc và kỷ luật giúp nhà đầu tư mới vượt qua các bẫy tâm lý phổ biến.*
+
 - **Tâm lý FOMO (Fear Of Missing Out):** Sợ bỏ lỡ cơ hội, vội vàng mua đuổi cổ phiếu đã tăng giá mạnh và thường dẫn đến tình trạng "đu đỉnh".
 - **Tự tin thái quá:** Sau một vài giao dịch thắng lợi, nhà đầu tư bắt đầu chủ quan, bỏ qua các nguyên tắc quản trị rủi ro cơ bản.
-- **Sợ hãi và không dám cắt lỗ:** Khi một cổ phiếu giảm giá, thay vì tuân thủ kỷ luật cắt lỗ, nhiều người lại tiếp tục "gồng lỗ" with hy vọng hão huyền rằng giá sẽ hồi phục.
+- **Sợ hãi và không dám cắt lỗ:** Khi một cổ phiếu giảm giá, thay vì tuân thủ kỷ luật cắt lỗ, nhiều người lại tiếp tục "gồng lỗ" với hy vọng hão huyền rằng giá sẽ hồi phục.
 
 Đầu tư chứng khoán là một cuộc marathon, không phải một cuộc đua nước rút. Người chiến thắng là người có kỷ luật đầu tư thép, tuân thủ nghiêm ngặt chiến lược đã đề ra và không để cảm xúc chi phối quyết định.
 

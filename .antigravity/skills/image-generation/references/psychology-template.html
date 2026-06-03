@@ -1,55 +1,55 @@
+<!--
+  TEMPLATE:     psychology
+  LAYOUT:       layout-1-split
+  VISUAL MODE:  icon-mode — right col: hai thẻ contrast (Cảm xúc vs Kỷ luật)
+  DÙNG KHI:     Bài về tâm lý đầu tư, bẫy cảm xúc, nguyên tắc kỷ luật (FOMO, Anchoring, Herd...)
+  CỔNG CHỜ:     topic-badge · section-label · main-title (.warn / .accent) · tối đa 3 trap-item
+                cc-warn-title + 3 cc-warn-trait · cc-safe-title + 3 cc-safe-trait
+                kw-1 / kw-2 / kw-3 (floating keywords)
+  LƯU Ý:        Logo đã trong HTML — KHÔNG overlay qua Python.
+-->
 <!DOCTYPE html>
 <html lang="vi">
-
 <head>
     <meta charset="UTF-8">
-    <title>HVS - Psychology / Warning Template (G)</title>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap"
-        rel="stylesheet">
+    <title>HVS - Psychology Template</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap" rel="stylesheet">
     <style>
         :root {
             --primary: #311B92;
-            --secondary: #00838F;
             --accent: #00E5FF;
-            --bg-dark: #0A0A12;
-            --card-border: rgba(255, 255, 255, 0.07);
-            --warn-color: #FF6B35;
-            /* Cam cảnh báo — cảm xúc */
-            --safe-color: #00E5FF;
-            /* Cyan — kỷ luật */
+            --bg: #08080F;
+            --warn: #FF6B35;
+            --safe: #00E5FF;
+            --border: rgba(255,255,255,0.06);
         }
 
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-            font-family: 'Plus Jakarta Sans', Arial, sans-serif;
-        }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Plus Jakarta Sans', Arial, sans-serif; }
 
         body {
             display: flex;
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            background: #060610;
+            background: #040408;
         }
 
         .template-container {
-            width: 1000px;
-            height: 562px;
-            background: var(--bg-dark);
+            width: 800px;
+            height: 500px;
+            background: var(--bg);
             overflow: hidden;
             position: relative;
-            border: 1px solid var(--card-border);
-            box-shadow: 0 40px 80px rgba(0, 0, 0, 0.85);
+            border: 1px solid var(--border);
+            box-shadow: 0 40px 80px rgba(0,0,0,0.9);
             display: flex;
         }
 
-        /* ==== LEFT COLUMN (55%) ==== */
+        /* ══════════ LEFT COLUMN (54%) ══════════ */
         .left-col {
-            width: 55%;
+            width: 54%;
             height: 100%;
-            padding: 44px 40px;
+            padding: 36px 36px 32px;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
@@ -57,409 +57,339 @@
             z-index: 10;
         }
 
-        /* Ambient glow trái — tím */
-        .glow-purple {
+        /* Ambient purple glow */
+        .glow-bg {
             position: absolute;
-            width: 350px;
-            height: 350px;
+            width: 300px;
+            height: 300px;
             border-radius: 50%;
             background: var(--primary);
-            filter: blur(130px);
-            opacity: 0.22;
-            top: -80px;
-            left: -80px;
+            filter: blur(120px);
+            opacity: 0.18;
+            top: -60px;
+            left: -60px;
             pointer-events: none;
         }
 
-        .header {
+        /* Brand */
+        .brand-row {
             display: flex;
             align-items: center;
             justify-content: space-between;
         }
-
         .brand-logo {
             display: flex;
             align-items: center;
-            gap: 10px;
+            gap: 8px;
         }
-
         .brand-logo img {
-            height: 28px;
-            width: 28px;
+            width: 22px;
+            height: 22px;
             object-fit: contain;
         }
-
         .brand-name {
-            font-size: 12px;
+            font-size: 11px;
             font-weight: 800;
-            color: rgba(255, 255, 255, 0.28);
+            color: rgba(255,255,255,0.22);
             text-transform: uppercase;
             letter-spacing: 1.5px;
         }
-
+        /* CỔNG CHỜ: topic badge */
         .topic-badge {
-            font-size: 11px;
+            font-size: 10px;
             font-weight: 800;
-            color: var(--warn-color);
-            background: rgba(255, 107, 53, 0.1);
-            border: 1px solid rgba(255, 107, 53, 0.25);
-            padding: 5px 12px;
+            color: var(--warn);
+            background: rgba(255,107,53,0.1);
+            border: 1px solid rgba(255,107,53,0.22);
+            padding: 4px 10px;
             border-radius: 100px;
             text-transform: uppercase;
             letter-spacing: 0.5px;
         }
 
+        /* Main content */
         .main-content {
             flex-grow: 1;
             display: flex;
             flex-direction: column;
             justify-content: center;
+            gap: 14px;
         }
 
-        /* CỔNG CHỜ: nhãn phân loại bẫy/nguyên tắc */
+        /* CỔNG CHỜ: nhãn phân loại */
         .section-label {
-            font-size: 11px;
+            font-size: 10px;
             font-weight: 800;
-            color: var(--warn-color);
+            color: var(--warn);
             text-transform: uppercase;
-            letter-spacing: 1.5px;
-            margin-bottom: 12px;
+            letter-spacing: 2px;
         }
 
         /* CỔNG CHỜ: tiêu đề chính */
         .main-title {
-            font-size: 34px;
+            font-size: 30px;
             font-weight: 900;
             color: #FFF;
-            line-height: 1.2;
-            letter-spacing: -1px;
-            margin-bottom: 16px;
+            line-height: 1.22;
+            letter-spacing: -0.8px;
         }
+        .main-title .warn  { color: var(--warn); }
+        .main-title .accent { color: var(--accent); text-shadow: 0 0 30px rgba(0,229,255,0.3); }
 
-        .main-title .accent {
-            color: var(--accent);
-            text-shadow: 0 0 30px rgba(0, 229, 255, 0.3);
-        }
-
-        .main-title .warn {
-            color: var(--warn-color);
-        }
-
-        /* Traps list — tối đa 4 item */
+        /* Trap items list */
         .traps-list {
             display: flex;
             flex-direction: column;
-            gap: 10px;
-            margin-bottom: 20px;
+            gap: 9px;
         }
-
         .trap-item {
             display: flex;
             align-items: flex-start;
-            gap: 12px;
+            gap: 10px;
         }
-
         .trap-icon {
-            width: 28px;
-            height: 28px;
-            border-radius: 6px;
+            width: 24px;
+            height: 24px;
+            border-radius: 5px;
             flex-shrink: 0;
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 13px;
-            font-weight: 900;
-        }
-
-        .trap-icon.warn-icon {
-            background: rgba(255, 107, 53, 0.15);
-            color: var(--warn-color);
-            border: 1px solid rgba(255, 107, 53, 0.2);
-        }
-
-        .trap-icon.safe-icon {
-            background: rgba(0, 229, 255, 0.12);
-            color: var(--safe-color);
-            border: 1px solid rgba(0, 229, 255, 0.2);
-        }
-
-        /* CỔNG CHỜ: tên bẫy/nguyên tắc */
-        .trap-name {
-            font-size: 14px;
-            font-weight: 800;
-            color: #FFF;
-            margin-bottom: 2px;
-        }
-
-        /* CỔNG CHỜ: mô tả ngắn */
-        .trap-desc {
             font-size: 11px;
-            color: rgba(255, 255, 255, 0.42);
-            line-height: 1.4;
+            font-weight: 900;
+            margin-top: 1px;
         }
+        .warn-icon { background: rgba(255,107,53,0.14); color: var(--warn); border: 1px solid rgba(255,107,53,0.2); }
+        .safe-icon { background: rgba(0,229,255,0.1);   color: var(--safe); border: 1px solid rgba(0,229,255,0.2); }
 
+        /* CỔNG CHỜ: trap name + desc */
+        .trap-name { font-size: 12.5px; font-weight: 800; color: #FFF; margin-bottom: 2px; }
+        .trap-desc { font-size: 10px; color: rgba(255,255,255,0.38); line-height: 1.4; }
+
+        /* Footer */
         .left-footer {
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 7px;
         }
-
         .dot-cyan {
             width: 4px;
             height: 4px;
             border-radius: 50%;
             background: var(--accent);
-            box-shadow: 0 0 8px var(--accent);
+            box-shadow: 0 0 6px var(--accent);
         }
-
         .footer-txt {
-            font-size: 11px;
+            font-size: 10px;
             font-weight: 700;
-            color: rgba(255, 255, 255, 0.2);
+            color: rgba(255,255,255,0.18);
             text-transform: uppercase;
             letter-spacing: 1px;
         }
 
-        /* ==== RIGHT COLUMN (45%) ==== */
+        /* ══════════ RIGHT COLUMN (46%) ══════════ */
         .right-col {
-            width: 45%;
+            width: 46%;
             height: 100%;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
             position: relative;
             overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            padding: 20px 20px 20px 16px;
+            gap: 0;
         }
 
-        /* Gradient tối sang trái */
+        /* Left fade from dark bg */
         .right-col::before {
             content: '';
             position: absolute;
-            top: 0;
-            left: 0;
-            width: 60px;
-            height: 100%;
-            background: linear-gradient(to right, var(--bg-dark), transparent);
-            z-index: 2;
+            top: 0; left: 0;
+            width: 50px; height: 100%;
+            background: linear-gradient(to right, var(--bg), transparent);
+            z-index: 5;
+            pointer-events: none;
         }
 
-        /* Glow cảm xúc (cam) */
+        /* Ambient glows */
         .glow-warn {
             position: absolute;
-            width: 280px;
-            height: 280px;
+            width: 240px; height: 240px;
             border-radius: 50%;
-            background: var(--warn-color);
-            filter: blur(120px);
-            opacity: 0.12;
-            top: -40px;
-            right: -60px;
+            background: var(--warn);
+            filter: blur(100px);
+            opacity: 0.1;
+            top: -60px; right: -40px;
             pointer-events: none;
         }
-
-        /* Glow kỷ luật (cyan) */
         .glow-safe {
             position: absolute;
-            width: 250px;
-            height: 250px;
+            width: 200px; height: 200px;
             border-radius: 50%;
-            background: var(--safe-color);
-            filter: blur(120px);
-            opacity: 0.1;
-            bottom: -40px;
-            left: 20px;
+            background: var(--safe);
+            filter: blur(100px);
+            opacity: 0.08;
+            bottom: -40px; left: 10px;
             pointer-events: none;
         }
 
-        /* ==== BALANCE VISUAL — Cân thăng bằng trừu tượng ==== */
-        .balance-visual {
+        /* ── Contrast Cards ── */
+        .contrast-cards {
             position: relative;
-            width: 280px;
-            height: 280px;
             z-index: 10;
-        }
-
-        /* Cột trung tâm */
-        .balance-pole {
-            position: absolute;
-            left: 50%;
-            top: 50%;
-            transform: translate(-50%, -10%);
-            width: 3px;
-            height: 120px;
-            background: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1));
-            border-radius: 2px;
-        }
-
-        .balance-base {
-            position: absolute;
-            left: 50%;
-            bottom: 20px;
-            transform: translateX(-50%);
-            width: 60px;
-            height: 4px;
-            background: rgba(255, 255, 255, 0.15);
-            border-radius: 2px;
-        }
-
-        /* Thanh ngang cân */
-        .balance-bar {
-            position: absolute;
-            left: 50%;
-            top: 38%;
-            transform: translateX(-50%);
-            width: 220px;
-            height: 2px;
-            background: rgba(255, 255, 255, 0.3);
-            border-radius: 1px;
-            transform-origin: center;
-            transform: translateX(-50%) rotate(-8deg);
-        }
-
-        /* Bên trái — cảm xúc */
-        .side-left {
-            position: absolute;
-            left: 10px;
-            top: 30%;
-            transform: translateY(-50%);
-        }
-
-        .bowl {
-            width: 80px;
-            height: 80px;
-            border-radius: 50%;
+            flex: 1;
             display: flex;
             flex-direction: column;
+            gap: 0;
+        }
+
+        .contrast-card {
+            flex: 1;
+            border-radius: 10px;
+            padding: 14px 16px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        /* CỔNG CHỜ: card cảm xúc */
+        .card-warn {
+            background: rgba(255,107,53,0.07);
+            border: 1px solid rgba(255,107,53,0.22);
+        }
+        /* CỔNG CHỜ: card kỷ luật */
+        .card-safe {
+            background: rgba(0,229,255,0.06);
+            border: 1px solid rgba(0,229,255,0.2);
+        }
+
+        .cc-header {
+            display: flex;
             align-items: center;
-            justify-content: center;
-            gap: 4px;
+            gap: 9px;
         }
-
-        .bowl-warn {
-            background: rgba(255, 107, 53, 0.12);
-            border: 2px solid rgba(255, 107, 53, 0.3);
-            box-shadow: 0 0 30px rgba(255, 107, 53, 0.2);
-        }
-
-        .bowl-safe {
-            background: rgba(0, 229, 255, 0.1);
-            border: 2px solid rgba(0, 229, 255, 0.25);
-            box-shadow: 0 0 30px rgba(0, 229, 255, 0.15);
-        }
-
-        .bowl-label {
-            font-size: 9px;
-            font-weight: 800;
+        .cc-icon { font-size: 18px; line-height: 1; }
+        .cc-label {
+            font-size: 11.5px;
+            font-weight: 900;
             text-transform: uppercase;
-            letter-spacing: 0.5px;
+            letter-spacing: 1.2px;
         }
+        .card-warn .cc-label { color: var(--warn); }
+        .card-safe .cc-label { color: var(--safe); }
 
-        .bowl-warn .bowl-label {
-            color: var(--warn-color);
+        .cc-traits {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
         }
-
-        .bowl-safe .bowl-label {
-            color: var(--safe-color);
+        .cc-trait {
+            font-size: 10.5px;
+            font-weight: 600;
+            color: rgba(255,255,255,0.5);
+            line-height: 1.4;
+            padding-left: 14px;
+            position: relative;
         }
-
-        .bowl-icon {
-            font-size: 22px;
-            line-height: 1;
-        }
-
-        /* Bên phải — kỷ luật */
-        .side-right {
+        .cc-trait::before {
+            content: '→';
             position: absolute;
-            right: 10px;
-            top: 22%;
-            transform: translateY(-50%);
+            left: 0;
+            font-size: 9px;
+            top: 1px;
+        }
+        .card-warn .cc-trait::before { color: var(--warn); opacity: 0.7; }
+        .card-safe .cc-trait::before { color: var(--safe); opacity: 0.7; }
+
+        /* VS separator */
+        .vs-divider {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 5px 16px;
+        }
+        .vs-line {
+            flex: 1;
+            height: 1px;
+            background: rgba(255,255,255,0.06);
+        }
+        .vs-text {
+            font-size: 10px;
+            font-weight: 900;
+            color: rgba(255,255,255,0.18);
+            letter-spacing: 2px;
         }
 
         /* Floating keywords */
-        .keyword {
+        .keywords {
             position: absolute;
-            font-size: 10px;
+            z-index: 15;
+            bottom: 18px;
+            right: 16px;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            gap: 5px;
+        }
+        .keyword {
+            font-size: 9.5px;
             font-weight: 700;
-            padding: 4px 10px;
+            padding: 3px 9px;
             border-radius: 100px;
             text-transform: uppercase;
             letter-spacing: 0.5px;
             white-space: nowrap;
         }
-
-        .kw-fomo {
-            top: 8%;
-            left: 12%;
-            color: var(--warn-color);
-            background: rgba(255, 107, 53, 0.1);
-            border: 1px solid rgba(255, 107, 53, 0.2);
-        }
-
-        .kw-stop {
-            bottom: 10%;
-            right: 8%;
-            color: var(--safe-color);
-            background: rgba(0, 229, 255, 0.1);
-            border: 1px solid rgba(0, 229, 255, 0.2);
-        }
-
-        .kw-rr {
-            top: 60%;
-            left: 8%;
-            color: rgba(255, 255, 255, 0.35);
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(255, 255, 255, 0.08);
-        }
+        /* CỔNG CHỜ: kw-1 warn / kw-2 safe / kw-3 neutral */
+        .kw-1 { color: var(--warn); background: rgba(255,107,53,0.1); border: 1px solid rgba(255,107,53,0.2); }
+        .kw-2 { color: var(--safe); background: rgba(0,229,255,0.08); border: 1px solid rgba(0,229,255,0.18); }
+        .kw-3 { color: rgba(255,255,255,0.3); background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.07); }
     </style>
 </head>
-
 <body>
     <div class="template-container">
 
         <!-- LEFT COLUMN -->
         <div class="left-col">
-            <div class="glow-purple"></div>
+            <div class="glow-bg"></div>
 
-            <div class="header">
+            <div class="brand-row">
                 <div class="brand-logo">
-                    <img src="../assets/favicon.ico" alt="HVS Logo">
-                    <span class="brand-name">HVS Tài Chính Số</span>
+                    <img src="../assets/favicon.ico" alt="HVS">
+                    <span class="brand-name">Taichinhso</span>
                 </div>
-                <!-- CỔNG CHỜ: thay nhãn topic -->
+                <!-- CỔNG CHỜ: thay topic badge -->
                 <span class="topic-badge">Tâm lý đầu tư</span>
             </div>
 
             <div class="main-content">
-                <!-- CỔNG CHỜ: thay nhãn -->
+                <!-- CỔNG CHỜ: nhãn -->
                 <div class="section-label">5 bẫy tâm lý phổ biến</div>
 
-                <!-- CỔNG CHỜ: tiêu đề — dùng .warn cho từ nguy hiểm, .accent cho từ tích cực -->
+                <!-- CỔNG CHỜ: tiêu đề — .warn cho nguy hiểm, .accent cho tích cực -->
                 <h2 class="main-title">
                     <span class="warn">Cảm xúc</span> vs<br>
                     <span class="accent">Kỷ luật</span> đầu tư
                 </h2>
 
-                <!-- CỔNG CHỜ: thay các trap-item theo nội dung bài -->
-                <!-- Dùng trap-icon.warn-icon cho bẫy, trap-icon.safe-icon cho nguyên tắc đúng -->
+                <!-- CỔNG CHỜ: tối đa 3 trap-item -->
                 <div class="traps-list">
                     <div class="trap-item">
                         <div class="trap-icon warn-icon">!</div>
-                        <div class="trap-text">
+                        <div>
                             <div class="trap-name">FOMO — Sợ bỏ lỡ cơ hội</div>
                             <div class="trap-desc">Mua đuổi khi cổ phiếu đã tăng 50-70% từ nền giá</div>
                         </div>
                     </div>
                     <div class="trap-item">
                         <div class="trap-icon warn-icon">!</div>
-                        <div class="trap-text">
+                        <div>
                             <div class="trap-name">Hiệu ứng Mỏ neo — Ám ảnh giá cũ</div>
-                            <div class="trap-desc">Giữ cổ phiếu lỗ vì so sánh với vùng đỉnh lịch sử</div>
+                            <div class="trap-desc">Giữ lệnh lỗ vì so sánh với vùng đỉnh lịch sử</div>
                         </div>
                     </div>
                     <div class="trap-item">
                         <div class="trap-icon safe-icon">✓</div>
-                        <div class="trap-text">
+                        <div>
                             <div class="trap-name">Stop-loss 7-10% — Kỷ luật bắt buộc</div>
                             <div class="trap-desc">Cắt lỗ dứt khoát · Risk/Reward tối thiểu 1:2</div>
                         </div>
@@ -469,48 +399,57 @@
 
             <div class="left-footer">
                 <div class="dot-cyan"></div>
-                <span class="footer-txt">Kiến thức thực chiến · HVS Securities © 2026</span>
+                <span class="footer-txt">Kiến thức thực chiến · taichinhso.hvsvn.com</span>
             </div>
         </div>
 
-        <!-- RIGHT COLUMN — Balance Visual -->
+        <!-- RIGHT COLUMN -->
         <div class="right-col">
             <div class="glow-warn"></div>
             <div class="glow-safe"></div>
 
-            <!-- CỔNG CHỜ: floating keywords — thay theo chủ đề bài -->
-            <span class="keyword kw-fomo">FOMO</span>
-            <span class="keyword kw-stop">Stop-loss</span>
-            <span class="keyword kw-rr">Risk / Reward</span>
-
-            <!-- Cân thăng bằng trừu tượng -->
-            <div class="balance-visual">
-                <!-- Thanh ngang — nghiêng về phía cảm xúc (nặng hơn) -->
-                <div class="balance-bar"></div>
-
-                <!-- Bên trái — cảm xúc -->
-                <div class="side-left">
-                    <div class="bowl bowl-warn">
-                        <div class="bowl-icon">⚡</div>
-                        <div class="bowl-label">Cảm xúc</div>
+            <div class="contrast-cards">
+                <!-- CỔNG CHỜ: card cảm xúc — thay cc-warn-trait theo bài -->
+                <div class="contrast-card card-warn">
+                    <div class="cc-header">
+                        <span class="cc-icon">⚡</span>
+                        <span class="cc-label">Cảm xúc</span>
+                    </div>
+                    <div class="cc-traits">
+                        <div class="cc-trait">Mua đuổi khi thị trường tăng mạnh</div>
+                        <div class="cc-trait">Giữ cổ phiếu lỗ vì hy vọng hồi</div>
+                        <div class="cc-trait">Bán hoảng loạn theo đám đông</div>
                     </div>
                 </div>
 
-                <!-- Cột đứng -->
-                <div class="balance-pole"></div>
-                <div class="balance-base"></div>
+                <div class="vs-divider">
+                    <div class="vs-line"></div>
+                    <span class="vs-text">VS</span>
+                    <div class="vs-line"></div>
+                </div>
 
-                <!-- Bên phải — kỷ luật -->
-                <div class="side-right">
-                    <div class="bowl bowl-safe">
-                        <div class="bowl-icon">🛡</div>
-                        <div class="bowl-label">Kỷ luật</div>
+                <!-- CỔNG CHỜ: card kỷ luật — thay cc-safe-trait theo bài -->
+                <div class="contrast-card card-safe">
+                    <div class="cc-header">
+                        <span class="cc-icon">🛡</span>
+                        <span class="cc-label">Kỷ luật</span>
+                    </div>
+                    <div class="cc-traits">
+                        <div class="cc-trait">Stop-loss cứng 7–10% từ điểm mua</div>
+                        <div class="cc-trait">Tuân thủ kế hoạch đặt trước</div>
+                        <div class="cc-trait">R/R tối thiểu 1:2 trước khi vào lệnh</div>
                     </div>
                 </div>
+            </div>
+
+            <!-- CỔNG CHỜ: 3 floating keywords -->
+            <div class="keywords">
+                <span class="keyword kw-1">FOMO</span>
+                <span class="keyword kw-2">Stop-loss</span>
+                <span class="keyword kw-3">Risk / Reward</span>
             </div>
         </div>
 
     </div>
 </body>
-
 </html>

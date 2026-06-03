@@ -2,7 +2,7 @@
 name: Anti-AI Digest
 description: Bản rút gọn machine-readable của anti-ai-rules.md. Cập nhật file này ngay khi anti-ai-rules.md có thay đổi. Full rationale → anti-ai-rules.md.
 source: seo-strategy/resources/content-strategy/anti-ai-rules.md
-updated: 2026-05-18
+updated: 2026-06-02
 ---
 
 # Anti-AI Digest — Enforcement Patterns
@@ -38,6 +38,9 @@ FORBIDDEN_STRINGS:
   - "Bạn đã bao giờ tự hỏi"  # rhetorical question opener
   - "HVS Có Thể Giúp Gì"      # generic product heading
   - "HVS Đồng Hành Cùng Bạn"  # generic product heading
+  - "Nghệ thuật săn tìm"
+  - "Chữ cái vàng"
+  - "Giải mã"
 
 FORBIDDEN_PATTERNS:
   - ngoặc_kép_nhấn_mạnh: 'bất kỳ từ/cụm từ trong "..." mà không phải trích dẫn nguyên văn'
@@ -46,6 +49,8 @@ FORBIDDEN_PATTERNS:
   - danh_từ_hóa: '"việc [động từ]" | "sự [tính từ]"'  → bỏ "việc"/"sự"
   - số_mơ_hồ: '"một khoản phí nhỏ" | "một doanh nghiệp lớn"' → dùng số thật
   - câu_đều_nhau: '>3 câu liên tiếp cùng độ dài 15-20 từ'
+  - formula_latex: 'tránh dùng công thức dạng LaTeX ($$ hoặc $) gây lỗi định dạng khi chuyển sang Google Docs, thay bằng blockquote in đậm'
+  - hvs_tai_chinh_so_sai_lech: 'mô tả HVS Tài chính số là công cụ theo dõi số liệu/bộ lọc tài chính tự động (thực tế: HVS Tài chính số là nền tảng đào tạo trực tuyến với các lộ trình thực chiến toàn diện)'
 ```
 
 ---

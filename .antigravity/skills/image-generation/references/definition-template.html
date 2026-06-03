@@ -1,10 +1,22 @@
+<!--
+  TEMPLATE:     definition
+  LAYOUT:       layout-2-fullbleed (mặc định) | layout-1-split (alternate)
+  VISUAL MODE:  icon-mode (mặc định) — 3 widget có thể hoán đổi:
+                  widget-basket      → dùng cho ETF / danh mục / chỉ số (mặc định hiển thị)
+                  widget-single-stock → dùng cho bài liên quan 1 mã CP cụ thể
+                  widget-concept-icon → dùng cho khái niệm trừu tượng (cổ tức, thanh khoản...)
+                Bật widget cần dùng: đổi display:none → display:flex, ẩn 2 widget còn lại
+  DÙNG KHI:     Bài giải thích thuật ngữ tài chính (ETF là gì, P/E là gì, cổ tức là gì...)
+  CỔNG CHỜ:     header-tag, term-tag, definition-title, definition-text, nội dung widget active
+  AGENT-GUIDE:  Xem AGENT-GUIDE.md mục 1 + mục 2
+-->
 <!DOCTYPE html>
 <html lang="vi">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HVS Tài Chính Số - Definition Template Reference</title>
+    <title>HVS Tài Chính Số - Definition Template</title>
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap"
         rel="stylesheet">

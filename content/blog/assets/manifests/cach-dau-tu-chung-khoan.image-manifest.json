@@ -1,0 +1,58 @@
+{
+  "article_slug": "cach-dau-tu-chung-khoan",
+  "article_path": "content/blog/3-finalized/Final-cach-dau-tu-chung-khoan.md",
+  "generated_at": "2026-05-25T04:10:00Z",
+  "images": [
+    {
+      "id": "img_001",
+      "type": "featured_image",
+      "placement": "top_of_article",
+      "section": "Hero",
+      "source": "content/blog/assets/raw-images/cach-dau-tu-chung-khoan/backdrop-raw.png",
+      "output": "content/blog/assets/images/cach-dau-tu-chung-khoan/cach-dau-tu-chung-khoan-cover.webp",
+      "alt": "Hướng dẫn cách đầu tư chứng khoán cho người mới bắt đầu từ A-Z",
+      "title": "Cách đầu tư chứng khoán từ A đến Z cùng HVS",
+      "caption": "Hướng dẫn cách đầu tư chứng khoán cho người mới bắt đầu từ A-Z cùng hệ sinh thái thực chiến HVS.",
+      "width": 1000,
+      "height": 600,
+      "format": "webp",
+      "status": "ready",
+      "created_by": "visual_architect",
+      "file_size_kb": 55
+    },
+    {
+      "id": "img_002",
+      "type": "process_visual",
+      "placement": "after_intro_paragraph",
+      "target_section": "Hướng dẫn cách đầu tư chứng khoán cho người mới (4 bước)",
+      "source": "content/blog/assets/raw-images/cach-dau-tu-chung-khoan/process-raw.png",
+      "output": "content/blog/assets/images/cach-dau-tu-chung-khoan/cach-dau-tu-chung-khoan-quy-trinh.webp",
+      "alt": "Quy trình giao dịch chứng khoán thực chiến cho F0",
+      "title": "3 Bước sở hữu cổ phiếu và đặt lệnh thực chiến",
+      "caption": "Quy trình giao dịch chứng khoán thực chiến 3 bước cơ bản dành cho nhà đầu tư mới.",
+      "width": 800,
+      "height": 500,
+      "format": "webp",
+      "status": "ready",
+      "created_by": "visual_architect",
+      "file_size_kb": 24
+    },
+    {
+      "id": "img_003",
+      "type": "psychology_visual",
+      "placement": "after_intro_paragraph",
+      "target_section": "Kiểm soát tâm lý trong giao dịch chứng khoán",
+      "source": "content/blog/assets/raw-images/cach-dau-tu-chung-khoan/psychology-raw.png",
+      "output": "content/blog/assets/images/cach-dau-tu-chung-khoan/cach-dau-tu-chung-khoan-tam-ly.webp",
+      "alt": "Cân bằng cảm xúc và kỷ luật trong giao dịch chứng khoán",
+      "title": "Cân bằng Cảm xúc vs Kỷ luật giao dịch",
+      "caption": "Bản đồ cân bằng cảm xúc và kỷ luật giúp nhà đầu tư mới vượt qua các bẫy tâm lý phổ biến.",
+      "width": 800,
+      "height": 500,
+      "format": "webp",
+      "status": "ready",
+      "created_by": "visual_architect",
+      "file_size_kb": 26
+    }
+  ]
+}

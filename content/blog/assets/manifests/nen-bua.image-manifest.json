@@ -1,0 +1,58 @@
+{
+  "article_slug": "nen-bua",
+  "article_path": "content/blog/3-finalized/Final-nen-bua.md",
+  "generated_at": "2026-05-25T12:59:00+07:00",
+  "images": [
+    {
+      "id": "img_001",
+      "type": "featured_image",
+      "placement": "top_of_article",
+      "section": "Hero",
+      "source": "content/blog/assets/raw-images/nen-bua/backdrop-raw.png",
+      "output": "content/blog/assets/images/nen-bua/nen-bua-cover.webp",
+      "alt": "Nến búa Hammer là gì? Đặc điểm nhận diện và cách giao dịch thực chiến",
+      "title": "Nến búa Hammer là gì? Hướng dẫn từ HVS",
+      "caption": "Mẫu hình nến búa (Hammer) báo hiệu lực cầu bắt đáy mạnh mẽ tại các vùng hỗ trợ quan trọng.",
+      "width": 1000,
+      "height": 600,
+      "format": "webp",
+      "status": "ready",
+      "created_by": "visual_architect",
+      "file_size_kb": 28
+    },
+    {
+      "id": "img_002",
+      "type": "definition_visual",
+      "placement": "after_intro_paragraph",
+      "target_section": "Nến búa (Hammer) là gì?",
+      "source": "content/blog/assets/raw-images/nen-bua/nen-bua-dinh-nghia.png",
+      "output": "content/blog/assets/images/nen-bua/nen-bua-dinh-nghia.webp",
+      "alt": "Cấu tạo chi tiết của mô hình nến búa Hammer trong phân tích kỹ thuật",
+      "title": "Cấu tạo và đặc điểm của Nến Búa (Hammer)",
+      "caption": "Cấu tạo đặc trưng của nến búa với bóng dưới dài gấp 2 đến 3 lần thân nến, thể hiện áp lực mua đảo chiều.",
+      "width": 800,
+      "height": 500,
+      "format": "webp",
+      "status": "ready",
+      "created_by": "visual_architect",
+      "file_size_kb": 27
+    },
+    {
+      "id": "img_003",
+      "type": "process_visual",
+      "placement": "after_intro_paragraph",
+      "target_section": "Cách giao dịch với nến búa: Quy trình 3 bước thực chiến",
+      "source": "content/blog/assets/raw-images/nen-bua/cach-giao-dich-nen-bua-quy-trinh.png",
+      "output": "content/blog/assets/images/nen-bua/cach-giao-dich-nen-bua-quy-trinh.webp",
+      "alt": "Quy trình 3 bước giao dịch thực chiến với mô hình nến búa",
+      "title": "Chiến thuật giao dịch 3 bước với Nến Búa",
+      "caption": "Quy trình giao dịch thực chiến với nến búa dựa trên bối cảnh hỗ trợ, khối lượng và tín hiệu xác nhận.",
+      "width": 800,
+      "height": 500,
+      "format": "webp",
+      "status": "ready",
+      "created_by": "visual_architect",
+      "file_size_kb": 23
+    }
+  ]
+}

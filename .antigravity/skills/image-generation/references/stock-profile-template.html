@@ -1,9 +1,17 @@
+﻿<!--
+  TEMPLATE:     stock-profile
+  LAYOUT:       layout-1-split (mặc định) | layout-4-brutalist (alternate)
+  VISUAL MODE:  photo-required — cần file tại assets/company-photos/[MÃ].png
+  DÙNG KHI:     Bài phân tích cổ phiếu cụ thể (POW, VCB, FPT, HPG...)
+  CỔNG CHỜ:     --industry-accent, mã CP, tên công ty, sàn, mô tả, 4 data cards, CTA text
+  AGENT-GUIDE:  Xem AGENT-GUIDE.md mục 1 + mục 4 (industry accent colors)
+-->
 <!DOCTYPE html>
 <html lang="vi">
 
 <head>
     <meta charset="UTF-8">
-    <title>HVS - Stock Profile Template (E)</title>
+    <title>HVS - Stock Profile Template</title>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap"
         rel="stylesheet">
     <style>
@@ -38,8 +46,8 @@
         }
 
         .template-container {
-            width: 1000px;
-            height: 562px;
+            width: 800px;
+            height: 500px;
             overflow: hidden;
             display: flex;
             position: relative;
@@ -113,8 +121,7 @@
         }
 
         .brand-logo img {
-            height: 28px;
-            width: 28px;
+            height: 28px; width: 28px;
             object-fit: contain;
         }
 
@@ -384,7 +391,7 @@
             <div class="header">
                 <div class="brand-logo">
                     <img src="../assets/favicon.ico" alt="HVS Logo">
-                    <span class="brand-name">HVS Tài Chính Số</span>
+                    <span class="brand-name">Taichinhso</span>
                 </div>
                 <!-- CỔNG CHỜ: tên ngành + màu badge -->
                 <span class="industry-badge">Ngành Năng lượng</span>
@@ -444,7 +451,7 @@
             <div class="left-footer">
                 <div class="dot"></div>
                 <!-- CỔNG CHỜ: thay mã cổ phiếu trong text -->
-                <span class="footer-text">Phân tích thực chiến POW · hvs.vn</span>
+                <span class="footer-text">Phân tích thực chiến [MÃ] · taichinhso.hvsvn.com</span>
             </div>
         </div>
 

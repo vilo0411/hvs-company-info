@@ -110,7 +110,57 @@ Dựa trên cấu trúc bài viết và Search Intent, Agent sẽ tự động c
 
 ---
 
-## 🚫 3. Brand Safety Rules — Ảnh bị cấm tuyệt đối
+## 📊 3. Quy tắc Số lượng Ảnh mỗi Bài
+
+Số lượng ảnh được tính dựa trên **3 yếu tố kết hợp**: loại bài (Pillar / Cluster), word count mục tiêu, và số H2 section cần minh họa.
+
+### Bảng giới hạn số lượng ảnh
+
+| Loại bài | Word Count | Số ảnh tối thiểu | Số ảnh tối đa |
+|---|---|---|---|
+| **Cluster** (Informational / How-to) | < 2.000w | 2 | 3 |
+| **Cluster** (Informational / How-to) | 2.000 – 3.000w | 3 | 4 |
+| **Pillar** | > 3.000w | 4 | 6 |
+
+> *Nguyên tắc chung:* Không quá **1 ảnh mỗi H2 chính**. Không chèn ảnh vào H3 trừ khi có chỉ định rõ trong outline.
+
+### Ảnh Bắt buộc (Mandatory)
+
+| Điều kiện | Ảnh bắt buộc | Template |
+|---|---|---|
+| **Mọi bài** | Ảnh bìa (cover) | `cover-template.html` |
+| Bài có từ khóa dạng **"X là gì?"** | Ảnh định nghĩa (definition) | `definition-template.html` |
+| Bài có H2 hướng dẫn **"Cách làm / Các bước"** | Ảnh quy trình (process) | `process-template.html` |
+
+> Ảnh bắt buộc được tính vào giới hạn tối thiểu. Nếu bài đủ điều kiện cả definition lẫn process thì cả hai đều bắt buộc.
+
+### Ảnh Tùy chọn (Optional — chọn theo Outline)
+
+Sau khi xác nhận ảnh bắt buộc, Agent điền thêm ảnh tùy chọn đến khi đạt số lượng tối thiểu. Ưu tiên theo mức độ phù hợp với H2 section trong outline:
+
+| Ưu tiên | Loại ảnh | Chọn khi |
+|---|---|---|
+| 1 | Mockup HVS (`mockup-template.html`) | Bài có section giới thiệu tính năng / sản phẩm HVS |
+| 2 | Comparison (`comparison-template.html`) | Bài có H2 so sánh 2 khái niệm đối lập |
+| 3 | Ranking (`ranking-template.html`) | Bài có H2 danh sách / Top X |
+| 4 | Psychology (`psychology-template.html`) | Bài có H2 về rủi ro / tâm lý đầu tư |
+| 5 | Market Data (`market-data-template.html`) | Bài có H2 về chỉ số thị trường |
+| 6 | Stock Profile (`stock-profile-template.html`) | Bài `cach-mua-co-phieu-[MÃ]` |
+| 7 | Timeline (`timeline-template.html`) | Bài có H2 lộ trình / chu kỳ thời gian |
+
+### Quy trình Quyết định của Agent (Checklist)
+
+```
+1. Xác định Pillar/Cluster + Word Count Target → tra bảng giới hạn → ghi min/max
+2. Liệt kê ảnh bắt buộc theo điều kiện bài viết
+3. Đếm H2 trong outline → chọn ảnh tùy chọn phù hợp đến khi đạt số tối thiểu
+4. Không vượt quá số ảnh tối đa — cắt ảnh ít quan trọng nhất nếu cần
+5. Khai báo danh sách ảnh sẽ tạo (loại + template) trước khi bắt đầu Bước 1 workflow
+```
+
+---
+
+## 🚫 4. Brand Safety Rules — Ảnh bị cấm tuyệt đối
 
 > **Mục đích:** HVS Securities là công ty chứng khoán được cấp phép. Mọi ảnh tạo ra phải phản ánh sự chuyên nghiệp, minh bạch và uy tín tài chính. Bất kỳ hình ảnh nào gợi lên cờ bạc, rủi ro phi pháp hoặc đầu cơ vô trách nhiệm đều **BỊ CẤM TUYỆT ĐỐI**.
 
@@ -179,7 +229,7 @@ NO gambling elements, NO cards, NO dice, NO casino, NO people,
 
 ---
 
-## ⚙️ 4. Quy trình Tạo ảnh Tự động trên Antigravity (HTML-to-Image Workflow)
+## ⚙️ 5. Quy trình Tạo ảnh Tự động trên Antigravity (HTML-to-Image Workflow)
 
 Khi nhận lệnh vẽ `/draw [slug-bai-viet]`, Agent thực thi chính xác 6 bước quy chuẩn sau:
 
@@ -210,11 +260,46 @@ Agent tạo ra một file HTML tạm thời từ bản mẫu. Tại đây, Agent
 *   Tìm và thay thế các từ khóa cổng chờ khác (tiêu đề, sapo, thông số) bằng dữ liệu thực chiến tiếng Việt của bài viết.
 
 ### Bước 4: Gọi Edge Headless chụp ảnh pixel-perfect
-Agent thực thi lệnh chạy ngầm Microsoft Edge/Chrome để chụp màn hình tệp HTML tạm thời đó với độ phân giải 16:9 chuẩn:
+
+Kích thước output quy chuẩn:
+| Loại ảnh | Kích thước | Template |
+|---|---|---|
+| **Ảnh bìa (cover)** | **1000 × 600 px** | `cover-template.html` |
+| **Tất cả ảnh section khác** | **800 × 500 px** | Mọi template còn lại |
+
 ```powershell
-Start-Process -FilePath "msedge" -ArgumentList "--headless", "--disable-gpu", "--virtual-time-budget=2000", "--screenshot=`"content/blog/assets/raw-images/[slug]/[ten-anh].png`"", "--window-size=1000,562", "`"file:///[duong-dan-html-tam]`"" -Wait
+# Ảnh bìa (cover-template.html)
+Start-Process -FilePath "msedge" -ArgumentList "--headless", "--disable-gpu", "--virtual-time-budget=2000", "--screenshot=`"content/blog/assets/raw-images/[slug]/[ten-anh].png`"", "--window-size=1000,600", "`"file:///[duong-dan-html-tam]`"" -Wait
+
+# Ảnh section (tất cả template khác)
+Start-Process -FilePath "msedge" -ArgumentList "--headless", "--disable-gpu", "--virtual-time-budget=2000", "--screenshot=`"content/blog/assets/raw-images/[slug]/[ten-anh].png`"", "--window-size=800,500", "`"file:///[duong-dan-html-tam]`"" -Wait
 ```
 *Lưu ý: Tham số `--virtual-time-budget=2000` là bắt buộc để trình duyệt đợi 2 giây tải xong Google Fonts tiếng Việt và ảnh nền trước khi bấm máy chụp.*
+
+### Quy tắc đặt tên file ảnh (Bắt buộc)
+
+Tên file ảnh phải phản ánh nội dung và ưu tiên chứa từ khóa SEO:
+
+**Pattern:** `[keyword-chinh]-[mo-ta-ngan].[ext]`
+
+| Loại ảnh | Ví dụ tên file |
+|---|---|
+| Ảnh bìa | `co-phieu-blue-chip-la-gi-cover.webp` |
+| Ảnh định nghĩa | `co-phieu-blue-chip-dinh-nghia.webp` |
+| Ảnh quy trình | `cach-mua-co-phieu-blue-chip-quy-trinh.webp` |
+| Ảnh so sánh | `co-phieu-blue-chip-vs-penny-stock.webp` |
+| Ảnh stock profile | `co-phieu-vcb-vietcombank-profile.webp` |
+| Ảnh ranking | `top-co-phieu-blue-chip-viet-nam.webp` |
+| Ảnh market data | `vn-index-chi-so-thi-truong.webp` |
+| Ảnh psychology | `tam-ly-dau-tu-fomo-canh-bao.webp` |
+| Ảnh timeline | `lo-trinh-dau-tu-chung-khoan.webp` |
+
+**Quy tắc cụ thể:**
+- Dùng slug tiếng Việt không dấu, nối bằng `-`
+- Bắt đầu bằng từ khóa chính của section/bài viết
+- Kết thúc bằng loại ảnh (`-cover`, `-quy-trinh`, `-so-sanh`, `-profile`...)
+- Tối đa 60 ký tự (không tính extension)
+- Không dùng: số thứ tự tùy ý (`img-1`, `photo-2`), tên mô tả chung chung (`featured-image`)
 
 ### Bước 5: Nén tối ưu WebP & Cập nhật Manifest
 *   Chạy ngầm script Python `image_processor.py` để nén tệp PNG vừa chụp thành định dạng `.webp` chất lượng 85% siêu nhẹ cho SEO tại thư mục `content/blog/assets/images/[slug]/`.
@@ -224,6 +309,6 @@ Start-Process -FilePath "msedge" -ArgumentList "--headless", "--disable-gpu", "-
 ### Bước 6: Tự động chèn thẻ ảnh vào Bài viết
 Agent tiến hành chèn thẻ ảnh trực tiếp vào bài viết Markdown tại đúng vị trí H2/H3 tương ứng:
 ```markdown
-![[Alt Text chuẩn SEO]](file:///e:/project/hvs-company-info/content/blog/assets/images/[slug]/[ten-anh-seo-friendly].webp)
+![[Alt Text chuẩn SEO]](file:///e:/project/hvs-company-info/content/blog/assets/images/[slug]/[keyword-chinh]-[mo-ta-ngan].webp)
 *Hình 1: [Caption mô tả ảnh chuẩn xác, không AI-vibe]*
 ```

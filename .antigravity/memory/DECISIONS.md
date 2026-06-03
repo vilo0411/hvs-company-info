@@ -14,6 +14,7 @@ Tệp này lưu trữ các quyết định quan trọng đã được thống nh
 - **[2026-05-07]:** Naming convention bắt buộc dùng tiền tố `Outline-`, `Draft-`, `Final-`.
 - **[2026-05-07]:** Hoàn tất thiết lập bộ nhận diện thương hiệu tại `resources/company/` (Identity, USPs) để làm giàu Context cho Brand Guardian.
 - **[2026-05-07]:** Content Brief phải tuân thủ mẫu chuẩn của `content-brief-example.md` (H1, Sapo, Heading Details, Conclusion).
+- **[2026-05-25]:** Đối với các đoạn phân tích kỹ thuật hoặc liệt kê nguyên nhân/rủi ro dài, ưu tiên chuyển đổi thành định dạng danh mục (bullet points/numbered lists) kèm bôi đậm từ khóa tiêu điểm để tối ưu độ scannability cho người đọc.
 
 ## 💡 Bài học kinh nghiệm (Retrospective)
 - Tránh sử dụng lệnh `dir /s /b` trong terminal trên Windows, thay bằng đường dẫn tuyệt đối.

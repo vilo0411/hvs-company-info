@@ -1,0 +1,291 @@
+﻿<!--
+  TEMPLATE:     stock-profile
+  LAYOUT:       layout-2-fullbleed — ảnh phủ toàn canvas, gradient overlay trái, text + cards float trên ảnh
+  VISUAL MODE:  photo-required — cần file tại assets/company-photos/[MÃ].png
+  DÙNG KHI:     Stock profile featured / nổi bật — dùng cho bài hero hoặc mã CP lớn (VCB, VNM, FPT...)
+  CỔNG CHỜ:     --industry-accent, .bg-photo src, .industry-badge, tên CP, mã, sàn, mô tả, 4 data cards
+  SO VỚI SPLIT: Không có left/right panel — ảnh phủ full, data cards float bottom-right trên ảnh
+  AGENT-GUIDE:  Xem AGENT-GUIDE.md mục 1 + mục 4
+-->
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HVS - Layout 2 Full Bleed — Stock Profile</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #311B92;
+            --secondary: #00838F;
+            --accent: #00E5FF;
+            --industry-accent: #FFD600;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Plus Jakarta Sans', Arial, sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #050508;
+        }
+
+        .template-container {
+            width: 800px;
+            height: 500px;
+            overflow: hidden;
+            position: relative;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            box-shadow: 0 40px 100px rgba(0, 0, 0, 0.9);
+        }
+
+        /* CỔNG CHỜ: thay src theo mã cổ phiếu — assets/company-photos/[MÃ].png */
+        .bg-photo {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+            z-index: 0;
+        }
+
+        .overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(to right, rgba(8, 8, 16, 0.97) 0%, rgba(8, 8, 16, 0.82) 40%, rgba(8, 8, 16, 0.35) 70%, rgba(8, 8, 16, 0.55) 100%), linear-gradient(to top, rgba(8, 8, 16, 0.95) 0%, rgba(8, 8, 16, 0.50) 35%, transparent 65%);
+            z-index: 1;
+        }
+
+        .top-bar {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(to right, var(--industry-accent), var(--accent), transparent);
+            z-index: 10;
+        }
+
+        .content {
+            position: relative;
+            z-index: 10;
+            width: 100%;
+            height: 100%;
+            padding: 36px 44px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .brand-logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .brand-logo img {
+            height: 28px; width: 28px;
+            object-fit: contain;
+        }
+
+        .brand-name {
+            font-size: 11px;
+            font-weight: 800;
+            color: rgba(255, 255, 255, 0.35);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+
+        /* CỔNG CHỜ: badge màu ngành — điều chỉnh color+background+border */
+        .industry-badge {
+            font-size: 11px;
+            font-weight: 800;
+            color: var(--industry-accent);
+            background: rgba(255, 214, 0, 0.12);
+            border: 1px solid rgba(255, 214, 0, 0.3);
+            padding: 5px 14px;
+            border-radius: 100px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .main-body {
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between;
+            flex-grow: 1;
+            padding-top: 16px;
+        }
+
+        .left-content {
+            max-width: 480px;
+        }
+
+        /* CỔNG CHỜ: tên công ty */
+        .company-name {
+            font-size: 11px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.45);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 6px;
+        }
+
+        /* CỔNG CHỜ: mã cổ phiếu — dùng .ac cho chữ neon màu ngành */
+        .stock-ticker {
+            font-size: 110px;
+            font-weight: 900;
+            line-height: 0.88;
+            letter-spacing: -6px;
+            color: #FFF;
+            margin-bottom: 14px;
+        }
+
+        .stock-ticker .ac {
+            color: var(--industry-accent);
+            text-shadow: 0 0 50px rgba(255, 214, 0, 0.6);
+        }
+
+        .exchange-tag {
+            display: inline-block;
+            font-size: 10px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.4);
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 4px 10px;
+            border-radius: 4px;
+            text-transform: uppercase;
+            margin-bottom: 14px;
+        }
+
+        /* CỔNG CHỜ: mô tả 1-2 dòng */
+        .stock-desc {
+            font-size: 13px;
+            color: rgba(255, 255, 255, 0.55);
+            line-height: 1.6;
+        }
+
+        .stats-glass {
+            width: 240px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 16px;
+            padding: 22px;
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+        }
+
+        .stats-title {
+            font-size: 10px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.3);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 14px;
+        }
+
+        .stat-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .stat-row:last-child {
+            border-bottom: none;
+        }
+
+        .stat-label {
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.38);
+            font-weight: 600;
+        }
+
+        .stat-value {
+            font-size: 14px;
+            font-weight: 800;
+            color: #FFF;
+        }
+
+        .footer {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .dot {
+            width: 4px;
+            height: 4px;
+            border-radius: 50%;
+            background: var(--accent);
+            box-shadow: 0 0 8px var(--accent);
+        }
+
+        .footer-text {
+            font-size: 11px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.2);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="template-container">
+        <img class="bg-photo" src="../assets/company-photos/POW.png" alt="POW">
+        <div class="overlay"></div>
+        <div class="top-bar"></div>
+        <div class="content">
+            <div class="header">
+                <div class="brand-logo">
+                    <img src="../assets/favicon.ico" alt="HVS Logo">
+                    <span class="brand-name">Taichinhso</span>
+                </div>
+                <span class="industry-badge">Ngành Năng lượng</span>
+            </div>
+            <div class="main-body">
+                <div class="left-content">
+                    <div class="company-name">Tổng Công ty Điện lực Dầu khí VN</div>
+                    <div class="stock-ticker">P<span class="ac">O</span>W</div>
+                    <span class="exchange-tag">HOSE</span>
+                    <p class="stock-desc">Nhà sản xuất điện khí lớn nhất VN, triển khai dự án Nhơn Trạch 3 &amp; 4</p>
+                </div>
+                <div class="stats-glass">
+                    <div class="stats-title">Thông số chính</div>
+                    <!-- CỔNG CHỜ: thay 4 stat row theo mã cổ phiếu -->
+                    <div class="stat-row"><span class="stat-label">Vốn hóa</span><span class="stat-value">28.6K
+                            Tỷ</span></div>
+                    <div class="stat-row"><span class="stat-label">Sàn</span><span class="stat-value">HOSE</span></div>
+                    <div class="stat-row"><span class="stat-label">Biên độ</span><span class="stat-value">±7%</span>
+                    </div>
+                    <div class="stat-row"><span class="stat-label">Nhóm ngành</span><span class="stat-value">Điện
+                            khí</span></div>
+                </div>
+            </div>
+            <div class="footer">
+                <div class="dot"></div>
+                <span class="footer-text">Phân tích thực chiến [MÃ] · taichinhso.hvsvn.com</span>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

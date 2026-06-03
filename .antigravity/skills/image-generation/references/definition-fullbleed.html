@@ -1,0 +1,350 @@
+﻿<!--
+  TEMPLATE:     definition
+  LAYOUT:       layout-2-fullbleed — ảnh concept phủ toàn canvas, gradient overlay trái, text float trên ảnh
+  VISUAL MODE:  photo-optional — dùng khi có ảnh concept trừu tượng liên quan đến thuật ngữ
+                Nếu không có ảnh: xóa .bg-photo, thêm solid dark background
+  DÙNG KHI:     Thuật ngữ có visual concept rõ ràng (lãi suất, cổ tức, thanh khoản...)
+  CỔNG CHỜ:     .bg-photo src, badge, tên thuật ngữ, định nghĩa, nội dung widget active
+  SO VỚI DEFAULT: Không có right panel riêng — ảnh phủ full, definition text float trên ảnh
+  AGENT-GUIDE:  Xem AGENT-GUIDE.md mục 1 + mục 2
+-->
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HVS - Layout 2 Full Bleed — Definition</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #311B92;
+            --accent: #00E5FF;
+            --industry-accent: #FFD600;
+            --dark: #08080F;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Plus Jakarta Sans', Arial, sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #050508;
+        }
+
+        .template-container {
+            width: 800px;
+            height: 500px;
+            overflow: hidden;
+            position: relative;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            box-shadow: 0 40px 100px rgba(0, 0, 0, 0.9);
+        }
+
+        /* CỔNG CHỜ: thay src bằng ảnh concept trừu tượng liên quan đến thuật ngữ */
+        .bg-photo {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+            z-index: 0;
+        }
+
+        /* Overlay: gradient mạnh hơn stock-profile để chữ định nghĩa dễ đọc */
+        .overlay {
+            position: absolute;
+            inset: 0;
+            background:
+                linear-gradient(to right, rgba(8, 8, 16, 0.98) 0%, rgba(8, 8, 16, 0.90) 50%, rgba(8, 8, 16, 0.45) 100%),
+                linear-gradient(to top, rgba(8, 8, 16, 0.95) 0%, rgba(8, 8, 16, 0.30) 55%, transparent 80%);
+            z-index: 1;
+        }
+
+        /* Top accent line */
+        .top-bar {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(to right, var(--accent), var(--primary), transparent);
+            z-index: 10;
+        }
+
+        /* Main content wrapper */
+        .content {
+            position: relative;
+            z-index: 10;
+            width: 100%;
+            height: 100%;
+            padding: 34px 44px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        /* Header row */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .brand-logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .brand-logo img {
+            height: 28px; width: 28px;
+            object-fit: contain;
+        }
+
+        .brand-name {
+            font-size: 11px;
+            font-weight: 800;
+            color: rgba(255, 255, 255, 0.35);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+
+        /* CỔNG CHỜ: badge danh mục — "Thuật ngữ" / "Chỉ số" / "Chiến lược" */
+        .category-badge {
+            font-size: 11px;
+            font-weight: 800;
+            color: var(--accent);
+            background: rgba(0, 229, 255, 0.1);
+            border: 1px solid rgba(0, 229, 255, 0.28);
+            padding: 5px 14px;
+            border-radius: 100px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* Body: left 60% text | right 40% visual */
+        .main-body {
+            display: flex;
+            align-items: center;
+            gap: 40px;
+            flex-grow: 1;
+            padding-top: 10px;
+        }
+
+        /* Left: definition block */
+        .def-block {
+            flex: 1;
+            max-width: 500px;
+        }
+
+        /* CỔNG CHỜ: nhãn ngữ cảnh nhỏ phía trên tiêu đề, VD: "Định nghĩa · Phân tích kỹ thuật" */
+        .def-label {
+            font-size: 10px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.3);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+        }
+
+        /* CỔNG CHỜ: tên thuật ngữ chính */
+        .def-title {
+            font-size: 52px;
+            font-weight: 900;
+            line-height: 1.0;
+            letter-spacing: -2px;
+            color: #FFF;
+            margin-bottom: 16px;
+        }
+
+        .def-title .ac {
+            color: var(--accent);
+            text-shadow: 0 0 40px rgba(0, 229, 255, 0.5);
+        }
+
+        /* CỔNG CHỜ: định nghĩa 1 câu ngắn gọn ≤ 20 từ */
+        .def-summary {
+            font-size: 14px;
+            font-weight: 600;
+            color: rgba(255, 255, 255, 0.65);
+            line-height: 1.6;
+            border-left: 3px solid var(--accent);
+            padding-left: 14px;
+            margin-bottom: 20px;
+        }
+
+        /* CỔNG CHỜ: 2-3 điểm chính (key facts) */
+        .key-facts {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .fact-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.5);
+            line-height: 1.5;
+        }
+
+        .fact-dot {
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            background: var(--accent);
+            flex-shrink: 0;
+            margin-top: 5px;
+            box-shadow: 0 0 6px var(--accent);
+        }
+
+        /* Right: concept widget */
+        .concept-widget {
+            width: 220px;
+            flex-shrink: 0;
+        }
+
+        .widget-card {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 16px;
+            padding: 24px 20px;
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+        }
+
+        .widget-label {
+            font-size: 10px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.28);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 18px;
+        }
+
+        /* CỔNG CHỜ: 3 metric liên quan đến thuật ngữ */
+        .widget-metric {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 11px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .widget-metric:last-child {
+            border-bottom: none;
+        }
+
+        .wm-label {
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.38);
+            font-weight: 600;
+        }
+
+        .wm-value {
+            font-size: 15px;
+            font-weight: 800;
+            color: #FFF;
+        }
+
+        .wm-value.highlight {
+            color: var(--accent);
+            text-shadow: 0 0 12px rgba(0, 229, 255, 0.4);
+        }
+
+        /* Footer */
+        .footer {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .dot {
+            width: 4px;
+            height: 4px;
+            border-radius: 50%;
+            background: var(--accent);
+            box-shadow: 0 0 8px var(--accent);
+        }
+
+        /* CỔNG CHỜ: slug bài viết hoặc chủ đề */
+        .footer-text {
+            font-size: 11px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.2);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="template-container">
+        <!-- CỔNG CHỜ: ảnh nền abstract concept — generate_image hoặc để trống nếu dùng nền tối thuần -->
+        <img class="bg-photo" src="../assets/bg-texture.png" alt="Background">
+        <div class="overlay"></div>
+        <div class="top-bar"></div>
+        <div class="content">
+
+            <div class="header">
+                <div class="brand-logo">
+                    <img src="../assets/favicon.ico" alt="HVS Logo">
+                    <span class="brand-name">Taichinhso</span>
+                </div>
+                <!-- CỔNG CHỜ: danh mục bài viết -->
+                <span class="category-badge">Thuật ngữ tài chính</span>
+            </div>
+
+            <div class="main-body">
+
+                <!-- Left: Definition -->
+                <div class="def-block">
+                    <!-- CỔNG CHỜ: nhãn ngữ cảnh -->
+                    <div class="def-label">Định nghĩa · Phân tích kỹ thuật</div>
+                    <!-- CỔNG CHỜ: tên thuật ngữ — dùng .ac cho từ nhấn mạnh -->
+                    <div class="def-title">EPS <span class="ac">là</span> gì?</div>
+                    <!-- CỔNG CHỜ: câu định nghĩa 1 dòng -->
+                    <p class="def-summary">Lợi nhuận trên mỗi cổ phiếu — thước đo sinh lời cơ bản nhất khi định giá cổ
+                        phiếu.</p>
+                    <!-- CỔNG CHỜ: 2-3 điểm chính -->
+                    <div class="key-facts">
+                        <div class="fact-item">
+                            <div class="fact-dot"></div><span>Công thức: Lợi nhuận ròng ÷ Số CP lưu hành bình
+                                quân</span>
+                        </div>
+                        <div class="fact-item">
+                            <div class="fact-dot"></div><span>EPS càng cao → doanh nghiệp tạo ra nhiều lợi nhuận hơn
+                                trên mỗi cổ phiếu</span>
+                        </div>
+                        <div class="fact-item">
+                            <div class="fact-dot"></div><span>Dùng để tính P/E Ratio — chỉ số định giá phổ biến nhất
+                                TTCK VN</span>
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+
+            <div class="footer">
+                <div class="dot"></div>
+                <!-- CỔNG CHỜ: chủ đề bài viết -->
+                <span class="footer-text">Kiến thức đầu tư cơ bản · hvs.vn</span>
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>

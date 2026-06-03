@@ -1,37 +1,37 @@
 # Topic Clusters — HVS SEO Content Map
-> Cập nhật: 2026-05-14 | Nguồn: keyword-hvs.csv (491 articles)
-> ✅ Published: 101 | 🔄 In Progress: 0 | ⭕ Planned: 389
+> Cập nhật: 2026-06-03 | Nguồn: keyword-hvs.csv (491 articles)
+> ✅ Published: 156 | 🔄 In Progress: 9 | ⭕ Planned: 338
 
 ---
 
 ## Group: Cho người mới (489 articles)
 
-### Cluster: Chỉ số chứng khoán (13 articles | ✅ 6 | 🔄 0 | ⭕ 7)
+### Cluster: Chỉ số chứng khoán (13 articles | ✅ 13 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ Chỉ số DAX là gì *(Published — Final-chi-so-dax-la-gi.md)*
 
 **Priority 1:**
-- ⭕ chỉ số nikkei là gì *(Planned)*
-- ⭕ chỉ số dow jones *(Planned)*
-- ⭕ chỉ số nasdaq là gì *(Planned)*
-- ⭕ Chỉ số msci là gì *(Planned)*
-- ⭕ Chỉ số DXY là gì *(Planned)*
+- ✅ chỉ số nikkei là gì *(Published — Final-chi-so-nikkei-la-gi.md)*
+- ✅ chỉ số dow jones *(Published — Final-chi-so-dow-jones.md)*
+- ✅ chỉ số nasdaq là gì *(Published — Final-chi-so-nasdaq-la-gi.md)*
+- ✅ Chỉ số msci là gì *(Published — Final-chi-so-msci-la-gi.md)*
+- ✅ Chỉ số DXY là gì *(Published — Final-chi-so-dxy-la-gi.md)*
 - ✅ Chỉ số VN-Index là gì *(Published — Final-chi-so-vn-index-la-gi.md)*
 - ✅ Chỉ số VN30-Index là gì *(Published — Final-chi-so-vn30-index-la-gi.md)*
 - ✅ hnx-index là gì *(Published — Final-hnx-index-la-gi.md)*
-- ⭕ các chỉ số chứng khoán việt nam *(Planned)*
+- ✅ các chỉ số chứng khoán việt nam *(Published — Final-cac-chi-so-chung-khoan-viet-nam.md)*
 - ✅ chỉ số chứng khoán châu Á *(Published — Final-chi-so-chung-khoan-chau-a.md)*
 - ✅ chỉ số chứng khoán thế giới *(Published — Final-chi-so-chung-khoan-the-gioi.md)*
-- ⭕ chỉ số hang seng là gì *(Planned)*
+- ✅ chỉ số hang seng là gì *(Published — Final-chi-so-hang-seng-la-gi.md)*
 
-### Cluster: Chứng chỉ quỹ (8 articles | ✅ 7 | 🔄 0 | ⭕ 1)
+### Cluster: Chứng chỉ quỹ (8 articles | ✅ 7 | 🔄 1 | ⭕ 0)
 
 **Pillar:** ✅ etf là gì *(Published — Final-etf-la-gi.md)*
 
 **Priority 1:**
 - ✅ Quỹ mở là gì *(Published — Final-quy-mo-la-gi.md)*
 - ✅ Nên đầu tư quỹ mở hay quỹ etf *(Published — Final-nen-dau-tu-quy-mo-hay-quy-etf.md)*
-- ⭕ đầu tư etf *(Planned)*
+- 🔄 đầu tư etf *(In Progress — Outline-dau-tu-etf.md)*
 - ✅ quỹ etf tại việt nam *(Published — Final-quy-etf-tai-viet-nam.md)*
 - ✅ quy trình hoán đổi danh mục ETF *(Published — Final-quy-trinh-hoan-doi-danh-muc-etf.md)*
 - ✅ Nên đầu tư quỹ ETF nào *(Published — Final-nen-dau-tu-quy-etf-nao.md)*
@@ -76,9 +76,9 @@
 - ✅ Cách mua cổ phiếu MSN *(Published — Final-cach-mua-co-phieu-msn.md)*
 - ✅ Cách mua cổ phiếu SAB *(Published — Final-cach-mua-co-phieu-sab.md)*
 
-### Cluster: Cách đầu tư (6 articles | ✅ 5 | 🔄 0 | ⭕ 1)
+### Cluster: Cách đầu tư (6 articles | ✅ 6 | 🔄 0 | ⭕ 0)
 
-**Pillar:** ⭕ cách mua cổ phiếu *(Planned)*
+**Pillar:** ✅ cách mua cổ phiếu *(Published — Final-cach-mua-co-phieu.md)*
 
 **Priority 1:**
 - ✅ cách chơi chứng khoán trên điện thoại *(Published — Final-cach-choi-chung-khoan-tren-dien-thoai.md)*
@@ -122,14 +122,14 @@
 - ⭕ Có nên mua cổ phiếu MWG *(Planned)*
 - ⭕ Có nên mua cổ phiếu SBT *(Planned)*
 
-### Cluster: Cổ phiếu (25 articles | ✅ 5 | 🔄 0 | ⭕ 20)
+### Cluster: Cổ phiếu (25 articles | ✅ 9 | 🔄 0 | ⭕ 16)
 
 **Pillar:** ✅ Cổ tức là gì *(Published — Final-co-tuc-la-gi.md)*
 
 **Priority 1:**
-- ⭕ Cổ phiếu OTC là gì *(Planned)*
+- ✅ Cổ phiếu OTC là gì *(Published — Final-co-phieu-otc-la-gi.md)*
 - ✅ cổ phiếu là gì *(Published — Final-co-phieu-la-gi.md)*
-- ⭕ cổ phiếu lô lẻ là gì *(Planned)*
+- ✅ cổ phiếu lô lẻ là gì *(Published — Final-co-phieu-lo-le-la-gi.md)*
 - ⭕ so sánh cổ phiếu và chứng chỉ quỹ đầu tư *(Planned)*
 - ⭕ bán giải chấp cổ phiếu là gì *(Planned)*
 - ⭕ khi nào nên bán cổ phiếu *(Planned)*
@@ -146,45 +146,45 @@
 - ⭕ cổ phiếu esop là gì *(Planned)*
 - ⭕ pha loãng cổ phiếu là gì *(Planned)*
 - ⭕ cách chọn cổ phiếu tốt *(Planned)*
-- ⭕ Cổ phiếu quỹ là gì *(Planned)*
-- ⭕ cổ phiếu ưu đãi là gì *(Planned)*
+- ✅ Cổ phiếu quỹ là gì *(Published — Final-co-phieu-quy-la-gi.md)*
+- ✅ cổ phiếu ưu đãi là gì *(Published — Final-co-phieu-uu-dai-la-gi.md)*
 - ✅ cổ phiếu penny là gì *(Published — Final-co-phieu-penny-la-gi.md)*
 - ⭕ mid cap là gì *(Planned)*
 - ✅ blue chip là gì *(Published — Final-co-phieu-blue-chip-la-gi.md)*
 
-### Cluster: Cổ phiếu ngành (29 articles | ✅ 1 | 🔄 0 | ⭕ 28)
+### Cluster: Cổ phiếu ngành (29 articles | ✅ 29 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ cổ phiếu đầu cơ *(Published — Final-co-phieu-dau-co.md)*
 
 **Priority 1:**
-- ⭕ cổ phiếu dầu khí *(Planned)*
-- ⭕ cổ phiếu cảng biển *(Planned)*
-- ⭕ cổ phiếu ngành chứng khoán *(Planned)*
-- ⭕ cổ phiếu điện lực *(Planned)*
-- ⭕ cổ phiếu bất động sản *(Planned)*
-- ⭕ cổ phiếu ngành cao su *(Planned)*
-- ⭕ cổ phiếu ngành dược *(Planned)*
-- ⭕ cổ phiếu ngành thép *(Planned)*
-- ⭕ cổ phiếu ngân hàng *(Planned)*
-- ⭕ cổ phiếu đầu tư công *(Planned)*
-- ⭕ cổ phiếu xuất nhập khẩu *(Planned)*
-- ⭕ cổ phiếu hàng không *(Planned)*
-- ⭕ cổ phiếu ngành xây dựng *(Planned)*
-- ⭕ cổ phiếu ngành dệt may *(Planned)*
-- ⭕ cổ phiếu ngành công nghệ *(Planned)*
-- ⭕ cổ phiếu ngành thủy sản *(Planned)*
-- ⭕ cổ phiếu ngành thực phẩm *(Planned)*
-- ⭕ cổ phiếu ngành bán lẻ *(Planned)*
-- ⭕ cổ phiếu ngành nhựa *(Planned)*
-- ⭕ cổ phiếu ngành du lịch *(Planned)*
-- ⭕ cổ phiếu ngành năng lượng *(Planned)*
-- ⭕ cổ phiếu ngành y tế *(Planned)*
-- ⭕ cổ phiếu ngành Truyền Thông *(Planned)*
-- ⭕ Cổ phiếu ngành ô tô *(Planned)*
-- ⭕ Cổ phiếu ngành bảo hiểm *(Planned)*
-- ⭕ cổ phiếu ngành than *(Planned)*
-- ⭕ cổ phiếu ngành hóa chất *(Planned)*
-- ⭕ cổ phiếu ngành nông nghiệp *(Planned)*
+- ✅ cổ phiếu dầu khí *(Published — Final-co-phieu-dau-khi.md)*
+- ✅ cổ phiếu cảng biển *(Published — Final-co-phieu-cang-bien.md)*
+- ✅ cổ phiếu ngành chứng khoán *(Published — Final-co-phieu-nganh-chung-khoan.md)*
+- ✅ cổ phiếu điện lực *(Published — Final-co-phieu-dien-luc.md)*
+- ✅ cổ phiếu bất động sản *(Published — Final-co-phieu-bat-dong-san.md)*
+- ✅ cổ phiếu ngành cao su *(Published — Final-co-phieu-nganh-cao-su.md)*
+- ✅ cổ phiếu ngành dược *(Published — Final-co-phieu-nganh-duoc.md)*
+- ✅ cổ phiếu ngành thép *(Published — Final-co-phieu-nganh-thep.md)*
+- ✅ cổ phiếu ngân hàng *(Published — Final-co-phieu-ngan-hang.md)*
+- ✅ cổ phiếu đầu tư công *(Published — Final-co-phieu-dau-tu-cong.md)*
+- ✅ cổ phiếu xuất nhập khẩu *(Published — Final-co-phieu-xuat-nhap-khau.md)*
+- ✅ cổ phiếu hàng không *(Published — Final-co-phieu-hang-khong.md)*
+- ✅ cổ phiếu ngành xây dựng *(Published — Final-co-phieu-nganh-xay-dung.md)*
+- ✅ cổ phiếu ngành dệt may *(Published — Final-co-phieu-nganh-det-may.md)*
+- ✅ cổ phiếu ngành công nghệ *(Published — Final-co-phieu-nganh-cong-nghe.md)*
+- ✅ cổ phiếu ngành thủy sản *(Published — Final-co-phieu-nganh-thuy-san.md)*
+- ✅ cổ phiếu ngành thực phẩm *(Published — Final-co-phieu-nganh-thuc-pham.md)*
+- ✅ cổ phiếu ngành bán lẻ *(Published — Final-co-phieu-nganh-ban-le.md)*
+- ✅ cổ phiếu ngành nhựa *(Published — Final-co-phieu-nganh-nhua.md)*
+- ✅ Cổ phiếu ngành bảo hiểm *(Published — Final-co-phieu-nganh-bao-hiem.md)*
+- ✅ cổ phiếu ngành du lịch *(Published — Final-co-phieu-nganh-du-lich.md)*
+- ✅ cổ phiếu ngành năng lượng *(Published — Final-co-phieu-nganh-nang-luong.md)*
+- ✅ cổ phiếu ngành y tế *(Published — Final-co-phieu-nganh-y-te.md)*
+- ✅ cổ phiếu ngành truyền thông *(Published — Final-co-phieu-nganh-truyen-thong.md)*
+- ✅ Cổ phiếu ngành ô tô *(Published — Final-co-phieu-nganh-o-to.md)*
+- ✅ cổ phiếu ngành than *(Published — Final-co-phieu-nganh-than.md)*
+- ✅ cổ phiếu ngành hóa chất *(Published — Final-co-phieu-nganh-hoa-chat.md)*
+- ✅ cổ phiếu ngành nông nghiệp *(Published — Final-co-phieu-nganh-nong-nghiep.md)*
 
 ### Cluster: Phân tích cơ bản (115 articles | ✅ 7 | 🔄 0 | ⭕ 108)
 
@@ -424,27 +424,27 @@
 - ⭕ Đầu tư tăng trưởng là gì *(Planned)*
 - ⭕ copy trade là gì *(Planned)*
 
-### Cluster: Phương pháp đầu tư (13 articles | ✅ 3 | 🔄 0 | ⭕ 10)
+### Cluster: Phương pháp đầu tư (13 articles | ✅ 11 | 🔄 2 | ⭕ 0)
 
 **Pillar:** ✅ đầu tư giá trị *(Published — Final-dau-tu-gia-tri.md)*
 
 **Priority 1:**
 - ✅ chiến lược đầu tư chứng khoán *(Published — Final-chien-luoc-dau-tu-chung-khoan.md)*
 - ✅ đầu tư tích sản cổ phiếu là gì *(Published — Final-dau-tu-tich-san-co-phieu-la-gi.md)*
-- ⭕ phương pháp top down *(Planned)*
-- ⭕ phương pháp canslim *(Planned)*
-- ⭕ sách về đầu tư giá trị *(Planned)*
-- ⭕ đầu tư tăng trưởng là gì *(Planned)*
-- ⭕ Phương pháp Richard Donchian *(Planned)*
-- ⭕ phương pháp đầu tư giá trị của graham benjamin *(Planned)*
-- ⭕ Đầu tư lướt sóng *(Planned)*
-- ⭕ đầu tư ngắn hạn *(Planned)*
-- ⭕ đầu tư thụ động *(Planned)*
-- ⭕ đầu tư chủ động *(Planned)*
+- ✅ phương pháp top down *(Published — Final-phuong-phap-top-down.md)*
+- ✅ phương pháp canslim *(Published — Final-phuong-phap-canslim.md)*
+- ✅ sách về đầu tư giá trị *(Published — Final-sach-ve-dau-tu-gia-tri.md)*
+- ✅ đầu tư tăng trưởng là gì *(Published — Final-dau-tu-tang-truong-la-gi.md)*
+- ✅ Phương pháp Richard Donchian *(Published — Final-phuong-phap-richard-donchian.md)*
+- ✅ phương pháp đầu tư giá trị của graham benjamin *(Published — Final-phuong-phap-dau-tu-gia-tri-cua-graham-benjamin.md)*
+- ✅ Đầu tư lướt sóng *(Published — Final-dau-tu-luot-song.md)*
+- ✅ đầu tư ngắn hạn *(Published — Final-dau-tu-ngan-han.md)*
+- 🔄 đầu tư thụ động *(In Progress — Outline-dau-tu-thu-dong.md)*
+- 🔄 đầu tư chủ động *(In Progress — Outline-dau-tu-chu-dong.md)*
 
-### Cluster: Trái phiếu (7 articles | ✅ 1 | 🔄 0 | ⭕ 6)
+### Cluster: Trái phiếu (7 articles | ✅ 2 | 🔄 0 | ⭕ 5)
 
-**Pillar:** ⭕ bond yield là gì *(Planned)*
+**Pillar:** ✅ bond yield là gì *(Published — Final-bond-yield-la-gi.md)*
 
 **Priority 1:**
 - ⭕ có nên đầu tư trái phiếu *(Planned)*
@@ -454,22 +454,22 @@
 - ⭕ Trái phiếu doanh nghiệp là gì *(Planned)*
 - ⭕ Trái phiếu ngân hàng là gì *(Planned)*
 
-### Cluster: Tài khoản chứng khoán (8 articles | ✅ 3 | 🔄 0 | ⭕ 5)
+### Cluster: Tài khoản chứng khoán (8 articles | ✅ 3 | 🔄 5 | ⭕ 0)
 
 **Pillar:** ✅ cách mở tài khoản chứng khoán *(Published — Final-cach-mo-tai-khoan-chung-khoan.md)*
 
 **Priority 1:**
 - ✅ Nên mở tài khoản chứng khoán ở đâu *(Published — Final-nen-mo-tai-khoan-chung-khoan-o-dau.md)*
-- ⭕ mở tài khoản chứng khoán có mất phí không? *(Planned)*
-- ⭕ các loại tài khoản chứng khoán *(Planned)*
+- 🔄 mở tài khoản chứng khoán có mất phí không? *(In Progress — Outline-mo-tai-khoan-chung-khoan-co-mat-phi-khong.md)*
+- 🔄 các loại tài khoản chứng khoán *(In Progress — Outline-cac-loai-tai-khoan-chung-khoan.md)*
 - ✅ mở tài khoản chứng khoán online có an toàn không *(Published — Final-mo-tai-khoan-chung-khoan-online-co-an-toan-khong.md)*
-- ⭕ hợp đồng mở tài khoản chứng khoán *(Planned)*
-- ⭕ Một người được mở bao nhiêu tài khoản chứng khoán *(Planned)*
-- ⭕ cháy tài khoản chứng khoán là gì *(Planned)*
+- 🔄 hợp đồng mở tài khoản chứng khoán *(In Progress — Outline-hop-dong-mo-tai-khoan-chung-khoan.md)*
+- 🔄 Một người được mở bao nhiêu tài khoản chứng khoán *(In Progress — Outline-mot-nguoi-duoc-mo-bao-nhieu-tai-khoan-chung-khoan.md)*
+- 🔄 cháy tài khoản chứng khoán là gì *(In Progress — Outline-chay-tai-khoan-chung-khoan-la-gi.md)*
 
-### Cluster: chứng chỉ (5 articles | ✅ 0 | 🔄 0 | ⭕ 5)
+### Cluster: chứng chỉ (5 articles | ✅ 1 | 🔄 0 | ⭕ 4)
 
-**Pillar:** ⭕ chứng chỉ cfa *(Planned)*
+**Pillar:** ✅ chứng chỉ cfa *(Published — Final-chung-chi-cfa.md)*
 
 **Priority 1:**
 - ⭕ chứng chỉ cmt *(Planned)*
@@ -477,9 +477,9 @@
 - ⭕ chứng chỉ hành nghề chứng khoán *(Planned)*
 - ⭕ chứng chỉ tài chính *(Planned)*
 
-### Cluster: chứng khoán (68 articles | ✅ 13 | 🔄 0 | ⭕ 55)
+### Cluster: chứng khoán (68 articles | ✅ 14 | 🔄 0 | ⭕ 54)
 
-**Pillar:** ⭕ ce là gì *(Planned)*
+**Pillar:** ✅ ce là gì *(Published — Final-ce-la-gi.md)*
 
 **Priority 1:**
 - ⭕ so sánh forex và chứng khoán *(Planned)*
@@ -550,17 +550,17 @@
 - ✅ tâm lý đầu tư chứng khoán *(Published — Final-tam-ly-dau-tu-chung-khoan.md)*
 - ⭕ biên độ giao động giá *(Planned)*
 
-### Cluster: khóa học (3 articles | ✅ 1 | 🔄 0 | ⭕ 2)
+### Cluster: khóa học (3 articles | ✅ 1 | 🔄 1 | ⭕ 1)
 
 **Pillar:** ✅ khóa học chứng khoán *(Published — Final-khoa-hoc-chung-khoan.md)*
 
 **Priority 1:**
-- ⭕ Khóa học phân tích cơ bản *(Planned)*
+- 🔄 Khóa học phân tích cơ bản *(In Progress — Outline-khoa-hoc-phan-tich-co-ban.md)*
 - ⭕ Khóa học phân tích kỹ thuật *(Planned)*
 
-### Cluster: phái sinh (5 articles | ✅ 0 | 🔄 0 | ⭕ 5)
+### Cluster: phái sinh (5 articles | ✅ 1 | 🔄 0 | ⭕ 4)
 
-**Pillar:** ⭕ quyền chọn là gì *(Planned)*
+**Pillar:** ✅ quyền chọn là gì *(Published — Final-quyen-chon-la-gi.md)*
 
 **Priority 1:**
 - ⭕ Đáo hạn phái sinh là gì *(Planned)*
@@ -568,18 +568,18 @@
 - ⭕ chứng khoán phái sinh là gì *(Planned)*
 - ⭕ chứng khoán cơ sở và chứng khoán phái sinh *(Planned)*
 
-### Cluster: rủi ro (4 articles | ✅ 1 | 🔄 0 | ⭕ 3)
+### Cluster: rủi ro (4 articles | ✅ 2 | 🔄 0 | ⭕ 2)
 
-**Pillar:** ⭕ khẩu vị rủi ro *(Planned)*
+**Pillar:** ✅ khẩu vị rủi ro *(Published — Final-khau-vi-rui-ro.md)*
 
 **Priority 1:**
 - ⭕ Rủi ro doanh nghiệp trong đầu tư chứng khoán là gì *(Planned)*
 - ⭕ Đầu tư chứng khoán có những rủi ro gì *(Planned)*
 - ✅ quản trị rủi ro chứng khoán *(Published — Final-quan-tri-rui-ro-chung-khoan.md)*
 
-### Cluster: tài liệu (5 articles | ✅ 0 | 🔄 0 | ⭕ 5)
+### Cluster: tài liệu (5 articles | ✅ 1 | 🔄 0 | ⭕ 4)
 
-**Pillar:** ⭕ sách chứng khoán *(Planned)*
+**Pillar:** ✅ sách chứng khoán *(Published — Final-sach-chung-khoan.md)*
 
 **Priority 1:**
 - ⭕ sách về tài chính *(Planned)*

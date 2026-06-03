@@ -1,10 +1,22 @@
+﻿<!--
+  TEMPLATE:     mockup
+  LAYOUT:       layout-1-split (mặc định) | layout-4-brutalist (alternate)
+  VISUAL MODE:  screenshot (tùy chọn) — UI frame giả lập bên phải, có thể nhúng screenshot thực
+                Nếu không có screenshot: dùng UI elements HTML giả lập (dark card + data rows)
+  DÙNG KHI:     Bài giới thiệu tính năng app HVS / demo giao diện sản phẩm
+                (Màn hình đặt lệnh, Trang danh mục, Biểu đồ nến trong app...)
+  CỔNG CHỜ:     header-tag, mô tả tính năng bên trái, UI frame / screenshot bên phải
+  LƯU Ý:        UI frame dùng border-radius + glassmorphism — giữ nguyên style để đồng nhất
+                Nếu nhúng screenshot thực: dùng <img> thay thế UI frame HTML, thêm border-radius: 12px
+  AGENT-GUIDE:  Xem AGENT-GUIDE.md mục 1 + mục 2
+-->
 <!DOCTYPE html>
 <html lang="vi">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HVS Tài Chính Số - UI Mockup Template Reference</title>
+    <title>HVS Tài Chính Số - UI Mockup Template</title>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap"
         rel="stylesheet">
     <style>
@@ -38,8 +50,8 @@
 
         /* Khung ảnh 16:9 */
         .template-container {
-            width: 1000px;
-            height: 562px;
+            width: 800px;
+            height: 500px;
             background-color: #151419;
             overflow: hidden;
             box-shadow: 0 30px 60px rgba(0, 0, 0, 0.7);
@@ -89,8 +101,7 @@
         }
 
         .brand-logo img {
-            height: 32px;
-            width: 32px;
+            height: 28px; width: 28px;
             object-fit: contain;
         }
 
@@ -215,7 +226,7 @@
         <div class="header">
             <div class="brand-logo">
                 <img src="../assets/favicon.ico" alt="HVS Logo">
-                <div class="brand-name">HVS Tài Chính Số</div>
+                <div class="brand-name">Taichinhso</div>
             </div>
             <div class="header-tag">HVS TÀI CHÍNH SỐ - LIVE DASHBOARD</div>
         </div>

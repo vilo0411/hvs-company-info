@@ -1,8 +1,8 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 101 bài
-- **Active Pipeline:** 4 items
+- **Published:** 155 bài
+- **Active Pipeline:** 9 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
@@ -11,14 +11,74 @@
 
 | Keyword | Phase | File | Cập nhật | Action |
 | :--- | :--- | :--- | :--- | :--- |
-| chỉ số nikkei là gì | Outline | `content/blog/1-outlines/Outline-chi-so-nikkei-la-gi.md` | 2026-05-13 | Cần /write |
-| chỉ số dow jones | Outline | `content/blog/1-outlines/Outline-chi-so-dow-jones.md` | 2026-05-13 | Cần /write |
-| chỉ số nasdaq là gì | Outline | `content/blog/1-outlines/Outline-chi-so-nasdaq-la-gi.md` | 2026-05-13 | Cần /write |
 | đầu tư etf | Outline | `content/blog/1-outlines/Outline-dau-tu-etf.md` | 2026-05-21 | Cần /write |
+| đầu tư thụ động | Outline | `content/blog/1-outlines/Outline-dau-tu-thu-dong.md` | 2026-06-03 | Cần /write |
+| đầu tư chủ động | Outline | `content/blog/1-outlines/Outline-dau-tu-chu-dong.md` | 2026-06-03 | Cần /write |
+| mở tài khoản chứng khoán có mất phí không? | Outline | `content/blog/1-outlines/Outline-mo-tai-khoan-chung-khoan-co-mat-phi-khong.md` | 2026-06-03 | Cần /write |
+| các loại tài khoản chứng khoán | Outline | `content/blog/1-outlines/Outline-cac-loai-tai-khoan-chung-khoan.md` | 2026-06-03 | Cần /write |
+| hợp đồng mở tài khoản chứng khoán | Outline | `content/blog/1-outlines/Outline-hop-dong-mo-tai-khoan-chung-khoan.md` | 2026-06-03 | Cần /write |
+| Một người được mở bao nhiêu tài khoản chứng khoán | Outline | `content/blog/1-outlines/Outline-mot-nguoi-duoc-mo-bao-nhieu-tai-khoan-chung-khoan.md` | 2026-06-03 | Cần /write |
+| cháy tài khoản chứng khoán là gì | Outline | `content/blog/1-outlines/Outline-chay-tai-khoan-chung-khoan-la-gi.md` | 2026-06-03 | Cần /write |
+| Khóa học phân tích cơ bản | Outline | `content/blog/1-outlines/Outline-khoa-hoc-phan-tich-co-ban.md` | 2026-06-03 | Cần /write |
 
 ---
 
 ## Publication Log
+
+| 2026-06-03 | phương pháp top down | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-phuong-phap-top-down.md` |
+| 2026-06-03 | phương pháp canslim | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-phuong-phap-canslim.md` |
+| 2026-06-03 | sách về đầu tư giá trị | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-sach-ve-dau-tu-gia-tri.md` |
+| 2026-06-03 | đầu tư tăng trưởng là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-dau-tu-tang-truong-la-gi.md` |
+| 2026-06-03 | Phương pháp Richard Donchian | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-phuong-phap-richard-donchian.md` |
+| 2026-06-03 | phương pháp đầu tư giá trị của graham benjamin | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-phuong-phap-dau-tu-gia-tri-cua-graham-benjamin.md` |
+| 2026-06-03 | Đầu tư lướt sóng | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-dau-tu-luot-song.md` |
+| 2026-06-03 | đầu tư ngắn hạn | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-dau-tu-ngan-han.md` |
+| 2026-06-02 | cách mua cổ phiếu | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cach-mua-co-phieu.md` |
+| 2026-06-02 | cổ phiếu ngành nông nghiệp | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-nong-nghiep.md` |
+| 2026-06-02 | bond yield là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-bond-yield-la-gi.md` |
+| 2026-06-02 | chứng chỉ cfa | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-chung-chi-cfa.md` |
+| 2026-06-02 | ce là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-ce-la-gi.md` |
+| 2026-06-02 | quyền chọn là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-quyen-chon-la-gi.md` |
+| 2026-06-02 | khẩu vị rủi ro | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-khau-vi-rui-ro.md` |
+| 2026-06-02 | sách chứng khoán | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-sach-chung-khoan.md` |
+| 2026-05-29 | cổ phiếu ngành y tế | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-y-te.md` |
+| 2026-05-29 | cổ phiếu ngành truyền thông | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-truyen-thong.md` |
+| 2026-05-29 | cổ phiếu ngành than | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-than.md` |
+| 2026-05-29 | Cổ phiếu ngành ô tô | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-o-to.md` |
+| 2026-05-29 | cổ phiếu ngành năng lượng | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-nang-luong.md` |
+| 2026-05-29 | cổ phiếu ngành hóa chất | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-hoa-chat.md` |
+| 2026-05-29 | cổ phiếu ngành du lịch | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-du-lich.md` |
+| 2026-05-29 | cổ phiếu ngành bảo hiểm | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-bao-hiem.md` |
+| 2026-05-29 | cổ phiếu xuất nhập khẩu | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-xuat-nhap-khau.md` |
+| 2026-05-29 | cổ phiếu ngành xây dựng | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-xay-dung.md` |
+| 2026-05-29 | cổ phiếu ngành thủy sản | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-thuy-san.md` |
+| 2026-05-29 | cổ phiếu ngành thực phẩm | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-thuc-pham.md` |
+| 2026-05-29 | cổ phiếu ngành nhựa | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-nhua.md` |
+| 2026-05-29 | cổ phiếu ngành dệt may | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-det-may.md` |
+| 2026-05-28 | cổ phiếu ngành công nghệ | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-cong-nghe.md` |
+| 2026-05-28 | cổ phiếu ngành bán lẻ | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-ban-le.md` |
+| 2026-05-27 | cổ phiếu ngành thép | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-thep.md` |
+| 2026-05-27 | cổ phiếu ngành dược | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-duoc.md` |
+| 2026-05-27 | cổ phiếu ngành cao su | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-cao-su.md` |
+| 2026-05-27 | cổ phiếu ngân hàng | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-ngan-hang.md` |
+| 2026-05-27 | cổ phiếu hàng không | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-hang-khong.md` |
+| 2026-05-27 | cổ phiếu điện lực | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-dien-luc.md` |
+| 2026-05-27 | cổ phiếu đầu tư công | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-dau-tu-cong.md` |
+| 2026-05-27 | cổ phiếu bất động sản | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-bat-dong-san.md` |
+| 2026-05-26 | cổ phiếu cảng biển | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-cang-bien.md` |
+| 2026-05-26 | cổ phiếu ngành chứng khoán | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-nganh-chung-khoan.md` |
+| 2026-05-26 | cổ phiếu dầu khí | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-dau-khi.md` |
+| 2026-05-26 | chỉ số nikkei là gì | HVS Senior Mentor | Guided | `content/blog/3-finalized/Final-chi-so-nikkei-la-gi.md` |
+| 2026-05-26 | Cổ phiếu quỹ là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-quy-la-gi.md` |
+| 2026-05-26 | chỉ số nasdaq là gì | HVS Senior Mentor | Guided | `content/blog/3-finalized/Final-chi-so-nasdaq-la-gi.md` |
+| 2026-05-26 | chỉ số dow jones | HVS Senior Mentor | Guided | `content/blog/3-finalized/Final-chi-so-dow-jones.md` |
+| 2026-05-26 | cổ phiếu ưu đãi là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-uu-dai-la-gi.md` |
+| 2026-05-25 | Cổ phiếu OTC là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-otc-la-gi.md` |
+| 2026-05-25 | cổ phiếu lô lẻ là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-lo-le-la-gi.md` |
+| 2026-05-25 | chỉ số msci là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-chi-so-msci-la-gi.md` |
+| 2026-05-25 | chỉ số hang seng là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-chi-so-hang-seng-la-gi.md` |
+| 2026-05-25 | Chỉ số DXY là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-chi-so-dxy-la-gi.md` |
+| 2026-05-25 | các chỉ số chứng khoán việt nam | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cac-chi-so-chung-khoan-viet-nam.md` |
 
 | 2026-05-22 | Phân biệt quỹ ETF và quỹ tương hỗ | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-phan-biet-quy-etf-va-quy-tuong-ho.md` |
 | 2026-05-22 | quy trình hoán đổi danh mục ETF | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-quy-trinh-hoan-doi-danh-muc-etf.md` |
