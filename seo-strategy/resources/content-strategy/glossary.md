@@ -15,8 +15,8 @@ Mỗi term gồm: tên chuẩn | định nghĩa ngắn | cách dùng trong bài 
 | :--- | :--- | :--- | :--- |
 | **HVS Demo** | Tài khoản giao dịch chứng khoán mô phỏng miễn phí | Đề xuất cho F0, Sinh viên muốn luyện tập không rủi ro | "tài khoản ảo", "demo trading", "tài khoản thử" |
 | **HVS Forum** | Cộng đồng nhà đầu tư HVS — nơi chia sẻ kiến thức thực chiến | Đề xuất cho F0 muốn học từ nhà đầu tư có kinh nghiệm | "diễn đàn", "group", "cộng đồng online" |
-| **HVS Tài chính số** | Ứng dụng quản lý danh mục và phân tích đầu tư | Đề xuất cho F1+ muốn theo dõi danh mục chuyên nghiệp | "app HVS", "phần mềm HVS", "tool HVS" |
-| **HVS Thực tập số** | Chương trình thực tập ảo về phân tích chứng khoán | Đề xuất cho Sinh viên muốn kinh nghiệm thực tế | "internship", "thực tập online" |
+| **HVS Tài chính số** | Nền tảng đào tạo trực tuyến chuyên sâu về đầu tư chứng khoán | Đề xuất học kiến thức vĩ mô, FA LV1, TA LV1 thực chiến | "app HVS", "phần mềm HVS", "tool HVS", "công cụ bộ lọc" |
+| **HVS Thực tập số** | Chương trình đào tạo thuộc HVS Tài chính số gồm 2 giai đoạn (Nền tảng & Chuyên hóa) | Đề xuất cho Sinh viên/F0 muốn tích lũy kinh nghiệm phân tích thực tế | "internship", "sản phẩm độc lập" |
 
 ---
 

@@ -18,21 +18,30 @@
 * **Đội ngũ Mentor chuyên gia:** Được hướng dẫn trực tiếp bởi các chuyên gia phân tích, quản lý quỹ có hơn 10 năm kinh nghiệm và sở hữu chứng chỉ CFA, những người sẽ chỉ ra "điểm mù" tư duy mà việc tự học không thể phát hiện.  
 * **Chứng chỉ hoàn thành khóa học từ HVS:** Là bằng chứng xác nhận năng lực thực chiến, chứng minh ứng viên có khả năng "làm được việc" ngay lập tức, thay vì chỉ giỏi lý thuyết.
 
-**Lộ trình đào tạo (3 Module):**
+**Lộ trình đào tạo (4 môn học):**
 
-* **Module 1: Nền tảng Phân tích cơ bản (Fundamental Analysis Level 1):**  
-  * Tư duy Top-down và Bottom-up trong phân tích.  
-  * Phân tích Vĩ mô ứng dụng: Tác động của lãi suất, tỷ giá, lạm phát... đến thị trường.  
-  * Phân tích Ngành: Chuỗi giá trị, mô hình 5 áp lực cạnh tranh.  
-  * Đọc và "bóc tách" Báo cáo tài chính: Hiểu sức khỏe tài chính và phát hiện các dấu hiệu bất thường.  
-* **Module 2: Phân tích chuyên sâu & Định giá Doanh nghiệp:**  
-  * Phân tích chất lượng lợi nhuận, dòng tiền và các chỉ số tài chính nâng cao (ROE, Dupont...).  
-  * Kỹ năng dự phóng tài chính (Financial Projection).  
-  * Thực hành định giá cổ phiếu qua các phương pháp tương đối (P/E, P/B) và tuyệt đối (DCF).  
-* **Module 3: Hoàn thiện Báo cáo Phân tích & Bảo vệ luận điểm:**  
-  * Học cấu trúc và văn phong của một báo cáo phân tích chuyên nghiệp.  
-  * Thực hành viết Báo cáo khuyến nghị (Recommendation Report) hoàn chỉnh.  
-  * Trình bày và bảo vệ luận điểm đầu tư (Investment Thesis) trước Mentor.
+* **Môn 1: Phân tích cơ bản Level 1** — Giảng viên: Tiền Quốc Việt (Trưởng phòng Phân tích):
+  * Nền tảng kiến thức cơ bản và quy trình phân tích Top-down.
+  * Phân tích kinh tế vĩ mô ứng dụng.
+  * Phân tích ngành — chuỗi giá trị và mô hình kinh doanh.
+  * Đọc hiểu bộ ba báo cáo tài chính, xác định cơ hội đầu tư và định giá cổ phiếu.
+  * Thực hành phân tích Top-down trên mã cổ phiếu thực tế.
+  * Kiểm tra tổng kết môn.
+* **Môn 2: Phân tích cơ bản Level 2** — Giảng viên: Tiền Quốc Việt:
+  * Phân tích vĩ mô và triển vọng ngành 2025.
+  * Phân tích chuyên sâu Báo cáo kết quả kinh doanh, Bảng cân đối kế toán (4 bài).
+  * Phân tích chất lượng lợi nhuận và các chỉ số tài chính nâng cao (ROE/Dupont).
+  * Kiểm tra tổng kết môn.
+* **Môn 3: Phân tích kỹ thuật Level 1** — Giảng viên: Trương Thái Đạt (Tổng Giám đốc):
+  * Đọc vị nến, nhận biết xu hướng, xác định kháng cự/hỗ trợ.
+  * Sử dụng chỉ báo kỹ thuật và đọc vị khối lượng giao dịch.
+  * Kết hợp các công cụ chỉ báo kỹ thuật trong thực chiến.
+  * Kiểm tra tổng kết môn.
+* **Môn 4: Thực hành viết Báo cáo Phân tích** — Mentor CFA trực tiếp hướng dẫn và đánh giá:
+  * Viết Báo cáo phân tích doanh nghiệp theo format chuẩn công ty chứng khoán.
+  * Viết Báo cáo cập nhật kết quả kinh doanh.
+  * Sản phẩm hoàn chỉnh đưa vào CV khi ứng tuyển Research Analyst.
+* **Chứng chỉ hoàn thành khóa học:** Xác nhận năng lực thực chiến sau khi hoàn thành toàn bộ 4 môn.
 
 **Đối tượng phù hợp:**
 

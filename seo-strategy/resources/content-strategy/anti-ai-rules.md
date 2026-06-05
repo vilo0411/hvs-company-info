@@ -57,6 +57,8 @@ FORBIDDEN_PATTERNS:
   - generic_source: '"Các chuyên gia" | "Nhiều người"' → dùng tên tổ chức cụ thể
   - formula_latex: 'tránh dùng công thức dạng LaTeX ($$ hoặc $) gây lỗi định dạng khi chuyển sang Google Docs, thay bằng blockquote in đậm'
   - hvs_tai_chinh_so_sai_lech: 'mô tả HVS Tài chính số là công cụ theo dõi số liệu/bộ lọc tài chính tự động (thực tế: HVS Tài chính số là nền tảng đào tạo trực tuyến với các lộ trình thực chiến toàn diện)'
+  - hvs_product_hierarchy_sai: 'giới thiệu HVS Thực tập số như sản phẩm riêng biệt ngang hàng HVS Tài chính số — thực tế HVS Thực tập số là chương trình/lộ trình đào tạo NẰM TRONG nền tảng HVS Tài chính số; HVS Demo và HVS Forum là công cụ hỗ trợ/bổ trợ, không phải sản phẩm đào tạo chính'
+  - hvs_dao_tao_sai_lech: 'trình bày HVS Tài chính số / HVS Thực tập số dạy các thủ tục hành chính, biểu mẫu, cách tính thuế phí cụ thể hoặc quản trị danh mục nâng cao cho người mới bắt đầu (thực tế: tập trung đào tạo kiến thức đầu tư cốt lõi FA LV1 và TA LV1 giúp tự phân tích)'
 ```
 
 ### TIER 2 — Hạn chế (tối đa 1 lần/bài)
@@ -151,6 +153,7 @@ REQUIRED:
 5. **Introduction Pacing:** Tránh dùng tiêu đề khẳng định "Ưu điểm/Lợi ích khi học tại..." ngay khi người dùng chưa biết thương hiệu là ai. -> Thay bằng tiêu đề dẫn dắt: "Học đầu tư bài bản cùng...", "Giải pháp đầu tư thực chiến...".
 6. **Logical Heading Coherence:** Đảm bảo sự liên kết chặt chẽ giữa các đối tượng trong tiêu đề. Nếu đoạn trên nói về Graham, đoạn dưới nói về Buffett, tiêu đề phải thể hiện được sự kế thừa hoặc mối quan hệ giữa hai người.
 7. **Problem-Solution Product Bridge:** Tuyệt đối không giới thiệu sản phẩm HVS một cách hời hợt. BẮT BUỘC nêu bật vấn đề/thách thức/nỗi đau mà người đọc đang gặp phải trước khi đưa ra giải pháp từ HVS.
+8. **HVS Educational Scope Coherence:** Tránh giới thiệu HVS Tài chính số / HVS Thực tập số như thể hướng dẫn các thủ tục hành chính, cách tính thuế phí hay quản trị danh mục chi tiết (đối với F0) — nền tảng này tập trung đào tạo kiến thức đầu tư nền tảng như Phân tích cơ bản FA Level 1 và Phân tích kỹ thuật TA Level 1 để giúp người học có năng lực tự phân tích.
 
 ---
 
@@ -183,6 +186,11 @@ REQUIRED:
 - [2026-05-29]: Cập nhật từ "Xây dựng" feedback: Đồng bộ hóa cấu trúc danh mục 5 mã cổ phiếu tiêu biểu (CTD, HBC, VCG, HHV, LCG), triệt tiêu thuật từ học thuật cấm "Phân rã", rút ngắn H1 tối ưu chuẩn SEO (< 65 ký tự) kết hợp định hình kịch bản biến động dòng tiền hoạt động CFO thực tế.
 - [2026-05-29]: Cập nhật từ "Xuất nhập khẩu" feedback: Đồng bộ hóa cấu trúc danh mục Top 4 mã cổ phiếu tiềm năng (VHC, TNG, PTB, ANV) thành dạng H3 chi tiết, triệt tiêu sáo ngữ H1 "Hướng dẫn", và loại bỏ hoàn toàn mô hình tiêu đề H2 lặp lại "3 chất xúc tác" thành chuyên sâu theo ngành thực tế.
 - [2026-06-02]: Cập nhật từ "Richard Donchian" và "CANSLIM" feedback: Cấm dấu ngoặc kép nhấn mạnh ở tiêu đề; cấm các từ sáo rỗng "Nghệ thuật săn tìm", "Chữ cái vàng", "Giải mã" ở tiêu đề; đính chính định nghĩa HVS Tài chính số là nền tảng đào tạo trực tuyến chứ không phải công cụ theo dõi số liệu tài chính.
+- [2026-06-04]: Cập nhật từ "đầu tư thụ động" và "đầu tư chủ động" Revision Log (v1.3): Thêm rule hvs_product_hierarchy_sai — HVS Thực tập số là chương trình NẰM TRONG HVS Tài chính số, không phải sản phẩm độc lập; HVS Demo và HVS Forum là công cụ bổ trợ. User đã sửa lại nhiều lần vì AI thường trình bày 4 sản phẩm như ngang hàng nhau.
+- [2026-06-04]: Cập nhật từ "hợp đồng mở tài khoản chứng khoán" Revision Log (v1.4): Đính chính HVS Tài chính số tập trung đào tạo kiến thức đầu tư (FA/TA) giúp nâng cao năng lực phân tích tự đọc hiểu pháp lý chứ không hướng dẫn đọc hiểu biểu mẫu hành chính cụ thể; HVS Forum gỡ rối vướng mắc pháp lý cụ thể của các công ty chứng khoán.
+- [2026-06-04]: Cập nhật từ "mở tài khoản chứng khoán có mất phí không" Revision Log (v1.3): Đính chính phạm vi đào tạo của HVS Tài chính số (tập trung vào FA LV1 và TA LV1), cấm viết sai lệch rằng HVS Tài chính số trực tiếp hướng dẫn tính thuế phí hay quản trị danh mục cho F0.
+- [2026-06-05]: Cập nhật từ "bán giải chấp cổ phiếu là gì" Revision Log (v1.1): Chuẩn hóa quy trình 3 bước Force Sell theo SERP ACBS/VFS, áp dụng cơ chế khớp lệnh thực tế sàn HOSE/HNX (lệnh MP, MTL, ATO/ATC), hiển thị công thức tính tiền nạp thêm/bán cổ phiếu bằng blockquote in đậm và đồng bộ HVS product hierarchy.
+
 
 
 

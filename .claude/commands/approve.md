@@ -53,5 +53,7 @@ User đã duyệt. Tự xác định file đang làm việc và Pipeline_Mode, t
    - Cập nhật count ✅ trong cluster header và summary header
 6. Cập nhật `seo-strategy/content-plan/sprint-backlog.md` (nếu tồn tại):
    - Xóa bài vừa finalize nếu có trong backlog
-7. **Content Feedback Loop**: nếu file có Revision Log → chạy `.antigravity/skills/content-feedback-loop/SKILL.md` → đề xuất cập nhật `anti-ai-rules.md` nếu phát hiện pattern mới
+7. **Learning** — nếu Outline hoặc Draft có Revision Log (kiểm tra cả file Outline đã đọc ở bước 1 nếu Express mode):
+   - **Content Feedback Loop**: chạy `.antigravity/skills/content-feedback-loop/SKILL.md` → cập nhật `anti-ai-rules.md` + `anti-ai-digest.md` nếu phát hiện pattern mới
+   - **Brand Guardian Mode C**: chạy `.antigravity/agents/brand-guardian.md` Mode C → đề xuất cập nhật `glossary.md` / `hvs-profile.md` / `financial-logic.md` → chờ xác nhận trước khi ghi
 8. Báo cáo: keyword | word count | file path | các file đã cập nhật

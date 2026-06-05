@@ -18,16 +18,19 @@
 * **Chứng chỉ hoàn thành khóa học từ HVS:** Xác nhận năng lực toàn diện về kiến thức, kinh nghiệm thực hành và hiệu quả đầu tư mô phỏng – một "tấm vé ưu tiên" khi ứng tuyển.  
 * **Tư duy đầu tư toàn diện:** Không chỉ học PTKT, học viên còn được trang bị kiến thức về vĩ mô, phân tích ngành và đọc hiểu báo cáo tài chính cơ bản.
 
-**Lộ trình đào tạo (4 Module):**
+**Lộ trình đào tạo (8 môn học):** Toàn bộ giảng viên: Trương Thái Đạt (Tổng Giám đốc HVS)
 
-* **Module 1: Phân tích kỹ thuật Level 1 – Nền tảng:**  
-  * Nến & mô hình nến, Xu hướng, Hỗ trợ/Kháng cự, Chỉ báo cơ bản (RSI, MACD, MA).  
-* **Module 2: Phân tích kỹ thuật Level 2 – Nâng cao:**  
-  * Mẫu hình giá, Tích lũy/Phân phối, Chỉ báo nâng cao, Quản trị rủi ro.  
-* **Module 3: Kiến thức bổ trợ – Tư duy toàn diện:**  
-  * Phân tích Vĩ mô, Phân tích Ngành, Đọc hiểu Báo cáo tài chính cơ bản.  
-* **Module 4: Thực hành Trading Demo:**  
-  * Giao dịch trên tài khoản mô phỏng, quản lý danh mục và nhận đánh giá trực tiếp từ Mentor.
+* **Môn 1: Giao dịch cơ bản** — Video hướng dẫn + bài tập thực hành đặt lệnh giao dịch.
+* **Môn 2: Sử dụng đồ thị phân tích kỹ thuật** — Video + thực hành đọc đồ thị trên nền tảng thực tế.
+* **Môn 3: Phân tích kỹ thuật (Level 1 & Level 2)** — Môn cốt lõi, 13 video + 13 bài ôn tập + 2 kiểm tra:
+  * *Level 1:* Tầm quan trọng PTKT, đọc vị nến, nhận biết xu hướng, xác định kháng cự/hỗ trợ, sử dụng chỉ báo kỹ thuật, đọc vị khối lượng giao dịch, kết hợp các công cụ chỉ báo → Kiểm tra giữa môn.
+  * *Level 2:* Mẫu hình giá, phân tích tích lũy, chỉ báo kỹ thuật nâng cao, phân tích liên thị trường, lựa chọn danh mục đầu tư, quản trị rủi ro → Kiểm tra tổng kết.
+* **Môn 4: Cấu trúc thị trường** — Video + bài tập thực hành phân tích cấu trúc thị trường.
+* **Môn 5: Mua bán theo sóng** — Video + thực hành xác định điểm vào/ra theo sóng thị trường.
+* **Môn 6: Lập kế hoạch giao dịch** — Video + thực hành xây dựng Trading Plan hoàn chỉnh.
+* **Môn 7: Viết báo cáo Full Report** — Video hướng dẫn + thực hành viết Báo cáo chiến lược thị trường theo format chuẩn.
+* **Môn 8: Giao dịch thực chiến** — Thực hành xây dựng và quản lý danh mục đầu tư trên nền tảng giao dịch mô phỏng của HVS, được Mentor đánh giá trực tiếp.
+* **Chứng chỉ hoàn thành khóa học:** Xác nhận năng lực thực chiến sau khi hoàn thành toàn bộ 8 môn.
 
 **Đối tượng phù hợp:**
 

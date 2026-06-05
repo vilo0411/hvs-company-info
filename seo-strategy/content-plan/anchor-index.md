@@ -32,6 +32,7 @@
 | [Final-cach-mua-co-phieu-vhm.md](content/blog/3-finalized/Final-cach-mua-co-phieu-vhm.md) | cách mua cổ phiếu vhm | hướng dẫn mua cổ phiếu VHM, mua cổ phiếu Vinhomes ở đâu, đầu tư cổ phiếu Vinhomes, mã chứng khoán VHM |
 | [Final-cach-mua-co-phieu-techcombank.md](content/blog/3-finalized/Final-cach-mua-co-phieu-techcombank.md) | cách mua cổ phiếu techcombank | hướng dẫn mua cổ phiếu Techcombank, mua cổ phiếu Techcombank ở đâu, đầu tư cổ phiếu Techcombank, mã chứng khoán TCB |
 | [Final-cach-mua-co-phieu-vfs.md](content/blog/3-finalized/Final-cach-mua-co-phieu-vfs.md) | cách mua cổ phiếu VFS | hướng dẫn mua cổ phiếu VFS, mua cổ phiếu VinFast ở đâu, đầu tư cổ phiếu VinFast, mã chứng khoán VFS |
+| [Final-mot-nguoi-duoc-mo-bao-nhieu-tai-khoan-chung-khoan.md](content/blog/3-finalized/Final-mot-nguoi-duoc-mo-bao-nhieu-tai-khoan-chung-khoan.md) | một người được mở bao nhiêu tài khoản chứng khoán | số lượng tài khoản chứng khoán được mở, mở nhiều tài khoản chứng khoán, quy định mở tài khoản chứng khoán |
 
 
 

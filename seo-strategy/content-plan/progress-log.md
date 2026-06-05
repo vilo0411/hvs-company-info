@@ -1,8 +1,8 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 155 bài
-- **Active Pipeline:** 9 items
+- **Published:** 173 bài
+- **Active Pipeline:** 6 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
@@ -12,19 +12,35 @@
 | Keyword | Phase | File | Cập nhật | Action |
 | :--- | :--- | :--- | :--- | :--- |
 | đầu tư etf | Outline | `content/blog/1-outlines/Outline-dau-tu-etf.md` | 2026-05-21 | Cần /write |
-| đầu tư thụ động | Outline | `content/blog/1-outlines/Outline-dau-tu-thu-dong.md` | 2026-06-03 | Cần /write |
-| đầu tư chủ động | Outline | `content/blog/1-outlines/Outline-dau-tu-chu-dong.md` | 2026-06-03 | Cần /write |
-| mở tài khoản chứng khoán có mất phí không? | Outline | `content/blog/1-outlines/Outline-mo-tai-khoan-chung-khoan-co-mat-phi-khong.md` | 2026-06-03 | Cần /write |
-| các loại tài khoản chứng khoán | Outline | `content/blog/1-outlines/Outline-cac-loai-tai-khoan-chung-khoan.md` | 2026-06-03 | Cần /write |
-| hợp đồng mở tài khoản chứng khoán | Outline | `content/blog/1-outlines/Outline-hop-dong-mo-tai-khoan-chung-khoan.md` | 2026-06-03 | Cần /write |
-| Một người được mở bao nhiêu tài khoản chứng khoán | Outline | `content/blog/1-outlines/Outline-mot-nguoi-duoc-mo-bao-nhieu-tai-khoan-chung-khoan.md` | 2026-06-03 | Cần /write |
-| cháy tài khoản chứng khoán là gì | Outline | `content/blog/1-outlines/Outline-chay-tai-khoan-chung-khoan-la-gi.md` | 2026-06-03 | Cần /write |
-| Khóa học phân tích cơ bản | Outline | `content/blog/1-outlines/Outline-khoa-hoc-phan-tich-co-ban.md` | 2026-06-03 | Cần /write |
+| so sánh cổ phiếu và chứng chỉ quỹ đầu tư | Outline | `content/blog/1-outlines/Outline-so-sanh-co-phieu-va-chung-chi-quy-dau-tu.md` | 2026-06-04 | Chờ duyệt |
+| khi nào nên bán cổ phiếu | Outline | `content/blog/1-outlines/Outline-khi-nao-nen-ban-co-phieu.md` | 2026-06-04 | Chờ duyệt |
+| Cổ phiếu trắng bên mua là gì | Outline | `content/blog/1-outlines/Outline-co-phieu-trang-ben-mua-la-gi.md` | 2026-06-04 | Chờ duyệt |
+| so sánh cổ phiếu thường và cổ phiếu ưu đãi | Outline | `content/blog/1-outlines/Outline-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md` | 2026-06-04 | Chờ duyệt |
+| trả cổ tức bằng cổ phiếu là gì | Outline | `content/blog/1-outlines/Outline-tra-co-tuc-bang-co-phieu-la-gi.md` | 2026-06-04 | Chờ duyệt |
+
 
 ---
 
 ## Publication Log
 
+| 2026-06-05 | Có nên mua cổ phiếu PET | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-pet.md` |
+| 2026-06-05 | bán giải chấp cổ phiếu là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-ban-giai-chap-co-phieu-la-gi.md` |
+| 2026-06-04 | Khóa học phân tích kỹ thuật | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-khoa-hoc-phan-tich-ky-thuat.md` |
+| 2026-06-04 | Có nên mua cổ phiếu HPG | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-hpg.md` |
+| 2026-06-04 | Có nên mua cổ phiếu PLX | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-plx.md` |
+| 2026-06-04 | có nên mua cổ phiếu dig | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-dig.md` |
+| 2026-06-04 | Có nên mua cổ phiếu HAG | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-hag.md` |
+| 2026-06-04 | Có nên mua cổ phiếu TCB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-tcb.md` |
+| 2026-06-04 | Có nên mua cổ phiếu SCR | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-scr.md` |
+| 2026-06-04 | Có nên mua cổ phiếu GAS | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-gas.md` |
+| 2026-06-04 | Một người được mở bao nhiêu tài khoản chứng khoán | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-mot-nguoi-duoc-mo-bao-nhieu-tai-khoan-chung-khoan.md` |
+| 2026-06-04 | mở tài khoản chứng khoán có mất phí không? | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-mo-tai-khoan-chung-khoan-co-mat-phi-khong.md` |
+| 2026-06-04 | Khóa học phân tích cơ bản | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-khoa-hoc-phan-tich-co-ban.md` |
+| 2026-06-04 | hợp đồng mở tài khoản chứng khoán | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-hop-dong-mo-tai-khoan-chung-khoan.md` |
+| 2026-06-04 | đầu tư thụ động | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-dau-tu-thu-dong.md` |
+| 2026-06-04 | đầu tư chủ động | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-dau-tu-chu-dong.md` |
+| 2026-06-04 | cháy tài khoản chứng khoán là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-chay-tai-khoan-chung-khoan-la-gi.md` |
+| 2026-06-04 | các loại tài khoản chứng khoán | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cac-loai-tai-khoan-chung-khoan.md` |
 | 2026-06-03 | phương pháp top down | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-phuong-phap-top-down.md` |
 | 2026-06-03 | phương pháp canslim | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-phuong-phap-canslim.md` |
 | 2026-06-03 | sách về đầu tư giá trị | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-sach-ve-dau-tu-gia-tri.md` |

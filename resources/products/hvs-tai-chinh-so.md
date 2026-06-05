@@ -10,18 +10,22 @@ HVS Tài Chính Số là nền tảng đào tạo trực tuyến, cung cấp ki�
 
 ## **Chương trình đào tạo**
 
-### **1\. Đầu tư chứng khoán — Lộ trình thực chiến toàn diện**
+### **1\. HVS Thực Tập Số — Chương trình đào tạo nghề chuyên sâu (cốt lõi)**
 
-Đây là chương trình cốt lõi của HVS Tài Chính Số, được thiết kế theo lộ trình bài bản từ nền tảng đến nâng cao:
+Đây là chương trình cốt lõi của HVS Tài Chính Số, mô phỏng môi trường làm việc thực tế tại công ty chứng khoán. Học viên chọn 1 trong 2 lộ trình nghề nghiệp:
 
-* **Học có lộ trình:** Nội dung được hệ thống hóa, giúp người mới bắt đầu dễ dàng tiếp cận và phát triển kiến thức một cách vững chắc.  
-* **Mentor đồng hành 1-1:** Chuyên gia hướng dẫn trực tiếp, hỗ trợ định hướng tư duy phân tích và xây dựng chiến lược đầu tư trong suốt quá trình học.  
-* **Thực hành Demo Trading:** Trải nghiệm giao dịch trên tài khoản mô phỏng thị trường thật để rèn luyện kỹ năng phân tích, quản lý vốn mà không chịu rủi ro tài chính.  
-* **Theo dõi và quản lý danh mục:** Học viên được hướng dẫn cách xây dựng, vận hành và đánh giá danh mục đầu tư theo chuẩn mực chuyên nghiệp.
+* **Lộ trình Nhà Phân Tích Chứng Khoán** — 4 môn học + chứng chỉ:
+  * Phân tích cơ bản Level 1 (Top-down, vĩ mô, ngành, BCTC, định giá) — Giảng viên: Tiền Quốc Việt (Trưởng phòng Phân tích, CFA)
+  * Phân tích cơ bản Level 2 (phân tích chuyên sâu BCTC, triển vọng ngành) — Giảng viên: Tiền Quốc Việt
+  * Phân tích kỹ thuật Level 1 (nến, xu hướng, kháng cự/hỗ trợ, chỉ báo, khối lượng) — Giảng viên: Trương Thái Đạt (Tổng Giám đốc)
+  * Thực hành viết Báo cáo Phân tích theo format chuẩn công ty chứng khoán — Mentor CFA chấm điểm trực tiếp
+
+* **Lộ trình Nhà Tư Vấn Chứng Khoán** — 8 môn học + chứng chỉ (toàn bộ giảng viên: Trương Thái Đạt):
+  * Giao dịch cơ bản → Sử dụng đồ thị PTKT → Phân tích kỹ thuật (Level 1 + Level 2) → Cấu trúc thị trường → Mua bán theo sóng → Lập kế hoạch giao dịch → Viết báo cáo Full Report → Giao dịch thực chiến (trên nền tảng mô phỏng)
 
 ### **2\. Các khóa học bổ trợ**
 
-Bên cạnh chương trình về chứng khoán, HVS Tài Chính Số còn cung cấp các khóa học kỹ năng nghề nghiệp như:
+Bên cạnh HVS Thực Tập Số, HVS Tài Chính Số còn cung cấp các khóa học kỹ năng nghề nghiệp:
 
 * Excel ứng dụng trong tài chính  
 * Nghiệp vụ ngân hàng  

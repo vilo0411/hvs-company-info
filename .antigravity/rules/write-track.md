@@ -72,6 +72,7 @@ Main Agent thực hiện vai trò "Bộ não":
     - Nếu fail về word count: bổ sung nội dung cụ thể vào đúng section thiếu.
     - Chỉ khi đạt trạng thái `PASSED`, bài viết mới được trình bày cho User.
 - **Outline Retention Rule (BẮT BUỘC):** Luôn giữ nguyên file Outline tại `content/blog/1-outlines/Outline-[slug].md` trong suốt các giai đoạn Draft và User Review. KHÔNG được xóa Outline trước khi bài viết được chuyển sang trạng thái Finalized để làm gốc đối chiếu từ cho script `wordcount.py`.
+- **Bảo toàn Revision Log (BẮT BUỘC):** Khi chuyển đổi/viết từ Outline sang Draft, Agent BẮT BUỘC phải sao chép phần `## Revision Log` (hoặc `## Nhật ký chỉnh sửa (Revision Log)`) từ Outline sang cuối file Draft để tiếp tục lưu vết và kích hoạt learning feedback loop sau này.
 4.  **Lưu file:** `content/blog/2-user-review/Draft-[slug].md`.
 
 ---
