@@ -1,8 +1,8 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 173 bài
-- **Active Pipeline:** 6 items
+- **Published:** 178 bài
+- **Active Pipeline:** 1 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
@@ -12,17 +12,17 @@
 | Keyword | Phase | File | Cập nhật | Action |
 | :--- | :--- | :--- | :--- | :--- |
 | đầu tư etf | Outline | `content/blog/1-outlines/Outline-dau-tu-etf.md` | 2026-05-21 | Cần /write |
-| so sánh cổ phiếu và chứng chỉ quỹ đầu tư | Outline | `content/blog/1-outlines/Outline-so-sanh-co-phieu-va-chung-chi-quy-dau-tu.md` | 2026-06-04 | Chờ duyệt |
-| khi nào nên bán cổ phiếu | Outline | `content/blog/1-outlines/Outline-khi-nao-nen-ban-co-phieu.md` | 2026-06-04 | Chờ duyệt |
-| Cổ phiếu trắng bên mua là gì | Outline | `content/blog/1-outlines/Outline-co-phieu-trang-ben-mua-la-gi.md` | 2026-06-04 | Chờ duyệt |
-| so sánh cổ phiếu thường và cổ phiếu ưu đãi | Outline | `content/blog/1-outlines/Outline-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md` | 2026-06-04 | Chờ duyệt |
-| trả cổ tức bằng cổ phiếu là gì | Outline | `content/blog/1-outlines/Outline-tra-co-tuc-bang-co-phieu-la-gi.md` | 2026-06-04 | Chờ duyệt |
 
 
 ---
 
 ## Publication Log
 
+| 2026-06-08 | so sánh cổ phiếu thường và cổ phiếu ưu đãi | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md` |
+| 2026-06-08 | so sánh cổ phiếu và chứng chỉ quỹ đầu tư | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-so-sanh-co-phieu-va-chung-chi-quy-dau-tu.md` |
+| 2026-06-08 | trả cổ tức bằng cổ phiếu là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-tra-co-tuc-bang-co-phieu-la-gi.md` |
+| 2026-06-08 | khi nào nên bán cổ phiếu | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-khi-nao-nen-ban-co-phieu.md` |
+| 2026-06-08 | Cổ phiếu trắng bên mua là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-trang-ben-mua-la-gi.md` |
 | 2026-06-05 | Có nên mua cổ phiếu PET | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-pet.md` |
 | 2026-06-05 | bán giải chấp cổ phiếu là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-ban-giai-chap-co-phieu-la-gi.md` |
 | 2026-06-04 | Khóa học phân tích kỹ thuật | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-khoa-hoc-phan-tich-ky-thuat.md` |

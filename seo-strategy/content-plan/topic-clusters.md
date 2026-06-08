@@ -1,6 +1,6 @@
 # Topic Clusters — HVS SEO Content Map
-> Cập nhật: 2026-06-05 | Nguồn: keyword-hvs.csv (491 articles)
-> ✅ Published: 174 | 🔄 In Progress: 6 | ⭕ Planned: 323
+> Cập nhật: 2026-06-08 | Nguồn: keyword-hvs.csv (491 articles)
+> ✅ Published: 179 | 🔄 In Progress: 1 | ⭕ Planned: 323
 
 ---
 
@@ -122,7 +122,7 @@
 - ⭕ Có nên mua cổ phiếu MWG *(Planned)*
 - ⭕ Có nên mua cổ phiếu SBT *(Planned)*
 
-### Cluster: Cổ phiếu (25 articles | ✅ 10 | 🔄 5 | ⭕ 10)
+### Cluster: Cổ phiếu (25 articles | ✅ 14 | 🔄 1 | ⭕ 10)
 
 **Pillar:** ✅ Cổ tức là gì *(Published — Final-co-tuc-la-gi.md)*
 
@@ -130,13 +130,13 @@
 - ✅ Cổ phiếu OTC là gì *(Published — Final-co-phieu-otc-la-gi.md)*
 - ✅ cổ phiếu là gì *(Published — Final-co-phieu-la-gi.md)*
 - ✅ cổ phiếu lô lẻ là gì *(Published — Final-co-phieu-lo-le-la-gi.md)*
-- 🔄 so sánh cổ phiếu và chứng chỉ quỹ đầu tư *(In Progress — Outline-so-sanh-co-phieu-va-chung-chi-quy-dau-tu.md)*
+- ✅ so sánh cổ phiếu và chứng chỉ quỹ đầu tư *(Published — Final-so-sanh-co-phieu-va-chung-chi-quy-dau-tu.md)*
 - ✅ bán giải chấp cổ phiếu là gì *(Published — Final-ban-giai-chap-co-phieu-la-gi.md)*
-- 🔄 khi nào nên bán cổ phiếu *(In Progress — Outline-khi-nao-nen-ban-co-phieu.md)*
+- ✅ khi nào nên bán cổ phiếu *(Published — Final-khi-nao-nen-ban-co-phieu.md)*
 - ✅ nên đầu tư cổ phiếu nào *(Published — Final-nen-dau-tu-co-phieu-nao.md)*
-- 🔄 Cổ phiếu trắng bên mua là gì *(In Progress — Outline-co-phieu-trang-ben-mua-la-gi.md)*
-- 🔄 so sánh cổ phiếu thường và cổ phiếu ưu đãi *(In Progress — Outline-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md)*
-- 🔄 trả cổ tức bằng cổ phiếu là gì *(In Progress — Outline-tra-co-tuc-bang-co-phieu-la-gi.md)*
+- ✅ Cổ phiếu trắng bên mua là gì *(Published — Final-co-phieu-trang-ben-mua-la-gi.md)*
+- ✅ so sánh cổ phiếu thường và cổ phiếu ưu đãi *(Published — Final-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md)*
+- ✅ trả cổ tức bằng cổ phiếu là gì *(Published — Final-tra-co-tuc-bang-co-phieu-la-gi.md)*
 - ⭕ cổ phiếu trụ là gì *(Planned)*
 - ⭕ thị giá cổ phiếu là gì *(Planned)*
 - ⭕ cổ phiếu bị hủy niêm yết *(Planned)*

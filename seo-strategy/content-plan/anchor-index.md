@@ -33,7 +33,9 @@
 | [Final-cach-mua-co-phieu-techcombank.md](content/blog/3-finalized/Final-cach-mua-co-phieu-techcombank.md) | cách mua cổ phiếu techcombank | hướng dẫn mua cổ phiếu Techcombank, mua cổ phiếu Techcombank ở đâu, đầu tư cổ phiếu Techcombank, mã chứng khoán TCB |
 | [Final-cach-mua-co-phieu-vfs.md](content/blog/3-finalized/Final-cach-mua-co-phieu-vfs.md) | cách mua cổ phiếu VFS | hướng dẫn mua cổ phiếu VFS, mua cổ phiếu VinFast ở đâu, đầu tư cổ phiếu VinFast, mã chứng khoán VFS |
 | [Final-mot-nguoi-duoc-mo-bao-nhieu-tai-khoan-chung-khoan.md](content/blog/3-finalized/Final-mot-nguoi-duoc-mo-bao-nhieu-tai-khoan-chung-khoan.md) | một người được mở bao nhiêu tài khoản chứng khoán | số lượng tài khoản chứng khoán được mở, mở nhiều tài khoản chứng khoán, quy định mở tài khoản chứng khoán |
-
+| [Final-co-phieu-trang-ben-mua-la-gi.md](content/blog/3-finalized/Final-co-phieu-trang-ben-mua-la-gi.md) | cổ phiếu trắng bên mua là gì | trắng bên mua, múa bên trăng là gì, cổ phiếu trắng bên mua, trắng bên mua chứng khoán |
+| [Final-so-sanh-co-phieu-va-chung-chi-quy-dau-tu.md](content/blog/3-finalized/Final-so-sanh-co-phieu-va-chung-chi-quy-dau-tu.md) | so sánh cổ phiếu và chứng chỉ quỹ đầu tư | phân biệt cổ phiếu và chứng chỉ quỹ, so sánh cổ phiếu và chứng chỉ quỹ, nên mua cổ phiếu hay chứng chỉ quỹ, sự khác nhau giữa cổ phiếu và chứng chỉ quỹ |
+| [Final-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md](content/blog/3-finalized/Final-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md) | so sánh cổ phiếu thường và cổ phiếu ưu đãi | phân biệt cổ phiếu thường và cổ phiếu ưu đãi, so sánh cổ phiếu phổ thông và cổ phiếu ưu đãi, cổ phiếu thường và cổ phiếu ưu đãi khác nhau như thế nào, cổ phiếu ưu đãi là gì |
 
 
 
