@@ -32,3 +32,11 @@ Sản phẩm HVS không được xuất hiện như một lời quảng cáo nga
 2.  Khuyên mua đuổi (FOMO) khi giá đã tăng nóng.
 3.  Sử dụng các nguồn tin đồn, "phím hàng" không có căn cứ.
 4.  Bỏ qua yếu tố thanh khoản (Liquidity) khi tư vấn về các mã vốn hóa nhỏ.
+
+## 6. Nguyên tắc phi khuyến nghị đầu tư (Non-recommendation & Disclaimer)
+Mọi bài viết phân tích cổ phiếu cụ thể (đặc biệt là chuỗi bài "Có nên mua...") **tuyệt đối không phải là khuyến nghị mua/bán hay tư vấn đầu tư tài chính**. 
+*   **Mục tiêu bài viết:** Cung cấp thông tin khách quan, hướng dẫn tư duy phân tích (đọc hiểu các chỉ số tài chính, phân tích kỹ thuật cơ bản) và xây dựng kịch bản giả lập để người đọc tự đưa ra quyết định hoặc thực hành trên HVS Demo.
+*   **Yêu cầu về từ ngữ:** Tránh dùng các từ ngữ khẳng định mang tính hô hào, thúc giục mua/bán như "hãy mua ngay", "khuyên bạn nên giải ngân", "điểm mua tuyệt đẹp". Thay vào đó, hãy dùng ngôn từ khách quan phân tích như: "theo kịch bản này, vùng giá hỗ trợ có thể là điểm để nhà đầu tư cân nhắc đưa vào danh mục theo dõi...", "chiến lược giả định...", "kế hoạch giao dịch tham khảo...".
+*   **Bắt buộc có Disclaimer tiêu chuẩn ở cuối bài:** 
+    > **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
+

@@ -36,6 +36,8 @@
 | [Final-co-phieu-trang-ben-mua-la-gi.md](content/blog/3-finalized/Final-co-phieu-trang-ben-mua-la-gi.md) | cổ phiếu trắng bên mua là gì | trắng bên mua, múa bên trăng là gì, cổ phiếu trắng bên mua, trắng bên mua chứng khoán |
 | [Final-so-sanh-co-phieu-va-chung-chi-quy-dau-tu.md](content/blog/3-finalized/Final-so-sanh-co-phieu-va-chung-chi-quy-dau-tu.md) | so sánh cổ phiếu và chứng chỉ quỹ đầu tư | phân biệt cổ phiếu và chứng chỉ quỹ, so sánh cổ phiếu và chứng chỉ quỹ, nên mua cổ phiếu hay chứng chỉ quỹ, sự khác nhau giữa cổ phiếu và chứng chỉ quỹ |
 | [Final-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md](content/blog/3-finalized/Final-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md) | so sánh cổ phiếu thường và cổ phiếu ưu đãi | phân biệt cổ phiếu thường và cổ phiếu ưu đãi, so sánh cổ phiếu phổ thông và cổ phiếu ưu đãi, cổ phiếu thường và cổ phiếu ưu đãi khác nhau như thế nào, cổ phiếu ưu đãi là gì |
+| [Final-bong-bong-dotcom-la-gi.md](content/blog/3-finalized/Final-bong-bong-dotcom-la-gi.md) | bong bóng dotcom là gì | khủng hoảng dotcom là gì, dotcom bubble là gì, nguyên nhân bong bóng dotcom, bài học từ bong bóng dotcom |
+
 
 
 

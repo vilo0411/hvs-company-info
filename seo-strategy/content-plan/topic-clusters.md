@@ -1,6 +1,6 @@
 # Topic Clusters — HVS SEO Content Map
 > Cập nhật: 2026-06-08 | Nguồn: keyword-hvs.csv (491 articles)
-> ✅ Published: 179 | 🔄 In Progress: 1 | ⭕ Planned: 323
+> ✅ Published: 205 | 🔄 In Progress: 4 | ⭕ Planned: 284
 
 ---
 
@@ -87,7 +87,7 @@
 - ✅ cách đầu tư chứng khoán phái sinh *(Published — Final-cach-dau-tu-chung-khoan-phai-sinh.md)*
 - ✅ cách đầu tư chứng khoán với số vốn nhỏ *(Published — Final-cach-dau-tu-chung-khoan-voi-so-von-nho.md)*
 
-### Cluster: Có nên mua cổ phiếu (30 articles | ✅ 9 | 🔄 0 | ⭕ 21)
+### Cluster: Có nên mua cổ phiếu (30 articles | ✅ 30 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ Có nên mua cổ phiếu POW *(Published — Final-co-nen-mua-co-phieu-pow.md)*
 
@@ -100,29 +100,29 @@
 - ✅ Có nên mua cổ phiếu SCR *(Published — Final-co-nen-mua-co-phieu-scr.md)*
 - ✅ Có nên mua cổ phiếu GAS *(Published — Final-co-nen-mua-co-phieu-gas.md)*
 - ✅ Có nên mua cổ phiếu PET *(Published — Final-co-nen-mua-co-phieu-pet.md)*
-- ⭕ Có nên mua cổ phiếu PNJ *(Planned)*
-- ⭕ Có nên mua cổ phiếu SSI *(Planned)*
-- ⭕ Có nên mua cổ phiếu VPB *(Planned)*
-- ⭕ Có nên mua cổ phiếu ACB *(Planned)*
-- ⭕ Có nên mua cổ phiếu VJC *(Planned)*
-- ⭕ Có nên mua cổ phiếu TTF *(Planned)*
-- ⭕ Có nên mua cổ phiếu LPB *(Planned)*
-- ⭕ Có nên mua cổ phiếu BID *(Planned)*
-- ⭕ Có nên mua cổ phiếu VIB *(Planned)*
-- ⭕ Có nên mua cổ phiếu MSB *(Planned)*
-- ⭕ Có nên mua cổ phiếu ACV *(Planned)*
-- ⭕ Có nên mua cổ phiếu IDJ *(Planned)*
-- ⭕ Có nên mua cổ phiếu HVN *(Planned)*
-- ⭕ Có nên mua cổ phiếu VCB *(Planned)*
-- ⭕ Có nên mua cổ phiếu DBC *(Planned)*
-- ⭕ Có nên mua cổ phiếu TAR *(Planned)*
-- ⭕ Có nên mua cổ phiếu REE *(Planned)*
-- ⭕ Có nên mua cổ phiếu STB *(Planned)*
-- ⭕ Có nên mua cổ phiếu FRT *(Planned)*
-- ⭕ Có nên mua cổ phiếu MWG *(Planned)*
-- ⭕ Có nên mua cổ phiếu SBT *(Planned)*
+- ✅ Có nên mua cổ phiếu PNJ *(Published — Final-co-nen-mua-co-phieu-pnj.md)*
+- ✅ Có nên mua cổ phiếu SSI *(Published — Final-co-nen-mua-co-phieu-ssi.md)*
+- ✅ Có nên mua cổ phiếu VPB *(Published — Final-co-nen-mua-co-phieu-vpb.md)*
+- ✅ Có nên mua cổ phiếu ACB *(Published — Final-co-nen-mua-co-phieu-acb.md)*
+- ✅ Có nên mua cổ phiếu VJC *(Published — Final-co-nen-mua-co-phieu-vjc.md)*
+- ✅ Có nên mua cổ phiếu TTF *(Published — Final-co-nen-mua-co-phieu-ttf.md)*
+- ✅ Có nên mua cổ phiếu LPB *(Published — Final-co-nen-mua-co-phieu-lpb.md)*
+- ✅ Có nên mua cổ phiếu BID *(Published — Final-co-nen-mua-co-phieu-bid.md)*
+- ✅ Có nên mua cổ phiếu VIB *(Published — Final-co-nen-mua-co-phieu-vib.md)*
+- ✅ Có nên mua cổ phiếu MSB *(Published — Final-co-nen-mua-co-phieu-msb.md)*
+- ✅ Có nên mua cổ phiếu ACV *(Published — Final-co-nen-mua-co-phieu-acv.md)*
+- ✅ Có nên mua cổ phiếu IDJ *(Published — Final-co-nen-mua-co-phieu-idj.md)*
+- ✅ Có nên mua cổ phiếu HVN *(Published — Final-co-nen-mua-co-phieu-hvn.md)*
+- ✅ Có nên mua cổ phiếu VCB *(Published — Final-co-nen-mua-co-phieu-vcb.md)*
+- ✅ Có nên mua cổ phiếu DBC *(Published — Final-co-nen-mua-co-phieu-dbc.md)*
+- ✅ Có nên mua cổ phiếu TAR *(Published — Final-co-nen-mua-co-phieu-tar.md)*
+- ✅ Có nên mua cổ phiếu REE *(Published — Final-co-nen-mua-co-phieu-ree.md)*
+- ✅ Có nên mua cổ phiếu STB *(Published — Final-co-nen-mua-co-phieu-stb.md)*
+- ✅ Có nên mua cổ phiếu FRT *(Published — Final-co-nen-mua-co-phieu-frt.md)*
+- ✅ Có nên mua cổ phiếu MWG *(Published — Final-co-nen-mua-co-phieu-mwg.md)*
+- ✅ Có nên mua cổ phiếu SBT *(Published — Final-co-nen-mua-co-phieu-sbt.md)*
 
-### Cluster: Cổ phiếu (25 articles | ✅ 14 | 🔄 1 | ⭕ 10)
+### Cluster: Cổ phiếu (25 articles | ✅ 22 | 🔄 3 | ⭕ 0)
 
 **Pillar:** ✅ Cổ tức là gì *(Published — Final-co-tuc-la-gi.md)*
 
@@ -137,19 +137,19 @@
 - ✅ Cổ phiếu trắng bên mua là gì *(Published — Final-co-phieu-trang-ben-mua-la-gi.md)*
 - ✅ so sánh cổ phiếu thường và cổ phiếu ưu đãi *(Published — Final-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md)*
 - ✅ trả cổ tức bằng cổ phiếu là gì *(Published — Final-tra-co-tuc-bang-co-phieu-la-gi.md)*
-- ⭕ cổ phiếu trụ là gì *(Planned)*
-- ⭕ thị giá cổ phiếu là gì *(Planned)*
-- ⭕ cổ phiếu bị hủy niêm yết *(Planned)*
-- ⭕ cổ phiếu thưởng là gì *(Planned)*
-- ⭕ cổ phiếu phòng thủ *(Planned)*
-- ⭕ chia tách cổ phiếu là gì *(Planned)*
-- ⭕ cổ phiếu esop là gì *(Planned)*
-- ⭕ pha loãng cổ phiếu là gì *(Planned)*
-- ⭕ cách chọn cổ phiếu tốt *(Planned)*
+- ✅ cổ phiếu trụ là gì *(Published — Final-co-phieu-tru-la-gi.md)*
+- 🔄 thị giá cổ phiếu là gì *(In Progress — Outline-thi-gia-co-phieu-la-gi.md)*
+- ✅ cổ phiếu bị hủy niêm yết *(Published — Final-co-phieu-bi-huy-niem-yet.md)*
+- ✅ cổ phiếu thưởng là gì *(Published — Final-co-phieu-thuong-la-gi.md)*
+- ✅ cổ phiếu phòng thủ *(Published — Final-co-phieu-phong-thu.md)*
+- ✅ chia tách cổ phiếu là gì *(Published — Final-chia-tach-co-phieu-la-gi.md)*
+- ✅ cổ phiếu esop là gì *(Published — Final-co-phieu-esop-la-gi.md)*
+- 🔄 pha loãng cổ phiếu là gì *(In Progress — Outline-pha-loang-co-phieu-la-gi.md)*
+- ✅ cách chọn cổ phiếu tốt *(Published — Final-cach-chon-co-phieu-tot.md)*
 - ✅ Cổ phiếu quỹ là gì *(Published — Final-co-phieu-quy-la-gi.md)*
 - ✅ cổ phiếu ưu đãi là gì *(Published — Final-co-phieu-uu-dai-la-gi.md)*
 - ✅ cổ phiếu penny là gì *(Published — Final-co-phieu-penny-la-gi.md)*
-- ⭕ mid cap là gì *(Planned)*
+- 🔄 mid cap là gì *(In Progress — Outline-mid-cap-la-gi.md)*
 - ✅ blue chip là gì *(Published — Final-co-phieu-blue-chip-la-gi.md)*
 
 ### Cluster: Cổ phiếu ngành (29 articles | ✅ 29 | 🔄 0 | ⭕ 0)
@@ -186,7 +186,7 @@
 - ✅ cổ phiếu ngành hóa chất *(Published — Final-co-phieu-nganh-hoa-chat.md)*
 - ✅ cổ phiếu ngành nông nghiệp *(Published — Final-co-phieu-nganh-nong-nghiep.md)*
 
-### Cluster: Phân tích cơ bản (115 articles | ✅ 7 | 🔄 0 | ⭕ 108)
+### Cluster: Phân tích cơ bản (115 articles | ✅ 9 | 🔄 0 | ⭕ 106)
 
 **Pillar:** ✅ p/e là gì *(Published — Final-p-e-la-gi.md)*
 
@@ -299,14 +299,14 @@
 - ⭕ chi phí cố định *(Planned)*
 - ⭕ chu kỳ có nghĩa là gì *(Planned)*
 - ⭕ bẫy thanh khoản *(Planned)*
-- ⭕ Bong bóng dotcom là gì *(Planned)*
+- ✅ Bong bóng dotcom là gì *(Published — Final-bong-bong-dotcom-la-gi.md)*
 - ⭕ chiến lược thị trường là gì *(Planned)*
 - ⭕ Nợ xấu trong các cổ phiếu ngành ngân hàng *(Planned)*
 - ⭕ chỉ số nim của ngân hàng là gì *(Planned)*
 - ⭕ Mô hình CAPM là gì *(Planned)*
 - ⭕ các chỉ số phân tích báo cáo tài chính *(Planned)*
 
-### Cluster: Phân tích kỹ thuật (113 articles | ✅ 7 | 🔄 0 | ⭕ 106)
+### Cluster: Phân tích kỹ thuật (113 articles | ✅ 9 | 🔄 0 | ⭕ 104)
 
 **Pillar:** ✅ nến búa *(Published — Final-nen-bua.md)*
 
@@ -398,7 +398,7 @@
 - ⭕ pivot point là gì *(Planned)*
 - ⭕ golden cross là gì *(Planned)*
 - ⭕ chỉ báo dmi *(Planned)*
-- ⭕ Phân biệt phân tích cơ bản và phân tích kỹ thuật  *(Planned)*
+- ⭕ Phân biệt phân tích cơ bản và phân tích kỹ thuật *(Planned)*
 - ⭕ Sideway là gì *(Planned)*
 - ⭕ vùng quá mua là gì *(Planned)*
 - ⭕ chỉ báo parabolic sar *(Planned)*
@@ -421,7 +421,7 @@
 - ⭕ buy the dip là gì *(Planned)*
 - ⭕ Đầu tư giá trị là gì *(Planned)*
 - ⭕ quy tắc của Richard Rhodes *(Planned)*
-- ⭕ Đầu tư tăng trưởng là gì *(Planned)*
+- ✅ Đầu tư tăng trưởng là gì *(Published — Final-dau-tu-tang-truong-la-gi.md)*
 - ⭕ copy trade là gì *(Planned)*
 
 ### Cluster: Phương pháp đầu tư (13 articles | ✅ 13 | 🔄 0 | ⭕ 0)
@@ -477,7 +477,7 @@
 - ⭕ chứng chỉ hành nghề chứng khoán *(Planned)*
 - ⭕ chứng chỉ tài chính *(Planned)*
 
-### Cluster: chứng khoán (68 articles | ✅ 14 | 🔄 0 | ⭕ 54)
+### Cluster: chứng khoán (68 articles | ✅ 13 | 🔄 0 | ⭕ 55)
 
 **Pillar:** ✅ ce là gì *(Published — Final-ce-la-gi.md)*
 
@@ -564,7 +564,7 @@
 
 **Priority 1:**
 - ⭕ Đáo hạn phái sinh là gì *(Planned)*
-- ⭕ Hợp đồng tương lai  *(Planned)*
+- ⭕ Hợp đồng tương lai *(Planned)*
 - ⭕ chứng khoán phái sinh là gì *(Planned)*
 - ⭕ chứng khoán cơ sở và chứng khoán phái sinh *(Planned)*
 

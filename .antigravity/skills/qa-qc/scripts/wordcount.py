@@ -70,7 +70,7 @@ def split_into_sections(content: str) -> list[dict]:
                 in_yaml = False
             continue
 
-        if re.match(r'^## ', line):
+        if re.match(r'^#{2,3} ', line):
             if current_heading is not None:
                 sections.append({
                     "heading": current_heading,
@@ -104,10 +104,10 @@ def parse_outline_targets(outline_path: Path) -> dict[str, dict]:
 
     content = outline_path.read_text(encoding='utf-8')
     targets = {}
-    blocks = re.split(r'\n(?=#{2,4} )', content)
+    blocks = re.split(r'\n(?=#{2,5} )', content)
 
     for block in blocks:
-        heading_match = re.match(r'^#{2,4} (.+)', block)
+        heading_match = re.match(r'^#{2,5} (.+)', block)
         if not heading_match:
             continue
         heading = heading_match.group(1).strip()

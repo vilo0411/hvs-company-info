@@ -1,23 +1,53 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 178 bài
-- **Active Pipeline:** 1 items
+- **Published:** 207 bài
+- **Active Pipeline:** 4 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
 
 ## Active Pipeline
 
-| Keyword | Phase | File | Cập nhật | Action |
-| :--- | :--- | :--- | :--- | :--- |
 | đầu tư etf | Outline | `content/blog/1-outlines/Outline-dau-tu-etf.md` | 2026-05-21 | Cần /write |
+| mid cap là gì | Outline | `content/blog/1-outlines/Outline-mid-cap-la-gi.md` | 2026-06-12 | Cần duyệt Outline |
+| pha loãng cổ phiếu là gì | Outline | `content/blog/1-outlines/Outline-pha-loang-co-phieu-la-gi.md` | 2026-06-12 | Cần duyệt Outline |
+| thị giá cổ phiếu là gì | Outline | `content/blog/1-outlines/Outline-thi-gia-co-phieu-la-gi.md` | 2026-06-12 | Cần duyệt Outline |
 
 
 ---
 
 ## Publication Log
 
+| 2026-06-12 | cổ phiếu trụ là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-tru-la-gi.md` |
+| 2026-06-12 | cổ phiếu thưởng là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-thuong-la-gi.md` |
+| 2026-06-12 | cổ phiếu phòng thủ | Antigravity | Express | `content/blog/3-finalized/Final-co-phieu-phong-thu.md` |
+| 2026-06-12 | cổ phiếu esop là gì | Antigravity | Express | `content/blog/3-finalized/Final-co-phieu-esop-la-gi.md` |
+| 2026-06-12 | Bong bóng dotcom là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-bong-bong-dotcom-la-gi.md` |
+| 2026-06-11 | cổ phiếu bị hủy niêm yết | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-bi-huy-niem-yet.md` |
+| 2026-06-11 | chia tách cổ phiếu là gì | Antigravity | Express | `content/blog/3-finalized/Final-chia-tach-co-phieu-la-gi.md` |
+| 2026-06-11 | cách chọn cổ phiếu tốt | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cach-chon-co-phieu-tot.md` |
+| 2026-06-11 | Có nên mua cổ phiếu TTF | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-ttf.md` |
+| 2026-06-11 | Có nên mua cổ phiếu VCB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-vcb.md` |
+| 2026-06-11 | Có nên mua cổ phiếu VIB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-vib.md` |
+| 2026-06-11 | Có nên mua cổ phiếu VJC | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-vjc.md` |
+| 2026-06-11 | Có nên mua cổ phiếu VPB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-vpb.md` |
+| 2026-06-11 | Có nên mua cổ phiếu MSB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-msb.md` |
+| 2026-06-11 | Có nên mua cổ phiếu MWG | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-mwg.md` |
+| 2026-06-11 | Có nên mua cổ phiếu PNJ | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-pnj.md` |
+| 2026-06-11 | Có nên mua cổ phiếu REE | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-ree.md` |
+| 2026-06-11 | Có nên mua cổ phiếu SBT | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-sbt.md` |
+| 2026-06-11 | Có nên mua cổ phiếu SSI | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-ssi.md` |
+| 2026-06-11 | Có nên mua cổ phiếu STB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-stb.md` |
+| 2026-06-11 | Có nên mua cổ phiếu TAR | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-tar.md` |
+| 2026-06-09 | Có nên mua cổ phiếu LPB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-lpb.md` |
+| 2026-06-09 | Có nên mua cổ phiếu IDJ | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-idj.md` |
+| 2026-06-09 | Có nên mua cổ phiếu HVN | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-hvn.md` |
+| 2026-06-09 | Có nên mua cổ phiếu FRT | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-frt.md` |
+| 2026-06-09 | Có nên mua cổ phiếu DBC | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-dbc.md` |
+| 2026-06-09 | Có nên mua cổ phiếu BID | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-bid.md` |
+| 2026-06-09 | Có nên mua cổ phiếu ACV | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-acv.md` |
+| 2026-06-09 | Có nên mua cổ phiếu ACB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-acb.md` |
 | 2026-06-08 | so sánh cổ phiếu thường và cổ phiếu ưu đãi | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md` |
 | 2026-06-08 | so sánh cổ phiếu và chứng chỉ quỹ đầu tư | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-so-sanh-co-phieu-va-chung-chi-quy-dau-tu.md` |
 | 2026-06-08 | trả cổ tức bằng cổ phiếu là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-tra-co-tuc-bang-co-phieu-la-gi.md` |

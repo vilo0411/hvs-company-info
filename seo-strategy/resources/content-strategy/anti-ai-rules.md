@@ -32,6 +32,8 @@ FORBIDDEN_STRINGS:
   - "Bạn đã bao giờ tự hỏi"
   - "HVS Có Thể Giúp Gì"
   - "HVS Đồng Hành Cùng Bạn"
+  - "Định hình phương pháp..."
+  - "Trang bị phương pháp..."
   - "Đánh dấu một bước ngoặt"
   - "Thay đổi cuộc chơi"
   - "Các chuyên gia tin rằng"
@@ -56,6 +58,7 @@ FORBIDDEN_PATTERNS:
   - inline_header: '"**[Từ]:** [Từ đó] giúp..."' → viết thành đoạn văn
   - generic_source: '"Các chuyên gia" | "Nhiều người"' → dùng tên tổ chức cụ thể
   - formula_latex: 'tránh dùng công thức dạng LaTeX ($$ hoặc $) gây lỗi định dạng khi chuyển sang Google Docs, thay bằng blockquote in đậm'
+  - h4_subheadings: 'Sử dụng H4 (####) cho các tiêu đề con bổ trợ để tránh làm gián đoạn việc phân tách khối H2/H3 của công cụ đếm từ wordcount'
   - hvs_tai_chinh_so_sai_lech: 'mô tả HVS Tài chính số là công cụ theo dõi số liệu/bộ lọc tài chính tự động (thực tế: HVS Tài chính số là nền tảng đào tạo trực tuyến với các lộ trình thực chiến toàn diện)'
   - hvs_product_hierarchy_sai: 'giới thiệu HVS Thực tập số như sản phẩm riêng biệt ngang hàng HVS Tài chính số — thực tế HVS Thực tập số là chương trình/lộ trình đào tạo NẰM TRONG nền tảng HVS Tài chính số; HVS Demo và HVS Forum là công cụ hỗ trợ/bổ trợ, không phải sản phẩm đào tạo chính'
   - hvs_dao_tao_sai_lech: 'trình bày HVS Tài chính số / HVS Thực tập số dạy các thủ tục hành chính, biểu mẫu, cách tính thuế phí cụ thể hoặc quản trị danh mục nâng cao cho người mới bắt đầu (thực tế: tập trung đào tạo kiến thức đầu tư cốt lõi FA LV1 và TA LV1 giúp tự phân tích)'
@@ -143,13 +146,13 @@ REQUIRED:
 4. **Rhetorical Questions:** Tránh mở đầu bằng câu hỏi tu từ: "Bạn đã bao giờ tự hỏi...?". -> Đi thẳng vào khẳng định.
 5. **Active Voice Definitions:** Tránh định nghĩa kiểu bị động "Được khởi xướng bởi...", "Được xem là...". -> Thay bằng câu chủ động: "Benjamin Graham đã khởi xướng...", "Nhà đầu tư coi đây là...".
 6. **Formula Formatting for Google Docs:** Tránh sử dụng định dạng LaTeX như `$$` hoặc `$` cho các công thức tài chính. Bản sao lưu/chuyển đổi sang Google Docs sẽ bị lỗi hiển thị. Bắt buộc dùng khối trích dẫn in đậm thuần túy (ví dụ: `> **Công thức = A / B**`).
-
+7. **H4 Subheadings for Supplemental Subsections:** Sử dụng H4 (####) cho các tiêu đề con bổ trợ trong bài viết để tránh làm gián đoạn việc phân chia và đếm số từ của công cụ QA/QC (wordcount) ở cấp H2/H3.
 
 ### D. Communication Patterns (Dấu vết Chatbot)
 1. **Chatbot Artifacts:** "Tôi hy vọng thông tin này hữu ích", "Hãy liên hệ nếu...". -> Xóa bỏ hoàn toàn.
 2. **"Let's" constructions:** "Hãy cùng tìm hiểu", "Chúng ta hãy xem xét". -> Bắt đầu ngay bằng nội dung.
 3. **Generic Conclusions:** "Tương lai vẫn còn ở phía trước", "Chỉ có thời gian mới trả lời". -> Đưa ra một hành động cụ thể cho người đọc.
-4. **Generic Product Headings:** Tuyệt đối không dùng các tiêu đề lặp đi lặp lại như "HVS Có Thể Giúp Gì?", "HVS Đồng Hành Cùng Bạn". -> Thay bằng tiêu đề có tính ngữ cảnh bài viết (Ví dụ: "Làm chủ thao tác mua VCB cùng HVS").
+4. **Generic Product Headings:** Tuyệt đối không dùng các tiêu đề lặp đi lặp lại hoặc sáo rỗng kiểu AI-vibe như "HVS Có Thể Giúp Gì?", "HVS Đồng Hành Cùng Bạn", "Định hình phương pháp...", "Trang bị phương pháp...". -> BẮT BUỘC thay bằng các tiêu đề chuyên môn trực diện, gắn liền với chủ đề phân tích hoặc "nỗi đau" đặc thù của ngành được nói tới trong bài viết (Ví dụ: "Phân tích chu kỳ ngành chăn nuôi cùng HVS Tài chính số", "Làm chủ thao tác mua VCB cùng HVS").
 5. **Introduction Pacing:** Tránh dùng tiêu đề khẳng định "Ưu điểm/Lợi ích khi học tại..." ngay khi người dùng chưa biết thương hiệu là ai. -> Thay bằng tiêu đề dẫn dắt: "Học đầu tư bài bản cùng...", "Giải pháp đầu tư thực chiến...".
 6. **Logical Heading Coherence:** Đảm bảo sự liên kết chặt chẽ giữa các đối tượng trong tiêu đề. Nếu đoạn trên nói về Graham, đoạn dưới nói về Buffett, tiêu đề phải thể hiện được sự kế thừa hoặc mối quan hệ giữa hai người.
 7. **Problem-Solution Product Bridge:** Tuyệt đối không giới thiệu sản phẩm HVS một cách hời hợt. BẮT BUỘC nêu bật vấn đề/thách thức/nỗi đau mà người đọc đang gặp phải trước khi đưa ra giải pháp từ HVS.
@@ -190,7 +193,12 @@ REQUIRED:
 - [2026-06-04]: Cập nhật từ "hợp đồng mở tài khoản chứng khoán" Revision Log (v1.4): Đính chính HVS Tài chính số tập trung đào tạo kiến thức đầu tư (FA/TA) giúp nâng cao năng lực phân tích tự đọc hiểu pháp lý chứ không hướng dẫn đọc hiểu biểu mẫu hành chính cụ thể; HVS Forum gỡ rối vướng mắc pháp lý cụ thể của các công ty chứng khoán.
 - [2026-06-04]: Cập nhật từ "mở tài khoản chứng khoán có mất phí không" Revision Log (v1.3): Đính chính phạm vi đào tạo của HVS Tài chính số (tập trung vào FA LV1 và TA LV1), cấm viết sai lệch rằng HVS Tài chính số trực tiếp hướng dẫn tính thuế phí hay quản trị danh mục cho F0.
 - [2026-06-05]: Cập nhật từ "bán giải chấp cổ phiếu là gì" Revision Log (v1.1): Chuẩn hóa quy trình 3 bước Force Sell theo SERP ACBS/VFS, áp dụng cơ chế khớp lệnh thực tế sàn HOSE/HNX (lệnh MP, MTL, ATO/ATC), hiển thị công thức tính tiền nạp thêm/bán cổ phiếu bằng blockquote in đậm và đồng bộ HVS product hierarchy.
-
+- [2026-06-09]: Cập nhật từ "Có nên mua cổ phiếu BID" Revision Log (v1.1): Làm rõ cơ chế lồng ghép sản phẩm HVS Tài chính số (với chương trình HVS Thực tập số) gắn liền với nỗi đau F0 trong phân tích báo cáo tài chính ngân hàng; gỡ bỏ heading H2 riêng biệt cho Tuyên bố miễn trừ trách nhiệm và tích hợp dạng blockquote in đậm ở cuối bài.
+- [2026-06-09]: Cập nhật từ "Có nên mua cổ phiếu DBC" Revision Log (v1.1): Cấm sử dụng tiêu đề HVS product bridge chung chung/sáo rỗng kiểu AI-vibe ("Định hình...", "Trang bị phương pháp..."). Yêu cầu thay bằng tiêu đề mang tính chuyên môn trực diện, gắn liền với chủ thể phân tích hoặc nỗi đau đặc thù của ngành được phân tích trong bài viết.
+- [2026-06-09]: Cập nhật từ "Có nên mua cổ phiếu HVN" Revision Log (v1.2): Loại bỏ triệt để các danh từ hóa ("sự bùng nổ", "việc ký kết") và chuẩn hóa Tuyên bố miễn trừ trách nhiệm dưới dạng blockquote không heading H2 riêng ở cuối bài.
+- [2026-06-09]: Cập nhật từ "Có nên mua cổ phiếu IDJ" Revision Log (v1.1): Triệt tiêu triệt để các từ cấm "nên"/"cần" và tối ưu hóa mật độ phân bố danh sách/bảng so sánh để tránh sự liền kề của các đoạn văn bản.
+- [2026-06-09]: Cập nhật từ "Có nên mua cổ phiếu LPB" Revision Log (v1.1): Sử dụng định dạng danh sách (bullet list) cho các mục phân tích rủi ro song song để tránh tối đa việc dồn các đoạn văn bản thông thường liền kề nhau.
+- [2026-06-11]: Cập nhật từ "Chia tách cổ phiếu" Revision Log (v1.3): Sử dụng H4 (####) cho các tiêu đề con bổ trợ để tránh làm gián đoạn việc phân tách khối H2/H3 của công cụ đếm từ wordcount.
 
 
 
