@@ -1,29 +1,35 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 207 bài
-- **Active Pipeline:** 4 items
+- **Published:** 217 bài
+- **Active Pipeline:** 0 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
 
 ## Active Pipeline
 
-| đầu tư etf | Outline | `content/blog/1-outlines/Outline-dau-tu-etf.md` | 2026-05-21 | Cần /write |
-| mid cap là gì | Outline | `content/blog/1-outlines/Outline-mid-cap-la-gi.md` | 2026-06-12 | Cần duyệt Outline |
-| pha loãng cổ phiếu là gì | Outline | `content/blog/1-outlines/Outline-pha-loang-co-phieu-la-gi.md` | 2026-06-12 | Cần duyệt Outline |
-| thị giá cổ phiếu là gì | Outline | `content/blog/1-outlines/Outline-thi-gia-co-phieu-la-gi.md` | 2026-06-12 | Cần duyệt Outline |
 
 
 ---
 
 ## Publication Log
 
+| 2026-06-22 | đầu tư chứng khoán có những rủi ro gì | Lan Newbie | Express | `content/blog/3-finalized/Final-dau-tu-chung-khoan-co-nhung-rui-ro-gi.md` |
+| 2026-06-22 | chu kỳ kinh tế là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-chu-ky-kinh-te-la-gi.md` |
+| 2026-06-22 | chi phí cơ hội là gì | Lan Newbie | Detailed | `content/blog/3-finalized/Final-chi-phi-co-hoi-la-gi.md` |
+| 2026-06-18 | chi phí biên là gì | Lan Newbie + Sinh viên kinh tế | Express | `content/blog/3-finalized/Final-chi-phi-bien-la-gi.md` |
+| 2026-06-18 | CASA trong ngành ngân hàng là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-casa-trong-nganh-ngan-hang-la-gi.md` |
+| 2026-06-18 | cạnh tranh hoàn hảo là gì | Sơn Sinh Viên + Lan Newbie | Express | `content/blog/3-finalized/Final-canh-tranh-hoan-hao-la-gi.md` |
+| 2026-06-18 | báo cáo lưu chuyển tiền tệ là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-bao-cao-luu-chuyen-tien-te-la-gi.md` |
+| 2026-06-18 | Bong bóng dotcom là gì | HVS Senior Mentor | Express (SERP-optimized rewrite) | `content/blog/3-finalized/Final-bong-bong-dotcom-la-gi.md` |
+| 2026-06-18 | mid cap là gì | HVS Senior Mentor | Detailed | `content/blog/3-finalized/Final-mid-cap-la-gi.md` |
+| 2026-06-18 | thị giá cổ phiếu là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-thi-gia-co-phieu-la-gi.md` |
+| 2026-06-15 | pha loãng cổ phiếu là gì | Antigravity | Express | `content/blog/3-finalized/Final-pha-loang-co-phieu-la-gi.md` |
 | 2026-06-12 | cổ phiếu trụ là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-tru-la-gi.md` |
 | 2026-06-12 | cổ phiếu thưởng là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-thuong-la-gi.md` |
 | 2026-06-12 | cổ phiếu phòng thủ | Antigravity | Express | `content/blog/3-finalized/Final-co-phieu-phong-thu.md` |
 | 2026-06-12 | cổ phiếu esop là gì | Antigravity | Express | `content/blog/3-finalized/Final-co-phieu-esop-la-gi.md` |
-| 2026-06-12 | Bong bóng dotcom là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-bong-bong-dotcom-la-gi.md` |
 | 2026-06-11 | cổ phiếu bị hủy niêm yết | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-bi-huy-niem-yet.md` |
 | 2026-06-11 | chia tách cổ phiếu là gì | Antigravity | Express | `content/blog/3-finalized/Final-chia-tach-co-phieu-la-gi.md` |
 | 2026-06-11 | cách chọn cổ phiếu tốt | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cach-chon-co-phieu-tot.md` |

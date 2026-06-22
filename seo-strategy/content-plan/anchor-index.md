@@ -37,6 +37,8 @@
 | [Final-so-sanh-co-phieu-va-chung-chi-quy-dau-tu.md](content/blog/3-finalized/Final-so-sanh-co-phieu-va-chung-chi-quy-dau-tu.md) | so sánh cổ phiếu và chứng chỉ quỹ đầu tư | phân biệt cổ phiếu và chứng chỉ quỹ, so sánh cổ phiếu và chứng chỉ quỹ, nên mua cổ phiếu hay chứng chỉ quỹ, sự khác nhau giữa cổ phiếu và chứng chỉ quỹ |
 | [Final-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md](content/blog/3-finalized/Final-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md) | so sánh cổ phiếu thường và cổ phiếu ưu đãi | phân biệt cổ phiếu thường và cổ phiếu ưu đãi, so sánh cổ phiếu phổ thông và cổ phiếu ưu đãi, cổ phiếu thường và cổ phiếu ưu đãi khác nhau như thế nào, cổ phiếu ưu đãi là gì |
 | [Final-bong-bong-dotcom-la-gi.md](content/blog/3-finalized/Final-bong-bong-dotcom-la-gi.md) | bong bóng dotcom là gì | khủng hoảng dotcom là gì, dotcom bubble là gì, nguyên nhân bong bóng dotcom, bài học từ bong bóng dotcom |
+| [Final-chi-phi-co-hoi-la-gi.md](content/blog/3-finalized/Final-chi-phi-co-hoi-la-gi.md) | chi phí cơ hội là gì | chi phí cơ hội đầu tư, bài học chi phí cơ hội, ví dụ chi phí cơ hội |
+| [Final-chu-ky-kinh-te-la-gi.md](content/blog/3-finalized/Final-chu-ky-kinh-te-la-gi.md) | chu kỳ kinh tế là gì | chu kỳ vĩ mô, bốn giai đoạn chu kỳ kinh tế, quy luật chu kỳ kinh tế, nhận diện chu kỳ kinh tế |
 
 
 

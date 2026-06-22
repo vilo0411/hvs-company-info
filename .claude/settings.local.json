@@ -3,7 +3,8 @@
     "allow": [
       "PowerShell(Get-ChildItem \"E:\\\\project\\\\hvs-company-info\\\\.antigravity\\\\skills\\\\image-generation\\\\layouts\" -Recurse | ForEach-Object { $_.FullName })",
       "Bash(git rm *)",
-      "PowerShell(python \"E:\\\\project\\\\hvs-company-info\\\\.antigravity\\\\skills\\\\image-generation\\\\scripts\\\\image_processor.py\" --input \"E:\\\\project\\\\hvs-company-info\\\\content\\\\blog\\\\assets\\\\raw-images\\\\nen-bua\\\\cach-giao-dich-nen-bua-quy-trinh.png\" --output \"E:\\\\project\\\\hvs-company-info\\\\content\\\\blog\\\\assets\\\\images\\\\nen-bua\\\\cach-giao-dich-nen-bua-quy-trinh.webp\")"
+      "PowerShell(python \"E:\\\\project\\\\hvs-company-info\\\\.antigravity\\\\skills\\\\image-generation\\\\scripts\\\\image_processor.py\" --input \"E:\\\\project\\\\hvs-company-info\\\\content\\\\blog\\\\assets\\\\raw-images\\\\nen-bua\\\\cach-giao-dich-nen-bua-quy-trinh.png\" --output \"E:\\\\project\\\\hvs-company-info\\\\content\\\\blog\\\\assets\\\\images\\\\nen-bua\\\\cach-giao-dich-nen-bua-quy-trinh.webp\")",
+      "WebSearch"
     ]
   }
 }

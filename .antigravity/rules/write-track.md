@@ -71,7 +71,7 @@ Main Agent thực hiện vai trò "Bộ não":
     - Nếu Quality Guardian báo `FAILED` -> Main Agent tự sửa dựa trên báo cáo lỗi chi tiết.
     - Nếu fail về word count: bổ sung nội dung cụ thể vào đúng section thiếu.
     - Chỉ khi đạt trạng thái `PASSED`, bài viết mới được trình bày cho User.
-- **Outline Retention Rule (BẮT BUỘC):** Luôn giữ nguyên file Outline tại `content/blog/1-outlines/Outline-[slug].md` trong suốt các giai đoạn Draft và User Review. KHÔNG được xóa Outline trước khi bài viết được chuyển sang trạng thái Finalized để làm gốc đối chiếu từ cho script `wordcount.py`.
+- **Outline Retention Rule (BẮT BUỘC):** Giữ nguyên file Outline tại `content/blog/1-outlines/Outline-[slug].md` trong suốt các giai đoạn Draft và User Review — cần để script `wordcount.py` đối chiếu target. **Sau khi bài được Finalize: xóa file Outline ngay.**
 - **Bảo toàn Revision Log (BẮT BUỘC):** Khi chuyển đổi/viết từ Outline sang Draft, Agent BẮT BUỘC phải sao chép phần `## Revision Log` (hoặc `## Nhật ký chỉnh sửa (Revision Log)`) từ Outline sang cuối file Draft để tiếp tục lưu vết và kích hoạt learning feedback loop sau này.
 4.  **Lưu file:** `content/blog/2-user-review/Draft-[slug].md`.
 
@@ -87,7 +87,7 @@ Main Agent thực hiện vai trò "Bộ não":
 
 ## Phase 5: Phê duyệt & Tiến hóa (Evolution Phase)
 1.  User dùng lệnh `/approve` (khi file hiện tại là Draft).
-2.  **Finalize:** Chuyển sang `3-finalized/Final-[slug].md`, cập nhật metadata/log liên quan, xóa đồng thời Outline (`1-outlines/`) và Draft (`2-user-review/`).
+2.  **Finalize:** Chuyển sang `3-finalized/Final-[slug].md`, cập nhật metadata/log liên quan, xóa Draft (`2-user-review/Draft-[slug].md`) và xóa Outline (`1-outlines/Outline-[slug].md`).
 3.  **Learning** (nếu có Revision Log):
     - **Content Feedback Loop**: chạy `.antigravity/skills/content-feedback-loop/SKILL.md` → cập nhật `anti-ai-rules.md` + `anti-ai-digest.md`
     - **Brand Guardian Mode C**: đề xuất cập nhật `glossary.md`, `financial-logic.md`, `hvs-profile.md` dựa trên pattern lỗi trong Revision Logs → chờ user xác nhận trước khi ghi

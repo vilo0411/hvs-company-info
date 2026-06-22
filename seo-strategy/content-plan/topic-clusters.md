@@ -1,6 +1,6 @@
 # Topic Clusters — HVS SEO Content Map
-> Cập nhật: 2026-06-08 | Nguồn: keyword-hvs.csv (491 articles)
-> ✅ Published: 205 | 🔄 In Progress: 4 | ⭕ Planned: 284
+> Cập nhật: 2026-06-18 | Nguồn: keyword-hvs.csv (491 articles)
+> ✅ Published: 211 | 🔄 In Progress: 0 | ⭕ Planned: 282
 
 ---
 
@@ -31,7 +31,7 @@
 **Priority 1:**
 - ✅ Quỹ mở là gì *(Published — Final-quy-mo-la-gi.md)*
 - ✅ Nên đầu tư quỹ mở hay quỹ etf *(Published — Final-nen-dau-tu-quy-mo-hay-quy-etf.md)*
-- 🔄 đầu tư etf *(In Progress — Outline-dau-tu-etf.md)*
+- ⭕ đầu tư etf
 - ✅ quỹ etf tại việt nam *(Published — Final-quy-etf-tai-viet-nam.md)*
 - ✅ quy trình hoán đổi danh mục ETF *(Published — Final-quy-trinh-hoan-doi-danh-muc-etf.md)*
 - ✅ Nên đầu tư quỹ ETF nào *(Published — Final-nen-dau-tu-quy-etf-nao.md)*
@@ -122,7 +122,7 @@
 - ✅ Có nên mua cổ phiếu MWG *(Published — Final-co-nen-mua-co-phieu-mwg.md)*
 - ✅ Có nên mua cổ phiếu SBT *(Published — Final-co-nen-mua-co-phieu-sbt.md)*
 
-### Cluster: Cổ phiếu (25 articles | ✅ 22 | 🔄 3 | ⭕ 0)
+### Cluster: Cổ phiếu (25 articles | ✅ 25 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ Cổ tức là gì *(Published — Final-co-tuc-la-gi.md)*
 
@@ -138,18 +138,18 @@
 - ✅ so sánh cổ phiếu thường và cổ phiếu ưu đãi *(Published — Final-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md)*
 - ✅ trả cổ tức bằng cổ phiếu là gì *(Published — Final-tra-co-tuc-bang-co-phieu-la-gi.md)*
 - ✅ cổ phiếu trụ là gì *(Published — Final-co-phieu-tru-la-gi.md)*
-- 🔄 thị giá cổ phiếu là gì *(In Progress — Outline-thi-gia-co-phieu-la-gi.md)*
+- ✅ thị giá cổ phiếu là gì *(Published — Final-thi-gia-co-phieu-la-gi.md)*
 - ✅ cổ phiếu bị hủy niêm yết *(Published — Final-co-phieu-bi-huy-niem-yet.md)*
 - ✅ cổ phiếu thưởng là gì *(Published — Final-co-phieu-thuong-la-gi.md)*
 - ✅ cổ phiếu phòng thủ *(Published — Final-co-phieu-phong-thu.md)*
 - ✅ chia tách cổ phiếu là gì *(Published — Final-chia-tach-co-phieu-la-gi.md)*
 - ✅ cổ phiếu esop là gì *(Published — Final-co-phieu-esop-la-gi.md)*
-- 🔄 pha loãng cổ phiếu là gì *(In Progress — Outline-pha-loang-co-phieu-la-gi.md)*
+- ✅ pha loãng cổ phiếu là gì *(Published — Final-pha-loang-co-phieu-la-gi.md)*
 - ✅ cách chọn cổ phiếu tốt *(Published — Final-cach-chon-co-phieu-tot.md)*
 - ✅ Cổ phiếu quỹ là gì *(Published — Final-co-phieu-quy-la-gi.md)*
 - ✅ cổ phiếu ưu đãi là gì *(Published — Final-co-phieu-uu-dai-la-gi.md)*
 - ✅ cổ phiếu penny là gì *(Published — Final-co-phieu-penny-la-gi.md)*
-- 🔄 mid cap là gì *(In Progress — Outline-mid-cap-la-gi.md)*
+- ✅ mid cap là gì *(Published — Final-mid-cap-la-gi.md)*
 - ✅ blue chip là gì *(Published — Final-co-phieu-blue-chip-la-gi.md)*
 
 ### Cluster: Cổ phiếu ngành (29 articles | ✅ 29 | 🔄 0 | ⭕ 0)
@@ -186,7 +186,7 @@
 - ✅ cổ phiếu ngành hóa chất *(Published — Final-co-phieu-nganh-hoa-chat.md)*
 - ✅ cổ phiếu ngành nông nghiệp *(Published — Final-co-phieu-nganh-nong-nghiep.md)*
 
-### Cluster: Phân tích cơ bản (115 articles | ✅ 9 | 🔄 0 | ⭕ 106)
+### Cluster: Phân tích cơ bản (115 articles | ✅ 10 | 🔄 0 | ⭕ 105)
 
 **Pillar:** ✅ p/e là gì *(Published — Final-p-e-la-gi.md)*
 
@@ -253,7 +253,7 @@
 - ⭕ Phân tích Dupont là gì *(Planned)*
 - ⭕ chỉ tiêu doanh thu *(Planned)*
 - ⭕ cách đọc báo cáo thường niên *(Planned)*
-- ⭕ Chi phí biên là gì *(Planned)*
+- ✅ Chi phí biên là gì *(Published — Final-chi-phi-bien-la-gi.md)*
 - ⭕ Vốn cổ phần là gì *(Planned)*
 - ⭕ chỉ tiêu lợi nhuận của doanh nghiệp *(Planned)*
 - ⭕ cách đọc báo cáo tài chính *(Planned)*
@@ -263,7 +263,7 @@
 - ⭕ Điểm hòa vốn là gì *(Planned)*
 - ⭕ bảng cân đối kế toán nguồn vốn *(Planned)*
 - ⭕ Vòng quay hàng tồn kho là gì *(Planned)*
-- ⭕ Báo cáo lưu chuyển tiền tệ là gì *(Planned)*
+- ✅ Báo cáo lưu chuyển tiền tệ là gì `Final-bao-cao-luu-chuyen-tien-te-la-gi.md`
 - ⭕ quy luật giá trị *(Planned)*
 - ⭕ fed là gì *(Planned)*
 - ⭕ độ co giãn của cầu theo giá *(Planned)*
@@ -279,7 +279,7 @@
 - ⭕ chu kỳ cổ phiếu *(Planned)*
 - ⭕ Doanh nghiệp mua lại cổ phiếu để làm gì *(Planned)*
 - ⭕ cạnh tranh là gì *(Planned)*
-- ⭕ CASA trong ngành ngân hàng là gì *(Planned)*
+- ✅ CASA trong ngành ngân hàng là gì `Final-casa-trong-nganh-ngan-hang-la-gi.md`
 - ⭕ Khi nào nên mua cổ phiếu *(Planned)*
 - ⭕ các chỉ số đánh giá cổ phiếu tốt *(Planned)*
 - ⭕ cán cân vãng lai là gì *(Planned)*
@@ -288,12 +288,12 @@
 - ⭕ cir ngân hàng là gì *(Planned)*
 - ⭕ hệ số tương quan *(Planned)*
 - ⭕ cạnh tranh không hoàn hảo *(Planned)*
-- ⭕ Chi phí cơ hội là gì *(Planned)*
+- ✅ Chi phí cơ hội là gì *(Published — Final-chi-phi-co-hoi-la-gi.md)*
 - ⭕ chính sách tiền tệ nới lỏng *(Planned)*
 - ⭕ khủng hoảng tài chính là gì *(Planned)*
 - ⭕ cơ hội thị trường là gì *(Planned)*
 - ⭕ Mô hình kinh doanh là gì *(Planned)*
-- ⭕ Chu kỳ kinh tế là gì *(Planned)*
+- ✅ Chu kỳ kinh tế là gì *(Published — Final-chu-ky-kinh-te-la-gi.md)*
 - ⭕ lý thuyết trò chơi *(Planned)*
 - ⭕ lợi thế cạnh tranh là gì *(Planned)*
 - ⭕ chi phí cố định *(Planned)*
@@ -568,13 +568,13 @@
 - ⭕ chứng khoán phái sinh là gì *(Planned)*
 - ⭕ chứng khoán cơ sở và chứng khoán phái sinh *(Planned)*
 
-### Cluster: rủi ro (4 articles | ✅ 2 | 🔄 0 | ⭕ 2)
+### Cluster: rủi ro (4 articles | ✅ 3 | 🔄 0 | ⭕ 1)
 
 **Pillar:** ✅ khẩu vị rủi ro *(Published — Final-khau-vi-rui-ro.md)*
 
 **Priority 1:**
 - ⭕ Rủi ro doanh nghiệp trong đầu tư chứng khoán là gì *(Planned)*
-- ⭕ Đầu tư chứng khoán có những rủi ro gì *(Planned)*
+- ✅ Đầu tư chứng khoán có những rủi ro gì *(Published — Final-dau-tu-chung-khoan-co-nhung-rui-ro-gi.md)*
 - ✅ quản trị rủi ro chứng khoán *(Published — Final-quan-tri-rui-ro-chung-khoan.md)*
 
 ### Cluster: tài liệu (5 articles | ✅ 1 | 🔄 0 | ⭕ 4)

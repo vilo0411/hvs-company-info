@@ -2,7 +2,7 @@
 name: Anti-AI Digest
 description: Bản rút gọn machine-readable của anti-ai-rules.md. Cập nhật file này ngay khi anti-ai-rules.md có thay đổi. Full rationale → anti-ai-rules.md.
 source: seo-strategy/resources/content-strategy/anti-ai-rules.md
-updated: 2026-06-11
+updated: 2026-06-18
 ---
 
 # Anti-AI Digest — Enforcement Patterns
@@ -63,6 +63,8 @@ FORBIDDEN_PATTERNS:
   - câu_đều_nhau: '>3 câu liên tiếp cùng độ dài 15-20 từ'
   - formula_latex: 'tránh dùng công thức dạng LaTeX ($$ hoặc $) gây lỗi định dạng khi chuyển sang Google Docs, thay bằng blockquote in đậm'
   - h4_subheadings: 'Sử dụng H4 (####) cho các tiêu đề con bổ trợ để tránh làm gián đoạn việc phân tách khối H2/H3 của công cụ đếm từ wordcount'
+  - em_dash_connector: 'dùng "—" làm từ nối câu (kiểu "X — Y", "A — vì B") → thay bằng dấu phẩy, "vì", "do đó", hoặc tách 2 câu. Ngoại lệ: ô bảng trống, tên sản phẩm'
+  - bang_thua: 'lạm dụng bảng Markdown cho danh sách 2-3 dòng đơn giản → dùng bullet list. Bảng chỉ hợp lệ khi có ≥3 cột so sánh hoặc ≥4 dòng dữ liệu'
   - hvs_tai_chinh_so_sai_lech: 'mô tả HVS Tài chính số là công cụ theo dõi số liệu/bộ lọc tài chính tự động (thực tế: HVS Tài chính số là nền tảng đào tạo trực tuyến với các lộ trình thực chiến toàn diện)'
   - hvs_product_hierarchy_sai: 'giới thiệu HVS Thực tập số như sản phẩm riêng biệt ngang hàng HVS Tài chính số — thực tế HVS Thực tập số là chương trình/lộ trình đào tạo NẰM TRONG nền tảng HVS Tài chính số; HVS Demo và HVS Forum là công cụ hỗ trợ/bổ trợ, không phải sản phẩm đào tạo chính'
   - hvs_dao_tao_sai_lech: 'trình bày HVS Tài chính số / HVS Thực tập số dạy các thủ tục hành chính, biểu mẫu, cách tính thuế phí cụ thể hoặc quản trị danh mục nâng cao cho người mới bắt đầu (thực tế: tập trung đào tạo kiến thức đầu tư cốt lõi FA LV1 và TA LV1 giúp tự phân tích)'
