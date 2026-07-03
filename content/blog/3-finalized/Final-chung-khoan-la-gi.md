@@ -17,20 +17,20 @@ Nếu bạn đang tìm kiếm một kênh để gia tăng tài sản thay vì ch
 
 Về mặt pháp lý, chứng khoán là bằng chứng xác nhận quyền và lợi ích hợp pháp của nhà đầu tư đối với tài sản hoặc vốn của tổ chức phát hành. Thực tế, khi bạn mua chứng khoán của một công ty như Hòa Phát (HPG) hay Vinamilk (VNM), bạn đang sở hữu một chứng chỉ cho thấy bạn đã góp vốn vào doanh nghiệp đó.
 
-Chứng khoán không chỉ là những con số nhảy múa trên bảng điện. Nó là chỉ báo quan trọng của nền kinh tế. Khi các doanh nghiệp làm ăn tốt, thị trường chứng khoán sẽ khởi sắc và ngược lại. Đối với cá nhân, việc sở hữu chứng khoán là cách để bạn đa dạng hóa nguồn thu nhập, không chỉ dựa vào tiền lương mà còn dựa vào sự phát triển của các doanh nghiệp hàng đầu.
+Chứng khoán không chỉ là những con số nhảy múa trên bảng điện. Nó là chỉ báo quan trọng của nền kinh tế. Khi các doanh nghiệp làm ăn tốt, [thị trường chứng khoán](content/blog/3-finalized/Final-thi-truong-chung-khoan-la-gi.md) sẽ khởi sắc và ngược lại. Đối với cá nhân, việc sở hữu chứng khoán là cách để bạn đa dạng hóa nguồn thu nhập, không chỉ dựa vào tiền lương mà còn dựa vào sự phát triển của các doanh nghiệp hàng đầu.
 
 ## 3 Loại chứng khoán phổ biến nhất tại Việt Nam bạn cần biết
 
 Thị trường chứng khoán rất rộng lớn, nhưng với người mới, bạn chỉ cần tập trung vào 3 loại công cụ phổ biến nhất sau đây:
 
 ### 1. Cổ phiếu
-Đây là loại chứng khoán quen thuộc nhất. Khi sở hữu cổ phiếu, bạn trở thành cổ đông (người sở hữu một phần doanh nghiệp). Nếu công ty làm ăn có lãi, bạn sẽ được chia cổ tức và hưởng lợi từ việc giá cổ phiếu tăng lên. Tuy nhiên, đi kèm với đó là rủi ro khi doanh nghiệp gặp khó khăn hoặc thị trường sụt giảm.
+Đây là loại chứng khoán quen thuộc nhất. Khi sở hữu cổ phiếu, bạn trở thành [cổ đông](content/blog/3-finalized/Final-co-phieu-la-gi.md) (người sở hữu một phần doanh nghiệp). Nếu công ty làm ăn có lãi, bạn sẽ được chia cổ tức và hưởng lợi từ việc giá cổ phiếu tăng lên. Tuy nhiên, đi kèm với đó là rủi ro khi doanh nghiệp gặp khó khăn hoặc thị trường sụt giảm.
 
 ### 2. Trái phiếu
-Khác với cổ phiếu, mua trái phiếu giống như bạn cho doanh nghiệp hoặc Chính phủ vay tiền. Bạn là chủ nợ và sẽ nhận được một khoản lợi nhuận cố định (lãi suất) theo cam kết. Trái phiếu thường có tính an toàn cao hơn cổ phiếu nhưng lợi nhuận kỳ vọng cũng thường thấp hơn.
+Khác với cổ phiếu, mua [trái phiếu](content/blog/3-finalized/Final-trai-phieu-la-gi.md) giống như bạn cho doanh nghiệp hoặc Chính phủ vay tiền. Bạn là chủ nợ và sẽ nhận được một khoản lợi nhuận cố định (lãi suất) theo cam kết. Trái phiếu thường có tính an toàn cao hơn cổ phiếu nhưng lợi nhuận kỳ vọng cũng thường thấp hơn.
 
 ### 3. Chứng chỉ quỹ
-Nếu bạn chưa có đủ kiến thức để tự chọn cổ phiếu, chứng chỉ quỹ là lựa chọn hợp lý. Bạn ủy thác tiền của mình cho các quỹ đầu tư chuyên nghiệp. Tại đây, các chuyên gia tài chính sẽ thay bạn quản lý và đem tiền đi đầu tư vào các danh mục đa dạng để sinh lời.
+Nếu bạn chưa có đủ kiến thức để tự chọn cổ phiếu, [chứng chỉ quỹ](content/blog/3-finalized/Final-chung-chi-quy-la-gi.md) là lựa chọn hợp lý. Bạn ủy thác tiền của mình cho các quỹ đầu tư chuyên nghiệp. Tại đây, các chuyên gia tài chính sẽ thay bạn quản lý và đem tiền đi đầu tư vào các danh mục đa dạng để sinh lời.
 
 ## Tại sao bạn nên bắt đầu đầu tư chứng khoán?
 

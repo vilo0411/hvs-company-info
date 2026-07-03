@@ -1,6 +1,6 @@
 # Topic Clusters — HVS SEO Content Map
 > Cập nhật: 2026-06-18 | Nguồn: keyword-hvs.csv (491 articles)
-> ✅ Published: 211 | 🔄 In Progress: 0 | ⭕ Planned: 282
+> ✅ Published: 247 | 🔄 In Progress: 0 | ⭕ Planned: 244
 
 ---
 
@@ -186,7 +186,7 @@
 - ✅ cổ phiếu ngành hóa chất *(Published — Final-co-phieu-nganh-hoa-chat.md)*
 - ✅ cổ phiếu ngành nông nghiệp *(Published — Final-co-phieu-nganh-nong-nghiep.md)*
 
-### Cluster: Phân tích cơ bản (115 articles | ✅ 10 | 🔄 0 | ⭕ 105)
+### Cluster: Phân tích cơ bản (115 articles | ✅ 13 | 🔄 0 | ⭕ 102)
 
 **Pillar:** ✅ p/e là gì *(Published — Final-p-e-la-gi.md)*
 
@@ -195,9 +195,9 @@
 - ✅ phân tích doanh nghiệp là gì *(Published — Final-phan-tich-doanh-nghiep-la-gi.md)*
 - ✅ phân tích cơ bản là gì *(Published — Final-phan-tich-co-ban-la-gi.md)*
 - ⭕ giá trị sổ sách của cổ phiếu *(Planned)*
-- ⭕ Tỷ số thanh toán nhanh là gì *(Planned)*
-- ⭕ Tỷ số nợ trên tổng tài sản *(Planned)*
-- ⭕ Tỷ số thanh toán bằng tiền mặt *(Planned)*
+- ✅ Tỷ số thanh toán nhanh là gì *(Published — Final-ty-so-thanh-toan-nhanh-la-gi.md)*
+- ✅ Tỷ số nợ trên tổng tài sản *(Published — Final-ty-so-no-tren-tong-tai-san.md)*
+- ✅ Tỷ số thanh toán bằng tiền mặt *(Published — Final-ty-so-thanh-toan-bang-tien-mat.md)*
 - ⭕ hệ số khả năng thanh toán lãi vay *(Planned)*
 - ⭕ nợ dài hạn trên vốn chủ sở hữu *(Planned)*
 - ⭕ Hệ số thanh toán là gì *(Planned)*
@@ -442,17 +442,17 @@
 - ✅ đầu tư thụ động *(Published — Final-dau-tu-thu-dong.md)*
 - ✅ đầu tư chủ động *(Published — Final-dau-tu-chu-dong.md)*
 
-### Cluster: Trái phiếu (7 articles | ✅ 2 | 🔄 0 | ⭕ 5)
+### Cluster: Trái phiếu (7 articles | ✅ 5 | 🔄 0 | ⭕ 2)
 
 **Pillar:** ✅ bond yield là gì *(Published — Final-bond-yield-la-gi.md)*
 
 **Priority 1:**
 - ⭕ có nên đầu tư trái phiếu *(Planned)*
-- ⭕ Trái phiếu chính phủ là gì *(Planned)*
+- ✅ Trái phiếu chính phủ là gì *(Published — Final-trai-phieu-chinh-phu-la-gi.md)*
 - ✅ trái phiếu là gì *(Published — Final-trai-phieu-la-gi.md)*
 - ⭕ Trái phiếu chuyển đổi là gì *(Planned)*
-- ⭕ Trái phiếu doanh nghiệp là gì *(Planned)*
-- ⭕ Trái phiếu ngân hàng là gì *(Planned)*
+- ✅ Trái phiếu doanh nghiệp là gì *(Published — Final-trai-phieu-doanh-nghiep-la-gi.md)*
+- ✅ Trái phiếu ngân hàng là gì *(Published — Final-trai-phieu-ngan-hang-la-gi.md)*
 
 ### Cluster: Tài khoản chứng khoán (8 articles | ✅ 8 | 🔄 0 | ⭕ 0)
 

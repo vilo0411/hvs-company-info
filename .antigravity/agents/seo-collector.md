@@ -22,7 +22,7 @@ Cấu trúc JSON theo `.antigravity/skills/seo-research/SKILL.md`:
 
 - Bao gồm Intent sâu sắc.
 - Gaps (Khoảng trống nội dung).
-- **Recommended_Unique_Structure**: Đề xuất cụ thể các Heading (H2, H3) và trọng tâm (Focus) cần viết trong mỗi heading để thỏa mãn Intent và Entity Gaps.
+- **Recommended_Unique_Structure**: Đề xuất cụ thể các Heading (H2, H3) và trọng tâm (Focus) cần viết trong mỗi heading để thỏa mãn Intent và Entity Gaps. Cấu trúc đề xuất bắt buộc phải kết thúc bằng một tiêu đề Kết luận (H2) tùy biến theo từ khóa.
 
 ## Nguyên tắc
 

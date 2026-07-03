@@ -13,7 +13,7 @@ Anti_AI_Flags: ["Trong thế giới không ngừng phát triển", "Mở khóa t
 
 # RSI là gì? Cách sử dụng chỉ số RSI để tìm điểm mua bán chuẩn
 
-Trong phân tích kỹ thuật, nếu biểu đồ giá giúp bạn quan sát biến động bên ngoài thì các chỉ báo động lượng chính là công cụ soi chiếu nội lực của thị trường. Trong số đó, RSI nổi lên như một trợ thủ đắc lực và phổ biến nhất để đo lường sức nóng của dòng tiền. Bài viết này từ HVS sẽ giúp bạn làm chủ RSI – công cụ đo lường không thể thiếu của mọi nhà đầu tư thực chiến.
+Trong [phân tích kỹ thuật](content/blog/3-finalized/Final-phan-tich-ky-thuat-la-gi.md), nếu biểu đồ giá giúp bạn quan sát biến động bên ngoài thì các chỉ báo động lượng chính là công cụ soi chiếu nội lực của thị trường. Trong số đó, RSI nổi lên như một trợ thủ đắc lực và phổ biến nhất để đo lường sức nóng của dòng tiền. Bài viết này từ HVS sẽ giúp bạn làm chủ RSI – công cụ đo lường không thể thiếu của mọi nhà đầu tư thực chiến.
 
 ## RSI là gì?
 
@@ -43,7 +43,7 @@ Sử dụng RSI hiệu quả đòi hỏi sự nhạy bén về bản chất chuy
 
 Tham gia lộ trình đào tạo tại HVS, bạn sẽ được hướng dẫn:
 
-*   **Phối hợp chỉ báo đa tầng:** Mentor sẽ hướng dẫn bạn cách kết hợp RSI với các công cụ như đường trung bình động (MA) hoặc MACD để loại bỏ tín hiệu ảo, từ đó gia tăng tỷ lệ thành công cho mỗi quyết định.
+*   **Phối hợp chỉ báo đa tầng:** Mentor sẽ hướng dẫn bạn cách kết hợp RSI với các công cụ như [đường trung bình động (MA)](content/blog/3-finalized/Final-duong-ma-la-gi.md) hoặc [MACD](content/blog/3-finalized/Final-macd-la-gi.md) để loại bỏ tín hiệu ảo, từ đó gia tăng tỷ lệ thành công cho mỗi quyết định.
 *   **Nhận diện dao động lỗi (Failure Swings):** Đây là kỹ thuật nâng cao giúp bạn xác định thời điểm RSI phá vỡ các ngưỡng hỗ trợ hoặc kháng cự của chính nó, giúp dự báo điểm đảo chiều sớm hơn so với việc chỉ nhìn vào biểu đồ giá đơn thuần.
 *   **Rèn luyện trên HVS Demo:** Không có cách học nào nhanh hơn việc trực tiếp quan sát thị trường. Với hệ thống **HVS Demo**, bạn sẽ được tập nhận diện các đoạn phân kỳ RSI trong thời gian thực và thực hiện lệnh giả lập để kiểm chứng phán đoán mà không gặp rủi ro về vốn.
 

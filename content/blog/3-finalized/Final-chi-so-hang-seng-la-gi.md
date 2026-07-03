@@ -30,7 +30,7 @@ Nhờ tính đại diện cao, chỉ số này sở hữu những cột mốc n�
 *   **Năm 2021:** Áp dụng giới hạn tỷ trọng cấu phần 8%.
 *   **Năm 2026:** Trở thành phong vũ biểu công nghệ nhờ rổ P-Chips rộng lớn.
 
-Thị trường Hồng Kông liên kết dòng vốn quốc tế với Trung Quốc đại lục, nơi biến động HSI phản ánh sát sao tâm lý đầu tư Châu Á.
+Thị trường Hồng Kông liên kết dòng vốn quốc tế với Trung Quốc đại lục, nơi biến động HSI phản ánh sát sao tâm lý đầu tư Châu Á. Trong hệ thống chỉ số toàn cầu, HSI đóng vai trò tương đương với [chỉ số DAX](content/blog/3-finalized/Final-chi-so-dax-la-gi.md) tại châu Âu, là thước đo kinh tế chuẩn mực của từng khu vực.
 
 Hãy lưu ý rằng biến động tại HKEX tạo ra tác động lan truyền rất nhanh. Dòng tiền ngoại thường phản ứng đồng điệu trên các thị trường lân cận. Do đó, theo dõi HSI giúp bạn chủ động nhận diện sớm dịch chuyển dòng vốn lớn.
 
@@ -99,7 +99,7 @@ Hãy ghi nhớ giao dịch theo liên thị trường luôn có độ trễ. Bá
 
 ## Đào tạo phân tích vĩ mô thị trường chứng khoán Việt Nam tại HVS Tài chính số
 
-Nhận diện tác động HSI tới HOSE là kỹ năng sinh tồn của nhà đầu tư. Tuy nhiên, nhiều F0 vội vã tìm [cách mua cổ phiếu](content/blog/2-user-review/Draft-cach-mua-co-phieu.md) bằng tiền thật và giao dịch theo cảm tính. Thiếu hệ thống quan sát liên thị trường khiến họ gánh chịu thua lỗ khi dòng ngoại rút ròng.
+Nhận diện tác động HSI tới HOSE là kỹ năng sinh tồn của nhà đầu tư. Tuy nhiên, nhiều F0 vội vã tìm [cách mua cổ phiếu](content/blog/3-finalized/Final-cach-mua-co-phieu.md) bằng tiền thật và giao dịch theo cảm tính. Thiếu hệ thống quan sát liên thị trường khiến họ gánh chịu thua lỗ khi dòng ngoại rút ròng.
 
 > **Cảnh báo từ Senior Mentor:** Hơn 85% F0 thua lỗ trong năm đầu vì giao dịch theo cảm tính và bỏ qua biến động dòng vốn ngoại liên thị trường.
 

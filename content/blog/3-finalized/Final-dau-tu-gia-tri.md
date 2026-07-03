@@ -15,7 +15,7 @@ Meta_Description: Đầu tư giá trị là gì? Tìm hiểu chiến lược t�
 
 ## Bản chất của đầu tư giá trị: Triết lý từ Benjamin Graham
 
-Benjamin Graham – người được mệnh danh là "Cha đẻ của phân tích chứng khoán" và là người thầy của Warren Buffett – đã khởi xướng phương pháp đầu tư giá trị. Ông định nghĩa đây là phương pháp mua những cổ phiếu có giá thị trường thấp hơn đáng kể so với **giá trị nội tại** của chúng.
+Benjamin Graham – người được mệnh danh là "Cha đẻ của phân tích chứng khoán" và là người thầy của Warren Buffett – đã khởi xướng phương pháp đầu tư giá trị. Ông định nghĩa đây là phương pháp mua những cổ phiếu có giá thị trường thấp hơn đáng kể so với **[giá trị nội tại](content/blog/3-finalized/Final-gia-tri-noi-tai-cua-co-phieu.md)** của chúng.
 
 Hãy tưởng tượng bạn mua một tài sản có giá trị thực là 5 tỷ đồng, nhưng do chủ sở hữu cần tiền gấp nên họ bán với giá 3 tỷ đồng. Khoản chênh lệch 2 tỷ đồng đó chính là **Biên an toàn (Margin of Safety)**. Trong chứng khoán, nhà đầu tư giá trị kiên nhẫn chờ đợi những thời điểm thị trường biến động quá đà khiến giá cổ phiếu giảm xuống dưới giá trị thực để thực hiện các thương vụ mua vào với giá chiết khấu.
 
@@ -31,8 +31,8 @@ Hãy tưởng tượng bạn mua một tài sản có giá trị thực là 5 t�
 
 Kế thừa tư duy từ Graham, Warren Buffett đã nâng tầm phương pháp này bằng cách không chỉ mua cổ phiếu rẻ, mà là mua **doanh nghiệp tuyệt vời với giá hợp lý**. Dưới đây là lộ trình 4 bước để bạn bắt đầu:
 
-- **Bước 1: Lọc cổ phiếu chất lượng.** Ưu tiên các doanh nghiệp có chỉ số ROE > 15%, nợ vay thấp, biên lợi nhuận ổn định và đặc biệt phải có lợi thế cạnh tranh (Economic Moat) bền vững.
-- **Bước 2: Định giá doanh nghiệp.** Sử dụng các phương pháp như chiết khấu dòng tiền (DCF) hoặc so sánh các chỉ số P/E, P/B để xác định giá trị nội tại của cổ phiếu.
+- **Bước 1: Lọc cổ phiếu chất lượng.** Ưu tiên các doanh nghiệp có chỉ số [ROE](content/blog/3-finalized/Final-chi-so-roe-la-gi.md) > 15%, nợ vay thấp, biên lợi nhuận ổn định và đặc biệt phải có lợi thế cạnh tranh (Economic Moat) bền vững.
+- **Bước 2: Định giá doanh nghiệp.** Sử dụng các phương pháp như chiết khấu dòng tiền (DCF — trong đó [mô hình CAPM](content/blog/3-finalized/Final-mo-hinh-capm-la-gi.md) tính tỷ suất chiết khấu) hoặc so sánh các chỉ số [P/E](content/blog/3-finalized/Final-p-e-la-gi.md), P/B để xác định giá trị nội tại của cổ phiếu.
 - **Bước 3: Kiên nhẫn chờ đợi.** Đừng vội vàng. Hãy chỉ mua khi giá thị trường thấp hơn giá trị nội tại bạn tính toán được ít nhất từ 20-30%.
 - **Bước 4: Nắm giữ lâu dài.** Đầu tư giá trị đòi hỏi sự kiên trì. Bạn nắm giữ cổ phiếu cho đến khi thị trường phản ánh đúng giá trị hoặc bản chất cốt lõi của doanh nghiệp có sự thay đổi tiêu cực.
 

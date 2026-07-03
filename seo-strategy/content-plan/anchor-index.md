@@ -39,9 +39,32 @@
 | [Final-bong-bong-dotcom-la-gi.md](content/blog/3-finalized/Final-bong-bong-dotcom-la-gi.md) | bong bóng dotcom là gì | khủng hoảng dotcom là gì, dotcom bubble là gì, nguyên nhân bong bóng dotcom, bài học từ bong bóng dotcom |
 | [Final-chi-phi-co-hoi-la-gi.md](content/blog/3-finalized/Final-chi-phi-co-hoi-la-gi.md) | chi phí cơ hội là gì | chi phí cơ hội đầu tư, bài học chi phí cơ hội, ví dụ chi phí cơ hội |
 | [Final-chu-ky-kinh-te-la-gi.md](content/blog/3-finalized/Final-chu-ky-kinh-te-la-gi.md) | chu kỳ kinh tế là gì | chu kỳ vĩ mô, bốn giai đoạn chu kỳ kinh tế, quy luật chu kỳ kinh tế, nhận diện chu kỳ kinh tế |
-
-
-
+| [Final-chung-khoan-co-so-va-chung-khoan-phai-sinh.md](content/blog/3-finalized/Final-chung-khoan-co-so-va-chung-khoan-phai-sinh.md) | chứng khoán cơ sở và chứng khoán phái sinh | so sánh chứng khoán cơ sở và phái sinh, phân biệt chứng khoán cơ sở và phái sinh, thị trường cơ sở và phái sinh |
+| [Final-nen-bua.md](content/blog/3-finalized/Final-nen-bua.md) | nến búa | mô hình nến Hammer, nến tín hiệu đảo chiều tăng, Hammer candlestick, nến rút chân |
+| [Final-p-e-la-gi.md](content/blog/3-finalized/Final-p-e-la-gi.md) | p/e là gì | hệ số P/E, định giá cổ phiếu theo P/E, tỷ lệ giá trên thu nhập, chỉ số định giá cổ phiếu |
+| [Final-duong-ma-la-gi.md](content/blog/3-finalized/Final-duong-ma-la-gi.md) | đường ma là gì | đường trung bình động, MA20 MA50 MA200, moving average chứng khoán, đường MA chỉ báo xu hướng |
+| [Final-rsi-la-gi.md](content/blog/3-finalized/Final-rsi-la-gi.md) | rsi là gì | chỉ báo RSI, vùng quá mua quá bán, Relative Strength Index, RSI phân kỳ đảo chiều |
+| [Final-macd-la-gi.md](content/blog/3-finalized/Final-macd-la-gi.md) | macd là gì | chỉ báo MACD, đường tín hiệu MACD, MACD histogram, MACD phân kỳ |
+| [Final-ho-tro-khang-cu-la-gi.md](content/blog/3-finalized/Final-ho-tro-khang-cu-la-gi.md) | hỗ trợ kháng cự là gì | vùng hỗ trợ kháng cự, ngưỡng giá đảo chiều, điểm xoay chiều thị trường, support resistance |
+| [Final-breakout-trong-chung-khoan-la-gi.md](content/blog/3-finalized/Final-breakout-trong-chung-khoan-la-gi.md) | breakout trong chứng khoán là gì | phá vỡ kháng cự, tín hiệu breakout chứng khoán, cổ phiếu thoát đỉnh, vượt ngưỡng kháng cự |
+| [Final-phan-tich-ky-thuat-la-gi.md](content/blog/3-finalized/Final-phan-tich-ky-thuat-la-gi.md) | phân tích kỹ thuật là gì | đọc biểu đồ chứng khoán, technical analysis, phân tích đồ thị giá, chỉ báo kỹ thuật |
+| [Final-khoi-ngoai-la-gi.md](content/blog/3-finalized/Final-khoi-ngoai-la-gi.md) | khối ngoại chứng khoán là gì | dòng tiền khối ngoại, mua ròng bán ròng khối ngoại, nhà đầu tư nước ngoài, foreign investor VN |
+| [Final-thi-truong-chung-khoan-la-gi.md](content/blog/3-finalized/Final-thi-truong-chung-khoan-la-gi.md) | thị trường chứng khoán là gì | sàn chứng khoán, HOSE HNX UPCOM, cơ chế giao dịch chứng khoán, thị trường vốn Việt Nam |
+| [Final-bao-cao-luu-chuyen-tien-te-la-gi.md](content/blog/3-finalized/Final-bao-cao-luu-chuyen-tien-te-la-gi.md) | báo cáo lưu chuyển tiền tệ là gì | dòng tiền hoạt động kinh doanh, cash flow statement, CFO âm, phân tích dòng tiền doanh nghiệp |
+| [Final-chi-so-roe-la-gi.md](content/blog/3-finalized/Final-chi-so-roe-la-gi.md) | chỉ số roe là gì | tỷ suất lợi nhuận trên vốn chủ, ROE cao thấp ý nghĩa, Return on Equity, đánh giá hiệu quả vốn |
+| [Final-chi-so-eps-la-gi.md](content/blog/3-finalized/Final-chi-so-eps-la-gi.md) | chỉ số eps là gì | lợi nhuận trên mỗi cổ phiếu, EPS tăng trưởng, Earnings Per Share, pha loãng EPS |
+| [Final-chung-chi-quy-la-gi.md](content/blog/3-finalized/Final-chung-chi-quy-la-gi.md) | chứng chỉ quỹ là gì | đầu tư chứng chỉ quỹ, quỹ mở và ETF, ủy thác đầu tư quỹ chuyên nghiệp, mua chứng chỉ quỹ |
+| [Final-cach-mua-co-phieu.md](content/blog/3-finalized/Final-cach-mua-co-phieu.md) | cách mua cổ phiếu | hướng dẫn mua cổ phiếu lần đầu, quy trình đặt lệnh mua cổ phiếu, các bước mua cổ phiếu |
+| [Final-gia-tri-noi-tai-cua-co-phieu.md](content/blog/3-finalized/Final-gia-tri-noi-tai-cua-co-phieu.md) | giá trị nội tại của cổ phiếu | định giá cổ phiếu nội tại, intrinsic value, biên an toàn đầu tư, cổ phiếu dưới giá trị thực |
+| [Final-quy-mo-la-gi.md](content/blog/3-finalized/Final-quy-mo-la-gi.md) | quỹ mở là gì | mutual fund, quỹ đầu tư mở, đầu tư quỹ mở chủ động, quỹ mở và ETF khác nhau |
+| [Final-chi-so-vn30-index-la-gi.md](content/blog/3-finalized/Final-chi-so-vn30-index-la-gi.md) | chỉ số vn30-index là gì | VN30 là gì, rổ cổ phiếu VN30, top 30 cổ phiếu bluechip HOSE, VN30 Index |
+| [Final-margin-la-gi.md](content/blog/3-finalized/Final-margin-la-gi.md) | margin là gì | vay margin chứng khoán, đòn bẩy tài chính chứng khoán, ký quỹ chứng khoán, tỷ lệ margin |
+| [Final-lich-chia-co-tuc.md](content/blog/3-finalized/Final-lich-chia-co-tuc.md) | lịch chia cổ tức | lịch trả cổ tức, ngày GDKHQ cổ tức, ngày chốt danh sách cổ tức, lịch cổ tức chứng khoán |
+| [Final-cach-mo-tai-khoan-chung-khoan.md](content/blog/3-finalized/Final-cach-mo-tai-khoan-chung-khoan.md) | cách mở tài khoản chứng khoán | mở tài khoản chứng khoán online, đăng ký tài khoản chứng khoán, hướng dẫn mở tài khoản CK |
+| [Final-ipo-la-gi.md](content/blog/3-finalized/Final-ipo-la-gi.md) | ipo là gì | chào bán cổ phiếu lần đầu, mua cổ phiếu IPO, doanh nghiệp phát hành cổ phiếu ra công chúng |
+| [Final-co-phieu-blue-chip-la-gi.md](content/blog/3-finalized/Final-co-phieu-blue-chip-la-gi.md) | blue chip là gì | cổ phiếu trụ, cổ phiếu đầu ngành, cổ phiếu vốn hóa lớn, bluechip Việt Nam |
+| [Final-nen-doji.md](content/blog/3-finalized/Final-nen-doji.md) | nến doji | mô hình nến Doji, nến lưỡng lự thị trường, Doji candlestick, tín hiệu đảo chiều Doji |
+| [Final-ty-so-thanh-toan-nhanh-la-gi.md](content/blog/3-finalized/Final-ty-so-thanh-toan-nhanh-la-gi.md) | tỷ số thanh toán nhanh là gì | quick ratio là gì, công thức tính tỷ số thanh toán nhanh, ý nghĩa tỷ số thanh toán nhanh, acid test ratio |
 
 
 

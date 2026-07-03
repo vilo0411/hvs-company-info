@@ -1,0 +1,246 @@
+Scored candidates:
+1|đầu tư etf|Chứng chỉ quỹ|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+2|EBITDA là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+3|Khi nào nên mua cổ phiHướng dẫn cách chơi chứng khoán cho người mới (F0) từ A-Z. Khám phá 4 bước đầu tư chứng khoán đơn giản: mở tài khoản, nạp tiền, chọn cổ phiếu và đặt lệnh.Hướng dẫn cách chơi chứng khoán cho người mới (F0) từ A-Z. Khám phá 4 bước đầu tư chứng khoán đơn giản: mở tài khoản, nạp tiền, chọn cổ phiếu và đặt lệnh.ếu|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+4|M&A là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+5|Mô hình CAPM là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+6|Mô hình kinh doanh là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+7|Nợ phải trả là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+8|Nợ xấu trong các cổ phiếu ngành ngân hàng|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+9|Phân tích Dupont là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+10|Phân tích báo cáo tài chính Công ty Bibica|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+11|Phân tích báo cáo tài chính Công ty Kinh Đô|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+12|Phân tích báo cáo tài chính FPT|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+13|Phân tích báo cáo tài chính PNJ|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+14|Phân tích báo cáo tài chính Vinamilk|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+15|Phân tích báo cáo tài chính Vingroup|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+16|ROCE là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+17|Số ngày phải trả chưa thanh toán|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+18|Thời gian thu hồi tiền hàng tồn đọng|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+19|Tín dụng doanh nghiệp là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+20|Vòng quay hàng tồn kho là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+21|Vòng quay khoản phải trả là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+22|Vốn cổ phần là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+23|Vốn lưu động là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+24|Vốn pháp định là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+25|YOY là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+26|biên lợi nhuận gộp là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+27|biên lợi nhuận ròng|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+28|brexit là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+29|bảng cân đối kế toán nguồn vốn|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+30|bẫy thanh khoản|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+31|capex là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+32|chi phí cố định|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+33|chiến lược thị trường là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+34|chu kỳ có nghĩa là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+35|chu kỳ cổ phiếu|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+36|chuỗi giá trị ngành bất động sản|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+37|chuỗi giá trị ngành cao su|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+38|chuỗi giá trị ngành dầu khí|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+39|chuỗi giá trị ngành dệt may|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+40|chuỗi giá trị ngành ngân hàng|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+41|chuỗi giá trị ngành nhựa|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+42|chuỗi giá trị ngành phân bón|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+43|chuỗi giá trị ngành thép|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+44|chuỗi giá trị ngành xây dựng|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+45|chuỗi giá trị ngành điện|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+46|chính sách tiền tệ nới lỏng|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+47|chỉ số nim của ngân hàng là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+48|chỉ tiêu doanh thu|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+49|chỉ tiêu lợi nhuận của doanh nghiệp|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+50|cir ngân hàng là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+51|current ratio là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+52|các chỉ số phân tích báo cáo tài chính|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+53|các chỉ số đánh giá cổ phiếu tốt|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+54|cách phân tích báo cáo tài chính|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+55|cách định giá cổ phiếu|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+56|cách đọc báo cáo thường niên|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+57|cách đọc báo cáo tài chính|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+58|cán cân vãng lai là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+59|cơ cấu vốn là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+60|cơ hội thị trường là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+61|cạnh tranh không hoàn hảo|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+62|cạnh tranh là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+63|cạnh tranh độc quyền|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+64|dòng tiền từ hoạt động kinh doanh|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+65|fed là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+66|giá trị doanh nghiệp là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+67|goodwill là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+68|hệ số tương quan|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+69|khủng hoảng tài chính là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+70|lý thuyết trò chơi|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+71|lợi thế cạnh tranh là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+72|nim là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+73|npv và irr là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+74|p/b là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+75|phân tích báo cáo tài chính hòa phát|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+76|phân tích báo cáo tài chính mwg|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+77|phân tích báo cáo tài chính vietcombank|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+78|quy luật giá trị|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+79|roic là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+80|rủi ro thanh khoản là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+81|sự kiện thiên nga đen|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+82|thặng dư vốn cổ phần là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+83|tỷ lệ đòn bẩy tài chính|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+84|tỷ suất cổ tức là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+85|vòng quay khoản phải thu|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+86|vòng quay tài sản cố định|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+87|vòng quay tổng tài sản|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+88|vòng quay vốn lưu động|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+89|vốn chủ sở là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+90|vốn điều lệ là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+91|Điểm hòa vốn là gì|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+92|Đường cong lợi suất đảo ngược|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+93|độ co giãn của cầu theo giá|Phân tích cơ bản|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+94|Bear Trap là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+95|Cách sử dụng 4 đường MA|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+96|Chỉ báo Bollinger Band Squeeze là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+97|Chỉ số VIX|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+98|Ichimoku là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+99|Khoảng trống giá là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+100|Mô hình 2 đỉnh là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+101|Mô hình cái nêm là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+102|Mô hình cốc tay cầm|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+103|Mô hình cờ đuôi nheo|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+104|Mô hình lá cờ là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+105|Mô hình nến Dark Cloud Cover là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+106|Mô hình nến búa ngược|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+107|Mô hình tam giác mở rộng là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+108|Nến Evening Star là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+109|Nến Hanging Man|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+110|Nến Harami là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+111|Nến Marubozu là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+112|Nến Shooting Star|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+113|Phân biệt phân tích cơ bản và phân tích kỹ thuật|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+114|Phân phối đỉnh là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+115|Sideway là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+116|Sóng Elliott và Fibonacci là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+117|Sự kiện bong bóng hoa tulip|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+118|Vùng đỉnh và đáy là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+119|biểu đồ kỹ thuật|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+120|bull trap là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+121|buy the dip là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+122|chiến lược giao dịch rsi|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+123|chỉ báo adx|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+124|chỉ báo aroon|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+125|chỉ báo atr là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+126|chỉ báo bollinger bands b|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+127|chỉ báo cci là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+128|chỉ báo cmf|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+129|chỉ báo connor rsi|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+130|chỉ báo dmi|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+131|chỉ báo dòng tiền|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+132|chỉ báo keltner channel|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+133|chỉ báo know sure thing|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+134|chỉ báo macd histogram là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+135|chỉ báo mcdx|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+136|chỉ báo obv là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+137|chỉ báo parabolic sar|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+138|chỉ báo roc là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+139|chỉ báo stochastic rsi là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+140|chỉ báo supertrend là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+141|chỉ báo uo|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+142|chỉ báo xác định xu hướng|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+143|copy trade là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+144|các phương pháp phân tích kỹ thuật|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+145|cách nhìn dòng tiền trong chứng khoán|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+146|cách đọc biểu đồ nến|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+147|day trading là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+148|giao dịch theo xu hướng|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+149|giá tăng khối lượng giảm|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+150|golden cross là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+151|hành động giá|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+152|kênh giá là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+153|kênh giá song song|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+154|kết hợp 3 đường MA|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+155|lý thuyết dow|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+156|mô hình 2 đáy|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+157|mô hình 3 chàng lính ngự lâm|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+158|mô hình 3 đáy|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+159|mô hình chữ nhật|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+160|mô hình nến engulfing|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+161|mô hình tam giác|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+162|mô hình vai đầu vai|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+163|mô hình wyckoff|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+164|nến heikin ashi|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+165|nến inside bar|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+166|nến pin bar|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+167|phân kỳ rsi|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+168|phân kỳ ẩn|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+169|phân tích kỹ thuật kết hợp Bollinger Bands và đường MA|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+170|pivot point là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+171|pullback trading là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+172|quy tắc của Richard Rhodes|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+173|spread là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+174|swing trading|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+175|sách phân tích kỹ thuật|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+176|trend following là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+177|vùng quá mua là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+178|washout là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+179|wyckoff là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+180|zero sum game|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+181|Đường Trendline là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+182|Đường WMA là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+183|Đường ZigZag|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+184|Đảo chiều xu hướng là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+185|Đầu tư chứng khoán dài hạn|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+186|Đầu tư giá trị là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+187|đường a/d là gì|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+188|đường ema|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+189|đường ma200|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+190|đầu tư chứng khoán của Warren Buffett|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+191|đầu tư chứng khoán ngắn hạn|Phân tích kỹ thuật|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+192|Các màu trong chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+193|Các sai lầm dẫn tới phá sản trong đầu tư chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+194|Có nên đầu tư chứng khoán không|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+195|Cắt lỗ là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+196|Dòng tiền trong chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+197|IMF là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+198|Lưu ký chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+199|Lợi nhuận trong đầu tư chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+200|Nhà đầu tư chứng khoán chuyên nghiệp là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+201|Sell in may and go away là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+202|So sánh kênh đầu tư vàng và đầu tư chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+203|Sàn OTC là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+204|Thị trường phân hóa|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+205|Trading là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+206|Tư vấn chứng khoán là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+207|app theo dõi chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+208|app đầu tư chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+209|biên độ giao dịch chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+210|biên độ giao động giá|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+211|bullish là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+212|bán khống là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+213|chiến lược giao dịch|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+214|chơi chứng khoán có giàu không|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+215|các loại lệnh trong chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+216|các thuật ngữ chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+217|cắt margin là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+218|dca là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+219|diễn đàn chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+220|dư mua dư bán là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+221|full margin là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+222|giao dịch chứng khoán là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+223|giao dịch nội gián|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+224|hệ số beta là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+225|kinh nghiệm chơi chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+226|môi giới chứng khoán là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+227|nav là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+228|người giàu nhất sàn chứng khoán việt nam|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+229|nyse là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+230|phân bổ tài sản|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+231|quy định giao dịch chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+232|quản lý danh mục đầu tư chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+233|sec là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+234|sàn giao dịch chứng khoán là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+235|target trong chứng khoán là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+236|thao túng chứng khoán là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+237|thị trường sơ cấp|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+238|tự doanh chứng khoán là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+239|uỷ thác đầu tư chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+240|Đầu cơ chứng khoán là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+241|Đầu tư chứng khoán cần bao nhiêu tiền|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+242|Đội lái chứng khoán là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+243|điểm trong chứng khoán là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+244|đòn bẩy tài chính trong đầu tư chứng khoán|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1
+245|Ứng trước tiền bán chứng khoán là gì|chứng khoán|3|Cluster article, cluster has pillar (+1), Priority 1 (+2)||Priority 1

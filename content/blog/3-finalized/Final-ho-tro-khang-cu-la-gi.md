@@ -30,7 +30,7 @@ Làm thế nào để biết đâu là sàn, đâu là trần trên biểu đồ
 Thị trường chứng khoán được vận hành bởi con người, và con người thường có xu hướng chú ý đến các con số tròn trịa. Ví dụ, khi VN-Index chạm vùng 1.200 điểm hay 1.300 điểm, hoặc một cổ phiếu chạm mốc 50.000 đồng, 100.000 đồng, nhà đầu tư thường đặt lệnh mua hoặc bán tập trung tại đây. Điều này vô tình biến các mốc số tròn thành các ngưỡng hỗ trợ hoặc kháng cự tâm lý cực kỳ quan trọng.
 
 ### 3. Hỗ trợ và Kháng cự động bằng đường trung bình (MA)
-Thay vì là những đường kẻ ngang cố định, bạn có thể sử dụng các đường trung bình động như MA20, MA50 hoặc MA200. Khi giá cổ phiếu nằm trên các đường này và mỗi lần chạm vào đều bật lên, thì đường MA đó đang đóng vai trò là một hỗ trợ động. Ngược lại, nếu giá nằm dưới và không thể vượt qua đường MA sau nhiều lần kiểm định, đó chính là kháng cự động.
+Thay vì là những đường kẻ ngang cố định, bạn có thể sử dụng [đường trung bình động](content/blog/3-finalized/Final-duong-ma-la-gi.md) như MA20, MA50 hoặc MA200. Khi giá cổ phiếu nằm trên các đường này và mỗi lần chạm vào đều bật lên, thì đường MA đó đang đóng vai trò là một hỗ trợ động. Ngược lại, nếu giá nằm dưới và không thể vượt qua đường MA sau nhiều lần kiểm định, đó chính là kháng cự động.
 
 ## Sự chuyển đổi vai trò: Khi Kháng cự trở thành Hỗ trợ
 
@@ -39,13 +39,13 @@ Một hiện tượng quan trọng nhà đầu tư cần lưu ý là sự đổi
 ## Chiến thuật giao dịch: Mua tại Hỗ trợ và Bán tại Kháng cự
 
 Nguyên tắc lý thuyết rất đơn giản, nhưng thực thi đòi hỏi sự kỷ luật cao:
-- **Mua tại Hỗ trợ:** Đừng vội vàng giải ngân ngay khi giá vừa chạm vào hỗ trợ. Hãy đợi những tín hiệu xác nhận như các mẫu hình nến đảo chiều (nến búa, nến nhấn chìm tăng) hoặc khối lượng giao dịch tăng vọt để chắc chắn rằng phe mua đã thực sự nhập cuộc.
+- **Mua tại Hỗ trợ:** Đừng vội vàng giải ngân ngay khi giá vừa chạm vào hỗ trợ. Hãy đợi những tín hiệu xác nhận như các mẫu hình nến đảo chiều ([nến búa](content/blog/3-finalized/Final-nen-bua.md), nến nhấn chìm tăng) hoặc khối lượng giao dịch tăng vọt để chắc chắn rằng phe mua đã thực sự nhập cuộc.
 - **Bán tại Kháng cự:** Đây là vùng để bạn hiện thực hóa lợi nhuận. Khi giá tiến gần đến vùng kháng cự mạnh và có dấu hiệu đuối sức, bạn nên cân nhắc hạ tỷ trọng thay vì tiếp tục kỳ vọng quá cao dẫn đến việc mất đi lợi nhuận đã đạt được.
 
 ## Tại sao 80% nhà đầu tư mới vẫn thua lỗ dù nắm vững Hỗ trợ - Kháng cự?
 
 Biết các vùng giá nhạy cảm chỉ là bước đầu. Thực tế, nhà đầu tư F0 thường thất bại vì:
-- **Bẫy phá vỡ giả (Fake breakout):** Giá phá vỡ kháng cự tạo cảm giác cổ phiếu sắp tăng mạnh, khiến bạn mua đuổi ngay đỉnh trước khi giá quay đầu giảm sâu.
+- **Bẫy phá vỡ giả ([Fake breakout](content/blog/3-finalized/Final-breakout-trong-chung-khoan-la-gi.md)):** Giá phá vỡ kháng cự tạo cảm giác cổ phiếu sắp tăng mạnh, khiến bạn mua đuổi ngay đỉnh trước khi giá quay đầu giảm sâu.
 - **Tâm lý hoảng loạn:** Bán tháo ngay tại vùng hỗ trợ vì sợ giá còn giảm nữa, để rồi nhìn cổ phiếu bật tăng ngay sau khi mình vừa thoát hàng.
 - **Thiếu kỹ năng kết hợp đa chỉ báo:** Chỉ dựa vào một đường kẻ ngang mà quên mất việc quan sát khối lượng và diễn biến chung của thị trường.
 

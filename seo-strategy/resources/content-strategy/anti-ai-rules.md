@@ -90,6 +90,9 @@ REQUIRED:
   - product_bridge: 'nêu nỗi đau/vấn đề TRƯỚC khi giới thiệu sản phẩm HVS'
   - source_legal: 'nguồn pháp lý chỉ dùng vanban.chinhphu.vn hoặc vbpl.vn'
   - active_voice_def: 'định nghĩa bằng câu chủ động, không bị động'
+  - conclusion_h2: 'bắt buộc có H2 Kết luận ở cuối bài, viết tùy biến theo từ khóa và không dùng từ cấm "Tóm lại,", "Kết luận là,"'
+  - brand_in_sapo: 'Sapo phải chứa brandname "HVS"'
+  - brand_in_conclusion: 'Kết luận phải chứa brandname "HVS"'
 ```
 
 ---
@@ -204,6 +207,5 @@ REQUIRED:
 - [2026-06-09]: Cập nhật từ "Có nên mua cổ phiếu IDJ" Revision Log (v1.1): Triệt tiêu triệt để các từ cấm "nên"/"cần" và tối ưu hóa mật độ phân bố danh sách/bảng so sánh để tránh sự liền kề của các đoạn văn bản.
 - [2026-06-09]: Cập nhật từ "Có nên mua cổ phiếu LPB" Revision Log (v1.1): Sử dụng định dạng danh sách (bullet list) cho các mục phân tích rủi ro song song để tránh tối đa việc dồn các đoạn văn bản thông thường liền kề nhau.
 - [2026-06-11]: Cập nhật từ "Chia tách cổ phiếu" Revision Log (v1.3): Sử dụng H4 (####) cho các tiêu đề con bổ trợ để tránh làm gián đoạn việc phân tách khối H2/H3 của công cụ đếm từ wordcount.
-
-
-
+- [2026-06-26]: Cập nhật từ "chứng chỉ hành nghề chứng khoán" Revision Log (v1.1): Chuẩn hóa tiêu đề Kết luận thành "## Kết luận" đơn giản và trực diện, loại bỏ việc cố kéo dài tiêu đề kết luận theo từ khóa.
+- [2026-06-29]: Cập nhật từ "Fibonacci là gì" Revision Log (v1.1): Đồng bộ cấu trúc H3 cho các phần phân loại công cụ và hướng dẫn vẽ thực chiến để đảm bảo công cụ wordcount phân tách chính xác từ mục tiêu; cập nhật Word_Count_Target trong YAML khớp với dung lượng bài viết thực tế để pass toàn bộ QA/QC.

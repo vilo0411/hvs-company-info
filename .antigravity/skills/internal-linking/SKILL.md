@@ -1,58 +1,104 @@
 ---
 name: Internal Linking
-description: Gắn internal links đa chế độ (Cluster, Silo, Power, Conversion). Sử dụng bộ Anchor Index đã duyệt.
+description: Gắn internal links theo cấu trúc Link Wheel — bài mới link đến bài cùng cluster + pillar. Sử dụng bộ Anchor Index đã duyệt.
 ---
 
 # Skill: Internal Linking
 
+## Triết lý: Link Wheel
+
+Mỗi bài viết mới khi publish phải tạo thành một "bánh xe":
+- **Spoke → Hub:** Bài cluster link lên Pillar của cluster đó.
+- **Spoke → Spoke:** Bài cluster link đến 2-3 bài Published cùng cluster (bài cũ hơn hoặc liên quan nhất).
+- **KHÔNG link ngẫu nhiên** sang các cluster khác trừ khi có liên kết chủ đề tự nhiên.
+
+---
+
 ## Nguyên tắc Anchor Text (HVS Standard)
 
-Chúng ta chỉ sử dụng 2 loại Anchor chính để đảm bảo sức mạnh SEO và tính tự nhiên:
+1. **Exact Match (Chính xác):** Trùng 100% từ khóa chính của bài đích. Tối đa 15% tổng số link trỏ về bài đó.
+2. **Partial Match (Bổ trợ/Semantic):** Dùng các cụm từ biến thể trong `anchor-index.md`. Ưu tiên hàng đầu (65%+).
 
-1.  **Exact Match (Chính xác):** Trùng 100% từ khóa chính của bài đích. Sử dụng tối đa 15% tổng số link trỏ về bài đó.
-2.  **Partial Match (Bổ trợ/Semantic):** Sử dụng các cụm từ biến thể được phê duyệt trong `anchor-index.md`. Đây là loại ưu tiên hàng đầu (65%+).
-
-**Cấm:** Sử dụng các từ Generic vô nghĩa như "tại đây", "xem thêm" (trừ khi dùng Title Link ở cuối đoạn).
+**Cấm:** Dùng anchor generic như "tại đây", "xem thêm", "đọc thêm".
 
 ---
 
 ## Nguồn dữ liệu (theo thứ tự ưu tiên)
-1. **`seo-strategy/content-plan/anchor-index.md`** — Nguồn tra cứu bộ từ khóa Exact/Partial cho từng bài.
-2. **`seo-strategy/content-plan/topic-clusters.md`** — Xác định cấu trúc nhóm và vai trò bài viết.
-3. **`seo-strategy/content-plan/internal-link-dashboard.md`** — Kiểm tra mật độ link hiện tại để quyết định loại Anchor cần dùng (tránh Over-opt).
+
+1. **`seo-strategy/content-plan/topic-clusters.md`** — Xác định cluster, pillar, và toàn bộ bài Published trong cùng nhóm.
+2. **`seo-strategy/content-plan/anchor-index.md`** — Tra Exact/Partial anchor text được duyệt cho từng bài đích.
+3. **`seo-strategy/content-plan/internal-link-dashboard.md`** — Kiểm tra mật độ link hiện tại (tránh Over-opt).
 
 ---
 
 ## Quy trình thực hiện
 
-1. **Xác định Mode & Đối tượng:**
-   - Nếu chạy bình thường: Gắn link cho bài hiện tại.
-   - Nếu chạy `--backfill [slug]`: Quét toàn bộ kho bài cũ để tìm chỗ trỏ link về bài `[slug]`.
+### Bước 1 — Xác định Cluster của bài đang viết
 
-2. **Tra cứu Anchor Index:** Đọc `anchor-index.md` để lấy danh sách từ khóa được phép dùng cho bài đích.
+Đọc `topic-clusters.md`. Tìm bài hiện tại theo keyword hoặc slug. Xác định:
+- **Cluster name** bài thuộc về
+- **Pillar** của cluster đó (và file Final tương ứng)
+- **Danh sách bài Published (✅)** trong cùng cluster (loại bỏ bài hiện tại)
 
-3. **Tối ưu ngữ cảnh (Contextual Optimization):**
-   - Không chỉ tìm từ có sẵn. Agent chủ động đề xuất **sửa lại hoặc thêm câu mới** vào bài viết để lồng ghép Anchor Partial Match một cách tự nhiên nhất.
-   - Ví dụ: Thay vì tìm từ "chứng khoán nợ", Agent có thể đề xuất sửa câu *"Trái phiếu là một công cụ tài chính"* thành *"Trái phiếu là một loại [chứng khoán nợ](...) quan trọng"*.
+### Bước 2 — Chọn target links
 
-4. **Kiểm tra Ratio & Xung đột (Anchor Pruning):**
-   - Tra cứu Dashboard. Nếu bài đích đang bị `⚠️ Over-opt`, Agent tuyệt đối không dùng Exact Match, chỉ dùng Partial Match hoặc Title Link.
-   - **Quy tắc Cắt tỉa (Pruning):** Khi một bài mới được thêm vào Index, nếu Keyword chính của nó trùng với Partial Match của bài khác, Agent phải đề xuất xóa bỏ Partial Match đó ở bài cũ.
+| Loại link | Số lượng | Ưu tiên chọn |
+| :--- | :--- | :--- |
+| **Spoke → Hub (Pillar)** | 1 bắt buộc | Luôn link lên Pillar, dù đã có nhiều link |
+| **Spoke → Spoke (Cluster siblings)** | 2-4 bài | Ưu tiên bài có nội dung liên quan trực tiếp với section đang viết |
+| **Cross-cluster** | 0-1 bài | Chỉ khi có liên kết chủ đề thực sự (không cố ép) |
 
-5. **Trình bày danh sách đề xuất:**
-   ```
-   🚀 CHẾ ĐỘ: [Normal / Backfill]
-   📍 BÀI ĐÍCH: [Tên bài]
-   
-   📝 ĐỀ XUẤT SỬA NỘI DUNG & CHÈN LINK:
+**Nếu cluster có ít hơn 3 bài Published:** Link hết tất cả Published, không bắt buộc đủ số.
+
+### Bước 3 — Tra cứu Anchor text
+
+Với mỗi bài đích đã chọn, tra `anchor-index.md`:
+- Lấy Partial Match phù hợp ngữ cảnh nhất → dùng trước
+- Dùng Exact Match nếu không tìm được Partial Match tự nhiên
+- Kiểm tra Dashboard: bài đích đang `⚠️ Over-opt` → chỉ dùng Partial Match
+
+### Bước 4 — Gắn link vào bài (Contextual Optimization)
+
+Không chỉ tìm từ có sẵn. Nếu cần, chủ động **đề xuất sửa/thêm câu mới** để lồng anchor tự nhiên.
+
+Ví dụ: Bài "Hợp đồng tương lai" cần link đến "chứng khoán phái sinh là gì" → nếu trong bài có câu "Hợp đồng tương lai là công cụ tài chính phái sinh", sửa thành "Hợp đồng tương lai là một loại [chứng khoán phái sinh](content/blog/3-finalized/Final-chung-khoan-phai-sinh-la-gi.md)".
+
+### Bước 5 — Kiểm tra Ratio & Xung đột
+
+- Nếu bài đích đang `⚠️ Over-opt`: không dùng Exact Match.
+- **Pruning rule:** Nếu keyword của bài MỚI trùng với Partial Match đang dùng ở bài cũ → đề xuất xóa Partial Match đó ở bài cũ (để tránh keyword cannibalization).
+
+### Bước 6 — Trình bày kết quả
+
+```
+🔗 LINK WHEEL — BÀI: [Tên bài]
+📍 CLUSTER: [Tên cluster] | PILLAR: [Tên pillar]
+
+📝 ĐỀ XUẤT LINK:
+
+1. [Pillar] → [Bài đích] ([Loại: Exact/Partial])
    - Đoạn gốc: "..."
-   - Đoạn sửa: "... [Anchor Text](URL) ..."
-   - Loại Anchor: [Exact / Partial / Title]
-   ```
+   - Đoạn sửa:  "... [Anchor Text](content/blog/3-finalized/Final-[slug].md) ..."
+
+2. [Spoke] → [Bài đích] ([Loại: Exact/Partial])
+   - Đoạn gốc: "..."
+   - Đoạn sửa:  "... [Anchor Text](content/blog/3-finalized/Final-[slug].md) ..."
+```
+
+---
+
+## Chế độ --backfill [slug]
+
+Khi chạy `--backfill [slug]`:
+1. Tìm cluster của bài `[slug]` vừa publish.
+2. Quét toàn bộ bài Published cùng cluster → tìm đoạn có thể chèn link ngược về `[slug]`.
+3. Đề xuất sửa từng bài cũ để chúng link về bài mới — hoàn tất vòng tròn link wheel.
 
 ---
 
 ## Ràng buộc
-- Mỗi bài viết đích chỉ xuất hiện **đúng 1 lần** trong toàn bài.
-- Đường dẫn link luôn sử dụng dạng tương đối: `content/blog/3-finalized/Final-[slug].md`.
-- Tuyệt đối không chiếm dụng các cụm từ là từ khóa của các bài viết khác (tra cứu Planned trong `topic-clusters.md`).
+
+- Mỗi bài đích chỉ xuất hiện **đúng 1 lần** trong toàn bài.
+- Đường dẫn link dùng dạng tương đối: `content/blog/3-finalized/Final-[slug].md`.
+- Không chiếm anchor text là keyword của bài Planned trong `topic-clusters.md`.
+- Tổng số internal link trong 1 bài: **3-6 link** (dưới 3 là thiếu, trên 6 là spam).

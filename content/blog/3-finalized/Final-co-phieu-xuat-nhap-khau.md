@@ -106,21 +106,18 @@ Biên lợi nhuận gộp của doanh nghiệp sẽ sụt giảm mạnh về dư
 
 ---
 
-## Đọc vị chu kỳ doanh nghiệp xuất khẩu cùng HVS
+## Phân tích chu kỳ xuất nhập khẩu cùng HVS Tài chính số
 
-Phần lớn các nhà đầu tư cá nhân F0 thường dễ bị hấp dẫn bởi số liệu tăng trưởng kim ngạch danh nghĩa công bố trên báo chí mà bỏ qua việc bóc tách chi phí logistics thực chất, ảnh hưởng của chênh lệch tỷ giá lên giá vốn đầu vào nhập khẩu hay chi phí lãi vay gánh hàng tồn kho đè nặng. Mua đuổi cổ phiếu xuất khẩu ở vùng đỉnh chu kỳ giá cước vận tải biển sẽ khiến tài sản của bạn nhanh chóng bị bào mòn nghiêm trọng.
+Phần lớn nhà đầu tư cá nhân mới tham gia thị trường thường mua đuổi cổ phiếu xuất khẩu ở vùng đỉnh chu kỳ khi nhìn vào số liệu tăng trưởng kim ngạch danh nghĩa trên báo chí. Mua theo tin tức rất rủi ro. Thiếu kỹ năng bóc tách chi phí logistics thực tế, đánh giá biến động tỷ giá tác động lên giá vốn và chi phí lãi vay gánh hàng tồn kho dễ làm tài sản của bạn hao hụt nghiêm trọng khi chu kỳ đảo chiều.
 
-HVS Securities giúp bạn làm chủ chu kỳ xuất nhập khẩu chuyên nghiệp qua hệ sinh thái giải pháp thực chiến:
+Để giải quyết vấn đề này, **HVS Tài chính số** cung cấp chương trình đào tạo thực chiến **HVS Thực tập số** (môn Phân tích cơ bản FA Level 1). Kỹ năng tốt sẽ bảo vệ vốn. Lộ trình này giúp bạn xây dựng năng lực tự phân tích chu kỳ ngành, bóc tách báo cáo tài chính và dự phóng biên lợi nhuận của các doanh nghiệp xuất nhập khẩu như VHC, TNG hay PTB mà không phụ thuộc vào tin đồn từ các hội nhóm.
 
-*   **HVS Tài chính số:** Công cụ hỗ trợ theo dõi biến động tỷ giá USD/VND thời gian thực, cập nhật giá cước container thế giới và tự động dự phóng biên lợi nhuận gộp xuất khẩu của doanh nghiệp.
-*   **HVS Thực tập số:** Chương trình huấn luyện thực chiến chuyên sâu, giúp bạn cùng Senior Mentor bóc tách chi tiết vòng quay vốn lưu động, nợ vay ngoại tệ và tính toán tỷ lệ tự chủ nguyên liệu thô của VHC, TNG, PTB.
-*   **HVS Demo:** Trải nghiệm đặt lệnh ảo an toàn, giúp bạn kiểm định các bộ quy tắc cắt lỗ và thực hành gom tích lũy cổ phiếu theo chu kỳ đơn hàng xuất khẩu trước khi dùng vốn thật.
-*   **HVS Forum:** Không gian trao đổi thông tin chất lượng, kết nối bạn cùng các nhà đầu tư nhiều kinh nghiệm để thảo luận sâu về thuế phòng vệ thương mại của Mỹ hay tiến độ xanh hóa nhà máy đạt chuẩn ESG.
-
-Bạn hãy trang bị tư duy tài chính sắc bén và bứt phá danh mục xuất nhập khẩu cùng HVS ngay hôm nay!
+Bên cạnh kiến thức nền tảng, bạn có thể thực hành gom tích lũy cổ phiếu theo chu kỳ đơn hàng và kiểm thử quy tắc cắt lỗ trên hệ thống giao dịch giả lập **HVS Demo**. Giao dịch mô phỏng rất an toàn. Môi trường này hỗ trợ bạn rèn luyện kỷ luật đặt lệnh trước khi dùng nguồn vốn thật. Đồng thời, diễn đàn **HVS Forum** là không gian thảo luận trực tiếp giúp bạn kết nối cùng cộng đồng để gỡ rối các thắc mắc về thuế phòng vệ thương mại hay tiến độ xanh hóa nhà máy đạt chuẩn ESG của từng doanh nghiệp. Hãy bắt đầu hoàn thiện tư duy phân tích cùng **HVS** ngay hôm nay!
 
 ---
 
 ## Revision Log
 - **v1.0 (2026-05-26):** Khởi tạo đề cương chi tiết cổ phiếu xuất nhập khẩu bởi Antigravity. Chuẩn hóa theo phong cách HVS Senior Mentor, loại bỏ hoàn toàn các từ AI sáo rỗng.
 - **v1.1 (2026-05-29):** Tái cấu trúc đề cương theo hướng danh sách 4 mã cổ phiếu tiềm năng (VHC, TNG, PTB, ANV) dưới dạng các tiêu đề H3 với các mục Luận điểm và Rủi ro chi tiết, đổi H2 template "3 chất xúc tác" thành chuyên sâu, rút gọn H1 và chèn link nội bộ chính xác.
+- **v1.2 (2026-06-30):** Điều chỉnh HVS Bridge để hướng trọng tâm về HVS Tài chính số (nền tảng đào tạo), định vị HVS Thực tập số là lộ trình huấn luyện thuộc nền tảng và HVS Demo, HVS Forum làm công cụ bổ trợ; loại bỏ từ cấm "đọc vị" ở tiêu đề.
+

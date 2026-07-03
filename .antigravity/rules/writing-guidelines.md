@@ -41,6 +41,7 @@ Mọi bài viết phải vượt qua bộ lọc tư duy tài chính tại `seo-s
 - **Bold Strategy:** Chỉ bôi đậm câu trả lời trực tiếp hoặc thông số quan trọng. Không bôi đậm từ khóa SEO một cách máy móc.
 - **Lists:** Sử dụng bullet points đồng nhất về từ loại (toàn bộ là động từ hoặc toàn bộ là danh từ).
 - **Ngoặc kép:** Không dùng ngoặc kép để nhấn mạnh. Chỉ dùng cho trích dẫn nguyên văn.
+- **Kết luận (BẮT BUỘC):** Mọi bài viết phải kết thúc bằng tiêu đề Kết luận (H2) được tùy biến theo từ khóa chính (Ví dụ: `## Kết luận về rủi ro doanh nghiệp...`). Nội dung phần này phải tóm tắt ngắn gọn các bài học, framework hoặc giải pháp cốt lõi và định hướng hành động cụ thể cho người đọc, đồng thời tuân thủ quy tắc Anti-AI (không dùng "Tóm lại,", "Kết luận là,"). **BẮT BUỘC: Cả phần Sapo và phần Kết luận phải chứa brandname "HVS".**
 
 ---
 *Vi phạm bất kỳ nguyên tắc nào trong 6 mục trên đều dẫn đến kết quả QA "FAIL".*

@@ -44,9 +44,10 @@ Main Agent thực hiện vai trò "Bộ não":
 
 1.  **Synthesis (Tổng hợp):** Kết hợp dữ liệu từ Collector (Thị trường) + Brand Guardian (Bản sắc) + ICP/Audience.
 2.  **Thiết kế Outline:** Tạo Content Brief theo @.antigravity/skills/seo-research/examples/brief-template.md.
-    - **Word Count per Heading (BẮT BUỘC):** Mỗi H2 phải có trường `Word_Count` riêng.
+    - **Cấu trúc bắt buộc:** Outline BẮT BUỘC phải có tiêu đề Kết luận ở cuối (H2: Kết luận...). Tiêu đề kết luận phải tùy biến theo từ khóa (Ví dụ: "Kết luận rủi ro doanh nghiệp...").
+    - **Word Count per Heading (BẮT BUỘC):** Mỗi H2 (bao gồm cả H2 Kết luận) phải có trường `Word_Count` riêng.
       - MAIN sections (phần xương sống): chiếm 60-70% tổng từ — viết đầy đủ ví dụ, số liệu, kịch bản thực tế.
-      - SUPPLEMENTAL sections (giải pháp HVS/CTA): chiếm 30-40% tổng từ — ngắn gọn, focus CTA.
+      - SUPPLEMENTAL sections (giải pháp HVS/CTA) & Conclusion (Kết luận): chiếm 30-40% tổng từ — ngắn gọn, focus CTA.
       - Tổng cộng các section phải ≥ `Word_Count_Target` trong YAML.
     - **Kiểm tra trước khi lưu:** Σ Word_Count các H2 ≥ Word_Count_Target?
 3.  **Lưu file & Review:** Lưu `content/blog/1-outlines/Outline-[slug].md`.
@@ -61,6 +62,8 @@ Main Agent thực hiện vai trò "Bộ não":
     > - Viết từng section theo đúng `Word_Count` đã ghi trong Outline. Kiểm tra số từ section đó TRƯỚC khi viết section tiếp theo.
     > - Nếu một section chưa đạt số từ: bổ sung ví dụ cụ thể, kịch bản thực tế, bảng so sánh, hoặc tính toán minh họa.
     > - **Anti-AI:** Đọc `.antigravity/rules/anti-ai-digest.md` → loop qua FORBIDDEN_STRINGS, FORBIDDEN_PATTERNS, verify REQUIRED trước khi bắt đầu viết.
+    > - **⛔ CHỐNG PADDING:** KHÔNG chuyển danh sách bullet/numbered đã viết thành các đoạn văn "Nguyên nhân thứ 1 là...; Nguyên nhân thứ 2 là...;" để tăng số từ. Nếu section thiếu từ: thêm ví dụ cụ thể MỚI, kịch bản thực tế MỚI, bảng so sánh MỚI — không viết lại nội dung đã có dưới dạng list. Danh sách ngắn gọn là intentional, không phải lỗi cần "sửa".
+    > - **Conclusion (Kết luận):** Bắt buộc phải viết phần Kết luận (H2) ở cuối bài theo đúng Outline. Tuyệt đối không dùng các từ khóa cấm trong TIER 1 như "Tóm lại,", "Kết luận là,".
     > - **Formatting Diversity (Lists & Tables):** Bắt buộc chèn danh sách liệt kê (bullet/numbered lists) cho các bước quy trình và ít nhất một bảng Markdown so sánh/đối chiếu để tránh các mảng chữ dài (walls of text).
     > - **Financial Logic (Scenarios & Risk-Reward):** Bắt buộc tích hợp công thức kịch bản "Nếu [Biến số A] -> [Kịch bản 1]. Nếu [Biến số B] -> [Kịch bản 2]" và ghi nhận cảnh báo rủi ro thực tế đi kèm mọi khuyến nghị.
     > - **HVS Product Hierarchy:** Khi lồng ghép thương hiệu HVS, luôn đặt **HVS Tài Chính Số** (với chương trình đào tạo **HVS Thực tập số**) làm giải pháp cốt lõi, các công cụ **HVS Demo** và **HVS Forum** làm bổ trợ phía dưới.

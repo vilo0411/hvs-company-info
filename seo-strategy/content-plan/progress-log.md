@@ -1,20 +1,66 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 217 bài
-- **Active Pipeline:** 0 items
+- **Published:** 253 bài
+- **Active Pipeline:** 8 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
 
 ## Active Pipeline
 
-
+| Keyword | Persona | Mode | Status |
+| :--- | :--- | :--- | :--- |
+| sách về tài chính | Sơn Sinh Viên | Express | Outline-Pending |
+| sách về chứng khoán của warren buffett | Sơn Sinh Viên | Express | Outline-Pending |
+| giáo trình phân tích báo cáo tài chính | Sơn Sinh Viên | Express | Outline-Pending |
+| sách phân tích kỹ thuật chứng khoán | Sơn Sinh Viên | Express | Outline-Pending |
+| Trái phiếu chuyển đổi là gì | Lan Newbie | Express | Outline-Pending |
+| Phân tích Dupont là gì | Lan Newbie | Express | Outline-Pending |
+| Phân tích báo cáo tài chính Công ty Bibica | Lan Newbie | Express | Outline-Pending |
 
 ---
 
 ## Publication Log
 
+| Date | Keyword | Persona | Mode | File Path |
+| :--- | :--- | :--- | :--- | :--- |
+| 2026-07-02 | Tỷ số thanh toán nhanh là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-ty-so-thanh-toan-nhanh-la-gi.md` |
+| 2026-07-02 | Tỷ số thanh toán bằng tiền mặt | Lan Newbie | Express | `content/blog/3-finalized/Final-ty-so-thanh-toan-bang-tien-mat.md` |
+| 2026-07-02 | Tỷ số nợ trên tổng tài sản | Lan Newbie | Express | `content/blog/3-finalized/Final-ty-so-no-tren-tong-tai-san.md` |
+| 2026-07-02 | Trái phiếu ngân hàng là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-trai-phieu-ngan-hang-la-gi.md` |
+| 2026-07-02 | Trái phiếu doanh nghiệp là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-trai-phieu-doanh-nghiep-la-gi.md` |
+| 2026-07-02 | Trái phiếu chính phủ là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-trai-phieu-chinh-phu-la-gi.md` |
+| 2026-07-02 | so sánh forex và chứng khoán | Lan Newbie | Express | `content/blog/3-finalized/Final-so-sanh-forex-va-chung-khoan.md` |
+| 2026-07-01 | Sóng Elliott là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-song-elliott-la-gi.md` |
+| 2026-07-01 | Nợ xấu trong các cổ phiếu ngành ngân hàng | Lan Newbie | Express | `content/blog/3-finalized/Final-no-xau-trong-cac-co-phieu-nganh-ngan-hang.md` |
+| 2026-07-01 | Nợ phải trả là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-no-phai-tra-la-gi.md` |
+| 2026-07-01 | nợ dài hạn trên vốn chủ sở hữu | Lan Newbie | Express | `content/blog/3-finalized/Final-no-dai-han-tren-von-chu-so-huu.md` |
+| 2026-07-01 | nến doji | Lan Newbie | Express | `content/blog/3-finalized/Final-nen-doji.md` |
+| 2026-07-01 | Mô hình kinh doanh là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-mo-hinh-kinh-doanh-la-gi.md` |
+| 2026-07-01 | Mô hình CAPM là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-mo-hinh-capm-la-gi.md` |
+| 2026-07-01 | M&A là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-m-a-la-gi.md` |
+| 2026-07-01 | Khi nào nên mua cổ phiếu | Lan Newbie | Express | `content/blog/3-finalized/Final-khi-nao-nen-mua-co-phieu.md` |
+| 2026-07-01 | Hợp đồng tương lai | Lan Newbie | Express | `content/blog/3-finalized/Final-hop-dong-tuong-lai.md` |
+| 2026-07-01 | Hệ số thanh toán là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-he-so-thanh-toan-la-gi.md` |
+| 2026-06-29 | hệ số khả năng thanh toán lãi vay | Lan Newbie | Express | `content/blog/3-finalized/Final-he-so-kha-nang-thanh-toan-lai-vay.md` |
+| 2026-06-29 | giá trị sổ sách của cổ phiếu | Lan Newbie | Express | `content/blog/3-finalized/Final-gia-tri-so-sach-cua-co-phieu.md` |
+| 2026-06-29 | fibonacci thoái lui | Lan Newbie | Express | `content/blog/3-finalized/Final-fibonacci-thoai-lui.md` |
+| 2026-06-29 | EBITDA là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-ebitda-la-gi.md` |
+| 2026-06-29 | Fibonacci là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-fibonacci-la-gi.md` |
+| 2026-06-29 | đầu tư etf | Lan Newbie | Express | `content/blog/3-finalized/Final-dau-tu-etf.md` |
+| 2026-06-29 | đáo hạn phái sinh là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-dao-han-phai-sinh-la-gi.md` |
+| 2026-06-29 | có nên đầu tư trái phiếu | F0 (Lan Newbie) | Express | `content/blog/3-finalized/Final-co-nen-dau-tu-trai-phieu.md` |
+| 2026-06-29 | chứng khoán cơ sở và chứng khoán phái sinh | Lan Newbie | Express | `content/blog/3-finalized/Final-chung-khoan-co-so-va-chung-khoan-phai-sinh.md` |
+| 2026-06-26 | chứng khoán phái sinh là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-chung-khoan-phai-sinh-la-gi.md` |
+| 2026-06-26 | chứng chỉ tài chính | Sơn Sinh Viên | Express | `content/blog/3-finalized/Final-chung-chi-tai-chinh.md` |
+| 2026-06-26 | chứng chỉ hành nghề chứng khoán | Sơn Sinh Viên | Express | `content/blog/3-finalized/Final-chung-chi-hanh-nghe-chung-khoan.md` |
+| 2026-06-26 | chứng chỉ cpa | Sơn Sinh Viên | Express | `content/blog/3-finalized/Final-chung-chi-cpa.md` |
+| 2026-06-26 | chỉ báo Bollinger Bands | Lan Newbie | Express | `content/blog/3-finalized/Final-chi-bao-bollinger-bands.md` |
+| 2026-06-26 | chỉ báo bollinger bands width | Lan Newbie | Express | `content/blog/3-finalized/Final-chi-bao-bollinger-bands-width.md` |
+| 2026-06-23 | rủi ro doanh nghiệp trong đầu tư chứng khoán là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-rui-ro-doanh-nghiep-trong-dau-tu-chung-khoan-la-gi.md` |
+| 2026-06-23 | chứng chỉ cmt | Sơn Sinh Viên | Detailed | `content/blog/3-finalized/Final-chung-chi-cmt.md` |
+| 2026-06-23 | doanh nghiệp mua lại cổ phiếu để làm gì | Lan Newbie | Express | `content/blog/3-finalized/Final-doanh-nghiep-mua-lai-co-phieu-de-lam-gi.md` |
 | 2026-06-22 | đầu tư chứng khoán có những rủi ro gì | Lan Newbie | Express | `content/blog/3-finalized/Final-dau-tu-chung-khoan-co-nhung-rui-ro-gi.md` |
 | 2026-06-22 | chu kỳ kinh tế là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-chu-ky-kinh-te-la-gi.md` |
 | 2026-06-22 | chi phí cơ hội là gì | Lan Newbie | Detailed | `content/blog/3-finalized/Final-chi-phi-co-hoi-la-gi.md` |

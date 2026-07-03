@@ -27,19 +27,20 @@ Mục tiêu: PASS trong ≤2 vòng. Nếu cần >2 vòng → vấn đề ở Bri
 
 ### SEO Structure & Holistic (Koray Gübür)
 - [ ] H1 chứa keyword chính xác & ≤65 ký tự?
-- [ ] Sapo: keyword xuất hiện trong 100 từ đầu & ≤150 từ?
+- [ ] Sapo: keyword xuất hiện trong 100 từ đầu, ≤150 từ & BẮT BUỘC chứa brandname "HVS"?
 - [ ] **Formatting Diversity (BẮT BUỘC):**
   - [ ] Không có đoạn văn nào dài >4 câu hoặc >80 từ?
   - [ ] Không có quá 2 đoạn văn bản thông thường nằm liền kề nhau mà không có danh sách hoặc bảng ngắt quãng?
   - [ ] Toàn bộ các quy trình, bước thực hiện bắt buộc phải viết dưới dạng danh sách (bullet/numbered lists)?
   - [ ] Có ít nhất một bảng so sánh hoặc đối chiếu dữ liệu (Markdown Table) cho mỗi 1000 từ?
-  - [ ] Các công thức tính toán hoặc minh họa số liệu được trình bày bằng ký hiệu toán học ($...$ hoặc $$...$$)?
+  - [ ] Tránh dùng công thức dạng LaTeX ($$ hoặc $) gây lỗi định dạng khi chuyển sang Google Docs, thay bằng blockquote in đậm?
 - [ ] **Word Sequence:** Thực thể quan trọng nằm ở 5-7 từ đầu câu? (Rule 1)
 - [ ] **Direct Answers:** Câu đầu tiên dưới mỗi H2 trả lời trực tiếp cho Heading? (Rule 9/12)
 - [ ] **Bolding:** Chỉ bôi đậm câu trả lời/giá trị cốt lõi (không bold keyword)? (Rule 13)
 - [ ] **Entity Enrichment:** Sử dụng các thực thể từ `Entities_Gap_Analysis` trong Outline? (Rule 14)
 - [ ] **Bảo chứng SERP:** Outline có liệt kê các Entities/Ý tưởng từ Top 10 đối thủ? (YAML `SERP_Research: true`)?
 - [ ] **Content Gap:** Có điểm khác biệt/nâng cấp rõ rệt so với đối thủ?
+- [ ] **Kết luận:** Có tiêu đề Kết luận (H2) tùy biến theo từ khóa chính ở cuối bài (không trùng tiêu đề mẫu), nội dung không sử dụng từ cấm ("Tóm lại,", "Kết luận là,") & BẮT BUỘC chứa brandname "HVS"?
 
 ### Anti-AI & Syntax
 - [ ] **Anti-AI scan:** Đọc `.antigravity/rules/anti-ai-digest.md` → loop qua FORBIDDEN_STRINGS, FORBIDDEN_PATTERNS → flag mọi match; verify tất cả REQUIRED items

@@ -58,7 +58,7 @@ Internal_Links: []
 ```
 
 - **Title:** [Tối đa 59 ký tự, chứa từ khóa chính]
-- **Sapo:** [Chứa từ khóa chính, ưu tiên thực thể ở đầu câu]
+- **Sapo:** [Chứa từ khóa chính, ưu tiên thực thể ở đầu câu, BẮT BUỘC chứa brandname "HVS"]
 - **Meta description:** [~155 ký tự, chứa keyword]
 
 ---
@@ -80,6 +80,14 @@ Internal_Links: []
 - **Word_Count:** [Số từ dự kiến]
 
 [END_DYNAMIC_HEADINGS]
+
+---
+
+#### H2: Kết luận: [Tiêu đề kết luận tùy biến theo từ khóa]
+- **Nhiệm vụ/Trọng tâm:** Tóm tắt ngắn gọn các bài học, framework hoặc giải pháp cốt lõi đã đề cập trong bài viết. Cung cấp thông điệp chốt hạ định hướng hành động (actionable advice) cho người đọc. Bắt buộc KHÔNG dùng các từ cấm như "Tóm lại,", "Kết luận là," và BẮT BUỘC chứa brandname "HVS".
+- **HVS Bridge:** Không
+- **Entities & Keywords:** [Các thực thể tóm tắt của bài]
+- **Word_Count:** [100-150 từ]
 
 ---
 
@@ -112,5 +120,6 @@ Internal_Links: []
 
 ### Word Count — BẮT BUỘC đạt số từ trong outline
 - Viết đủ Word_Count ghi trong Brief, KHÔNG cắt ngắn.
-- Nếu thiếu từ: bổ sung ví dụ cụ thể, kịch bản thực tế, hoặc bảng so sánh.
+- Nếu thiếu từ: bổ sung ví dụ cụ thể MỚI, kịch bản thực tế MỚI, hoặc bảng so sánh MỚI.
+- **⛔ TUYỆT ĐỐI KHÔNG:** Chuyển danh sách bullet/numbered đã viết thành các đoạn văn "Nguyên nhân thứ 1 là...; Nguyên nhân thứ 2 là...;" để đạt số từ. Danh sách ngắn gọn là intentional — viết lại thành prose là padding, không phải content.
 - Không được dừng lại khi chưa đạt Word_Count của từng section.

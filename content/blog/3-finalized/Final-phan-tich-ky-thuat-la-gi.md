@@ -31,14 +31,14 @@ Mỗi mô hình biểu đồ đều là cuộc chiến giữa phe mua và phe b�
 
 Nhà đầu tư chuyên nghiệp không bao giờ khẳng định chắc chắn giá sẽ tăng hay giảm. Thay vào đó, họ xây dựng các phương án ứng phó dựa trên các ngưỡng hỗ trợ và kháng cự:
 
-- **Khi giá phá vỡ kháng cự (Breakout):** Nếu nhịp tăng đi kèm với khối lượng giao dịch (Volume) tăng đột biến, đây là tín hiệu xác nhận dòng tiền lớn nhập cuộc, xu hướng tăng bền vững được thiết lập.
+- **Khi giá phá vỡ kháng cự ([Breakout](content/blog/3-finalized/Final-breakout-trong-chung-khoan-la-gi.md)):** Nếu nhịp tăng đi kèm với khối lượng giao dịch (Volume) tăng đột biến, đây là tín hiệu xác nhận dòng tiền lớn nhập cuộc, xu hướng tăng bền vững được thiết lập.
 - **Rủi ro bẫy tăng giá (Fakeout):** Nếu giá vượt kháng cự nhưng khối lượng thấp and ngay lập tức bị bán ngược trở lại, bạn đang đối mặt với một cú lừa của thị trường. Đây là lúc cần ưu tiên bảo vệ vốn thay vì mua đuổi theo cảm tính.
-- **Tín hiệu đảo chiều tại hỗ trợ:** Khi giá chạm vùng hỗ trợ mạnh và xuất hiện các mẫu hình nến rút chân (như nến búa), đó là dấu hiệu cho thấy phe mua đã quay trở lại đỡ giá, mở ra cơ hội giải ngân an toàn.
+- **Tín hiệu đảo chiều tại hỗ trợ:** Khi giá chạm vùng hỗ trợ mạnh và xuất hiện các mẫu hình nến rút chân (như [nến búa](content/blog/3-finalized/Final-nen-bua.md)), đó là dấu hiệu cho thấy phe mua đã quay trở lại đỡ giá, mở ra cơ hội giải ngân an toàn.
 
 ## Đặc thù phân tích kỹ thuật tại thị trường Việt Nam
 
 Áp dụng phân tích kỹ thuật tại Việt Nam đòi hỏi bạn phải hiểu rõ các biến số đặc thù:
-- **Tác động của khối ngoại:** Các dòng tiền lớn này thường dẫn dắt xu hướng của các cổ phiếu trụ (VNM, VCB, HPG). Việc theo dõi sự luân chuyển của dòng vốn ngoại sẽ giúp bạn nhận diện sớm các nhịp rung lắc của chỉ số VN-Index.
+- **Tác động của [khối ngoại](content/blog/3-finalized/Final-khoi-ngoai-la-gi.md):** Các dòng tiền lớn này thường dẫn dắt xu hướng của các cổ phiếu trụ (VNM, VCB, HPG). Việc theo dõi sự luân chuyển của dòng vốn ngoại sẽ giúp bạn nhận diện sớm các nhịp rung lắc của chỉ số VN-Index.
 - **Độ trễ T+2.5:** Tại Việt Nam, bạn không thể thực hiện giao dịch trong ngày (Day trading). Do đó, các tín hiệu kỹ thuật trên khung thời gian quá ngắn (như 5 phút, 15 phút) thường có độ nhiễu rất cao. Nhà đầu tư F0 nên tập trung vào biểu đồ ngày (Daily) để có cái nhìn chuẩn xác hơn về xu hướng trung hạn.
 - **Thanh khoản và rác kỹ thuật:** Nhiều cổ phiếu vốn hóa nhỏ (Penny) có đồ thị rất đẹp nhưng thực chất là do các đội lái tạo thanh khoản ảo. Giao dịch các mã này tiềm ẩn rủi ro không thể thoát hàng khi thị trường đảo chiều.
 

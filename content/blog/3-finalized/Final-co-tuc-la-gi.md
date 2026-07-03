@@ -31,7 +31,7 @@ Có hai hình thức trả cổ tức phổ biến nhất mà bạn cần nắm 
 ### 2. Cổ tức bằng cổ phiếu
 Thay vì trả tiền, doanh nghiệp sẽ phát hành thêm cổ phiếu mới cho cổ đông. Ví dụ: Tỷ lệ 10:1 (nghĩa là sở hữu 10 cổ phiếu được nhận thêm 1 cổ phiếu mới).
 *   **Ưu điểm:** Giúp doanh nghiệp giữ lại tiền để tái đầu tư mở rộng sản xuất, đồng thời tăng tính thanh khoản cho cổ phiếu trên thị trường.
-*   **Nhược điểm:** Số lượng cổ phiếu lưu hành tăng lên khiến EPS (lợi nhuận trên mỗi cổ phần) có thể bị pha loãng trong ngắn hạn.
+*   **Nhược điểm:** Số lượng cổ phiếu lưu hành tăng lên khiến [EPS](content/blog/3-finalized/Final-chi-so-eps-la-gi.md) (lợi nhuận trên mỗi cổ phần) có thể bị pha loãng trong ngắn hạn.
 
 ## Quy trình nhận cổ tức và các mốc thời gian quan trọng
 
@@ -48,7 +48,7 @@ Thay vì trả tiền, doanh nghiệp sẽ phát hành thêm cổ phiếu mới 
 Để biến cổ tức thành nguồn thu nhập ổn định, bạn nên áp dụng các chiến thuật sau:
 - **Chọn doanh nghiệp đầu ngành:** Những công ty có vị thế vững chắc, dòng tiền ổn định như VNM, VCB thường có lịch sử trả cổ tức cực kỳ đều đặn qua nhiều thập kỷ.
 - **Theo dõi tỷ lệ chi trả:** Đừng ham những công ty chia cổ tức quá cao (vượt quá lợi nhuận làm ra) vì điều đó cho thấy doanh nghiệp không còn động lực tái đầu tư để tăng trưởng.
-- **Đầu tư dài hạn:** Cổ tức chỉ thực sự phát huy sức mạnh lãi kép khi bạn nắm giữ cổ phiếu trong nhiều năm và dùng chính tiền cổ tức đó để tiếp tục mua thêm cổ phiếu.
+- **Đầu tư dài hạn:** Cổ tức chỉ thực sự phát huy sức mạnh lãi kép khi bạn nắm giữ cổ phiếu trong nhiều năm và dùng chính tiền cổ tức đó để [tiếp tục mua thêm cổ phiếu](content/blog/3-finalized/Final-cach-mua-co-phieu.md).
 
 ## Xây dựng chiến lược đầu tư nhận cổ tức cùng HVS Tài Chính Số
 
@@ -56,6 +56,6 @@ Tại **HVS Tài Chính Số**, chúng tôi giúp bạn đánh giá sức khỏe
 
 *   **Lộ trình thực chiến:** Từ kiến thức nền tảng tại khóa **Level 1** đến kỹ thuật phân tích dòng tiền chuyên sâu trong chương trình **HVS Thực tập số**, giúp bạn biết cách bóc tách sức khỏe tài chính thực sự của doanh nghiệp.
 *   **Rèn luyện kỹ năng:** Thực hành tính toán tỷ suất cổ tức (Dividend Yield) và theo dõi các Case Study thực tế về điều chỉnh giá cổ phiếu trên hệ thống **HVS Demo**, giúp bạn nắm vững cơ chế vận hành của thị trường mà không gặp rủi ro vốn.
-*   **Cộng đồng chất lượng:** Quyền lợi tham gia **HVS Forum** để cập nhật lịch trả cổ tức nhanh nhất và nhận góc nhìn đa chiều từ các Mentor giàu kinh nghiệm về các cơ hội đầu tư tích sản.
+*   **Cộng đồng chất lượng:** Quyền lợi tham gia **HVS Forum** để cập nhật [lịch trả cổ tức](content/blog/3-finalized/Final-lich-chia-co-tuc.md) nhanh nhất và nhận góc nhìn đa chiều từ các Mentor giàu kinh nghiệm về các cơ hội đầu tư tích sản.
 
 Cổ tức là phần thưởng cho sự kiên nhẫn của nhà đầu tư. Hãy làm chủ danh mục đầu tư cùng **HVS** ngay hôm nay!
