@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -25,7 +25,7 @@ Quy mô thị trường quỹ mở Việt Nam đã có sự tăng trưởng đá
 Trong khi đó, quỹ hoán đổi danh mục ETF hoạt động như một thực thể thụ động mô phỏng các rổ chỉ số có sẵn.
 Nhà đầu tư cá nhân nhỏ lẻ không cần nộp hồ sơ đăng ký phức tạp với công ty quản lý quỹ. Bạn có thể mở tài khoản chứng khoán thông thường và tiến hành đặt lệnh mua bán chứng chỉ quỹ ETF trực tiếp trên bảng điện sàn HOSE giống như giao dịch cổ phiếu SSI hay HPG.
 
-Để có góc nhìn so sánh chi tiết hơn về mặt triết lý phân bổ tài sản của mô hình quỹ mở, bạn nên tham khảo thêm bài viết [Quỹ mở là gì](content/blog/3-finalized/Final-quy-mo-la-gi.md) trước khi đưa ra quyết định giải ngân.
+Để có góc nhìn so sánh chi tiết hơn về mặt triết lý phân bổ tài sản của mô hình quỹ mở, bạn nên tham khảo thêm bài viết [Quỹ mở là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quy-mo-la-gi) trước khi đưa ra quyết định giải ngân.
 
 ## Phân biệt quỹ ETF và quỹ tương hỗ qua 4 điểm khác biệt căn bản
 
@@ -53,7 +53,7 @@ Chênh lệch về chi phí ảnh hưởng rất lớn đến lợi nhuận ròn
 
 Sự khác biệt về chi phí này có thể tạo ra tác động lũy kế khổng lồ lên tổng tài sản tích lũy của bạn sau thời gian mười hay hai mươi năm. Đầu tư vào các quỹ có mức phí quản lý cao đòi hỏi hiệu suất sinh lời ròng của chuyên gia phải thực sự vượt trội mới bù đắp được chi phí cơ hội đã bỏ ra hằng năm.
 
-Để hiểu sâu hơn về cơ chế vận hành của hai dòng quỹ này trong thực tế danh mục đầu tư cá nhân, bạn có thể tham khảo thêm bài viết phân tích chi tiết [Nên đầu tư quỹ mở hay quỹ etf](content/blog/3-finalized/Final-nen-dau-tu-quy-mo-hay-quy-etf.md).
+Để hiểu sâu hơn về cơ chế vận hành của hai dòng quỹ này trong thực tế danh mục đầu tư cá nhân, bạn có thể tham khảo thêm bài viết phân tích chi tiết [Nên đầu tư quỹ mở hay quỹ etf](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/nen-dau-tu-quy-mo-hay-quy-etf).
 
 ## Nên lựa chọn quỹ ETF hay quỹ tương hỗ để tích sản?
 

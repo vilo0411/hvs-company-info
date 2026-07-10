@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["đầu tư ngắn hạn"]
 Status: Finalized
@@ -22,7 +22,7 @@ Nhiều nhà đầu tư cá nhân mới tham gia thị trường chứng khoán 
 
 **Đầu tư ngắn hạn trong chứng khoán là việc mua và nắm giữ các tài sản tài chính (cổ phiếu, chứng chỉ quỹ) trong một khoảng thời gian ngắn, thường từ vài ngày, vài tuần đến dưới một năm, nhằm tìm kiếm lợi nhuận nhanh từ biến động thị giá và gia tăng tốc độ xoay vòng vốn.**
 
-Triết lý cốt lõi của chiến lược đầu tư ngắn hạn là tối ưu hóa hiệu suất sử dụng dòng vốn thông qua tốc độ quay vòng vốn nhanh chóng. Thay vì để tiền nằm yên một chỗ tại một doanh nghiệp trong nhiều năm như trường phái [đầu tư giá trị](Final-dau-tu-gia-tri.md), nhà đầu tư ngắn hạn chủ động tìm kiếm các cơ hội mua cổ phiếu có dòng tiền mạnh để gặt hái thặng dư giá trong thời gian ngắn nhất có thể.
+Triết lý cốt lõi của chiến lược đầu tư ngắn hạn là tối ưu hóa hiệu suất sử dụng dòng vốn thông qua tốc độ quay vòng vốn nhanh chóng. Thay vì để tiền nằm yên một chỗ tại một doanh nghiệp trong nhiều năm như trường phái [đầu tư giá trị](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-gia-tri), nhà đầu tư ngắn hạn chủ động tìm kiếm các cơ hội mua cổ phiếu có dòng tiền mạnh để gặt hái thặng dư giá trong thời gian ngắn nhất có thể.
 
 Bản chất của phương pháp này là khai thác sự chênh lệch giá thị trường do các biến động cung cầu ngắn hạn tạo ra. Bạn sẽ tập trung phân tích các tín hiệu dòng tiền, các mẫu hình nến giá và khối lượng giao dịch trên các sàn HOSE, HNX và UPCOM để tìm kiếm điểm mua bán tối ưu. Nhà đầu tư ngắn hạn thường không quan tâm đến triển vọng phát triển 5 hay 10 năm của doanh nghiệp, mà chỉ tập trung vào việc giá cổ phiếu có khả năng bứt phá trong vài phiên sắp tới hay không để đưa ra quyết định đặt lệnh nhanh chóng. Bằng cách thực hiện xoay vòng vốn liên tục qua nhiều mã cổ phiếu khác nhau, bạn kỳ vọng sẽ tạo ra mức lợi nhuận tổng hợp vượt trội so với hiệu suất tăng trưởng chung của chỉ số thị trường.
 
@@ -38,7 +38,7 @@ Về nhược điểm, việc giao dịch ngắn hạn liên tục khiến bạn
 
 Để tham gia giao dịch ngắn hạn hiệu quả, bạn có thể lựa chọn và áp dụng một trong ba chiến lược thực chiến phổ biến dưới đây:
 
-Thứ nhất là **Swing Trading (Giao dịch theo sóng)**. Đây là chiến lược phù hợp nhất với F0, nơi bạn nắm giữ cổ phiếu từ vài ngày đến vài tuần để tận dụng trọn vẹn một nhịp sóng tăng kỹ thuật ngắn hạn. Bạn có thể kết hợp thêm bài viết [đầu tư lướt sóng](Final-dau-tu-luot-song.md) để hiểu rõ hơn cách lọc các điểm mua bán tối ưu theo chỉ báo kỹ thuật. Các nhà giao dịch theo sóng chuyên nghiệp thường kết hợp đường trung bình động với các vùng hỗ trợ và kháng cự mạnh để xác định điểm dừng lỗ tối ưu.
+Thứ nhất là **Swing Trading (Giao dịch theo sóng)**. Đây là chiến lược phù hợp nhất với F0, nơi bạn nắm giữ cổ phiếu từ vài ngày đến vài tuần để tận dụng trọn vẹn một nhịp sóng tăng kỹ thuật ngắn hạn. Bạn có thể kết hợp thêm bài viết [đầu tư lướt sóng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-luot-song) để hiểu rõ hơn cách lọc các điểm mua bán tối ưu theo chỉ báo kỹ thuật. Các nhà giao dịch theo sóng chuyên nghiệp thường kết hợp đường trung bình động với các vùng hỗ trợ và kháng cự mạnh để xác định điểm dừng lỗ tối ưu.
 
 Thứ hai là **Day Trading (Giao dịch trong ngày)**. Mặc dù thị trường chứng khoán Việt Nam chưa hỗ trợ chu kỳ T+0 hoàn toàn để mua bán cùng một lượng cổ phiếu trong ngày, bạn vẫn có thể thực hiện giao dịch xoay vòng trên kho hàng có sẵn. Bằng cách bán một lượng cổ phiếu có sẵn trong tài khoản khi giá tăng mạnh và mua lại chính lượng cổ phiếu đó khi giá giảm sâu trong phiên, bạn tối ưu hóa được giá vốn mà không làm thay đổi quy mô danh mục dài hạn. Việc giao dịch xoay vòng này giúp bạn liên tục tối ưu hóa giá vốn của lượng cổ phiếu nắm giữ dài hạn mà không bị ảnh hưởng bởi quy định T+2.5 thông thường.
 
@@ -50,7 +50,7 @@ Giao dịch ngắn hạn đòi hỏi kỷ luật quản trị rủi ro nghiêm n
 
 Học viên tham gia **HVS Tài chính số** được trang bị tư duy phân bổ vốn ngắn hạn khoa học và kỹ năng sử dụng lệnh điều kiện. Sau đó, chương trình **HVS Thực tập số** (lộ trình Nhà Tư Vấn) giúp bạn thực hành bóc tách các chỉ báo kỹ thuật như MA, RSI, MACD dưới sự kèm cặp 1-1 của các mentor giàu kinh nghiệm. Bạn sẽ học được cách kiểm soát tâm lý, tránh mua đuổi theo tin đồn và tính toán tỷ suất sinh lời thực tế sau khi trừ đi thuế phí.
 
-Đồng thời, bạn được cấp tài khoản giả lập **HVS Demo** để tự do thực hành các chiến lược lướt sóng sự kiện bằng tiền ảo mà không lo sợ rủi ro mất tiền thật. Cuối cùng, diễn đàn **HVS Forum** là nơi kết nối bạn với cộng đồng nhà đầu tư thực chiến để thảo luận cơ hội giao dịch ngắn hạn tiềm năng và phản biện kế hoạch giao dịch của nhau. Hãy tham khảo thêm bài viết [quản trị rủi ro chứng khoán](Final-quan-tri-rui-ro-chung-khoan.md) để củng cố hệ thống tự vệ cho tài khoản của bạn.
+Đồng thời, bạn được cấp tài khoản giả lập **HVS Demo** để tự do thực hành các chiến lược lướt sóng sự kiện bằng tiền ảo mà không lo sợ rủi ro mất tiền thật. Cuối cùng, diễn đàn **HVS Forum** là nơi kết nối bạn với cộng đồng nhà đầu tư thực chiến để thảo luận cơ hội giao dịch ngắn hạn tiềm năng và phản biện kế hoạch giao dịch của nhau. Hãy tham khảo thêm bài viết [quản trị rủi ro chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quan-tri-rui-ro-chung-khoan) để củng cố hệ thống tự vệ cho tài khoản của bạn.
 
 ### Bảng mô phỏng tác động của thuế phí lên tỷ suất sinh lời ngắn hạn
 

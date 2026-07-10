@@ -1,4 +1,4 @@
----
+﻿---
 Author: HVS Senior Mentor
 Status: Finalized
 Mode: Detailed
@@ -64,7 +64,7 @@ Thứ nhất, chi phí Jet A1 chiếm tỷ trọng lớn trong chi phí hoạt �
 
 Thứ hai, gánh nặng lỗ lũy kế kéo dài từ đại dịch vẫn chưa được giải quyết xong. Tính đến quý 1/2026, lỗ lũy kế vượt 40.000 tỷ đồng, gây âm vốn chủ sở hữu trên bảng cân đối kế toán. Thực trạng tài chính yếu kém tạo áp lực pháp lý lớn về duy trì niêm yết HOSE. Rủi ro hủy niêm yết vẫn treo lơ lửng. Rủi ro này là hiện hữu.
 
-So với các mã [cổ phiếu hàng không](content/blog/3-finalized/Final-co-phieu-hang-khong.md) khác có cơ cấu nợ lành mạnh hơn, rủi ro tài chính của HVN vượt trội. Gánh nặng nợ vay ngoại tệ USD lớn để thuê mua tàu bay khiến kết quả kinh doanh nhạy cảm với tỷ giá. Khi USD tăng giá so với VND, khoản lỗ tỷ giá cuối năm có thể xóa sạch lợi nhuận khai thác. Bạn phải cân nhắc kỹ rủi ro này trước khi quyết định mở vị thế giao dịch. Đừng để danh tiếng hàng không quốc gia làm mờ mắt trước thực tế tài chính kém sắc.
+So với các mã [cổ phiếu hàng không](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-hang-khong) khác có cơ cấu nợ lành mạnh hơn, rủi ro tài chính của HVN vượt trội. Gánh nặng nợ vay ngoại tệ USD lớn để thuê mua tàu bay khiến kết quả kinh doanh nhạy cảm với tỷ giá. Khi USD tăng giá so với VND, khoản lỗ tỷ giá cuối năm có thể xóa sạch lợi nhuận khai thác. Bạn phải cân nhắc kỹ rủi ro này trước khi quyết định mở vị thế giao dịch. Đừng để danh tiếng hàng không quốc gia làm mờ mắt trước thực tế tài chính kém sắc.
 
 ---
 
@@ -74,7 +74,7 @@ Kịch bản giả lập diễn biến giá cổ phiếu HVN dưới đây giúp
 
 Kịch bản tích cực (Kịch bản giả lập 1): Giả lập tình huống giá dầu Jet A1 giảm sâu dưới mốc dự báo và khách du lịch quốc tế bùng nổ vượt kỳ vọng trong năm 2026. Phương án phát hành tăng vốn để xóa lỗ lũy kế được cơ quan quản lý thông qua nhanh chóng. Cổ phiếu HVN có thể bứt phá dứt khoát khỏi các vùng kháng cự. Bạn có thể dùng tài khoản HVS Demo thực hành giải ngân giả định quanh hỗ trợ 15.000 đồng/cổ phiếu, chốt lời giả lập tại 19.500 đồng.
 
-Kịch bản phòng thủ (Kịch bản giả lập 2): Giả lập tình huống giá dầu Jet A1 vượt $100/thùng và kế hoạch tái cơ cấu bị trì hoãn do vướng mắc thủ tục. Tình trạng âm vốn chủ kéo dài khiến rủi ro hủy niêm yết tăng cao. Áp lực bán sẽ kích hoạt đà giảm sâu. Bạn chủ động phòng thủ bằng cách đứng ngoài, thực hành kiên nhẫn trên Demo để bảo toàn vốn ảo thay vì bắt đáy. Giống như khi học phân tích [Có nên mua cổ phiếu POW](content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md), kịch bản giúp bạn chủ động.
+Kịch bản phòng thủ (Kịch bản giả lập 2): Giả lập tình huống giá dầu Jet A1 vượt $100/thùng và kế hoạch tái cơ cấu bị trì hoãn do vướng mắc thủ tục. Tình trạng âm vốn chủ kéo dài khiến rủi ro hủy niêm yết tăng cao. Áp lực bán sẽ kích hoạt đà giảm sâu. Bạn chủ động phòng thủ bằng cách đứng ngoài, thực hành kiên nhẫn trên Demo để bảo toàn vốn ảo thay vì bắt đáy. Giống như khi học phân tích [Có nên mua cổ phiếu POW](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pow), kịch bản giúp bạn chủ động.
 
 Kế hoạch hành động giả lập tham khảo cụ thể cho bạn:
 * Vùng giá theo dõi giải ngân giả định (Kịch bản 1): Quanh 15.000 đồng/cổ phiếu.

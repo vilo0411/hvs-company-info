@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -17,11 +17,11 @@ Bạn thấy nhiều người xung quanh kiếm lời nhanh chóng từ các mã
 
 Cổ phiếu đầu cơ là **nhóm cổ phiếu của các doanh nghiệp có hoạt động kinh doanh cốt lõi yếu kém hoặc không ổn định nhưng thị giá biến động rất mạnh trong ngắn hạn nhờ dòng tiền đầu cơ lớn và tâm lý kỳ vọng chênh lệch giá của đám đông**.
 
-Nhà đầu tư theo trường phái [đầu tư giá trị](content/blog/3-finalized/Final-dau-tu-gia-tri.md) thường tập trung vào giá trị nội tại dài hạn của doanh nghiệp. Ngược lại, người tham gia giao dịch cổ phiếu đầu cơ chỉ quan tâm đến biến động giá trong ngắn hạn nhằm thu về lợi nhuận chênh lệch nhanh chóng. Sự kỳ vọng này thúc đẩy dòng tiền tập trung cao độ, tạo nên những đợt tăng giảm thị giá cực lớn.
+Nhà đầu tư theo trường phái [đầu tư giá trị](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-gia-tri) thường tập trung vào giá trị nội tại dài hạn của doanh nghiệp. Ngược lại, người tham gia giao dịch cổ phiếu đầu cơ chỉ quan tâm đến biến động giá trong ngắn hạn nhằm thu về lợi nhuận chênh lệch nhanh chóng. Sự kỳ vọng này thúc đẩy dòng tiền tập trung cao độ, tạo nên những đợt tăng giảm thị giá cực lớn.
 
 Triết lý giao dịch của hai trường phái này đối lập hoàn toàn.
 
-Hãy xem xét ví dụ cụ thể để làm rõ bản chất. Đối với cổ phiếu lớn như VCB của Vietcombank trên sàn HOSE, giá trị tăng trưởng đi đôi với doanh thu và lợi nhuận thực tế của ngân hàng. Đây là đại diện tiêu biểu cho nhóm [cổ phiếu blue chip là gì](content/blog/3-finalized/Final-co-phieu-blue-chip-la-gi.md) mang tính an toàn cao. Trong khi đó, các mã đầu cơ như FLC trước đây biến động hoàn toàn dựa vào dòng tiền nóng và tin tức đồn thổi. Khi dòng tiền bầy đàn rút đi, thị giá lập tức điều chỉnh sâu.
+Hãy xem xét ví dụ cụ thể để làm rõ bản chất. Đối với cổ phiếu lớn như VCB của Vietcombank trên sàn HOSE, giá trị tăng trưởng đi đôi với doanh thu và lợi nhuận thực tế của ngân hàng. Đây là đại diện tiêu biểu cho nhóm [cổ phiếu blue chip là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-blue-chip-la-gi) mang tính an toàn cao. Trong khi đó, các mã đầu cơ như FLC trước đây biến động hoàn toàn dựa vào dòng tiền nóng và tin tức đồn thổi. Khi dòng tiền bầy đàn rút đi, thị giá lập tức điều chỉnh sâu.
 
 | Tiêu chí đối chiếu | Cổ phiếu đầu cơ (Speculative Stock) | Cổ phiếu đầu tư giá trị (Value/Blue-chip Stock) |
 | :--- | :--- | :--- |
@@ -41,7 +41,7 @@ Nhà giao dịch chuyên nghiệp luôn hiểu rõ ranh giới này trước khi
 Để tránh sập bẫy các đợt làm giàu nhanh giả tạo, bạn phải ghi nhớ đóng góp của bốn đặc trưng kỹ thuật rõ ràng của nhóm này trên thị trường Việt Nam:
 
 1. **Thị giá nhỏ và biên độ dao động lớn:**
-Các mã này thường nằm trong phân khúc [cổ phiếu penny là gì](content/blog/3-finalized/Final-co-phieu-penny-la-gi.md) với mức giá dưới 10.000 đồng/cổ phiếu. Do thị giá rất thấp, dòng tiền nóng chỉ cần quy mô nhỏ cũng dễ dàng đẩy giá cổ phiếu tăng kịch trần (tăng biên độ 7% trên sàn HOSE, 10% trên sàn HNX). Điều ngược lại cũng xảy ra rất nhanh khi lực bán tăng mạnh. Biên độ dao động lớn kích hoạt lòng tham của đám đông ham làm giàu nhanh.
+Các mã này thường nằm trong phân khúc [cổ phiếu penny là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-penny-la-gi) với mức giá dưới 10.000 đồng/cổ phiếu. Do thị giá rất thấp, dòng tiền nóng chỉ cần quy mô nhỏ cũng dễ dàng đẩy giá cổ phiếu tăng kịch trần (tăng biên độ 7% trên sàn HOSE, 10% trên sàn HNX). Điều ngược lại cũng xảy ra rất nhanh khi lực bán tăng mạnh. Biên độ dao động lớn kích hoạt lòng tham của đám đông ham làm giàu nhanh.
 
 2. **Kết quả kinh doanh cốt lõi yếu kém:**
 Doanh nghiệp phát hành cổ phiếu đầu cơ thường có tình hình tài chính cực kỳ bất ổn. Các báo cáo tài chính thường niên thể hiện rõ doanh thu sụt giảm nghiêm trọng, nợ vay vượt vốn chủ sở hữu hoặc lỗ lũy kế kéo dài nhiều năm. Doanh nghiệp hầu như không có khả năng chi trả cổ tức cho cổ đông. Giá cổ phiếu tăng không đi kèm với bất kỳ sự cải thiện nào từ hoạt động kinh doanh thực tế.

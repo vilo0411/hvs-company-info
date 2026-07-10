@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["chứng chỉ hành nghề chứng khoán"]
 Status: Finalized
@@ -44,8 +44,8 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS
 # Cluster info
 Cluster: chứng chỉ
 Internal_Links:
-  - "chứng chỉ cfa": "content/blog/3-finalized/Final-chung-chi-cfa.md"
-  - "chứng chỉ cmt": "content/blog/3-finalized/Final-chung-chi-cmt.md"
+  - "chứng chỉ cfa": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cfa"
+  - "chứng chỉ cmt": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cmt"
 ---
 
 # Chứng chỉ hành nghề chứng khoán: Lộ trình và điều kiện thi
@@ -93,7 +93,7 @@ Lộ trình miễn thi và quy đổi chứng chỉ chuyên môn chứng khoán 
 
 Quy định miễn giảm các môn thi sát hạch chia thành hai trường hợp thực tế:
 * Nhóm tốt nghiệp đại học: UBCKNN miễn học các môn cơ bản đối với cá nhân tốt nghiệp đại học ngành tài chính, kế toán hoặc kiểm toán.
-* Nhóm sở hữu chứng chỉ quốc tế: UBCKNN miễn thi môn Phân tích và đầu tư chứng khoán cùng môn Phân tích báo cáo tài chính doanh nghiệp đối với người sở hữu [chứng chỉ cfa](content/blog/3-finalized/Final-chung-chi-cfa.md) (từ Level 2 trở lên). Đồng thời, cơ quan quản lý miễn thi môn Phân tích kỹ thuật đối với người sở hữu [chứng chỉ cmt](content/blog/3-finalized/Final-chung-chi-cmt.md).
+* Nhóm sở hữu chứng chỉ quốc tế: UBCKNN miễn thi môn Phân tích và đầu tư chứng khoán cùng môn Phân tích báo cáo tài chính doanh nghiệp đối với người sở hữu [chứng chỉ cfa](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cfa) (từ Level 2 trở lên). Đồng thời, cơ quan quản lý miễn thi môn Phân tích kỹ thuật đối với người sở hữu [chứng chỉ cmt](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cmt).
 
 Bên cạnh thi sát hạch, người hành nghề bắt buộc tham gia tập huấn bồi dưỡng kiến thức tối thiểu 8 giờ mỗi năm theo quy định tại Thông tư 135/2025/TT-BTC. Bạn chủ động tra cứu lịch học tại trang srtc.org.vn hoặc cơ sở dữ liệu vanban.chinhphu.vn.
 

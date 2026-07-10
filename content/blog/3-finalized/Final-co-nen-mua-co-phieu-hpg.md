@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -19,7 +19,7 @@ Hòa Phát (HPG) luôn là tâm điểm của dòng tiền thị trường. Đ�
 
 Cổ phiếu HPG là mã chứng khoán của Công ty Cổ phần Tập đoàn Hòa Phát được niêm yết trên sàn HOSE từ năm 2007. Hòa Phát nắm giữ thị phần thép xây dựng lớn nhất Việt Nam với tỷ lệ vượt mức 35% trong nhiều năm liên tục. Doanh nghiệp này sở hữu mô hình sản xuất khép kín từ quặng sắt, than cốc cho đến thép thành phẩm.
 
-Thành lập từ năm 1992, Hòa Phát đã lần lượt mở rộng các mảng phụ trợ trước khi tập trung vào sản xuất thép tích hợp. Với quy mô vốn điều lệ vượt mốc 58.000 tỷ đồng và hàng chục nghìn cổ đông đăng ký, cổ phiếu HPG thường được giới đầu tư gọi bằng tên gọi cổ phiếu quốc dân. Thanh khoản giao dịch hàng ngày của cổ phiếu HPG thường đạt từ 15 triệu đến 30 triệu cổ phiếu, cho thấy đây là công cụ tài chính có tính đại chúng rất cao trên thị trường Việt Nam. Nếu muốn theo dõi và thực hiện tích lũy vị thế, bạn có thể tham khảo hướng dẫn [cách mua cổ phiếu Hòa Phát](content/blog/3-finalized/Final-cach-mua-co-phieu-hoa-phat.md) trên các ứng dụng giao dịch hiện nay.
+Thành lập từ năm 1992, Hòa Phát đã lần lượt mở rộng các mảng phụ trợ trước khi tập trung vào sản xuất thép tích hợp. Với quy mô vốn điều lệ vượt mốc 58.000 tỷ đồng và hàng chục nghìn cổ đông đăng ký, cổ phiếu HPG thường được giới đầu tư gọi bằng tên gọi cổ phiếu quốc dân. Thanh khoản giao dịch hàng ngày của cổ phiếu HPG thường đạt từ 15 triệu đến 30 triệu cổ phiếu, cho thấy đây là công cụ tài chính có tính đại chúng rất cao trên thị trường Việt Nam. Nếu muốn theo dõi và thực hiện tích lũy vị thế, bạn có thể tham khảo hướng dẫn [cách mua cổ phiếu Hòa Phát](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-hoa-phat) trên các ứng dụng giao dịch hiện nay.
 
 Hòa Phát là doanh nghiệp thép hàng đầu với các đặc điểm quy mô lớn:
 - Vốn điều lệ doanh nghiệp vượt mốc 58.000 tỷ đồng.

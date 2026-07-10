@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Detailed
@@ -11,13 +11,13 @@ Meta_Description: Hướng dẫn lựa chọn khóa học phân tích cơ bản 
 
 # Khóa học phân tích cơ bản: Lựa chọn học tập thực chiến cho nhà đầu tư
 
-**Khóa học phân tích cơ bản** là bước đệm đầu tiên để bạn bước chân vào thế giới đầu tư tài chính một cách tự tin. Việc trang bị kiến thức phân tích giúp bạn bảo vệ nguồn vốn của mình trước các biến động ngắn hạn. HVS sẽ hướng dẫn bạn các tiêu chuẩn của một [khóa học chứng khoán](content/blog/3-finalized/Final-khoa-hoc-chung-khoan.md) chất lượng.
+**Khóa học phân tích cơ bản** là bước đệm đầu tiên để bạn bước chân vào thế giới đầu tư tài chính một cách tự tin. Việc trang bị kiến thức phân tích giúp bạn bảo vệ nguồn vốn của mình trước các biến động ngắn hạn. HVS sẽ hướng dẫn bạn các tiêu chuẩn của một [khóa học chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/khoa-hoc-chung-khoan) chất lượng.
 
 ---
 
 ## Khóa học phân tích cơ bản là gì và dành cho ai?
 
-**Khóa học [phân tích cơ bản](content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md) là chương trình đào tạo giúp nhà đầu tư làm chủ kỹ năng đọc hiểu báo cáo tài chính, đánh giá sức khỏe doanh nghiệp và định giá cổ phiếu** để đưa ra quyết định đầu tư an toàn. Chương trình này không dạy bạn cách mua bán khớp lệnh nhanh chóng trong ngày. Thay vào đó, khóa học tập trung phân tích nội lực kinh doanh của công ty phát hành cổ phiếu.
+**Khóa học [phân tích cơ bản](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) là chương trình đào tạo giúp nhà đầu tư làm chủ kỹ năng đọc hiểu báo cáo tài chính, đánh giá sức khỏe doanh nghiệp và định giá cổ phiếu** để đưa ra quyết định đầu tư an toàn. Chương trình này không dạy bạn cách mua bán khớp lệnh nhanh chóng trong ngày. Thay vào đó, khóa học tập trung phân tích nội lực kinh doanh của công ty phát hành cổ phiếu.
 
 Khóa học phân tích cơ bản hướng tới ba nhóm đối tượng cốt lõi:
 * **Nhà đầu tư cá nhân mới tham gia thị trường (F0):** Nhóm này cần một hệ thống kiến thức chuẩn hóa để không bị cuốn vào các tin đồn vô căn cứ trên mạng xã hội. Việc học giúp bạn tự đánh giá cơ hội thay vì phụ thuộc vào người khác tư vấn. Học sớm để tránh mất tiền.
@@ -87,7 +87,7 @@ Chương trình Nhà Phân Tích tại HVS gồm 4 môn học theo trình tự:
 * **Phân tích cơ bản Level 1** — Giảng viên: Tiền Quốc Việt (Trưởng phòng Phân tích, chứng chỉ CFA): Xây dựng tư duy phân tích Top-down hoàn chỉnh — từ vĩ mô, phân tích ngành/chuỗi giá trị, mô hình kinh doanh, đến đọc hiểu bộ ba báo cáo tài chính và định giá cổ phiếu. Kết thúc môn có bài kiểm tra tổng kết.
 * **Phân tích cơ bản Level 2** — Giảng viên: Tiền Quốc Việt: Đi sâu vào phân tích chất lượng lợi nhuận, bóc tách bảng cân đối kế toán theo từng khoản mục, phân tích triển vọng vĩ mô và ngành 2025. Đây là kỹ năng bắt buộc để viết báo cáo khuyến nghị chuẩn.
 * **Phân tích kỹ thuật Level 1** — Giảng viên: Trương Thái Đạt (Tổng Giám đốc HVS): Trang bị nền tảng đọc đồ thị thực chiến — phân tích nến, nhận biết xu hướng, xác định kháng cự/hỗ trợ, sử dụng chỉ báo kỹ thuật và khối lượng giao dịch. Kết hợp phân tích cơ bản và kỹ thuật giúp bạn xác định thời điểm giải ngân tối ưu.
-* **Thực hành viết Báo cáo Phân tích** — Học viên tự tay hoàn thành báo cáo [phân tích doanh nghiệp](content/blog/3-finalized/Final-phan-tich-doanh-nghiep-la-gi.md) theo format chuẩn công ty chứng khoán, được Mentor chấm điểm và sửa lỗi chi tiết. Đây là "vũ khí" thực tế để đưa vào CV khi ứng tuyển vị trí Research Analyst.
+* **Thực hành viết Báo cáo Phân tích** — Học viên tự tay hoàn thành báo cáo [phân tích doanh nghiệp](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-doanh-nghiep-la-gi) theo format chuẩn công ty chứng khoán, được Mentor chấm điểm và sửa lỗi chi tiết. Đây là "vũ khí" thực tế để đưa vào CV khi ứng tuyển vị trí Research Analyst.
 
 Hoàn thành toàn bộ chương trình, học viên nhận **Chứng chỉ Nhà Phân Tích từ HVS** — bằng chứng xác nhận năng lực thực chiến, không chỉ là lý thuyết. Ngoài ra, hệ sinh thái HVS còn hỗ trợ bạn trên hai nền tảng bổ sung:
 

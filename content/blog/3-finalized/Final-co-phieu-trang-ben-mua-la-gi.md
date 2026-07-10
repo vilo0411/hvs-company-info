@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Pipeline_Mode: Express
@@ -62,7 +62,7 @@ Hiện tượng trắng bên mua gây ra những thiệt hại nặng nề về 
 
 Thiệt hại đầu tiên và trực tiếp nhất là mất hoàn toàn tính thanh khoản. Bạn phải nhìn tài sản vơi đi 7% đến 10% mỗi ngày mà không thể thực hiện bất kỳ hành động giải cứu nào. Trạng thái kẹt hàng kéo dài liên tục biến các khoản lỗ trên giấy thành thiệt hại thực tế vào cuối chu kỳ giảm. Áp lực từ một vài mã mất thanh khoản sẽ tạo ra hiệu ứng domino tiêu cực sang các cổ phiếu khác. Khi nhà đầu tư hoảng loạn bán tháo diện rộng, dòng tiền trên thị trường sẽ rút về trạng thái phòng thủ, làm tê liệt hoạt động giao dịch chung.
 
-Tuy nhiên, mức độ rủi ro giữa các nhóm cổ phiếu là hoàn toàn khác biệt. Nếu bạn kẹt thanh khoản ở một [cổ phiếu penny là gì](content/blog/3-finalized/Final-co-phieu-penny-la-gi.md) đầu cơ không có nền tảng kinh doanh tốt, khả năng mất trắng vốn là cực kỳ cao vì doanh nghiệp có thể không bao giờ hồi phục. Ngược lại, trạng thái mất thanh khoản tạm thời ở các cổ phiếu cơ bản tốt như HPG hay VCB thường chỉ kéo dài trong vài phiên hoảng loạn. Khi thị trường cân bằng trở lại, lực cầu từ các tổ chức lớn sẽ nhanh chóng hấp thụ dòng tiền và giúp cổ phiếu phục hồi giá trị. Đồng thời, các doanh nghiệp cơ bản đầu ngành thường có chính sách chi trả [cổ tức là gì](content/blog/3-finalized/Final-co-tuc-la-gi.md) ổn định bằng tiền mặt, giúp tạo bệ đỡ tâm lý vững chắc cho cổ đông trong các đợt sụt giảm.
+Tuy nhiên, mức độ rủi ro giữa các nhóm cổ phiếu là hoàn toàn khác biệt. Nếu bạn kẹt thanh khoản ở một [cổ phiếu penny là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-penny-la-gi) đầu cơ không có nền tảng kinh doanh tốt, khả năng mất trắng vốn là cực kỳ cao vì doanh nghiệp có thể không bao giờ hồi phục. Ngược lại, trạng thái mất thanh khoản tạm thời ở các cổ phiếu cơ bản tốt như HPG hay VCB thường chỉ kéo dài trong vài phiên hoảng loạn. Khi thị trường cân bằng trở lại, lực cầu từ các tổ chức lớn sẽ nhanh chóng hấp thụ dòng tiền và giúp cổ phiếu phục hồi giá trị. Đồng thời, các doanh nghiệp cơ bản đầu ngành thường có chính sách chi trả [cổ tức là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi) ổn định bằng tiền mặt, giúp tạo bệ đỡ tâm lý vững chắc cho cổ đông trong các đợt sụt giảm.
 
 ## Kịch bản ứng phó khi cổ phiếu rơi vào trạng thái trắng bên mua
 
@@ -74,7 +74,7 @@ Nếu cổ phiếu bị kẹt là mã cơ bản đầu ngành, có hoạt độn
 
 ## Quản trị thanh khoản và phòng chống kẹt hàng cùng HVS
 
-Nhà đầu tư F0 thường đối mặt với nguy cơ [cháy tài khoản chứng khoán là gì](content/blog/3-finalized/Final-chay-tai-khoan-chung-khoan-la-gi.md) do thói quen gom cổ phiếu penny mất thanh khoản mà thiếu đi năng lực phân tích doanh nghiệp và kỹ năng đọc bảng điện tử.
+Nhà đầu tư F0 thường đối mặt với nguy cơ [cháy tài khoản chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chay-tai-khoan-chung-khoan-la-gi) do thói quen gom cổ phiếu penny mất thanh khoản mà thiếu đi năng lực phân tích doanh nghiệp và kỹ năng đọc bảng điện tử.
 
 Để giúp bạn giải quyết triệt để rào cản kiến thức này, **HVS Tài chính số** mang đến chương trình **HVS Thực tập số** với hai bộ kỹ năng chính là Phân tích cơ bản FA Level 1 và Phân tích kỹ thuật TA Level 1. Qua lộ trình học trực tuyến này, bạn sẽ làm chủ cách đọc báo cáo tài chính, nhận biết rủi ro dòng tiền và phát hiện dấu hiệu phân phối của dòng tiền lớn. Đồng thời, bạn có thể thực hành đặt lệnh và theo dõi biên độ giá trực tiếp trên **HVS Demo** để kiểm chứng khả năng khớp lệnh của các nhóm cổ phiếu mà không phải chịu bất kỳ rủi ro mất vốn nào. Nếu có bất kỳ vướng mắc nào trong quá trình phân tích danh mục, bạn dễ dàng gửi câu hỏi trao đổi cùng Mentor và cộng đồng tại **HVS Forum**.
 

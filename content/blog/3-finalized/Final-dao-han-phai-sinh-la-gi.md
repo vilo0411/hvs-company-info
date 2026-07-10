@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["đáo hạn phái sinh là gì"]
 Status: Finalized
@@ -44,8 +44,8 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS
 # Cluster info
 Cluster: phái sinh
 Internal_Links:
-  - "chứng khoán phái sinh là gì": "content/blog/3-finalized/Final-chung-khoan-phai-sinh-la-gi.md"
-  - "chứng khoán cơ sở và chứng khoán phái sinh": "content/blog/3-finalized/Final-chung-khoan-co-so-va-chung-khoan-phai-sinh.md"
+  - "chứng khoán phái sinh là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-phai-sinh-la-gi"
+  - "chứng khoán cơ sở và chứng khoán phái sinh": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-co-so-va-chung-khoan-phai-sinh"
   - "hợp đồng tương lai": "content/blog/1-outlines/Outline-hop-dong-tuong-lai.md"
 ---
 
@@ -64,7 +64,7 @@ Sở Giao dịch Chứng khoán niêm yết bốn mã hợp đồng tương lai 
 
 Lịch trình đáo hạn của các hợp đồng tương lai này diễn ra định kỳ vào ngày **Thứ Năm lần thứ ba của tháng đáo hạn**. Ví dụ, nếu tháng đáo hạn là tháng 6/2026, ngày đáo hạn của hợp đồng VN30F2606 sẽ là ngày Thứ Năm, ngày 18/06/2026. Lịch đáo hạn sẽ dịch chuyển về ngày giao dịch liền trước nếu ngày Thứ Năm trùng vào dịp nghỉ lễ theo quy định.
 
-Bạn nên tham khảo thêm các bài viết về [chứng khoán phái sinh là gì](content/blog/3-finalized/Final-chung-khoan-phai-sinh-la-gi.md) và [chứng khoán cơ sở và chứng khoán phái sinh](content/blog/3-finalized/Final-chung-khoan-co-so-va-chung-khoan-phai-sinh.md) để nắm vững các đặc tính giao dịch của sản phẩm phòng vệ này. Các hợp đồng phái sinh sẽ đóng lại hoàn toàn sau phiên giao dịch ngày đáo hạn và chuyển giao sang hợp đồng kỳ hạn mới.
+Bạn nên tham khảo thêm các bài viết về [chứng khoán phái sinh là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-phai-sinh-la-gi) và [chứng khoán cơ sở và chứng khoán phái sinh](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-co-so-va-chung-khoan-phai-sinh) để nắm vững các đặc tính giao dịch của sản phẩm phòng vệ này. Các hợp đồng phái sinh sẽ đóng lại hoàn toàn sau phiên giao dịch ngày đáo hạn và chuyển giao sang hợp đồng kỳ hạn mới.
 
 ## Quy tắc tính giá thanh toán cuối cùng (FSP) mới nhất
 

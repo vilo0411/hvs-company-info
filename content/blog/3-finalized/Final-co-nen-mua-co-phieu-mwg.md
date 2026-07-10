@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu MWG"]
 Status: Finalized
@@ -24,7 +24,7 @@ Quyết định có nên mua cổ phiếu MWG ở thời điểm hiện tại đ
 
 Cổ phiếu MWG là chứng chỉ sở hữu cổ phần của Công ty Cổ phần Đầu tư Thế giới Di động niêm yết trên sàn HOSE, đại diện cho hệ sinh thái bán lẻ lớn nhất Việt Nam ở mảng điện thoại, điện máy và thực phẩm tiêu dùng nhanh.
 
-Thế Giới Di Động hiện đang nắm giữ vị thế thống trị tuyệt đối trong thị trường phân phối thiết bị công nghệ thông tin và điện máy gia dụng tại Việt Nam. Sàn HOSE ghi nhận cổ phiếu MWG là một trong những đại diện xuất sắc nhất của rổ VN30 nhờ tính thanh khoản cao và sự quan tâm lớn từ các quỹ ngoại. Trước khi tìm hiểu sâu về bức tranh tài chính của tập đoàn, bạn có thể tham khảo hướng dẫn chi tiết về [cách mua cổ phiếu MWG](content/blog/3-finalized/Final-cach-mua-co-phieu-mwg.md) để tối ưu hóa quy trình giao dịch thực tế.
+Thế Giới Di Động hiện đang nắm giữ vị thế thống trị tuyệt đối trong thị trường phân phối thiết bị công nghệ thông tin và điện máy gia dụng tại Việt Nam. Sàn HOSE ghi nhận cổ phiếu MWG là một trong những đại diện xuất sắc nhất của rổ VN30 nhờ tính thanh khoản cao và sự quan tâm lớn từ các quỹ ngoại. Trước khi tìm hiểu sâu về bức tranh tài chính của tập đoàn, bạn có thể tham khảo hướng dẫn chi tiết về [cách mua cổ phiếu MWG](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-mwg) để tối ưu hóa quy trình giao dịch thực tế.
 
 * Trụ cột Thế Giới Di Động & Điện Máy Xanh: Chiếm hơn 70% tổng doanh thu của tập đoàn, phục vụ nhu cầu ICT và gia dụng toàn quốc.
 * Trụ cột Bách Hóa Xanh: Chuỗi siêu thị mini kinh doanh thực phẩm tươi sống và hàng tiêu dùng nhanh đang tiến vào giai đoạn bùng nổ lợi nhuận.
@@ -60,7 +60,7 @@ Sức mua toàn thị trường đối với mặt hàng điện thoại thông 
 | Biên lợi nhuận gộp mảng công nghệ thu hẹp | Kéo giảm lợi nhuận ròng của Thế Giới Di Động | Khá cao |
 | Chuỗi dược phẩm chậm đạt điểm hòa vốn | Gây áp lực gánh nặng chi phí vận hành | Trung bình |
 
-Biên độ dao động của cổ phiếu bán lẻ luôn gắn liền với chu kỳ thay đổi thiết bị công nghệ của người dân Việt Nam. Việc đầu tư dàn trải sang nhiều mảng kinh doanh phụ trợ có nguy cơ làm phân tán nguồn lực tài chính cốt lõi của tập đoàn. Nếu bạn muốn đa dạng hóa danh mục, việc theo dõi biến động của các mã khác trong nhóm [cổ phiếu ngành bán lẻ](content/blog/3-finalized/Final-co-phieu-nganh-ban-le.md) là vông cùng cần thiết.
+Biên độ dao động của cổ phiếu bán lẻ luôn gắn liền với chu kỳ thay đổi thiết bị công nghệ của người dân Việt Nam. Việc đầu tư dàn trải sang nhiều mảng kinh doanh phụ trợ có nguy cơ làm phân tán nguồn lực tài chính cốt lõi của tập đoàn. Nếu bạn muốn đa dạng hóa danh mục, việc theo dõi biến động của các mã khác trong nhóm [cổ phiếu ngành bán lẻ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-nganh-ban-le) là vông cùng cần thiết.
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Pipeline_Mode: Express
@@ -71,7 +71,7 @@ Hoạt động này gồm hai hình thức chính:
 
 > **Quy định pháp lý: Luật Chứng khoán 2019 yêu cầu doanh nghiệp đại chúng phải giảm vốn điều lệ tương ứng với tổng mệnh giá cổ phiếu mua lại trong vòng 10 ngày.**
 
-Việc sở hữu [cổ phiếu quỹ là gì](content/blog/3-finalized/Final-co-phieu-quy-la-gi.md) hiện nay chỉ tồn tại trong các trường hợp đặc thù, còn xu hướng chính là hủy hoàn toàn lượng cổ phiếu mua lại nhằm tránh thao túng vốn. Quy định giảm vốn này đồng nghĩa với việc số lượng cổ phiếu lưu hành giảm xuống thực tế.
+Việc sở hữu [cổ phiếu quỹ là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-quy-la-gi) hiện nay chỉ tồn tại trong các trường hợp đặc thù, còn xu hướng chính là hủy hoàn toàn lượng cổ phiếu mua lại nhằm tránh thao túng vốn. Quy định giảm vốn này đồng nghĩa với việc số lượng cổ phiếu lưu hành giảm xuống thực tế.
 
 Khi lượng cổ phiếu lưu hành trên sàn HOSE giảm xuống, tỷ lệ sở hữu của bạn sẽ tăng lên một cách cơ học mà không phải bỏ thêm bất kỳ khoản chi phí mua mới nào. Đây là yếu tố quan trọng giúp gia tăng giá trị tài sản ròng lâu dài cho nhà đầu tư.
 
@@ -81,13 +81,13 @@ Doanh nghiệp thực hiện mua lại cổ phiếu nhằm mục đích tối ư
 
 Lý do thứ nhất là hỗ trợ thị giá khi cổ phiếu bị định giá thấp. Hoạt động mua lại giúp tăng lực cầu nhân tạo nếu giá cổ phiếu sụt giảm sâu do các yếu tố bất lợi tạm thời hoặc do tâm lý hoảng loạn. Ví dụ tiêu biểu trên sàn HOSE là Công ty Cổ phần Vinhomes (mã cổ phiếu: VHM) mua lại 370 triệu cổ phiếu vào năm 2024 để bảo vệ quyền lợi cổ đông. Sự kiện quy mô lớn này giúp cải thiện đáng kể tâm lý thị trường và nâng đỡ giá cổ phiếu hiệu quả.
 
-Lý do thứ hai là cải thiện các chỉ số tài chính quan trọng như [EPS là gì](content/blog/3-finalized/Final-chi-so-eps-la-gi.md) (Lợi nhuận trên mỗi cổ phiếu) và ROE (Tỷ suất lợi nhuận trên vốn chủ sở hữu). Khi tổng số lượng cổ phiếu lưu hành giảm xuống, hiệu quả sinh lời trên mỗi cổ phần còn lại sẽ tăng lên tương ứng. Số lượng cổ phiếu còn lại sẽ giảm xuống còn 9 triệu nếu doanh nghiệp thực hiện mua lại và hủy bỏ 1 triệu cổ phiếu (tương đương 10% lượng lưu hành). Hãy xem xét phép tính cụ thể sau đây:
+Lý do thứ hai là cải thiện các chỉ số tài chính quan trọng như [EPS là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-eps-la-gi) (Lợi nhuận trên mỗi cổ phiếu) và ROE (Tỷ suất lợi nhuận trên vốn chủ sở hữu). Khi tổng số lượng cổ phiếu lưu hành giảm xuống, hiệu quả sinh lời trên mỗi cổ phần còn lại sẽ tăng lên tương ứng. Số lượng cổ phiếu còn lại sẽ giảm xuống còn 9 triệu nếu doanh nghiệp thực hiện mua lại và hủy bỏ 1 triệu cổ phiếu (tương đương 10% lượng lưu hành). Hãy xem xét phép tính cụ thể sau đây:
 
 > **Doanh nghiệp A có lợi nhuận sau thuế là 100 tỷ đồng và đang có 10 triệu cổ phiếu lưu hành. Chỉ số EPS ban đầu đạt mức 10.000 đồng/cổ phiếu. Nếu doanh nghiệp thực hiện mua lại và hủy bỏ 1 triệu cổ phiếu (tương đương 10% lượng lưu hành), số cổ phiếu còn lại là 9 triệu. Khi lợi nhuận giữ nguyên 100 tỷ đồng, chỉ số EPS mới sẽ tăng lên thành 11.111 đồng/cổ phiếu, tương đương mức tăng 11.1%.**
 
 Lý do thứ ba là tối ưu hóa nghĩa vụ thuế thu nhập cá nhân cho cổ đông khi phân phối tiền mặt dư thừa. Khác với phương án trả cổ tức bằng tiền mặt bắt buộc khấu trừ thuế TNCN 5% ngay tại nguồn, giao dịch mua lại cổ phiếu không phát sinh thuế ngay lập tức đối với cổ đông không bán cổ phiếu. Bạn chỉ phải nộp thuế thu nhập cá nhân khi thực hiện giao dịch bán cổ phiếu trên sàn chứng khoán. Việc này đem lại lợi ích kép cho những nhà đầu tư nắm giữ dài hạn nhờ phát huy tối đa sức mạnh của lãi kép.
 
-Lý do thứ tư là cung cấp nguồn cổ phiếu phát hành ESOP mà không gây [pha loãng cổ phiếu là gì](content/blog/3-finalized/Final-pha-loang-co-phieu-la-gi.md). Nhiều doanh nghiệp (như Thế Giới Di Động - MWG) lựa chọn phương án này vì các mục tiêu sau:
+Lý do thứ tư là cung cấp nguồn cổ phiếu phát hành ESOP mà không gây [pha loãng cổ phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/pha-loang-co-phieu-la-gi). Nhiều doanh nghiệp (như Thế Giới Di Động - MWG) lựa chọn phương án này vì các mục tiêu sau:
 - Tránh phát hành cổ phiếu mới làm loãng giá trị cổ phần của cổ đông hiện hữu.
 - Tái phân phối lượng cổ phiếu hiện có cho nhân viên xuất sắc để gắn kết lợi ích lâu dài.
 - Tiết kiệm chi phí phát hành mới nhờ thủ tục tinh giản.

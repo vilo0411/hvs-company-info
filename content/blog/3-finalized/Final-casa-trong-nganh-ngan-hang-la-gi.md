@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["CASA trong ngành ngân hàng là gì"]
 Status: Finalized
@@ -88,7 +88,7 @@ Tiết kiệm hơn 20,000 tỷ đồng/năm. Chỉ từ cấu trúc nguồn vố
 
 ## Tại sao CASA quan trọng với lợi nhuận ngân hàng?
 
-CASA quyết định chi phí vốn (Cost of Funds) của ngân hàng, từ đó ảnh hưởng trực tiếp đến NIM và cuối cùng là ROE. Chuỗi nhân quả này là lý do nhà đầu tư không thể bỏ qua chỉ số này khi [phân tích cơ bản](content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md) cổ phiếu ngân hàng.
+CASA quyết định chi phí vốn (Cost of Funds) của ngân hàng, từ đó ảnh hưởng trực tiếp đến NIM và cuối cùng là ROE. Chuỗi nhân quả này là lý do nhà đầu tư không thể bỏ qua chỉ số này khi [phân tích cơ bản](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) cổ phiếu ngân hàng.
 
 Cơ chế vận hành theo chuỗi một chiều:
 
@@ -113,7 +113,7 @@ Chênh lệch 5,200 tỷ đồng/năm chỉ từ cấu trúc nguồn vốn, khô
 
 **Kết nối ra định giá cổ phiếu:**
 
-Ngân hàng có CASA cao bền vững → NIM ổn định qua các chu kỳ lãi suất → [chỉ số ROE](content/blog/3-finalized/Final-chi-so-roe-la-gi.md) dự báo được → thị trường trả P/B cao hơn. [Cổ phiếu Techcombank (TCB)](content/blog/3-finalized/Final-cach-mua-co-phieu-techcombank.md) giai đoạn 2020–2022 được giao dịch ở P/B 2.5–3.0x, trong khi nhóm ngân hàng có CASA thấp hơn chỉ giao dịch quanh 1.0–1.5x, dù quy mô tài sản không nhỏ hơn đáng kể.
+Ngân hàng có CASA cao bền vững → NIM ổn định qua các chu kỳ lãi suất → [chỉ số ROE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-roe-la-gi) dự báo được → thị trường trả P/B cao hơn. [Cổ phiếu Techcombank (TCB)](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-techcombank) giai đoạn 2020–2022 được giao dịch ở P/B 2.5–3.0x, trong khi nhóm ngân hàng có CASA thấp hơn chỉ giao dịch quanh 1.0–1.5x, dù quy mô tài sản không nhỏ hơn đáng kể.
 
 Phân tích viên thường đặt NIM và CASA là hai chỉ số đầu tiên khi đánh giá cổ phiếu ngân hàng. Hai con số này tiết lộ chất lượng nguồn vốn và lợi thế cạnh tranh dài hạn của tổ chức đó.
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Cổ phiếu quỹ là gì"]
 Status: Finalized
@@ -43,7 +43,7 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số"]
 
 # Cluster info
 Cluster: Cổ phiếu
-Internal_Links: ["content/blog/3-finalized/Final-co-phieu-la-gi.md", "content/blog/3-finalized/Final-chi-so-eps-la-gi.md", "content/blog/3-finalized/Final-chi-so-roe-la-gi.md", "content/blog/3-finalized/Final-co-tuc-la-gi.md"]
+Internal_Links: ["https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-eps-la-gi", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-roe-la-gi", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi"]
 ---
 
 # Cổ phiếu quỹ là gì? Quy định pháp lý và tác động tài chính doanh nghiệp

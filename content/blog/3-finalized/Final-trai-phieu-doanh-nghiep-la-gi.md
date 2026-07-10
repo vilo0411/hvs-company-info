@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -17,7 +17,7 @@ Trái phiếu doanh nghiệp đem lại coupon hấp dẫn nhưng đi kèm rủi
 
 Trái phiếu doanh nghiệp là loại chứng khoán nợ do các doanh nghiệp, công ty cổ phần phát hành dưới dạng chứng chỉ hoặc dữ liệu điện tử để xác nhận nghĩa vụ thanh toán gốc và lãi coupon đối với nhà đầu tư. Khi mua sản phẩm này, bạn trở thành chủ nợ của doanh nghiệp. Tổ chức phát hành có trách nhiệm thanh toán lãi định kỳ và trả lại tiền gốc ban đầu khi đáo hạn. Điều này rất rõ ràng.
 
-Nếu bạn đã nắm rõ khái niệm cơ bản về [trái phiếu là gì](content/blog/3-finalized/Final-trai-phieu-la-gi.md), bạn sẽ thấy trái phiếu doanh nghiệp có rủi ro cao hơn [trái phiếu chính phủ](content/blog/3-finalized/Final-trai-phieu-chinh-phu-la-gi.md). Doanh nghiệp phát hành nhằm bổ sung vốn. Trái chủ không có quyền biểu quyết. Đổi lại, họ nhận lãi coupon cao hơn gửi tiết kiệm ngân hàng.
+Nếu bạn đã nắm rõ khái niệm cơ bản về [trái phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-la-gi), bạn sẽ thấy trái phiếu doanh nghiệp có rủi ro cao hơn [trái phiếu chính phủ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-chinh-phu-la-gi). Doanh nghiệp phát hành nhằm bổ sung vốn. Trái chủ không có quyền biểu quyết. Đổi lại, họ nhận lãi coupon cao hơn gửi tiết kiệm ngân hàng.
 
 Mỗi trái phiếu chứa thông tin về mệnh giá và kỳ hạn. Tại Việt Nam, mệnh giá tối thiểu cho trái phiếu phát hành ra công chúng là 100.000 VNĐ. Với hình thức riêng lẻ, mệnh giá là 100.000.000 VNĐ.
 
@@ -47,7 +47,7 @@ Rủi ro thanh khoản xảy ra khi bạn gặp khó khăn lúc muốn bán lạ
 
 #### Rủi ro lãi suất tăng
 
-Rủi ro lãi suất chịu tác động từ thay đổi chính sách tiền tệ. Khi lãi suất tiết kiệm tăng lên, giá thị trường của trái phiếu cũ giảm làm biến động [lợi suất trái phiếu](content/blog/3-finalized/Final-bond-yield-la-gi.md). Nhà đầu tư sẽ bán trái phiếu cũ để gửi tiết kiệm hoặc mua trái phiếu mới. Hãy nghiên cứu kỹ [có nên đầu tư trái phiếu](content/blog/3-finalized/Final-co-nen-dau-tu-trai-phieu.md) trước khi phân bổ tài sản.
+Rủi ro lãi suất chịu tác động từ thay đổi chính sách tiền tệ. Khi lãi suất tiết kiệm tăng lên, giá thị trường của trái phiếu cũ giảm làm biến động [lợi suất trái phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/bond-yield-la-gi). Nhà đầu tư sẽ bán trái phiếu cũ để gửi tiết kiệm hoặc mua trái phiếu mới. Hãy nghiên cứu kỹ [có nên đầu tư trái phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-dau-tu-trai-phieu) trước khi phân bổ tài sản.
 
 ## Khung pháp lý mới nhất về trái phiếu doanh nghiệp tại Việt Nam
 

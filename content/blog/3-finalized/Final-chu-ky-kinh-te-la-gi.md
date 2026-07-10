@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Mode: Express
@@ -59,7 +59,7 @@ Giai đoạn đạt đỉnh xuất hiện khi năng lực sản xuất của n�
 
 Nhằm kiềm chế lạm phát, NHNN thực thi chính sách thắt chặt tiền tệ bằng cách nâng lãi suất điều hành. Thị trường chứng khoán thường ghi nhận bong bóng tài sản và tâm lý hưng phấn thái quá của nhà đầu tư trước khi điều chỉnh.
 
-Ví dụ thực tế tại Việt Nam: Thời điểm quý 1 và quý 2 năm 2022. [Chỉ số VN-Index](content/blog/3-finalized/Final-chi-so-vn-index-la-gi.md) lập đỉnh lịch sử 1.500 điểm vào tháng 4/2022. Giá bất động sản tăng nóng trên diện rộng, buộc NHNN phải tăng mạnh lãi suất điều hành thêm 2% vào cuối năm.
+Ví dụ thực tế tại Việt Nam: Thời điểm quý 1 và quý 2 năm 2022. [Chỉ số VN-Index](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-vn-index-la-gi) lập đỉnh lịch sử 1.500 điểm vào tháng 4/2022. Giá bất động sản tăng nóng trên diện rộng, buộc NHNN phải tăng mạnh lãi suất điều hành thêm 2% vào cuối năm.
 
 #### Giai đoạn suy thoái (Recession)
 
@@ -103,7 +103,7 @@ Trong khi đó, giá cổ phiếu phản ánh dòng tiền kỳ vọng và tri�
 
 Bài học thực chiến rút ra là bạn không giao dịch dựa trên tin tức vĩ mô đã công bố. Chờ đợi số liệu GDP tăng trưởng tốt mới giải ngân thường khiến bạn mua đúng vùng đỉnh của thị trường chứng khoán. 
 
-Ngược lại, giải ngân khi tin tức tồi tệ nhất xuất hiện (nhưng lãi suất bắt đầu giảm) mang lại tỷ suất sinh lời vượt trội. Bên cạnh các chỉ số định giá, tâm lý đám đông cũng phóng đại lệch pha này. Ở giai đoạn chuyển giao từ suy thoái sang phục hồi, các tổ chức lớn âm thầm tích lũy cổ phiếu giá trị có bảng cân đối kế toán lành mạnh. Ngược lại, nhà đầu tư cá nhân hoang mang bán tháo vì thông tin tiêu cực xuất hiện dồn dập trên truyền thông. Bất đối xứng thông tin và khác biệt về năng lực [phân tích cơ bản](content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md) tạo nên cơ hội lớn cho những ai thấu hiểu quy luật vận động của dòng tiền.
+Ngược lại, giải ngân khi tin tức tồi tệ nhất xuất hiện (nhưng lãi suất bắt đầu giảm) mang lại tỷ suất sinh lời vượt trội. Bên cạnh các chỉ số định giá, tâm lý đám đông cũng phóng đại lệch pha này. Ở giai đoạn chuyển giao từ suy thoái sang phục hồi, các tổ chức lớn âm thầm tích lũy cổ phiếu giá trị có bảng cân đối kế toán lành mạnh. Ngược lại, nhà đầu tư cá nhân hoang mang bán tháo vì thông tin tiêu cực xuất hiện dồn dập trên truyền thông. Bất đối xứng thông tin và khác biệt về năng lực [phân tích cơ bản](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) tạo nên cơ hội lớn cho những ai thấu hiểu quy luật vận động của dòng tiền.
 
 Mối quan hệ lệch pha này được tóm tắt qua bảng dưới đây:
 
@@ -146,7 +146,7 @@ Hệ quả từ khủng hoảng tài chính toàn cầu 2008 và chính sách k�
 
 ## Chiến lược xoay vòng ngành và cách phân bổ tài sản thực chiến
 
-**Chiến lược xoay vòng ngành (Sector Rotation)** giúp tối ưu hóa hiệu quả đầu tư bằng cách luân chuyển dòng vốn vào các nhóm ngành hưởng lợi từ đặc điểm vĩ mô của từng pha chu kỳ. Áp dụng phương pháp [phân tích ngành](content/blog/3-finalized/Final-phan-tich-nganh-la-gi.md) giúp bạn xác định tiềm năng tăng trưởng thực tế của từng nhóm cổ phiếu trước khi giải ngân. Dưới đây là cách phân bổ tài sản cụ thể trên sàn HOSE tương ứng với biến động vĩ mô.
+**Chiến lược xoay vòng ngành (Sector Rotation)** giúp tối ưu hóa hiệu quả đầu tư bằng cách luân chuyển dòng vốn vào các nhóm ngành hưởng lợi từ đặc điểm vĩ mô của từng pha chu kỳ. Áp dụng phương pháp [phân tích ngành](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-nganh-la-gi) giúp bạn xác định tiềm năng tăng trưởng thực tế của từng nhóm cổ phiếu trước khi giải ngân. Dưới đây là cách phân bổ tài sản cụ thể trên sàn HOSE tương ứng với biến động vĩ mô.
 
 #### Lựa chọn nhóm ngành tối ưu trong pha phục hồi và mở rộng
 
@@ -183,9 +183,9 @@ Bảng hướng dẫn xoay vòng ngành thực chiến dưới đây hỗ trợ 
 
 Lộ trình đào tạo phân tích vĩ mô thực chiến FA LV1 thuộc chương trình **HVS Thực tập số** trên nền tảng **HVS Tài chính số** hỗ trợ bạn giải quyết khó khăn khi định vị chu kỳ và phân bổ danh mục đầu tư.
 
-Các nhà đầu tư mới (Lan Newbie) thường đối mặt với khó khăn lớn khi định vị nền kinh tế đang ở pha nào. Mua nhầm cổ phiếu chu kỳ ở ngay vùng đỉnh hoặc bán tháo [cổ phiếu phòng thủ](content/blog/3-finalized/Final-co-phieu-phong-thu.md) ngay vùng đáy xảy ra rất phổ biến do thiếu kiến thức vĩ mô thực chiến.
+Các nhà đầu tư mới (Lan Newbie) thường đối mặt với khó khăn lớn khi định vị nền kinh tế đang ở pha nào. Mua nhầm cổ phiếu chu kỳ ở ngay vùng đỉnh hoặc bán tháo [cổ phiếu phòng thủ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-phong-thu) ngay vùng đáy xảy ra rất phổ biến do thiếu kiến thức vĩ mô thực chiến.
 
-Chương trình **HVS Thực tập số** trên nền tảng **HVS Tài chính số** cung cấp giải pháp toàn diện thông qua lộ trình đào tạo vĩ mô thực chiến FA LV1. Bạn được trang bị kỹ năng đọc hiểu số liệu vĩ mô, kết hợp [phân tích doanh nghiệp](content/blog/3-finalized/Final-phan-tich-doanh-nghiep-la-gi.md) để tự xây dựng danh mục cổ phiếu tối ưu.
+Chương trình **HVS Thực tập số** trên nền tảng **HVS Tài chính số** cung cấp giải pháp toàn diện thông qua lộ trình đào tạo vĩ mô thực chiến FA LV1. Bạn được trang bị kỹ năng đọc hiểu số liệu vĩ mô, kết hợp [phân tích doanh nghiệp](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-doanh-nghiep-la-gi) để tự xây dựng danh mục cổ phiếu tối ưu.
 
 Song song đó, bạn sử dụng công cụ **HVS Demo** để thực hành phân bổ danh mục không rủi ro, kiểm chứng hiệu quả của các nhóm ngành trong từng pha chu kỳ vĩ mô. Sau khi xây dựng danh mục giả lập, bạn có thể tham gia thảo luận chuyên sâu cùng cộng đồng nhà đầu tư và nhận tư vấn từ các chuyên gia tại **HVS Forum**.
 

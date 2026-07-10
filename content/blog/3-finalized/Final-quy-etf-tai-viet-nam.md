@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -22,7 +22,7 @@ Kể từ khi quỹ ETF nội địa đầu tiên là E1VFVN30 ra đời vào n�
 Sự bùng nổ của quy mô tài sản quản lý cho thấy sức hút của mô hình tích sản này.
 Thay vì phải dành hàng giờ phân tích báo cáo tài chính của từng doanh nghiệp riêng lẻ, bạn sở hữu ngay một rổ cổ phiếu đa dạng chỉ qua một giao dịch. Dòng vốn ngoại bang đặc biệt ưa chuộng các rổ chỉ số này để giải ngân vào các cổ phiếu chất lượng đã hết room sở hữu nước ngoài. Cấu trúc giao dịch trực tiếp trên sàn chứng khoán tạo nên tính linh hoạt tối đa cho dòng tiền của bạn.
 
-Tìm hiểu chi tiết [ETF là gì](content/blog/3-finalized/Final-etf-la-gi.md) giúp bạn củng cố kiến thức nền tảng vững chắc.
+Tìm hiểu chi tiết [ETF là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/etf-la-gi) giúp bạn củng cố kiến thức nền tảng vững chắc.
 Từ đó, bạn dễ dàng nhận diện cơ hội và cấu trúc danh mục đầu tư dài hạn của mình một cách khoa học. Sự phát triển đa dạng của các rổ chỉ số mới đem lại nhiều sự lựa chọn tối ưu cho từng khẩu vị rủi ro khác nhau.
 
 ## Danh sách các quỹ ETF lớn và phổ biến nhất trên thị trường
@@ -91,4 +91,4 @@ HVS hỗ trợ nhà đầu tư nâng cao năng lực thực chiến thông qua *
 
 Quyết định lựa chọn và phân bổ tỷ trọng quỹ ETF đòi hỏi sự am hiểu sâu sắc về chu kỳ vĩ mô kinh tế và định giá rổ cổ phiếu cơ cấu. **HVS Tài chính số** mang đến chương trình **HVS Thực tập số** - giải pháp đào tạo chuyên sâu giúp bạn xây dựng bộ kỹ năng quản trị rủi ro danh mục và thiết lập kế hoạch phân bổ tài sản thông minh.
 
-Bên cạnh đó, bạn có thể kiểm chứng các kịch bản phân bổ vốn thông qua tài khoản giao dịch ảo trên hệ thống giả lập **HVS Demo** để làm quen với bảng điện và khớp lệnh LO mà không gặp rủi ro mất tiền thật. Cuối cùng, **HVS Forum** cung cấp không gian thảo luận chất lượng để bạn kết nối và học hỏi kinh nghiệm thực chiến từ cộng đồng nhà đầu tư đi trước. Bạn có thể kết hợp thêm việc tham khảo chiến lược [đầu tư etf](content/blog/3-finalized/Final-dau-tu-etf.md) để gia tăng hiệu quả quản lý vốn.
+Bên cạnh đó, bạn có thể kiểm chứng các kịch bản phân bổ vốn thông qua tài khoản giao dịch ảo trên hệ thống giả lập **HVS Demo** để làm quen với bảng điện và khớp lệnh LO mà không gặp rủi ro mất tiền thật. Cuối cùng, **HVS Forum** cung cấp không gian thảo luận chất lượng để bạn kết nối và học hỏi kinh nghiệm thực chiến từ cộng đồng nhà đầu tư đi trước. Bạn có thể kết hợp thêm việc tham khảo chiến lược [đầu tư etf](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-etf) để gia tăng hiệu quả quản lý vốn.

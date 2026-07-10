@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: [\"quyền chọn là gì"]
 Status: Finalized
@@ -77,6 +77,6 @@ Nhiều F0 thua lỗ nặng nề chỉ vì lao vào mua chứng quyền đòn b�
 
 Chương trình huấn luyện thực chiến **HVS Thực tập số** (nằm trong khuôn khổ đào tạo **HVS Tài chính số**) cung cấp cho bạn lộ trình học tập bài bản nhất. 
 
-Mentor giàu kinh nghiệm sẽ hướng dẫn bạn bóc tách báo cáo tài chính doanh nghiệp, định giá cổ phiếu cơ sở thực tế tại Việt Nam (như HPG, VCB, PNJ) và thấu hiểu chu kỳ hoạt động của doanh nghiệp để đưa ra các nhận định xu hướng chuẩn xác. Đây là bước chuẩn bị bắt buộc giúp bạn xây dựng nền tảng vững vàng trước khi tiếp cận các công cụ đòn bẩy phức tạp hơn. Bạn có thể tham khảo thêm [cách đầu tư chứng khoán phái sinh](Final-cach-dau-tu-chung-khoan-phai-sinh.md) để mở rộng kiến thức về các công cụ giao dịch phái sinh hiện hành tại Việt Nam.
+Mentor giàu kinh nghiệm sẽ hướng dẫn bạn bóc tách báo cáo tài chính doanh nghiệp, định giá cổ phiếu cơ sở thực tế tại Việt Nam (như HPG, VCB, PNJ) và thấu hiểu chu kỳ hoạt động của doanh nghiệp để đưa ra các nhận định xu hướng chuẩn xác. Đây là bước chuẩn bị bắt buộc giúp bạn xây dựng nền tảng vững vàng trước khi tiếp cận các công cụ đòn bẩy phức tạp hơn. Bạn có thể tham khảo thêm [cách đầu tư chứng khoán phái sinh](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-khoan-phai-sinh) để mở rộng kiến thức về các công cụ giao dịch phái sinh hiện hành tại Việt Nam.
 
 Đồng thời, bạn được cung cấp công cụ giả lập giao dịch **HVS Demo** để đặt lệnh mua bán cổ phiếu cơ sở rủi ro bằng 0 (lưu ý: HVS Demo chỉ hỗ trợ giao dịch thị trường cổ phiếu cơ sở ảo, không hỗ trợ giao dịch phái sinh hay chứng quyền). Môi trường giả lập giúp bạn kiểm chứng sâu sắc các bộ lọc cổ phiếu và rèn luyện tâm lý bám bảng điện trước khi đầu tư thực tế. Tiếp tục thảo luận các kịch bản cung - cầu thực tế cùng cộng đồng các nhà đầu tư tri thức tại **HVS Forum** để liên tục mài giũa tư duy quản trị vốn chuyên nghiệp của mình.

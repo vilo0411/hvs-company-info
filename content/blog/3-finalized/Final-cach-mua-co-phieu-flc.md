@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Detailed
@@ -11,7 +11,7 @@ Meta_Description: Hướng dẫn cách mua cổ phiếu FLC sau khi bị hủy t
 
 # Cổ Phiếu FLC Hủy Niêm Yết: Cách Giao Dịch Và Rủi Ro Cần Biết
 
-Cổ phiếu FLC hiện đã bị hủy niêm yết trên các sàn giao dịch tập trung (HOSE, UPCoM). Tuy nhiên, nhà đầu tư vẫn có thể mua bán qua hình thức thỏa thuận. Bài viết này làm rõ cách mua cổ phiếu FLC hiện nay và những rủi ro đi kèm cho những ai đang tham gia [thị trường chứng khoán](content/blog/3-finalized/Final-chung-khoan-la-gi.md).
+Cổ phiếu FLC hiện đã bị hủy niêm yết trên các sàn giao dịch tập trung (HOSE, UPCoM). Tuy nhiên, nhà đầu tư vẫn có thể mua bán qua hình thức thỏa thuận. Bài viết này làm rõ cách mua cổ phiếu FLC hiện nay và những rủi ro đi kèm cho những ai đang tham gia [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi).
 
 ## Có thể mua cổ phiếu FLC trên sàn chứng khoán không?
 
@@ -53,7 +53,7 @@ Bảng dưới đây so sánh sự khác biệt giữa giao dịch cổ phiếu 
 
 ## 3 Rủi ro chí mạng khi mua cổ phiếu FLC hiện tại
 
-Mua cổ phiếu FLC lúc này đồng nghĩa với việc chấp nhận rủi ro thanh khoản cực thấp, tính minh bạch thông tin kém và không có cơ chế bảo vệ từ Ủy ban Chứng khoán Nhà nước. Bạn nên cân nhắc kỹ lượng các biến số rủi ro dưới đây trước khi quyết định bỏ vốn vào một [mã cổ phiếu](content/blog/3-finalized/Final-co-phieu-la-gi.md) đã bị hủy niêm yết.
+Mua cổ phiếu FLC lúc này đồng nghĩa với việc chấp nhận rủi ro thanh khoản cực thấp, tính minh bạch thông tin kém và không có cơ chế bảo vệ từ Ủy ban Chứng khoán Nhà nước. Bạn nên cân nhắc kỹ lượng các biến số rủi ro dưới đây trước khi quyết định bỏ vốn vào một [mã cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) đã bị hủy niêm yết.
 
 ### Rủi ro thanh khoản đóng băng tài sản
 
@@ -61,7 +61,7 @@ Thanh khoản của cổ phiếu FLC trên thị trường OTC gần như bằng
 
 ### Rủi ro thiếu minh bạch thông tin doanh nghiệp
 
-Tập đoàn FLC không còn nghĩa vụ công bố thông tin định kỳ của một công ty đại chúng niêm yết. Bạn không thể tiếp cận các báo cáo tài chính quý hay báo cáo tình hình quản trị chính xác của doanh nghiệp. Việc mua cổ phiếu FLC lúc này hoàn toàn giống như việc đầu tư mù quáng mà không có bất kỳ dữ liệu thực tế nào hỗ trợ. Mọi quyết định giao dịch của bạn đều dựa trên các tin đồn vô căn cứ trên mạng xã hội. Điều này tác động tiêu cực đến [tâm lý đầu tư chứng khoán](content/blog/3-finalized/Final-tam-ly-dau-tu-chung-khoan.md) của bạn.
+Tập đoàn FLC không còn nghĩa vụ công bố thông tin định kỳ của một công ty đại chúng niêm yết. Bạn không thể tiếp cận các báo cáo tài chính quý hay báo cáo tình hình quản trị chính xác của doanh nghiệp. Việc mua cổ phiếu FLC lúc này hoàn toàn giống như việc đầu tư mù quáng mà không có bất kỳ dữ liệu thực tế nào hỗ trợ. Mọi quyết định giao dịch của bạn đều dựa trên các tin đồn vô căn cứ trên mạng xã hội. Điều này tác động tiêu cực đến [tâm lý đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan) của bạn.
 
 ### Rủi ro mất trắng vốn do tranh chấp pháp lý
 

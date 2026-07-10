@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Mode: Express
@@ -21,11 +21,11 @@ Giao dịch mua cổ phiếu GAS trên sàn HOSE được tối giản hóa thô
 
 Cổ phiếu GAS được niêm yết trên Sở Giao dịch Chứng khoán TP. HCM (sàn HOSE). Để giao dịch, bạn bắt buộc phải có tài khoản chứng khoán tại một công ty chứng khoán được Ủy ban Chứng khoán Nhà nước cấp phép hoạt động.
 
-Quy trình đăng ký tài khoản hiện nay hoàn toàn trực tuyến và miễn phí. Bạn chỉ cần tải ứng dụng của công ty chứng khoán, thực hiện xác thực thông tin định danh eKYC bằng cách chụp ảnh căn cước công dân và xác thực khuôn mặt. Hoàn tất các thủ tục **mở tài khoản giao dịch gas** trực tuyến này chỉ mất khoảng 5 phút. Sau khi tài khoản được kích hoạt, bạn sẽ nhận được thông tin đăng nhập qua email và tin nhắn điện thoại để sẵn sàng tham gia [thị trường chứng khoán](content/blog/3-finalized/Final-thi-truong-chung-khoan-la-gi.md).
+Quy trình đăng ký tài khoản hiện nay hoàn toàn trực tuyến và miễn phí. Bạn chỉ cần tải ứng dụng của công ty chứng khoán, thực hiện xác thực thông tin định danh eKYC bằng cách chụp ảnh căn cước công dân và xác thực khuôn mặt. Hoàn tất các thủ tục **mở tài khoản giao dịch gas** trực tuyến này chỉ mất khoảng 5 phút. Sau khi tài khoản được kích hoạt, bạn sẽ nhận được thông tin đăng nhập qua email và tin nhắn điện thoại để sẵn sàng tham gia [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thi-truong-chung-khoan-la-gi).
 
 ### Bước 2: Nạp tiền vào tài khoản chứng khoán
 
-Tài khoản chứng khoán cần có đủ số dư tiền gửi trước khi bạn tiến hành mua [cổ phiếu](content/blog/3-finalized/Final-co-phieu-la-gi.md). Bạn thực hiện nạp tiền thông qua dịch vụ Internet Banking của ngân hàng cá nhân bằng cách chuyển khoản nhanh 24/7 đến số tài khoản định danh do công ty chứng khoán cung cấp. Thao tác thực hiện rất đơn giản.
+Tài khoản chứng khoán cần có đủ số dư tiền gửi trước khi bạn tiến hành mua [cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi). Bạn thực hiện nạp tiền thông qua dịch vụ Internet Banking của ngân hàng cá nhân bằng cách chuyển khoản nhanh 24/7 đến số tài khoản định danh do công ty chứng khoán cung cấp. Thao tác thực hiện rất đơn giản.
 
 Bạn phải nhập chính xác cú pháp chuyển tiền bao gồm số tài khoản chứng khoán và họ tên chủ tài khoản để tránh sai sót hệ thống. Phí nạp tiền phụ thuộc vào quy định của ngân hàng liên kết, thông thường dao động từ $0$ đến $11.000$ đồng mỗi giao dịch. Dòng tiền sau khi chuyển thành công sẽ hiển thị trên phần mềm giao dịch trực tuyến chỉ trong vài phút, giúp bạn sẵn sàng cho các quyết định giải ngân tiếp theo.
 
@@ -65,7 +65,7 @@ Lựa chọn lệnh phù hợp giúp bạn tối ưu hóa dòng tiền và chủ
 
 Tổng Công ty Khí Việt Nam (GAS) giữ vị thế độc quyền tự nhiên trong phân phối khí khô cho các nhà máy điện và đạm tại Việt Nam. Doanh thu của GAS phụ thuộc lớn vào sản lượng khí tự nhiên khai thác và hệ thống đường ống dẫn khí. Khí tự nhiên là sản phẩm chính.
 
-Chuỗi dự án Lô B - Ô Môn và Kho cảng LNG Thị Vải là động lực tăng trưởng dài hạn. Biến số vĩ mô quan trọng nhất tác động đến lợi nhuận của GAS là giá dầu Brent thế giới, do giá bán khí tại nguồn neo theo giá thô quốc tế. Thực hiện [phân tích ngành](content/blog/3-finalized/Final-phan-tich-nganh-la-gi.md) năng lượng kỹ lưỡng giúp bạn nhận diện chính xác xu hướng biên lợi nhuận trong từng giai đoạn.
+Chuỗi dự án Lô B - Ô Môn và Kho cảng LNG Thị Vải là động lực tăng trưởng dài hạn. Biến số vĩ mô quan trọng nhất tác động đến lợi nhuận của GAS là giá dầu Brent thế giới, do giá bán khí tại nguồn neo theo giá thô quốc tế. Thực hiện [phân tích ngành](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-nganh-la-gi) năng lượng kỹ lưỡng giúp bạn nhận diện chính xác xu hướng biên lợi nhuận trong từng giai đoạn.
 
 ### Phương pháp phân bổ vốn và xác định ngưỡng cắt lỗ cho cổ phiếu phòng thủ
 

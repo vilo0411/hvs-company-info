@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["nên đầu tư cổ phiếu nào"]
 Status: Finalized
@@ -32,9 +32,9 @@ Sự phù hợp này dựa trên ba yếu tố cốt lõi:
 Để giúp Bạn hình dung rõ hơn, HVS sẽ hướng dẫn cách áp dụng bộ chỉ số cốt lõi nhằm đánh giá một doanh nghiệp khỏe mạnh thực sự:
 
 ### 1. Sức khỏe tài chính qua các chỉ số (P/E, EPS, ROE)
-*   **[EPS](content/blog/3-finalized/Final-chi-so-eps-la-gi.md) (Lợi nhuận trên mỗi cổ phiếu):** Chỉ số này càng cao và tăng trưởng đều qua các năm càng tốt, cho thấy khả năng tạo ra giá trị thực cho cổ đông.
-*   **[P/E](content/blog/3-finalized/Final-p-e-la-gi.md) (Hệ số giá trên thu nhập):** Giúp Bạn biết mình đang mua cổ phiếu ở mức "đắt" hay "rẻ" so với mặt bằng chung của ngành.
-*   **[ROE](content/blog/3-finalized/Final-chi-so-roe-la-gi.md) (Lợi nhuận trên vốn chủ sở hữu):** Đo lường hiệu quả sử dụng vốn của ban lãnh đạo. Ưu tiên doanh nghiệp có ROE > 15% ổn định.
+*   **[EPS](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-eps-la-gi) (Lợi nhuận trên mỗi cổ phiếu):** Chỉ số này càng cao và tăng trưởng đều qua các năm càng tốt, cho thấy khả năng tạo ra giá trị thực cho cổ đông.
+*   **[P/E](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/p-e-la-gi) (Hệ số giá trên thu nhập):** Giúp Bạn biết mình đang mua cổ phiếu ở mức "đắt" hay "rẻ" so với mặt bằng chung của ngành.
+*   **[ROE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-roe-la-gi) (Lợi nhuận trên vốn chủ sở hữu):** Đo lường hiệu quả sử dụng vốn của ban lãnh đạo. Ưu tiên doanh nghiệp có ROE > 15% ổn định.
 
 ### 2. Lợi thế cạnh tranh (Economic Moat)
 Nên chọn những doanh nghiệp sở hữu "con hào kinh tế" vững chắc như: thương hiệu quốc gia, chi phí sản xuất tối ưu, hoặc sở hữu công nghệ độc quyền. Điều này giúp doanh nghiệp trụ vững và hồi phục nhanh sau các đợt biến động kinh tế.
@@ -71,11 +71,11 @@ Vinamilk là "con bò sữa" đúng nghĩa với khả năng tạo ra dòng ti�
 
 ## Những "cạm bẫy" cần tránh khi chọn cổ phiếu
 
-Biết chọn cổ phiếu nào thôi chưa đủ — bạn còn cần nắm rõ [khi nào nên mua cổ phiếu](content/blog/3-finalized/Final-khi-nao-nen-mua-co-phieu.md) để tối ưu điểm vào và tránh bẫy đu đỉnh.
+Biết chọn cổ phiếu nào thôi chưa đủ — bạn còn cần nắm rõ [khi nào nên mua cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/khi-nao-nen-mua-co-phieu) để tối ưu điểm vào và tránh bẫy đu đỉnh.
 
 *   **Tâm lý đám đông (FOMO):** Tuyệt đối không mua đuổi khi cổ phiếu đã tăng nóng chỉ vì nghe theo lời đồn thổi trên các hội nhóm.
 *   **Bỏ qua quản trị rủi ro:** Đừng dồn toàn bộ vốn vào một mã duy nhất (All-in). Hãy chia nhỏ danh mục để giảm thiểu tác động khi một ngành cụ thể gặp khó khăn.
-*   **Lạm dụng đòn bẩy ([Margin](content/blog/3-finalized/Final-margin-la-gi.md)):** Đòn bẩy có thể nhân đôi lợi nhuận nhưng cũng khiến tài khoản "cháy" rất nhanh nếu Bạn chưa làm chủ được kỹ năng kiểm soát cảm xúc.
+*   **Lạm dụng đòn bẩy ([Margin](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/margin-la-gi)):** Đòn bẩy có thể nhân đôi lợi nhuận nhưng cũng khiến tài khoản "cháy" rất nhanh nếu Bạn chưa làm chủ được kỹ năng kiểm soát cảm xúc.
 
 ## Làm chủ danh mục đầu tư cùng HVS Thực tập số
 

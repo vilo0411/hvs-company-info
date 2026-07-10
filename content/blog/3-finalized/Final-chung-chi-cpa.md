@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Pipeline_Mode: Express
@@ -31,8 +31,8 @@ Writing_Method: PAS
 HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS Forum"]
 Cluster: chứng chỉ
 Internal_Links:
-  - "chứng chỉ cfa": "content/blog/3-finalized/Final-chung-chi-cfa.md"
-  - "chứng chỉ cmt": "content/blog/3-finalized/Final-chung-chi-cmt.md"
+  - "chứng chỉ cfa": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cfa"
+  - "chứng chỉ cmt": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cmt"
 ---
 
 # Chứng chỉ CPA là gì? Điều kiện thi và cơ hội sự nghiệp
@@ -47,7 +47,7 @@ Quyền pháp lý ký báo cáo kiểm toán là điểm khác biệt lớn nh�
 
 *   **CPA Việt Nam:** Có giá trị pháp lý bắt buộc để ký báo cáo kiểm toán độc lập trong phạm vi lãnh thổ Việt Nam.
 *   **CPA quốc tế (như CPA Úc):** Tập trung vào kỹ năng quản trị tài chính toàn cầu và các chuẩn mực kế toán quốc tế IFRS.
-*   **Các chứng chỉ tài chính bổ trợ:** Nếu muốn tập trung vào phân tích đầu tư, bạn nên học [chứng chỉ cfa](content/blog/3-finalized/Final-chung-chi-cfa.md). Ngược lại, để phân tích đồ thị giá, hãy học [chứng chỉ cmt](content/blog/3-finalized/Final-chung-chi-cmt.md).
+*   **Các chứng chỉ tài chính bổ trợ:** Nếu muốn tập trung vào phân tích đầu tư, bạn nên học [chứng chỉ cfa](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cfa). Ngược lại, để phân tích đồ thị giá, hãy học [chứng chỉ cmt](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cmt).
 
 Quyết định chọn chứng chỉ phụ thuộc định hướng nghề nghiệp. Bạn cần xác định rõ mục tiêu từ sớm.
 

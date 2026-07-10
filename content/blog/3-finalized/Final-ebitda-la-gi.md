@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["EBITDA là gì"]
 Status: Finalized
@@ -36,7 +36,7 @@ Thuật ngữ này viết tắt từ các chữ cái tiếng Anh bao gồm:
 
 Chỉ số tài chính này đo lường dòng tiền hoạt động thô. Doanh nghiệp hoạt động hiệu quả nếu chỉ số này cải thiện. Lan Newbie dùng chỉ số này để so sánh các đơn vị thâm dụng vốn lớn. Khấu hao tài sản cố định làm giảm lợi nhuận ròng nhưng không làm giảm dòng tiền thực tế. 
 
-Nhà đầu tư thực hành [phân tích cơ bản là gì](content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md) phải hiểu rõ bản chất của từng thành phần này để đánh giá đúng năng lực doanh nghiệp.
+Nhà đầu tư thực hành [phân tích cơ bản là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) phải hiểu rõ bản chất của từng thành phần này để đánh giá đúng năng lực doanh nghiệp.
 
 ## Hướng dẫn cách tính EBITDA từ báo cáo tài chính doanh nghiệp
 
@@ -90,7 +90,7 @@ Chỉ số này loại bỏ sự khác biệt về phương pháp kế toán. Do
 
 Bên cạnh đó, chỉ số này giúp so sánh hiệu năng giữa doanh nghiệp sử dụng nhiều nợ vay và doanh nghiệp không dùng nợ vay. Chi phí lãi vay làm giảm lợi nhuận ròng nhưng không ảnh hưởng đến EBITDA. Một doanh nghiệp có nợ vay lớn và một doanh nghiệp không nợ vay có thể cùng sở hữu một hiệu suất hoạt động cốt lõi như nhau.
 
-Lan Newbie có thể so sánh trực tiếp hiệu quả vận hành giữa các doanh nghiệp thép trên sàn HOSE mà không bị ảnh hưởng bởi chính sách ưu đãi thuế của từng địa phương. Nhà đầu tư kết hợp chỉ số này cùng các chỉ số hiệu quả sinh lời khác như [roa là gì](content/blog/3-finalized/Final-roa-la-gi.md), [chỉ số roe là gì](content/blog/3-finalized/Final-chi-so-roe-la-gi.md) và [chỉ số eps là gì](content/blog/3-finalized/Final-chi-so-eps-la-gi.md) để lọc cổ phiếu tiềm năng.
+Lan Newbie có thể so sánh trực tiếp hiệu quả vận hành giữa các doanh nghiệp thép trên sàn HOSE mà không bị ảnh hưởng bởi chính sách ưu đãi thuế của từng địa phương. Nhà đầu tư kết hợp chỉ số này cùng các chỉ số hiệu quả sinh lời khác như [roa là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/roa-la-gi), [chỉ số roe là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-roe-la-gi) và [chỉ số eps là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-eps-la-gi) để lọc cổ phiếu tiềm năng.
 
 ## Ứng dụng chỉ số EBITDA trong phân tích và định giá cổ phiếu
 

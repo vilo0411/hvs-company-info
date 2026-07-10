@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu TTF"]
 Status: Finalized
@@ -24,7 +24,7 @@ Quyết định có nên mua cổ phiếu TTF ở thời điểm hiện tại đ
 
 Cổ phiếu TTF là chứng chỉ sở hữu cổ phần của Công ty Cổ phần Tập đoàn Kỹ nghệ Gỗ Trường Thành niêm yết trên sàn HOSE, từng là doanh nghiệp chế biến gỗ hàng đầu nhưng hiện đối mặt với nhiều áp lực tái cấu trúc tài chính.
 
-Hiện tại, sàn HOSE duy trì trạng thái kiểm soát đối với cổ phiếu TTF do tình trạng lỗ lũy kế kéo dài qua nhiều năm tài chính. Việc nắm giữ vị thế đối với một doanh nghiệp chế biến gỗ xuất khẩu đòi hỏi bạn phải hiểu rõ bản chất hoạt động cốt lõi của họ. Trước khi đi sâu vào các số liệu tài chính cụ thể, bạn có thể tham khảo thêm về [Có nên mua cổ phiếu POW](content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md) để hiểu rõ hơn về cách đánh giá các nhóm cổ phiếu trụ cột của thị trường.
+Hiện tại, sàn HOSE duy trì trạng thái kiểm soát đối với cổ phiếu TTF do tình trạng lỗ lũy kế kéo dài qua nhiều năm tài chính. Việc nắm giữ vị thế đối với một doanh nghiệp chế biến gỗ xuất khẩu đòi hỏi bạn phải hiểu rõ bản chất hoạt động cốt lõi của họ. Trước khi đi sâu vào các số liệu tài chính cụ thể, bạn có thể tham khảo thêm về [Có nên mua cổ phiếu POW](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pow) để hiểu rõ hơn về cách đánh giá các nhóm cổ phiếu trụ cột của thị trường.
 
 * Vị thế trong ngành: TTF từng là thương hiệu sản xuất và thi công đồ gỗ nội thất hàng đầu Việt Nam, sở hữu hệ thống nhà máy quy mô lớn tại Bình Dương.
 * Trạng thái niêm yết: Cổ phiếu giao dịch dưới dạng kiểm soát và cảnh báo trên sàn HOSE do tình trạng mất cân đối nguồn vốn kéo dài.
@@ -45,7 +45,7 @@ Tính đến quý 1/2026, số lỗ lũy kế của Gỗ Trường Thành đã v
 | Lỗ lũy kế cuối kỳ | -3.120 | -3.250 | -3.370 |
 | Nợ phải trả | 3.050 | 2.980 | 2.890 |
 
-Dòng tiền hoạt động kinh doanh của doanh nghiệp liên tục âm qua nhiều năm cho thấy TTF đang phải duy trì hoạt động bằng cách thanh lý tài sản hoặc phụ thuộc vào dòng vốn tài trợ bên ngoài. Sự biến động trong cơ cấu nhân sự cấp cao và các tranh chấp pháp lý tồn đọng với các đối tác cũ cũng là biến số phi tài chính làm gia tăng mức độ rủi ro cho cổ đông nắm giữ. Khi giao dịch các mã có thị giá thấp hơn mệnh giá, bạn cần nắm rõ bản chất [cổ phiếu penny là gì](content/blog/3-finalized/Final-co-phieu-penny-la-gi.md) để tránh sa vào các bẫy thanh khoản ngắn hạn.
+Dòng tiền hoạt động kinh doanh của doanh nghiệp liên tục âm qua nhiều năm cho thấy TTF đang phải duy trì hoạt động bằng cách thanh lý tài sản hoặc phụ thuộc vào dòng vốn tài trợ bên ngoài. Sự biến động trong cơ cấu nhân sự cấp cao và các tranh chấp pháp lý tồn đọng với các đối tác cũ cũng là biến số phi tài chính làm gia tăng mức độ rủi ro cho cổ đông nắm giữ. Khi giao dịch các mã có thị giá thấp hơn mệnh giá, bạn cần nắm rõ bản chất [cổ phiếu penny là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-penny-la-gi) để tránh sa vào các bẫy thanh khoản ngắn hạn.
 
 ---
 

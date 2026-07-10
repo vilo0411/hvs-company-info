@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["pha loãng cổ phiếu là gì"]
 Status: Finalized
@@ -72,7 +72,7 @@ Nhiều nhà đầu tư bỏ qua hiện tượng này vì số lượng cổ phi
 Do doanh nghiệp thường tăng số lượng cổ phiếu lưu hành thông qua nhiều phương thức khác nhau, bạn cần nhận diện 4 tác nhân chính sau:
 
 #### Phát hành cổ phiếu ESOP cho nhân viên
-Chương trình lựa chọn cổ phiếu cho người lao động (ESOP) phát hành cổ phiếu mới giá ưu đãi cho nhân sự chủ chốt. Khi nhân viên thực hiện quyền mua, số lượng cổ phiếu lưu hành tăng lên. Nhiều doanh nghiệp như Thế Giới Di Động (mã MWG) dùng phương án này để giữ chân nhân sự. Bài viết [cổ phiếu esop là gì](content/blog/3-finalized/Final-co-phieu-esop-la-gi.md) giúp bạn đánh giá đúng tác động này.
+Chương trình lựa chọn cổ phiếu cho người lao động (ESOP) phát hành cổ phiếu mới giá ưu đãi cho nhân sự chủ chốt. Khi nhân viên thực hiện quyền mua, số lượng cổ phiếu lưu hành tăng lên. Nhiều doanh nghiệp như Thế Giới Di Động (mã MWG) dùng phương án này để giữ chân nhân sự. Bài viết [cổ phiếu esop là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-esop-la-gi) giúp bạn đánh giá đúng tác động này.
 
 #### Chào bán riêng lẻ cho đối tác chiến lược
 Doanh nghiệp chào bán riêng lẻ một lượng lớn cổ phiếu cho đối tác chiến lược để huy động vốn nhanh. Nếu giá chào bán thấp hơn thị giá trên sàn HOSE, giá trị cổ phần của bạn lập tức bị pha loãng sâu. Việc phát hành giá rẻ không kèm điều khoản hạn chế chuyển nhượng sẽ tạo áp lực cung lớn lên thị trường.
@@ -81,7 +81,7 @@ Doanh nghiệp chào bán riêng lẻ một lượng lớn cổ phiếu cho đ�
 Trái phiếu chuyển đổi và chứng quyền có quyền chuyển đổi thành cổ phiếu phổ thông trong tương lai. Khi thị giá tăng vượt giá chuyển đổi, các trái chủ hoán đổi để chốt lời. Quá trình này làm bùng nổ lượng cổ phiếu lưu hành, trực tiếp làm giảm thu nhập trên mỗi cổ phần.
 
 #### Trả cổ tức bằng cổ phiếu và phát hành cổ phiếu thưởng
-Doanh nghiệp thực hiện phân phối cổ tức bằng cổ phiếu để giữ lại lợi nhuận tái đầu tư. Hành động này không làm thay đổi vốn chủ sở hữu nhưng làm tăng cơ học số lượng cổ phiếu lưu hành. Đọc thêm bài viết [cổ tức là gì](content/blog/3-finalized/Final-co-tuc-la-gi.md) giúp bạn nắm rõ quy trình này.
+Doanh nghiệp thực hiện phân phối cổ tức bằng cổ phiếu để giữ lại lợi nhuận tái đầu tư. Hành động này không làm thay đổi vốn chủ sở hữu nhưng làm tăng cơ học số lượng cổ phiếu lưu hành. Đọc thêm bài viết [cổ tức là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi) giúp bạn nắm rõ quy trình này.
 
 ---
 
@@ -89,7 +89,7 @@ Doanh nghiệp thực hiện phân phối cổ tức bằng cổ phiếu để g
 
 **Cách phân tích chỉ số EPS pha loãng dựa trên việc so sánh trực tiếp hiệu số giữa EPS cơ bản và EPS pha loãng nhằm xác định tỷ lệ sụt giảm thu nhập thực tế của cổ đông.**
 
-Chỉ số EPS cơ bản (Basic EPS) tính toán dựa trên lượng cổ phiếu phổ thông đang lưu hành. Trong khi đó, EPS pha loãng (Diluted EPS) đưa toàn bộ cổ phiếu tiềm năng từ các công cụ tài chính có khả năng chuyển đổi vào mẫu số. Sự khác biệt này phản ánh chính xác hiệu suất sinh lời thực tế của mỗi cổ phần. Định giá doanh nghiệp chỉ dựa trên [chỉ số EPS](content/blog/3-finalized/Final-chi-so-eps-la-gi.md) cơ bản dễ dẫn đến sai lầm nghiêm trọng.
+Chỉ số EPS cơ bản (Basic EPS) tính toán dựa trên lượng cổ phiếu phổ thông đang lưu hành. Trong khi đó, EPS pha loãng (Diluted EPS) đưa toàn bộ cổ phiếu tiềm năng từ các công cụ tài chính có khả năng chuyển đổi vào mẫu số. Sự khác biệt này phản ánh chính xác hiệu suất sinh lời thực tế của mỗi cổ phần. Định giá doanh nghiệp chỉ dựa trên [chỉ số EPS](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-eps-la-gi) cơ bản dễ dẫn đến sai lầm nghiêm trọng.
 
 Công thức tính toán được thực hiện như sau:
 > **EPS pha loãng = (Lợi nhuận ròng - Cổ tức ưu đãi) / (Lượng cổ phiếu phổ thông lưu hành + Lượng cổ phiếu pha loãng tiềm năng)**

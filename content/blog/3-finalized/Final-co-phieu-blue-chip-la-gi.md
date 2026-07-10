@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["cổ phiếu blue chip là gì"]
 Status: Finalized
@@ -52,7 +52,7 @@ Cổ phiếu blue chip (như VCB, FPT, HPG) luôn là lựa chọn hàng đầu 
 
 ## Cổ phiếu blue chip là gì? Nguồn gốc và Định nghĩa
 
-**Cổ phiếu blue chip là loại cổ phiếu được phát hành bởi các công ty có vốn hóa lớn, tài chính vững mạnh, dẫn đầu trong ngành và có lịch sử trả cổ tức đều đặn qua nhiều năm.** Khi mới tham gia và tìm hiểu về [chứng khoán là gì](content/blog/3-finalized/Final-chung-khoan-la-gi.md), việc phân loại các nhóm cổ phiếu trên bảng điện tử là bài học vỡ lòng quan trọng.
+**Cổ phiếu blue chip là loại cổ phiếu được phát hành bởi các công ty có vốn hóa lớn, tài chính vững mạnh, dẫn đầu trong ngành và có lịch sử trả cổ tức đều đặn qua nhiều năm.** Khi mới tham gia và tìm hiểu về [chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi), việc phân loại các nhóm cổ phiếu trên bảng điện tử là bài học vỡ lòng quan trọng.
 
 Thuật ngữ này bắt nguồn từ trò chơi Poker tại các sòng bài. Trong đó, những chiếc thẻ nhựa màu xanh dương (blue chip) luôn có giá trị quy đổi tiền mặt cao nhất so với thẻ màu đỏ hay màu trắng. Vào năm 1923, Oliver Gingold - một nhân viên làm việc tại tờ báo tài chính nổi tiếng Dow Jones - đã sử dụng thuật ngữ này để mô tả các cổ phiếu đang giao dịch ở mức giá cao trên thị trường Mỹ. Ngày nay, giới tài chính quốc tế sử dụng khái niệm này để chỉ những doanh nghiệp lớn có uy tín thương hiệu vững chắc và sức khỏe tài chính lành mạnh.
 
@@ -66,7 +66,7 @@ Thứ hai, lịch sử hoạt động sản xuất kinh doanh phải tăng trư�
 
 Thứ ba, thanh khoản giao dịch hằng ngày cực kỳ dồi dào. Khối lượng khớp lệnh mỗi phiên của cổ phiếu blue chip thường đạt từ vài trăm nghìn đến hàng triệu cổ phiếu. Điều này giúp bạn dễ dàng thực hiện việc đặt lệnh mua bán mà không sợ gặp rủi ro nghẽn thanh khoản.
 
-Thứ tư, chính sách chi trả cổ tức bằng tiền mặt được thực hiện đều đặn. Dòng tiền thặng dư lớn giúp các công ty này chi trả [cổ tức là gì](content/blog/3-finalized/Final-co-tuc-la-gi.md) đều đặn cho cổ đông mỗi năm với tỷ suất cổ tức dao động quanh mức 5-10%.
+Thứ tư, chính sách chi trả cổ tức bằng tiền mặt được thực hiện đều đặn. Dòng tiền thặng dư lớn giúp các công ty này chi trả [cổ tức là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi) đều đặn cho cổ đông mỗi năm với tỷ suất cổ tức dao động quanh mức 5-10%.
 
 ## Danh sách cổ phiếu Blue Chip Việt Nam tiêu biểu (Update 2026)
 
@@ -88,7 +88,7 @@ Vinamilk (VNM) dẫn đầu thị phần ngành hàng tiêu dùng nhanh với h�
 
 Có nên mua cổ phiếu blue chip hay không phụ thuộc vào khẩu vị rủi ro và chu kỳ kinh tế mà thị trường đang trải qua. Dù sở hữu nhiều ưu điểm vượt trội, nhóm cổ phiếu này vẫn tồn tại những đặc tính hai mặt mà bạn cần phân tích kỹ lưỡng trước khi quyết định giải ngân.
 
-Về lợi thế, các doanh nghiệp này có khả năng chống chịu cực tốt trước các cú sốc vĩ mô. Khi thị trường tài chính đi vào giai đoạn điều chỉnh sâu, dòng vốn của các khối ngoại và quỹ đầu tư lớn thường có xu hướng tìm về các mã blue chip để trú ẩn an toàn. Nhờ sức mạnh tài chính vững vàng, giá của các cổ phiếu này thường giảm nhẹ hơn và phục hồi nhanh hơn so với mặt bằng chung. Ngược lại hoàn toàn với các mã đầu cơ giá rẻ như [cổ phiếu penny là gì](content/blog/3-finalized/Final-co-phieu-penny-la-gi.md), cổ phiếu blue chip mang tính phòng thủ cao giúp bảo vệ danh mục của bạn tránh khỏi các đợt sụt giảm tài sản nghiêm trọng.
+Về lợi thế, các doanh nghiệp này có khả năng chống chịu cực tốt trước các cú sốc vĩ mô. Khi thị trường tài chính đi vào giai đoạn điều chỉnh sâu, dòng vốn của các khối ngoại và quỹ đầu tư lớn thường có xu hướng tìm về các mã blue chip để trú ẩn an toàn. Nhờ sức mạnh tài chính vững vàng, giá của các cổ phiếu này thường giảm nhẹ hơn và phục hồi nhanh hơn so với mặt bằng chung. Ngược lại hoàn toàn với các mã đầu cơ giá rẻ như [cổ phiếu penny là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-penny-la-gi), cổ phiếu blue chip mang tính phòng thủ cao giúp bảo vệ danh mục của bạn tránh khỏi các đợt sụt giảm tài sản nghiêm trọng.
 
 Để có cái nhìn tổng quan, bạn có thể tham khảo bảng so sánh các nhóm cổ phiếu dưới đây:
 

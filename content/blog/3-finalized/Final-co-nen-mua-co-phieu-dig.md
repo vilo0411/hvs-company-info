@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -88,7 +88,7 @@ Dưới đây là bảng định giá lịch sử và dự phóng của cổ phi
 Mức định giá P/B dự phóng quanh 1.3 lần phản ánh kỳ vọng thận trọng của thị trường trước các thách thức pháp lý và tiến độ triển khai thực tế tại các công trường.
 
 Việc phân tích các kịch bản hành động cụ thể bao gồm:
-- **Kịch bản 1:** Thực hiện tích lũy định kỳ cổ phiếu DIG khi thị giá chiết khấu sâu về vùng P/B dưới 1.1 lần với tầm nhìn dài hạn 3 năm, tương tự cách đánh giá khi [đầu tư cổ phiếu NVL](content/blog/3-finalized/Final-cach-mua-co-phieu-nvl.md) đối với nhóm bất động sản có tài sản lớn đang tái cấu trúc.
+- **Kịch bản 1:** Thực hiện tích lũy định kỳ cổ phiếu DIG khi thị giá chiết khấu sâu về vùng P/B dưới 1.1 lần với tầm nhìn dài hạn 3 năm, tương tự cách đánh giá khi [đầu tư cổ phiếu NVL](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-nvl) đối với nhóm bất động sản có tài sản lớn đang tái cấu trúc.
 - **Kịch bản 2:** Tạm thời quan sát ngoài thị trường nếu kết quả kinh doanh quý tiếp tục báo lỗ hoặc tiến độ giải phóng mặt bằng dự án Long Tân không đạt mục tiêu đề ra của ban điều hành.
 
 ---

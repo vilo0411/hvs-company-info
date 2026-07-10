@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["phương pháp canslim"]
 Status: Finalized
@@ -31,7 +31,7 @@ O'Neil đã đúc kết phương pháp này sau khi nghiên cứu hàng nghìn s
 Bộ lọc CANSLIM hoạt động dựa trên sự phối hợp đồng bộ của 7 tiêu chí định lượng và kỹ thuật sau đây:
 
 *   **C (Current Quarterly Earnings) - Lợi nhuận quý hiện tại:** Doanh nghiệp phải có EPS quý gần nhất tăng trưởng tối thiểu từ 20% đến 25% so với cùng kỳ năm trước. O'Neil khuyên nhà đầu tư nên kiểm chứng kỹ xem lợi nhuận đột biến có đi kèm tăng trưởng doanh thu để đảm bảo lợi nhuận đến từ kinh doanh cốt lõi.
-*   **A (Annual Earnings Growth) - Tăng trưởng lợi nhuận hàng năm:** Lợi nhuận của doanh nghiệp phải tăng trưởng liên tục trong 3 năm liên tiếp gần nhất. Đồng thời, chỉ số ROE tối thiểu phải đạt mức 17%. Bạn nên xem bài viết [chỉ số roe là gì](Final-chi-so-roe-la-gi.md) để củng cố phân tích. Ngoài ra, EPS hàng năm cần tăng trưởng ổn định 3 năm gần nhất để đảm bảo không bị pha loãng.
+*   **A (Annual Earnings Growth) - Tăng trưởng lợi nhuận hàng năm:** Lợi nhuận của doanh nghiệp phải tăng trưởng liên tục trong 3 năm liên tiếp gần nhất. Đồng thời, chỉ số ROE tối thiểu phải đạt mức 17%. Bạn nên xem bài viết [chỉ số roe là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-roe-la-gi) để củng cố phân tích. Ngoài ra, EPS hàng năm cần tăng trưởng ổn định 3 năm gần nhất để đảm bảo không bị pha loãng.
 *   **N (New Products, New Management, New Highs) - Yếu tố mới:** Doanh nghiệp cần sở hữu động lực tăng trưởng mới như sản phẩm mới, ban lãnh đạo mới nâng cao năng lực quản trị, hoặc giá cổ phiếu vượt đỉnh 52 tuần để thiết lập mặt bằng giá mới. O'Neil ưu tiên mua khi giá bứt phá khỏi các mẫu hình kỹ thuật tin cậy như chiếc cốc tay cầm hoặc nền giá phẳng. Điểm bứt phá khỏi nền giá (breakout) chính là điểm kích hoạt dòng tiền mua vào, giúp bạn tối ưu hóa thời gian nắm giữ cổ phiếu.
 *   **S (Supply and Demand) - Cung và cầu cổ phiếu:** Ưu tiên các cổ phiếu có cơ cấu cổ đông cô đặc, lượng cổ phiếu lưu hành ngoài thị trường vừa phải. Khối lượng giao dịch tại điểm bứt phá bắt buộc phải tăng tối thiểu 40% đến 50% so với khối lượng trung bình 50 phiên trước đó. Các cổ phiếu cô đặc có tỷ lệ lưu hành tự do (free float) thấp thường dễ tăng giá nhanh hơn khi lực cầu bùng nổ.
 *   **L (Leader or Laggard) - Cổ phiếu dẫn đầu hay tụt hậu:** Bạn chỉ tập trung mua những cổ phiếu dẫn đầu ngành có sức mạnh giá vượt trội, tuyệt đối không mua những cổ phiếu yếu đang dò đáy trong cùng ngành. Hãy chọn các cổ phiếu dẫn đầu ngành có chỉ số sức mạnh giá tương đối (Relative Strength) từ 80 điểm trở lên để tối ưu hóa danh mục.
@@ -44,7 +44,7 @@ Việc tuân thủ đồng thời cả 7 tiêu chí này giúp bạn loại bỏ
 
 Việc áp dụng các quy tắc CANSLIM vào sàn HOSE đòi hỏi bạn phải thích ứng với đặc thù vận hành riêng biệt của thị trường Việt Nam:
 
-*   **Quản trị rủi ro chu kỳ T+2.5:** Do đặc thù T+2.5 của Việt Nam, việc mua đuổi giá trần có thể khiến bạn bị kẹt vị thế khi cổ phiếu chưa về tài khoản. Bạn cần đọc bài phân tích [breakout trong chứng khoán là gì](Final-breakout-trong-chung-khoan-la-gi.md) để nhận diện các phiên breakout giả (Bull trap).
+*   **Quản trị rủi ro chu kỳ T+2.5:** Do đặc thù T+2.5 của Việt Nam, việc mua đuổi giá trần có thể khiến bạn bị kẹt vị thế khi cổ phiếu chưa về tài khoản. Bạn cần đọc bài phân tích [breakout trong chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/breakout-trong-chung-khoan-la-gi) để nhận diện các phiên breakout giả (Bull trap).
 *   **Biên độ dao động giá:** Biên độ sàn HOSE (±7%) và HNX (±10%) làm gia tăng biến động ngắn hạn. Bạn cần thiết lập điểm cắt lỗ tự động ở mức 7% đến 8% để bảo vệ vốn trước các biến động lớn trong phiên.
 
 ### Bảng checklist tự đánh giá nhanh cổ phiếu theo tiêu chuẩn CANSLIM
@@ -59,7 +59,7 @@ Việc áp dụng các quy tắc CANSLIM vào sàn HOSE đòi hỏi bạn phải
 | **I - Institutional** | Có sự tham gia của ít nhất 2 quỹ lớn/khối ngoại |
 | **M - Market Trend** | VN-Index đang trong xu hướng tăng rõ ràng |
 
-Bảng checklist này giúp bạn duy trì kỷ luật giao dịch. Bạn cũng nên so sánh với triết lý [đầu tư giá trị](Final-dau-tu-gia-tri.md) để chọn phong cách phù hợp. Do đó, việc lập kế hoạch giao dịch chi tiết và đặt sẵn lệnh điều kiện trước phiên khớp lệnh là phương pháp thích ứng an toàn nhất tại Việt Nam.
+Bảng checklist này giúp bạn duy trì kỷ luật giao dịch. Bạn cũng nên so sánh với triết lý [đầu tư giá trị](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-gia-tri) để chọn phong cách phù hợp. Do đó, việc lập kế hoạch giao dịch chi tiết và đặt sẵn lệnh điều kiện trước phiên khớp lệnh là phương pháp thích ứng an toàn nhất tại Việt Nam.
 
 ## Trở thành nhà đầu tư tăng trưởng kỷ luật cùng HVS
 

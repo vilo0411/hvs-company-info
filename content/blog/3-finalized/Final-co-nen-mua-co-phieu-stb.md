@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu STB"]
 Status: Finalized
@@ -24,7 +24,7 @@ Quyết định có nên mua cổ phiếu STB ở giai đoạn hiện tại yêu
 
 Cổ phiếu STB là chứng chỉ sở hữu cổ phần của Ngân hàng TMCP Sài Gòn Thương Tín được niêm yết trực tuyến trên sàn HOSE, đại diện cho cổ phiếu có câu chuyện tái cơ cấu tài sản tồn đọng quy mô lớn nhất hệ thống ngân hàng Việt Nam.
 
-Ngân hàng TMCP Sài Gòn Thương Tín (Sacombank) từng là một trong những ngân hàng thương mại cổ phần bán lẻ hàng đầu tại thị trường Việt Nam. Tuy nhiên, sự kiện nhận sáp nhập Southern Bank trong quá khứ đã để lại khối nợ xấu nội bảng và ngoại bảng khổng lồ, đẩy ngân hàng vào đề án tái cơ cấu kéo dài hơn một thập kỷ. Trước khi tìm hiểu chi tiết các bước xử lý tài sản của Sacombank, bạn có thể tham khảo hướng dẫn về [Cách mua cổ phiếu STB](content/blog/3-finalized/Final-cach-mua-co-phieu-stb.md) để chuẩn bị tốt cho quá trình giải ngân thực tế.
+Ngân hàng TMCP Sài Gòn Thương Tín (Sacombank) từng là một trong những ngân hàng thương mại cổ phần bán lẻ hàng đầu tại thị trường Việt Nam. Tuy nhiên, sự kiện nhận sáp nhập Southern Bank trong quá khứ đã để lại khối nợ xấu nội bảng và ngoại bảng khổng lồ, đẩy ngân hàng vào đề án tái cơ cấu kéo dài hơn một thập kỷ. Trước khi tìm hiểu chi tiết các bước xử lý tài sản của Sacombank, bạn có thể tham khảo hướng dẫn về [Cách mua cổ phiếu STB](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-stb) để chuẩn bị tốt cho quá trình giải ngân thực tế.
 
 * Tiền trình xử lý nợ gốc: Sacombank đã trích lập dự phòng toàn bộ nợ xấu trái phiếu VAMC liên quan đến các khoản nợ cũ.
 * Quy mô mạng lưới giao dịch: Tiếp tục duy trì ưu thế vượt trội về số lượng phòng giao dịch tại khu vực phía Nam.
@@ -44,7 +44,7 @@ Sản lượng lợi nhuận trước thuế ghi nhận kết quả kinh doanh t
 | Tỷ suất sinh lời trên tài sản ROA | 1.1% | 2.1% | 2.2% |
 | Chi phí trích lập dự phòng/LNTT | Thấp (Sau tái cơ cấu) | Trung bình (Duy trì đều) | Trung bình (Duy trì đều) |
 
-Lợi thế biên lãi thuần NIM của Sacombank có xu hướng mở rộng mạnh mẽ khi ngân hàng giải phóng hoàn toàn các tài sản không sinh lời. Sự thu hút của cổ phiếu đối với dòng tiền ngoại bắt đầu bùng nổ khi các quỹ đầu tư nhận thấy điểm đảo chiều tài chính rõ nét của ngân hàng. Bạn nên so sánh các chỉ số này với các mã khác trong nhóm [cổ phiếu ngân hàng](content/blog/3-finalized/Final-co-phieu-ngan-hang.md) để đánh giá đúng cơ hội đầu tư.
+Lợi thế biên lãi thuần NIM của Sacombank có xu hướng mở rộng mạnh mẽ khi ngân hàng giải phóng hoàn toàn các tài sản không sinh lời. Sự thu hút của cổ phiếu đối với dòng tiền ngoại bắt đầu bùng nổ khi các quỹ đầu tư nhận thấy điểm đảo chiều tài chính rõ nét của ngân hàng. Bạn nên so sánh các chỉ số này với các mã khác trong nhóm [cổ phiếu ngân hàng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-ngan-hang) để đánh giá đúng cơ hội đầu tư.
 
 ---
 

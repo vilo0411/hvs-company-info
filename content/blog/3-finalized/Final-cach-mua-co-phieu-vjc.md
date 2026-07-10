@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -20,13 +20,13 @@ Cổ phiếu VJC (Vietjet Air) thuộc Công ty Cổ phần Hàng không Vietjet
 
 ### Bước 1: Mở tài khoản chứng khoán để giao dịch mã VJC
 
-Mở tài khoản qua eKYC là yêu cầu bắt buộc trước khi giao dịch trên [thị trường chứng khoán](content/blog/3-finalized/Final-thi-truong-chung-khoan-la-gi.md). Hãy chọn công ty uy tín được Ủy ban Chứng khoán Nhà nước cấp phép theo quy định tại vanban.chinhphu.vn. **Thao tác rất đơn giản.** Quy trình thực hiện hoàn toàn trực tuyến trên điện thoại di động, chỉ cần chuẩn bị căn cước công dân gắn chíp.
+Mở tài khoản qua eKYC là yêu cầu bắt buộc trước khi giao dịch trên [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thi-truong-chung-khoan-la-gi). Hãy chọn công ty uy tín được Ủy ban Chứng khoán Nhà nước cấp phép theo quy định tại vanban.chinhphu.vn. **Thao tác rất đơn giản.** Quy trình thực hiện hoàn toàn trực tuyến trên điện thoại di động, chỉ cần chuẩn bị căn cước công dân gắn chíp.
 
 Bạn chụp ảnh hai mặt căn cước theo hướng dẫn. Tiếp theo, camera quét khuôn mặt để đối chiếu sinh trắc học tự động. Bạn chỉ cần kiểm tra thông tin cá nhân và xác nhận qua mã OTP. **Tài khoản kích hoạt ngay.**
 
 ### Bước 2: Nạp tiền vào tài khoản chứng khoán
 
-Có tiền trong tài khoản là điều kiện tiếp theo để mua [cổ phiếu](content/blog/3-finalized/Final-co-phieu-la-gi.md). Bạn chuyển tiền từ ngân hàng cá nhân qua số tài khoản định danh để dòng vốn vào nhanh nhất. **Giao dịch diễn ra tức thì.** Tiền thường vào tài khoản chỉ sau 1 đến 2 phút.
+Có tiền trong tài khoản là điều kiện tiếp theo để mua [cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi). Bạn chuyển tiền từ ngân hàng cá nhân qua số tài khoản định danh để dòng vốn vào nhanh nhất. **Giao dịch diễn ra tức thì.** Tiền thường vào tài khoản chỉ sau 1 đến 2 phút.
 
 Trước khi nạp, hãy lưu ý phí giao dịch mua bán thông thường khoảng $0.15\%$ giá trị khớp lệnh. Người mới nên bắt đầu với số vốn nhỏ từ 2 đến 5 triệu đồng. **Đây là lựa chọn an toàn.** Mức này giúp bạn làm quen thị trường và học cách kiểm soát tâm lý.
 
@@ -61,7 +61,7 @@ Bạn cần hiểu rõ đặc tính của các loại lệnh cơ bản để t�
 
 ### Đặc thù chu kỳ ngành hàng không và mô hình Vietjet Air
 
-Biên lợi nhuận của Vietjet Air nhạy cảm trước biến động vĩ mô. Thực hiện [phân tích ngành](content/blog/3-finalized/Final-phan-tich-nganh-la-gi.md) giúp bạn nhận diện rõ rủi ro này. **Đừng chủ quan bỏ qua.**
+Biên lợi nhuận của Vietjet Air nhạy cảm trước biến động vĩ mô. Thực hiện [phân tích ngành](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-nganh-la-gi) giúp bạn nhận diện rõ rủi ro này. **Đừng chủ quan bỏ qua.**
 
 Một là chi phí nhiên liệu Jet A1, chiếm $30\%$ đến $40\%$ chi phí hoạt động. Giá dầu Brent tăng sẽ trực tiếp thu hẹp lợi nhuận gộp. **Đây là rủi ro chính.**
 

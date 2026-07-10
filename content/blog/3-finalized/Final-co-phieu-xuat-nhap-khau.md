@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Mode: Detailed
@@ -102,7 +102,7 @@ Biên lợi nhuận gộp của doanh nghiệp sẽ sụt giảm mạnh về dư
 Để bảo toàn nguồn vốn thực chiến khi đầu tư nhóm cổ phiếu xuất nhập khẩu, bạn hãy áp dụng hai quy tắc cốt lõi sau:
 
 *   **Giao dịch đón đầu mùa đơn hàng cao điểm:** Bạn nên gom tích lũy cổ phiếu xuất khẩu ở vùng trũng thông tin kinh doanh quý II và quý III khi giá cổ phiếu chiết khấu sâu. Tránh mua đuổi vào quý IV khi số liệu đơn hàng thực tế xuất khẩu đi phục vụ mùa lễ hội bùng nổ trên báo đài.
-*   **Ưu tiên doanh nghiệp sở hữu chuỗi giá trị khép kín:** Bạn hãy tập trung phân bổ tỷ trọng đầu tư vào các mã tự chủ cao nguyên vật liệu nội địa (như VHC, PTB) để tự bảo vệ tài sản trước các cú sốc tỷ giá và chi phí cước tàu biển toàn cầu, loại bỏ hoàn toàn [lỗi tâm lý FOMO và hoảng loạn](content/blog/3-finalized/Final-tam-ly-dau-tu-chung-khoan.md) của đám đông.
+*   **Ưu tiên doanh nghiệp sở hữu chuỗi giá trị khép kín:** Bạn hãy tập trung phân bổ tỷ trọng đầu tư vào các mã tự chủ cao nguyên vật liệu nội địa (như VHC, PTB) để tự bảo vệ tài sản trước các cú sốc tỷ giá và chi phí cước tàu biển toàn cầu, loại bỏ hoàn toàn [lỗi tâm lý FOMO và hoảng loạn](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan) của đám đông.
 
 ---
 

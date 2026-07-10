@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Pipeline_Mode: Express
@@ -104,7 +104,7 @@ Phòng khám tư 2 bác sĩ đang khám 20 bệnh nhân/ngày. Bệnh nhân th�
 
 ## Chi phí biên trong phân tích đầu tư cổ phiếu
 
-Doanh nghiệp có MC thấp và giảm dần theo quy mô sở hữu lợi thế cạnh tranh bền vững (economic moat). Đây là kết nối trực tiếp giữa kinh tế vi mô và [phân tích cơ bản cổ phiếu](content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md) mà hầu hết tài liệu bỏ sót.
+Doanh nghiệp có MC thấp và giảm dần theo quy mô sở hữu lợi thế cạnh tranh bền vững (economic moat). Đây là kết nối trực tiếp giữa kinh tế vi mô và [phân tích cơ bản cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) mà hầu hết tài liệu bỏ sót.
 
 **Nhận diện MC thấp qua BCTC**
 

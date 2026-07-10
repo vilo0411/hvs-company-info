@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -19,7 +19,7 @@ Bài viết này từ HVS Tài Chính Số sẽ cung cấp các thông tin cơ b
 
 ## ETF là gì?
 
-ETF (Exchange Traded Fund), hay Quỹ hoán đổi danh mục, là loại quỹ đầu tư mô phỏng theo biến động của một chỉ số tham chiếu như [VN30](content/blog/3-finalized/Final-chi-so-vn30-index-la-gi.md), VN100 hay VNDiamond. Chứng chỉ quỹ ETF được niêm yết và giao dịch trực tiếp trên sàn chứng khoán tương tự như một cổ phiếu thông thường.
+ETF (Exchange Traded Fund), hay Quỹ hoán đổi danh mục, là loại quỹ đầu tư mô phỏng theo biến động của một chỉ số tham chiếu như [VN30](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-vn30-index-la-gi), VN100 hay VNDiamond. Chứng chỉ quỹ ETF được niêm yết và giao dịch trực tiếp trên sàn chứng khoán tương tự như một cổ phiếu thông thường.
 
 Về bản chất, khi bạn mua một chứng chỉ quỹ ETF, bạn đang sở hữu một phần của giỏ cổ phiếu nằm trong chỉ số đó. Ví dụ, nếu chỉ số VN30 tăng 1%, giá chứng chỉ quỹ ETF mô phỏng VN30 cũng sẽ tăng xấp xỉ mức tương ứng. Thay vì phải bỏ ra số vốn khổng lồ để mua đủ 30 cổ phiếu, bạn chỉ cần thực hiện một lệnh mua mã ETF với số tiền từ vài trăm nghìn đồng.
 
@@ -47,7 +47,7 @@ Hiểu rõ hai mặt của công cụ này giúp bạn xây dựng kỳ vọng l
 
 Đây là hai hình thức đầu tư quỹ phổ biến nhưng có sự khác biệt rõ rệt về cách thức giao dịch:
 
-| Đặc điểm | Quỹ ETF | [Quỹ mở](content/blog/3-finalized/Final-quy-mo-la-gi.md) |
+| Đặc điểm | Quỹ ETF | [Quỹ mở](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quy-mo-la-gi) |
 | :--- | :--- | :--- |
 | **Giao dịch** | Trực tiếp trên sàn chứng khoán | Qua đại lý hoặc ứng dụng của quỹ |
 | **Giá giao dịch** | Thay đổi liên tục trong phiên | Tính theo NAV cuối ngày |
@@ -71,7 +71,7 @@ ETF là công cụ phù hợp cho mục tiêu tài chính dài hạn. Tại **HV
 ## Giải đáp thắc mắc thường gặp (FAQ)
 
 **Đầu tư ETF có được nhận cổ tức không?**
-Có. Khi các doanh nghiệp trong rổ chỉ số trả [cổ tức](content/blog/3-finalized/Final-co-tuc-la-gi.md), công ty quản lý quỹ sẽ thu thập và tiến hành chia lại cho nhà đầu tư hoặc tái đầu tư tự động vào danh mục để gia tăng giá trị tài sản ròng cho chứng chỉ quỹ.
+Có. Khi các doanh nghiệp trong rổ chỉ số trả [cổ tức](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi), công ty quản lý quỹ sẽ thu thập và tiến hành chia lại cho nhà đầu tư hoặc tái đầu tư tự động vào danh mục để gia tăng giá trị tài sản ròng cho chứng chỉ quỹ.
 
 **Cần bao nhiêu tiền để bắt đầu mua ETF?**
 Bạn chỉ cần số tiền tối thiểu để mua một lô 100 chứng chỉ quỹ theo quy định của sàn. Với mức giá trung bình hiện nay, khoảng 2 đến 3 triệu đồng là bạn đã có thể bắt đầu quá trình đầu tư của mình.

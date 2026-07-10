@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Mô hình CAPM là gì"]
 Status: Finalized
@@ -35,7 +35,7 @@ Bảng dưới đây so sánh hai loại rủi ro:
 | **Hệ thống** | Tác động toàn thị trường (như lạm phát, lãi suất) | Không thể đa dạng hóa |
 | **Phi hệ thống** | Tác động một doanh nghiệp (như sự cố kỹ thuật, kiện tụng) | Triệt tiêu bằng đa dạng hóa |
 
-Hiểu rõ hai loại rủi ro này giúp bạn đánh giá vị thế đầu tư một cách khách quan nhất. Hãy đọc thêm bài viết [phân tích cơ bản là gì](content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md) để ứng dụng linh hoạt các bộ lọc này vào thực tế.
+Hiểu rõ hai loại rủi ro này giúp bạn đánh giá vị thế đầu tư một cách khách quan nhất. Hãy đọc thêm bài viết [phân tích cơ bản là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) để ứng dụng linh hoạt các bộ lọc này vào thực tế.
 
 ## Chi tiết công thức tính lợi nhuận kỳ vọng theo mô hình CAPM
 
@@ -47,8 +47,8 @@ Công thức tính toán được thiết lập như sau:
 
 Trong công thức trên, các thành phần được giải thích chi tiết như sau:
 - **E(Ri):** Tỷ suất sinh lời kỳ vọng của cổ phiếu i mà nhà đầu tư yêu cầu.
-- **Rf:** Lãi suất phi rủi ro, lấy từ [lợi suất trái phiếu chính phủ](content/blog/3-finalized/Final-bond-yield-la-gi.md) Việt Nam kỳ hạn 10 năm làm thước đo.
-- **Beta (β):** Hệ số đo lường độ biến động giá cổ phiếu so với [chỉ số VN-Index](content/blog/3-finalized/Final-chi-so-vn-index-la-gi.md).
+- **Rf:** Lãi suất phi rủi ro, lấy từ [lợi suất trái phiếu chính phủ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/bond-yield-la-gi) Việt Nam kỳ hạn 10 năm làm thước đo.
+- **Beta (β):** Hệ số đo lường độ biến động giá cổ phiếu so với [chỉ số VN-Index](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-vn-index-la-gi).
 - **E(Rm):** Tỷ suất sinh lời thị trường, tính từ hiệu suất trung bình 5 năm của VN-Index.
 - **[E(Rm) - Rf]:** Phần bù rủi ro thị trường (Market Risk Premium), thể hiện lợi nhuận yêu cầu khi đầu tư cổ phiếu thay vì trái phiếu chính phủ.
 
@@ -65,7 +65,7 @@ Nhà đầu tư yêu cầu tỷ suất sinh lời kỳ vọng tối thiểu đ�
 
 ## Ý nghĩa thực tế và các hạn chế của mô hình CAPM
 
-Ý nghĩa thực tế lớn nhất của mô hình CAPM là xác định chi phí vốn chủ sở hữu (Ke) làm tỷ lệ chiết khấu. Khi định giá dòng tiền chiết khấu (DCF) tìm [giá trị nội tại của cổ phiếu](content/blog/3-finalized/Final-gia-tri-noi-tai-cua-co-phieu.md), Ke chính là tham số đầu vào quan trọng nhất.
+Ý nghĩa thực tế lớn nhất của mô hình CAPM là xác định chi phí vốn chủ sở hữu (Ke) làm tỷ lệ chiết khấu. Khi định giá dòng tiền chiết khấu (DCF) tìm [giá trị nội tại của cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/gia-tri-noi-tai-cua-co-phieu), Ke chính là tham số đầu vào quan trọng nhất.
 
 Mô hình CAPM cũng giúp bạn xây dựng kịch bản quản trị danh mục đầu tư dựa trên biến động của hệ số Beta:
 - **Kịch bản 1:** Hệ số Beta > 1 (như cổ phiếu chứng khoán). Nếu VN-Index tăng hoặc giảm 10%, cổ phiếu có Beta 1.5 sẽ bứt phá tăng hoặc thoái lui giảm 15%.

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -33,11 +33,11 @@ Mỗi cây nến gồm hai thành phần chính:
 Để không bị lạc giữa hàng trăm mẫu hình nến, bạn cần tập trung làm chủ 5 mô hình phổ biến sau:
 
 ### 1. Nến Doji
-[Nến Doji](content/blog/3-finalized/Final-nen-doji.md) có thân cực nhỏ vì giá mở cửa và đóng cửa gần như bằng nhau. Hình dạng của nó giống như một dấu cộng hoặc chữ thập. 
+[Nến Doji](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/nen-doji) có thân cực nhỏ vì giá mở cửa và đóng cửa gần như bằng nhau. Hình dạng của nó giống như một dấu cộng hoặc chữ thập. 
 - **Ý nghĩa:** Thể hiện sự lưỡng lự tột độ của thị trường. Cả phe mua và phe bán đều không thể giành quyền kiểm soát. Khi Doji xuất hiện sau một xu hướng tăng hoặc giảm mạnh, đó là dấu hiệu "tiền trạm" của một đợt đảo chiều vì lực đẩy cũ đã suy yếu.
 
 ### 2. Nến Búa (Hammer)
-[Nến Búa](content/blog/3-finalized/Final-nen-bua.md) có thân nhỏ, bóng dưới rất dài (gấp ít nhất 2-3 lần thân nến) và gần như không có bóng trên.
+[Nến Búa](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/nen-bua) có thân nhỏ, bóng dưới rất dài (gấp ít nhất 2-3 lần thân nến) và gần như không có bóng trên.
 - **Ý nghĩa:** Thường xuất hiện ở cuối một đợt giảm giá sâu. Bóng dưới dài cho thấy phe bán từng đẩy giá xuống thấp nhưng phe mua đã vùng lên mạnh mẽ để đẩy giá đóng cửa về gần mức cao nhất. Đây là tín hiệu báo hiệu xu hướng tăng sắp quay lại.
 
 ### 3. Nến Nhấn chìm (Engulfing)
@@ -57,7 +57,7 @@ Có hình dáng ngược lại với nến Búa: Thân nhỏ ở dưới, bóng 
 - **Ý nghĩa:** Xuất hiện tại đỉnh của xu hướng tăng. Bóng trên dài cho thấy phe mua cố gắng đẩy giá lên cao nhưng bị phe bán "đập xuống" quyết liệt. Đây là lời cảnh báo xu hướng tăng đã kết thúc và bạn nên cân nhắc chốt lời.
 
 > [!IMPORTANT]
-> **Nến chỉ có giá trị khi đặt trong bối cảnh.** Một mô hình nến đảo chiều chỉ thực sự mạnh khi xuất hiện tại vùng **[Hỗ trợ hoặc Kháng cự](content/blog/3-finalized/Final-ho-tro-khang-cu-la-gi.md)** quan trọng, hoặc khi các chỉ báo như [RSI](content/blog/3-finalized/Final-rsi-la-gi.md) cho thấy thị trường quá mua/quá bán. Đừng bao giờ đặt lệnh chỉ dựa trên một cây nến đơn lẻ giữa một xu hướng không rõ ràng.
+> **Nến chỉ có giá trị khi đặt trong bối cảnh.** Một mô hình nến đảo chiều chỉ thực sự mạnh khi xuất hiện tại vùng **[Hỗ trợ hoặc Kháng cự](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ho-tro-khang-cu-la-gi)** quan trọng, hoặc khi các chỉ báo như [RSI](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/rsi-la-gi) cho thấy thị trường quá mua/quá bán. Đừng bao giờ đặt lệnh chỉ dựa trên một cây nến đơn lẻ giữa một xu hướng không rõ ràng.
 
 ## Làm chủ kỹ thuật đọc đồ thị cùng HVS Tài Chính Số
 

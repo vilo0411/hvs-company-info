@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["cách đầu tư chứng khoán"]
 Status: Finalized
@@ -28,7 +28,7 @@ Việc đầu tư chứng khoán ngày nay đã trở nên vô cùng tiện lợ
 
 ### Bước 1: Mở tài khoản chứng khoán
 
-Cũng giống như việc giữ tiền thì cần tài khoản ngân hàng, giữ cổ phiếu thì bạn cần [tài khoản chứng khoán](content/blog/3-finalized/Final-cach-mo-tai-khoan-chung-khoan.md). Việc đầu tiên là chọn một công ty chứng khoán uy tín. Các tiêu chí để lựa chọn bao gồm:
+Cũng giống như việc giữ tiền thì cần tài khoản ngân hàng, giữ cổ phiếu thì bạn cần [tài khoản chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mo-tai-khoan-chung-khoan). Việc đầu tiên là chọn một công ty chứng khoán uy tín. Các tiêu chí để lựa chọn bao gồm:
 
 - Hệ thống giao dịch công nghệ cao, ổn định (không bị lag, sập nguồn vào những phiên giao dịch căng thẳng).
 - Mức phí giao dịch cạnh tranh (hiện nay dao động từ 0.1% - 0.15% mỗi lần giao dịch, thậm chí một số công ty miễn phí cho người mới).
@@ -78,7 +78,7 @@ Bạn cần hiểu ngôn ngữ của thị trường trước khi tham gia vào 
 Về phương pháp và trường phái phân tích, nhà đầu tư cần làm quen với các hướng đi phổ biến sau:
 
 - **Phân tích cơ bản (Fundamental Analysis):** Đánh giá "sức khỏe" nội tại của doanh nghiệp dựa trên báo cáo tài chính, mô hình kinh doanh, lợi thế cạnh tranh và tiềm năng tăng trưởng ngành.
-- **[Phân tích kỹ thuật](content/blog/3-finalized/Final-phan-tich-ky-thuat-la-gi.md) (Technical Analysis):** Dự báo xu hướng giá dựa trên biểu đồ, các chỉ báo kỹ thuật và khối lượng giao dịch trong quá khứ.
+- **[Phân tích kỹ thuật](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-ky-thuat-la-gi) (Technical Analysis):** Dự báo xu hướng giá dựa trên biểu đồ, các chỉ báo kỹ thuật và khối lượng giao dịch trong quá khứ.
 - **Đầu tư giá trị (Value Investing):** Tìm kiếm cổ phiếu đang bị thị trường định giá thấp hơn giá trị thực, mua và nắm giữ dài hạn cho đến khi giá phản ánh đúng giá trị.
 - **Đầu tư tăng trưởng (Growth Investing):** Ưu tiên các doanh nghiệp có tốc độ tăng trưởng doanh thu và lợi nhuận cao, tiềm năng mở rộng quy mô lớn trong tương lai.
 - **Đầu tư theo xu hướng (Trend/Momentum Investing):** Mua khi thị trường đang trong xu hướng tăng rõ rệt và nhanh chóng thoát vị thế khi xu hướng này đảo chiều.
@@ -93,11 +93,11 @@ Ngoài ra, các yếu tố vĩ mô như lãi suất, lạm phát, chính sách t
 Không có chiến lược nào là tốt nhất cho tất cả mọi người. Bạn cần chọn một phương pháp phù hợp với tính cách, thời gian và khả năng tài chính của bản thân.
 
 - **Đầu tư chủ động:** Tự mình nghiên cứu, lựa chọn cổ phiếu và ra quyết định giao dịch. Các phong cách phổ biến bao gồm lướt sóng (giao dịch ngắn hạn), đầu tư theo đà tăng trưởng, đầu tư dài hạn vào giá trị.
-- **Đầu tư bị động:** Ủy thác vốn cho các chuyên gia thông qua việc mua chứng chỉ quỹ [ETF](content/blog/3-finalized/Final-etf-la-gi.md) hoặc quỹ mở. Đây là chiến lược phù hợp với người bận rộn, ít kinh nghiệm và không muốn dành nhiều thời gian theo dõi thị trường hàng ngày.
+- **Đầu tư bị động:** Ủy thác vốn cho các chuyên gia thông qua việc mua chứng chỉ quỹ [ETF](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/etf-la-gi) hoặc quỹ mở. Đây là chiến lược phù hợp với người bận rộn, ít kinh nghiệm và không muốn dành nhiều thời gian theo dõi thị trường hàng ngày.
 
 Nguyên tắc quản trị rủi ro cơ bản mà nhà đầu tư F0 cần tuân thủ nghiêm ngặt:
 
-- **Không dùng [margin](content/blog/3-finalized/Final-margin-la-gi.md) (đòn bẩy) khi mới bắt đầu:** Margin có thể khuếch đại lợi nhuận nhưng cũng gia tăng thua lỗ tương ứng, dễ dẫn đến cháy tài khoản nếu chưa có kinh nghiệm dày dặn.
+- **Không dùng [margin](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/margin-la-gi) (đòn bẩy) khi mới bắt đầu:** Margin có thể khuếch đại lợi nhuận nhưng cũng gia tăng thua lỗ tương ứng, dễ dẫn đến cháy tài khoản nếu chưa có kinh nghiệm dày dặn.
 - **Không "tất tay" vào một mã cổ phiếu duy nhất:** Dù bạn có tin tưởng tiềm năng của doanh nghiệp đến đâu, việc đa dạng hóa danh mục luôn là lá chắn bảo vệ nguồn vốn tốt nhất.
 
 Sai lầm cần tránh: Chạy theo đám đông, mua cổ phiếu theo "tin đồn" hay "phím hàng" từ các hội nhóm không chính thống là con đường ngắn nhất dẫn đến thất bại tài chính.

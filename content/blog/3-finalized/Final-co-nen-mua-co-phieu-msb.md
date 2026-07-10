@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu MSB"]
 Status: Finalized
@@ -24,7 +24,7 @@ Quyết định có nên mua cổ phiếu MSB hay không yêu cầu bạn đánh
 
 Cổ phiếu MSB là chứng chỉ sở hữu cổ phần của Ngân hàng TMCP Hàng Hải Việt Nam được niêm yết trực tuyến trên sàn HOSE, nổi bật nhờ quy mô tầm trung năng động, tỷ lệ CASA ở mức cao cạnh tranh và định giá P/B tương đối hấp dẫn.
 
-Ngân hàng Hàng Hải Việt Nam hiện đang giữ vai trò là một trong những ngân hàng thương mại cổ phần tư nhân có tốc độ số hóa nhanh nhất tại thị trường tài chính Việt Nam. Sàn HOSE ghi nhận sự tham gia của cổ phiếu MSB từ cuối năm 2020, mang đến cho nhà đầu tư thêm một lựa chọn tiềm năng trong nhóm [cổ phiếu ngân hàng](content/blog/3-finalized/Final-co-phieu-ngan-hang.md) vua. Cơ cấu cổ đông của ngân hàng vừa trải qua biến động đáng chú ý sau khi Công ty Quản lý Nợ và Khai thác Tài sản MSB (VMSC) hoàn tất thương vụ thoái vốn.
+Ngân hàng Hàng Hải Việt Nam hiện đang giữ vai trò là một trong những ngân hàng thương mại cổ phần tư nhân có tốc độ số hóa nhanh nhất tại thị trường tài chính Việt Nam. Sàn HOSE ghi nhận sự tham gia của cổ phiếu MSB từ cuối năm 2020, mang đến cho nhà đầu tư thêm một lựa chọn tiềm năng trong nhóm [cổ phiếu ngân hàng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-ngan-hang) vua. Cơ cấu cổ đông của ngân hàng vừa trải qua biến động đáng chú ý sau khi Công ty Quản lý Nợ và Khai thác Tài sản MSB (VMSC) hoàn tất thương vụ thoái vốn.
 
 * Vốn điều lệ ngân hàng: Duy trì tốc độ tăng trưởng ổn định qua các năm bằng hình thức chia cổ tức bằng cổ phiếu.
 * Phân khúc khách hàng mục tiêu: Tập trung mạnh vào nhóm khách hàng cá nhân và doanh nghiệp vừa và nhỏ (SMEs).

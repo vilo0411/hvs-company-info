@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: [\"sách chứng khoán"]
 Status: Finalized
@@ -57,13 +57,13 @@ Cuốn sách của Philip Fisher là kim chỉ nam cho trường phái đầu t�
 
 Để việc tiếp thu tri thức không bị quá tải, bạn nên phân chia lộ trình đọc sách theo 3 nhóm khoa học sau, tương ứng với từng giai đoạn phát triển năng lực của bản thân:
 
-*   **Nhóm 1: Tư duy & Tâm lý học tài chính (Nhập môn):** Bao gồm các cuốn như *Tâm Lý Học Về Tiền*, *Đầu tư chứng khoán theo chỉ số*. Nhóm này giúp bạn định hình mối quan hệ lành mạnh với tiền bạc, hiểu rõ bản chất của lãi suất kép, tự xác định [khẩu vị rủi ro](Final-khau-vi-rui-ro.md) cá nhân và thiết lập kỳ vọng lợi nhuận thực tế trước khi trực tiếp nạp tiền giao dịch.
+*   **Nhóm 1: Tư duy & Tâm lý học tài chính (Nhập môn):** Bao gồm các cuốn như *Tâm Lý Học Về Tiền*, *Đầu tư chứng khoán theo chỉ số*. Nhóm này giúp bạn định hình mối quan hệ lành mạnh với tiền bạc, hiểu rõ bản chất của lãi suất kép, tự xác định [khẩu vị rủi ro](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/khau-vi-rui-ro) cá nhân và thiết lập kỳ vọng lợi nhuận thực tế trước khi trực tiếp nạp tiền giao dịch.
 *   **Nhóm 2: Phương pháp phân tích nền tảng (Trung cấp):** Bao gồm *Nhà Đầu Tư Thông Minh*, *Làm Giàu Từ Chứng Khoán*. Nhóm này trang bị cho bạn các bộ công cụ kỹ thuật để bóc tách báo cáo tài chính doanh nghiệp, nhận diện các chỉ số EPS, P/E, nợ ròng và biết cách đọc đồ thị giá cơ bản để chọn thời điểm mua bán thích hợp.
 *   **Nhóm 3: Kinh nghiệm thực chiến từ huyền thoại (Nâng cao):** Bao gồm *Đánh Bại Phố Wall*, *Cổ Phiếu Thường Lợi Nhuận Phi Thường*. Nhóm này cung cấp các bài học xương máu về quản trị danh mục đầu tư thực tế, cách xử lý khủng hoảng dòng tiền và rèn luyện kỷ luật cắt lỗ nghiêm ngặt trong các chu kỳ suy thoái của thị trường.
 
 ## Tại sao nên đọc sách chứng khoán trước khi đầu tư thực tế?
 
-Nhiều người đặt câu hỏi: *"Thị trường chứng khoán luôn biến động liên tục, liệu những kiến thức trong sách vở viết từ hàng chục năm trước tại Mỹ có còn giá trị?"* Câu trả lời là có. **Đọc sách chứng khoán không giúp bạn giàu nhanh sau một đêm, nhưng đây là tấm khiên bảo vệ dòng vốn, trang bị kỹ năng [quản trị rủi ro chứng khoán](Final-quan-tri-rui-ro-chung-khoan.md) giúp bạn tránh khỏi những sai lầm kinh điển và không bị cháy tài khoản trong 3 tháng đầu tiên tham gia thị trường.**
+Nhiều người đặt câu hỏi: *"Thị trường chứng khoán luôn biến động liên tục, liệu những kiến thức trong sách vở viết từ hàng chục năm trước tại Mỹ có còn giá trị?"* Câu trả lời là có. **Đọc sách chứng khoán không giúp bạn giàu nhanh sau một đêm, nhưng đây là tấm khiên bảo vệ dòng vốn, trang bị kỹ năng [quản trị rủi ro chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quan-tri-rui-ro-chung-khoan) giúp bạn tránh khỏi những sai lầm kinh điển và không bị cháy tài khoản trong 3 tháng đầu tiên tham gia thị trường.**
 
 Thị trường tài chính có thể thay đổi về mặt công nghệ hay tốc độ giao dịch, nhưng tâm lý học hành vi của con người — lòng tham muốn làm giàu nhanh chóng và nỗi sợ hãi sụt giảm tài sản — là bất biến qua hàng thế kỷ. Những đợt bong bóng đầu cơ công nghệ hay những đợt sụp đổ hoảng loạn của VN-Index thực chất đều lặp lại chính xác các kịch bản tâm lý đám đông đã được mô tả chi tiết trong cuốn *Nhà Đầu Tư Thông Minh* từ năm 1949.
 

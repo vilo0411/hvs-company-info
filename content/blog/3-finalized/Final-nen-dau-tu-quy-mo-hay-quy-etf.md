@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -19,11 +19,11 @@ Quỹ mở và quỹ ETF đều là hình thức đầu tư tập thể giúp đ
 
 Cả hai sản phẩm tài chính này đều cho phép bạn sở hữu một rổ tài sản gồm nhiều mã cổ phiếu hoặc trái phiếu khác nhau mà không cần số vốn khổng lồ. Tuy nhiên, phương thức vận hành và triết lý giao dịch lại đi theo hai hướng hoàn toàn riêng biệt.
 
-Nhà đầu tư quỹ mở mua trực tiếp [chứng chỉ quỹ](content/blog/3-finalized/Final-chung-chi-quy-la-gi.md) từ công ty quản lý quỹ.
-Mỗi giao dịch mua hoặc bán được thực hiện thông qua đại lý phân phối hoặc các ứng dụng chuyên biệt của công ty quỹ như Dragon Capital hay SSIAM. Ngược lại, đối với rổ tài sản mô phỏng chỉ số, bạn thực hiện giao dịch hoàn toàn trên sàn giao dịch giống như một mã cổ phiếu riêng lẻ. Tham khảo thêm [ETF là gì](content/blog/3-finalized/Final-etf-la-gi.md) giúp bạn nắm vững bản chất cốt lõi của loại hình quỹ thụ động này.
+Nhà đầu tư quỹ mở mua trực tiếp [chứng chỉ quỹ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-quy-la-gi) từ công ty quản lý quỹ.
+Mỗi giao dịch mua hoặc bán được thực hiện thông qua đại lý phân phối hoặc các ứng dụng chuyên biệt của công ty quỹ như Dragon Capital hay SSIAM. Ngược lại, đối với rổ tài sản mô phỏng chỉ số, bạn thực hiện giao dịch hoàn toàn trên sàn giao dịch giống như một mã cổ phiếu riêng lẻ. Tham khảo thêm [ETF là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/etf-la-gi) giúp bạn nắm vững bản chất cốt lõi của loại hình quỹ thụ động này.
 
 Sự phát triển của thị trường chứng khoán Việt Nam đem lại nhiều cơ hội tích sản.
-Các công cụ này giúp bạn hạn chế rủi ro tập trung vốn vào một doanh nghiệp đơn lẻ. Sự khác biệt trong kênh phân phối và cách định giá tạo ra các trải nghiệm giao dịch hoàn toàn khác biệt. Bạn nên làm quen với định nghĩa nền tảng về [quỹ mở là gì](content/blog/3-finalized/Final-quy-mo-la-gi.md) trước khi đi sâu vào so sánh kỹ thuật.
+Các công cụ này giúp bạn hạn chế rủi ro tập trung vốn vào một doanh nghiệp đơn lẻ. Sự khác biệt trong kênh phân phối và cách định giá tạo ra các trải nghiệm giao dịch hoàn toàn khác biệt. Bạn nên làm quen với định nghĩa nền tảng về [quỹ mở là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quy-mo-la-gi) trước khi đi sâu vào so sánh kỹ thuật.
 
 ## 5 điểm khác biệt quan trọng giữa quỹ mở và quỹ ETF
 

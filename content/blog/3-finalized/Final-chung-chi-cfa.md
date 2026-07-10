@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: [\"chứng chỉ cfa"]
 Status: Finalized
@@ -87,4 +87,4 @@ Khối lượng kiến thức của chương trình CFA là vô cùng đồ sộ
 
 Không dừng lại ở những bài giảng lý thuyết trên giấy, các Mentor giàu kinh nghiệm của HVS sẽ hướng dẫn bạn cách áp dụng trực tiếp các mô hình định giá tài sản cổ phần của CFA (DDM, định giá tương đối P/E, P/B, định giá dòng tiền tự do FCFF/FCFE) vào các mã cổ phiếu đang giao dịch thực tế trên sàn chứng khoán Việt Nam. Bạn sẽ trực tiếp hoàn thành các báo cáo phân tích doanh nghiệp đạt tiêu chuẩn chuyên nghiệp dưới sự kèm cặp sát sao của chuyên gia.
 
-Để nâng cao tay nghề giao dịch và quản lý danh mục, người học được hỗ trợ thực hành đặt lệnh ảo trên công cụ giao dịch giả lập **HVS Demo** (chỉ hỗ trợ cổ phiếu cơ sở, rủi ro bằng 0) nhằm kiểm chứng các giả thuyết định giá và rèn luyện tâm lý bám bảng. Ngoài ra, việc tham gia thảo luận các tình huống đạo đức hoặc cùng giải quyết các bài tập khó tại cộng đồng **HVS Forum** là bước đệm vững chắc giúp bạn củng cố sâu sắc tri thức và sẵn sàng vượt qua các kỳ thi CFA đầy thử thách. Một [khóa học chứng khoán](Final-khoa-hoc-chung-khoan.md) bài bản chính là điểm khởi đầu hoàn hảo giúp bạn định hình lộ trình nâng cao năng lực tài chính của bản thân.
+Để nâng cao tay nghề giao dịch và quản lý danh mục, người học được hỗ trợ thực hành đặt lệnh ảo trên công cụ giao dịch giả lập **HVS Demo** (chỉ hỗ trợ cổ phiếu cơ sở, rủi ro bằng 0) nhằm kiểm chứng các giả thuyết định giá và rèn luyện tâm lý bám bảng. Ngoài ra, việc tham gia thảo luận các tình huống đạo đức hoặc cùng giải quyết các bài tập khó tại cộng đồng **HVS Forum** là bước đệm vững chắc giúp bạn củng cố sâu sắc tri thức và sẵn sàng vượt qua các kỳ thi CFA đầy thử thách. Một [khóa học chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/khoa-hoc-chung-khoan) bài bản chính là điểm khởi đầu hoàn hảo giúp bạn định hình lộ trình nâng cao năng lực tài chính của bản thân.

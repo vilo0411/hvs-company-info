@@ -1,4 +1,4 @@
----
+﻿---
 Author: HVS Senior Mentor
 Status: Finalized
 Mode: Express
@@ -78,4 +78,4 @@ Bạn nên tích cực khai thác triệt để các nguồn tài nguyên hỗ t
 * Bạn trao đổi nhận định thị trường và tích lũy bài học kinh nghiệm cùng các thành viên tại **HVS Forum**.
 * Bạn nâng cao năng lực phân tích báo cáo tài chính chuyên nghiệp cùng **HVS Tài chính số** qua chương trình **HVS Thực tập số** chất lượng.
 
-Kiểm soát kỷ luật cắt lỗ là yếu tố cốt lõi quyết định sự thành bại của bạn trên thị trường chứng khoán Việt Nam. Bạn có thể xem thêm [cách mua cổ phiếu VCB](Final-cach-mua-co-phieu-vcb.md) để so sánh đặc tính biến động của mã SHB với ngân hàng quốc doanh hàng đầu.
+Kiểm soát kỷ luật cắt lỗ là yếu tố cốt lõi quyết định sự thành bại của bạn trên thị trường chứng khoán Việt Nam. Bạn có thể xem thêm [cách mua cổ phiếu VCB](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-vcb) để so sánh đặc tính biến động của mã SHB với ngân hàng quốc doanh hàng đầu.

@@ -61,7 +61,7 @@ Với mỗi bài đích đã chọn, tra `anchor-index.md`:
 
 Không chỉ tìm từ có sẵn. Nếu cần, chủ động **đề xuất sửa/thêm câu mới** để lồng anchor tự nhiên.
 
-Ví dụ: Bài "Hợp đồng tương lai" cần link đến "chứng khoán phái sinh là gì" → nếu trong bài có câu "Hợp đồng tương lai là công cụ tài chính phái sinh", sửa thành "Hợp đồng tương lai là một loại [chứng khoán phái sinh](content/blog/3-finalized/Final-chung-khoan-phai-sinh-la-gi.md)".
+Ví dụ: Bài "Hợp đồng tương lai" cần link đến "chứng khoán phái sinh là gì" → nếu trong bài có câu "Hợp đồng tương lai là công cụ tài chính phái sinh", sửa thành "Hợp đồng tương lai là một loại [chứng khoán phái sinh](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-phai-sinh-la-gi)".
 
 ### Bước 5 — Kiểm tra Ratio & Xung đột
 
@@ -78,11 +78,11 @@ Ví dụ: Bài "Hợp đồng tương lai" cần link đến "chứng khoán ph�
 
 1. [Pillar] → [Bài đích] ([Loại: Exact/Partial])
    - Đoạn gốc: "..."
-   - Đoạn sửa:  "... [Anchor Text](content/blog/3-finalized/Final-[slug].md) ..."
+   - Đoạn sửa:  "... [Anchor Text](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/[slug]) ..."
 
 2. [Spoke] → [Bài đích] ([Loại: Exact/Partial])
    - Đoạn gốc: "..."
-   - Đoạn sửa:  "... [Anchor Text](content/blog/3-finalized/Final-[slug].md) ..."
+   - Đoạn sửa:  "... [Anchor Text](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/[slug]) ..."
 ```
 
 ---
@@ -99,6 +99,6 @@ Khi chạy `--backfill [slug]`:
 ## Ràng buộc
 
 - Mỗi bài đích chỉ xuất hiện **đúng 1 lần** trong toàn bài.
-- Đường dẫn link dùng dạng tương đối: `content/blog/3-finalized/Final-[slug].md`.
+- Đường dẫn link dùng **URL tuyệt đối**: `https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/[slug]` (không dùng relative path).
 - Không chiếm anchor text là keyword của bài Planned trong `topic-clusters.md`.
 - Tổng số internal link trong 1 bài: **3-6 link** (dưới 3 là thiếu, trên 6 là spam).

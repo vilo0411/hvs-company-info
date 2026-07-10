@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Mode: Detailed
@@ -25,7 +25,7 @@ Các tài sản giao dịch đặc trưng:
 - Tài sản cơ sở: Cổ phiếu niêm yết (như VNM, HPG), trái phiếu doanh nghiệp và chứng chỉ quỹ.
 - Hợp đồng phái sinh: Hợp đồng tương lai chỉ số VN30, hợp đồng tương lai trái phiếu Chính phủ.
 
-Hợp đồng tương lai chỉ số VN30 là sản phẩm phái sinh phổ biến tại Việt Nam. Giao dịch phái sinh không chuyển giao quyền sở hữu doanh nghiệp cho người mua. Hai bên ký hợp đồng để đặt cược về xu hướng giá chỉ số trong tương lai. Giá trị hợp đồng biến động đồng pha với VN30. Bạn có thể xem thêm bài viết [chứng khoán là gì](content/blog/3-finalized/Final-chung-khoan-la-gi.md) hoặc [chứng khoán phái sinh là gì](content/blog/3-finalized/Final-chung-khoan-phai-sinh-la-gi.md).
+Hợp đồng tương lai chỉ số VN30 là sản phẩm phái sinh phổ biến tại Việt Nam. Giao dịch phái sinh không chuyển giao quyền sở hữu doanh nghiệp cho người mua. Hai bên ký hợp đồng để đặt cược về xu hướng giá chỉ số trong tương lai. Giá trị hợp đồng biến động đồng pha với VN30. Bạn có thể xem thêm bài viết [chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi) hoặc [chứng khoán phái sinh là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-phai-sinh-la-gi).
 
 ---
 

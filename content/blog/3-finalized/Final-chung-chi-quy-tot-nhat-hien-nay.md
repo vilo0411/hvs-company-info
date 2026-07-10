@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -27,7 +27,7 @@ Nhà đầu tư cá nhân, đặc biệt là những người mới tham gia th�
 3. **Cơ cấu danh mục đầu tư thực tế:** Một quỹ hoạt động hiệu quả phải sở hữu danh mục đầu tư lành mạnh với các mã cổ phiếu đầu ngành có nền tảng tài chính vững chắc như VCB, FPT, HPG. Bạn cần xem xét kỹ báo cáo tài chính và báo cáo định kỳ của quỹ để kiểm tra xem cơ cấu danh mục có phù hợp với mục tiêu đầu tư cá nhân của mình hay không.
 4. **Uy tín pháp lý của công ty quản lý quỹ:** Quỹ đầu tư bắt buộc phải được vận hành bởi các công ty quản lý quỹ uy tín và được Ủy ban Chứng khoán Nhà nước (UBCKNN) cấp phép hoạt động chính thức. Bạn có thể tra cứu thông tin pháp lý này tại các cổng thông tin chính thức như `vanban.chinhphu.vn` hoặc `ssc.gov.vn`.
 
-Trước khi bắt đầu phân bổ nguồn vốn, việc hiểu rõ bản chất [chứng chỉ quỹ là gì](content/blog/3-finalized/Final-chung-chi-quy-la-gi.md) sẽ giúp bạn tránh những ngộ nhận đáng tiếc về rủi ro và thiết lập kỳ vọng lợi nhuận thực tế hơn.
+Trước khi bắt đầu phân bổ nguồn vốn, việc hiểu rõ bản chất [chứng chỉ quỹ là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-quy-la-gi) sẽ giúp bạn tránh những ngộ nhận đáng tiếc về rủi ro và thiết lập kỳ vọng lợi nhuận thực tế hơn.
 
 ## Danh sách chứng chỉ quỹ tốt nhất hiện nay trên thị trường Việt Nam
 
@@ -44,7 +44,7 @@ Trước khi bắt đầu phân bổ nguồn vốn, việc hiểu rõ bản ch�
 
 Quỹ ETF hoạt động theo nguyên tắc mô phỏng một rổ chỉ số chứng khoán cụ thể, giúp nhà đầu tư đa dạng hóa danh mục với chi phí vận hành cực kỳ thấp.
 
-1. **Quỹ ETF VFMVN Diamond (FUEVFVND):** Đây là chứng chỉ quỹ mô phỏng chỉ số VNDIAMOND, bao gồm các doanh nghiệp hàng đầu đã hết giới hạn sở hữu nước ngoài (room ngoại) trên sàn HOSE. Quỹ cung cấp một giải pháp đầu tư tối ưu cho những ai muốn sở hữu gián tiếp các cổ phiếu chất lượng cao như FPT, MWG, REE mà không cần phải thực hiện các bước phân tích kỹ thuật phức tạp. Để hiểu rõ hơn về cách thức vận hành của loại hình này, bạn có thể tham khảo bài viết phân tích chi tiết [etf là gì](content/blog/3-finalized/Final-etf-la-gi.md) của chúng tôi.
+1. **Quỹ ETF VFMVN Diamond (FUEVFVND):** Đây là chứng chỉ quỹ mô phỏng chỉ số VNDIAMOND, bao gồm các doanh nghiệp hàng đầu đã hết giới hạn sở hữu nước ngoài (room ngoại) trên sàn HOSE. Quỹ cung cấp một giải pháp đầu tư tối ưu cho những ai muốn sở hữu gián tiếp các cổ phiếu chất lượng cao như FPT, MWG, REE mà không cần phải thực hiện các bước phân tích kỹ thuật phức tạp. Để hiểu rõ hơn về cách thức vận hành của loại hình này, bạn có thể tham khảo bài viết phân tích chi tiết [etf là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/etf-la-gi) của chúng tôi.
 2. **Quỹ ETF VFMVN30 (E1VFVN30):** Đây là quỹ mô phỏng chỉ số VN30, bám sát diễn biến của 30 cổ phiếu có vốn hóa và tính thanh khoản lớn nhất sàn HOSE. E1VFVN30 là lựa chọn chuẩn mực cho những nhà đầu tư muốn đồng hành cùng đà tăng trưởng chung của toàn bộ thị trường chứng khoán Việt Nam.
 
 Dưới đây là bảng đối chiếu hiệu suất hoạt động thực tế và chi phí của các quỹ tiêu biểu để bạn tiện so sánh:

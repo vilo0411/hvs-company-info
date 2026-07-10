@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["trả cổ tức bằng cổ phiếu là gì"]
 Status: Finalized
@@ -79,7 +79,7 @@ Công thức tính giá tham chiếu mới được áp dụng thống nhất:
 > **Giá tham chiếu mới = [Giá đóng cửa ngày liền trước - Cổ tức tiền mặt (nếu có)] / [1 + Tỷ lệ nhận cổ phiếu]**
 
 Ví dụ cụ thể với cổ phiếu HPG của Tập đoàn Hòa Phát:
-Bạn sở hữu 1.000 [cổ phiếu là gì](content/blog/3-finalized/Final-co-phieu-la-gi.md). Giá đóng cửa của HPG vào ngày liền trước ngày giao dịch không hưởng quyền là 30.000 đồng/cổ phiếu. Doanh nghiệp thông báo chia cổ tức bằng cổ phiếu tỷ lệ 20% (tỷ lệ thực hiện 10:2, tức sở hữu 10 cổ phiếu được nhận thêm 2 cổ phiếu mới).
+Bạn sở hữu 1.000 [cổ phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi). Giá đóng cửa của HPG vào ngày liền trước ngày giao dịch không hưởng quyền là 30.000 đồng/cổ phiếu. Doanh nghiệp thông báo chia cổ tức bằng cổ phiếu tỷ lệ 20% (tỷ lệ thực hiện 10:2, tức sở hữu 10 cổ phiếu được nhận thêm 2 cổ phiếu mới).
 * Trước ngày giao dịch không hưởng quyền, tổng tài sản của bạn là: 1.000 * 30.000 = 30.000.000 đồng.
 * Số lượng cổ phiếu nhận thêm là: 1.000 * 20% = 200 cổ phiếu. Tổng số cổ phiếu sau khi chia của bạn là 1.200 cổ phiếu.
 * Giá tham chiếu điều chỉnh của HPG vào ngày giao dịch không hưởng quyền là: 30.000 / (1 + 0,2) = 25.000 đồng/cổ phiếu.
@@ -125,7 +125,7 @@ Bảng đối chiếu tiêu chí lựa chọn cho nhà đầu tư cá nhân:
 
 Nhiều người mua đuổi cổ phiếu sát ngày chia tách để rồi bị giam vốn trong thời gian dài, hoặc mua phải những cổ phiếu rác liên tục phát hành giấy pha loãng mà không tạo ra doanh thu thực chất.
 
-Để tránh bẫy pha loãng này, bạn cần trang bị kiến thức [phân tích cơ bản là gì](content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md) để tự đánh giá sức khỏe tài chính doanh nghiệp. Chương trình **HVS Thực tập số** (nằm trong nền tảng **HVS Tài chính số**) cung cấp lộ trình từ Phân tích cơ bản Level 1 đến Level 2 giúp bạn biết cách bóc tách báo cáo tài chính và thẩm định triển vọng doanh nghiệp.
+Để tránh bẫy pha loãng này, bạn cần trang bị kiến thức [phân tích cơ bản là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) để tự đánh giá sức khỏe tài chính doanh nghiệp. Chương trình **HVS Thực tập số** (nằm trong nền tảng **HVS Tài chính số**) cung cấp lộ trình từ Phân tích cơ bản Level 1 đến Level 2 giúp bạn biết cách bóc tách báo cáo tài chính và thẩm định triển vọng doanh nghiệp.
 
 Đồng thời, bạn có thể thực hành quan sát ngày giao dịch không hưởng quyền và biến động của thị giá điều chỉnh trên sàn giao dịch mô phỏng **HVS Demo** để có kinh nghiệm thực tế. Những thắc mắc về ngày đăng ký cuối cùng, tỷ lệ thực hiện hay tác động của việc chia tách của từng mã cụ thể luôn được giải đáp từ Mentor và cộng đồng tại **HVS Forum**.
 

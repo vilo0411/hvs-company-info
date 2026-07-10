@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -85,7 +85,7 @@ Bảng so sánh dưới đây giúp bạn cân nhắc giữa hai hình thức h�
 | **Tương tác** | Giới hạn qua khung chat hoặc email hỗ trợ | Trực tiếp trao đổi và sửa lỗi thực hành trên máy |
 | **Chi phí** | Thường tiết kiệm hơn từ 30% - 50% | Cao hơn do chi phí vận hành cơ sở vật chất |
 
-Việc tham gia một [khóa học chứng khoán](content/blog/3-finalized/Final-khoa-hoc-chung-khoan.md) toàn diện cũng là bước đệm tốt trước khi bạn đi sâu vào chuyên ngành phân tích kỹ thuật. Việc nắm chắc các kiến thức vĩ mô và cấu trúc thị trường sẽ giúp các phân tích đồ thị của bạn có độ chính xác cao hơn.
+Việc tham gia một [khóa học chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/khoa-hoc-chung-khoan) toàn diện cũng là bước đệm tốt trước khi bạn đi sâu vào chuyên ngành phân tích kỹ thuật. Việc nắm chắc các kiến thức vĩ mô và cấu trúc thị trường sẽ giúp các phân tích đồ thị của bạn có độ chính xác cao hơn.
 
 ---
 

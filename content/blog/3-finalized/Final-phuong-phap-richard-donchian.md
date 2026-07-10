@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Phương pháp Richard Donchian"]
 Status: Finalized
@@ -24,7 +24,7 @@ Bạn bận rộn công việc văn phòng và không có thời gian bám bản
 
 Triết lý cốt lõi của phương pháp Richard Donchian dựa trên nguyên tắc kinh điển: "Để lãi chạy, cắt lỗ nhanh". Thay vì cố gắng dự đoán hướng đi tiếp theo của chỉ số VN-Index hay tìm cách bắt đáy ở những vùng giá rẻ mọng nước đầy rủi ro, hệ thống này hướng nhà đầu tư kiên nhẫn chờ đợi xu hướng tăng giá được xác nhận rõ ràng bằng đồ thị kỹ thuật. Khi xu hướng tăng được thiết lập, bạn sẽ nắm giữ cổ phiếu cho đến khi xu hướng đó kết thúc hoàn toàn.
 
-Phương pháp giao dịch theo xu hướng này đặc biệt phù hợp với những nhân viên văn phòng bận rộn. Bạn không cần phải theo dõi biến động giá liên tục trong phiên giao dịch, cũng không cần phải thực hiện các phép phân tích doanh nghiệp phức tạp như trường phái [đầu tư giá trị](Final-dau-tu-gia-tri.md). Bằng cách thiết lập bộ quy tắc mua bán tự động dựa trên hành động giá thực tế, bạn loại bỏ hoàn toàn các yếu tố cảm xúc cá nhân như lòng tham và nỗi sợ hãi ra khỏi quá trình đặt lệnh, giúp bảo vệ nguồn vốn vô cùng hiệu quả qua từng chu kỳ biến động lớn của thị trường.
+Phương pháp giao dịch theo xu hướng này đặc biệt phù hợp với những nhân viên văn phòng bận rộn. Bạn không cần phải theo dõi biến động giá liên tục trong phiên giao dịch, cũng không cần phải thực hiện các phép phân tích doanh nghiệp phức tạp như trường phái [đầu tư giá trị](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-gia-tri). Bằng cách thiết lập bộ quy tắc mua bán tự động dựa trên hành động giá thực tế, bạn loại bỏ hoàn toàn các yếu tố cảm xúc cá nhân như lòng tham và nỗi sợ hãi ra khỏi quá trình đặt lệnh, giúp bảo vệ nguồn vốn vô cùng hiệu quả qua từng chu kỳ biến động lớn của thị trường.
 
 ## Cấu tạo và nguyên lý vận hành của Kênh Donchian
 
@@ -40,13 +40,13 @@ Nguyên lý vận hành cốt lõi của chỉ báo donchian channel nằm ở v
 
 Hệ thống giao dịch của Richard Donchian áp dụng bộ quy tắc 4 tuần kinh điển để xác định các tín hiệu mua và bán trên đồ thị kỹ thuật:
 
-Tín hiệu mua được kích hoạt khi giá đóng cửa của cổ phiếu chính thức vượt lên trên dải trên của kênh Donchian, tức là phá vỡ mức giá cao nhất trong 20 phiên giao dịch trước đó. Đây là tín hiệu breakout xác nhận cổ phiếu đã thoát khỏi giai đoạn tích lũy để bước vào xu hướng tăng giá mạnh mẽ. Để tăng độ tin cậy và hạn chế rủi ro mua đuổi các điểm breakout giả (Bull trap), bạn nên đối chiếu bài viết [breakout trong chứng khoán là gì](Final-breakout-trong-chung-khoan-la-gi.md) để kiểm chứng khối lượng giao dịch. Phiên bứt phá hợp lệ bắt buộc phải đi kèm khối lượng giao dịch tăng tối thiểu 50% so với trung bình 20 phiên trước đó.
+Tín hiệu mua được kích hoạt khi giá đóng cửa của cổ phiếu chính thức vượt lên trên dải trên của kênh Donchian, tức là phá vỡ mức giá cao nhất trong 20 phiên giao dịch trước đó. Đây là tín hiệu breakout xác nhận cổ phiếu đã thoát khỏi giai đoạn tích lũy để bước vào xu hướng tăng giá mạnh mẽ. Để tăng độ tin cậy và hạn chế rủi ro mua đuổi các điểm breakout giả (Bull trap), bạn nên đối chiếu bài viết [breakout trong chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/breakout-trong-chung-khoan-la-gi) để kiểm chứng khối lượng giao dịch. Phiên bứt phá hợp lệ bắt buộc phải đi kèm khối lượng giao dịch tăng tối thiểu 50% so với trung bình 20 phiên trước đó.
 
 Khi giao dịch breakout, bạn có thể cân nhắc chia nhỏ quy mô vốn để giải ngân. Ví dụ, giải ngân trước 50% vị thế khi giá đóng cửa chính thức vượt dải trên, và mua nốt 50% còn lại khi giá kiểm nghiệm (retest) thành công dải trên hoặc đường giữa và tiếp tục dốc lên. Đối với lọc nhiễu trong giai đoạn tích lũy sideway, việc quan sát độ rộng dải Donchian kết hợp chỉ báo khối lượng giao dịch là bắt buộc. Nếu dải trên và dải dưới đang co hẹp và khối lượng giao dịch cực thấp, đó là lúc dòng tiền lớn đang gom hàng, bất kỳ đợt bứt phá nào đi kèm khối lượng lớn sẽ có độ tin cậy cực cao.
 
 Ngược lại, tín hiệu bán xuất hiện khi giá đóng cửa của cổ phiếu giảm xuống dưới dải dưới của kênh Donchian, tức là phá vỡ mức giá thấp nhất trong 20 phiên giao dịch trước đó. Lúc này, bạn phải thực hiện lệnh bán dứt khoát để bảo vệ nguồn vốn và tránh các đợt sụt giảm sâu. 
 
-Trong những giai đoạn thị trường đi ngang không rõ xu hướng (sideway), chỉ báo Donchian Channel rất dễ phát sinh các tín hiệu nhiễu (whipsaw) khiến bạn phải mua cao bán thấp liên tục. Để khắc phục nhược điểm này, bạn nên kết hợp kênh Donchian với các chỉ báo xu hướng khác như đường trung bình động MA. Bạn hãy tham khảo thêm bài viết [đường ma là gì](Final-duong-ma-la-gi.md) để biết cách lọc bỏ các tín hiệu giả lập lờ bằng cách chỉ giải ngân khi đường trung bình động MA200 đang dốc lên hướng lên trên.
+Trong những giai đoạn thị trường đi ngang không rõ xu hướng (sideway), chỉ báo Donchian Channel rất dễ phát sinh các tín hiệu nhiễu (whipsaw) khiến bạn phải mua cao bán thấp liên tục. Để khắc phục nhược điểm này, bạn nên kết hợp kênh Donchian với các chỉ báo xu hướng khác như đường trung bình động MA. Bạn hãy tham khảo thêm bài viết [đường ma là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/duong-ma-la-gi) để biết cách lọc bỏ các tín hiệu giả lập lờ bằng cách chỉ giải ngân khi đường trung bình động MA200 đang dốc lên hướng lên trên.
 
 ## 3 nguyên tắc quản trị rủi ro sống còn từ Richard Donchian
 

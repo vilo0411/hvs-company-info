@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu TAR"]
 Status: Finalized
@@ -36,7 +36,7 @@ Sàn UPCoM hiện tại đang là nơi giao dịch chính thức của cổ phi�
 
 Động lực tăng trưởng của cổ phiếu TAR phụ thuộc chủ yếu vào sự phục hồi của hoạt động xuất khẩu gạo sạch và kế hoạch cơ cấu dòng tiền thông qua thoái vốn công ty con.
 
-Nhu cầu lương thực toàn cầu duy trì ở mức cao trong bối cảnh an ninh lương thực được các quốc gia đặt lên hàng đầu. Việt Nam tiếp tục giữ vững vị thế là một trong những nước xuất khẩu gạo chủ lực. Điều này tạo chất xúc tác cho nhóm [cổ phiếu ngành nông nghiệp](content/blog/3-finalized/Final-co-phieu-nganh-nong-nghiep.md) nói chung, đồng thời giữ mặt bằng giá gạo xuất khẩu neo ở mức có lợi cho biên lợi nhuận của doanh nghiệp. Trung An sở hữu thương hiệu gạo sạch có chỗ đứng tốt trên thị trường, sẵn sàng hấp thụ lực cầu từ các hợp đồng xuất khẩu mới khi hoạt động sản xuất quay lại quỹ đạo ổn định.
+Nhu cầu lương thực toàn cầu duy trì ở mức cao trong bối cảnh an ninh lương thực được các quốc gia đặt lên hàng đầu. Việt Nam tiếp tục giữ vững vị thế là một trong những nước xuất khẩu gạo chủ lực. Điều này tạo chất xúc tác cho nhóm [cổ phiếu ngành nông nghiệp](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-nganh-nong-nghiep) nói chung, đồng thời giữ mặt bằng giá gạo xuất khẩu neo ở mức có lợi cho biên lợi nhuận của doanh nghiệp. Trung An sở hữu thương hiệu gạo sạch có chỗ đứng tốt trên thị trường, sẵn sàng hấp thụ lực cầu từ các hợp đồng xuất khẩu mới khi hoạt động sản xuất quay lại quỹ đạo ổn định.
 
 | Biến số tăng trưởng | Tác động thực tế đến TAR | Khả năng hiện thực hóa |
 | :--- | :--- | :--- |

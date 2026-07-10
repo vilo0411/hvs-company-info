@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["chỉ báo bollinger bands width"]
 Status: Finalized
@@ -32,8 +32,8 @@ Writing_Method: PAS
 HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS Forum"]
 Cluster: Phân tích kỹ thuật
 Internal_Links:
-  - "macd là gì": "content/blog/3-finalized/Final-macd-la-gi.md"
-  - "breakout trong chứng khoán là gì": "content/blog/3-finalized/Final-breakout-trong-chung-khoan-la-gi.md"
+  - "macd là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/macd-la-gi"
+  - "breakout trong chứng khoán là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/breakout-trong-chung-khoan-la-gi"
 ---
 
 # Chỉ báo Bollinger Bands Width là gì? Cách săn sóng lớn nhờ BBW
@@ -84,7 +84,7 @@ Chiến lược giao dịch bứt phá cùng Bollinger Bands Width tập trung x
 2. Thiết lập kịch bản:
    - Bạn mở vị thế mua nếu giá cổ phiếu bứt phá vượt dải trên của Bollinger Bands kèm khối lượng giao dịch lớn gấp 1.5 lần mức trung bình 20 phiên.
    - Bạn chủ động hạ tỷ trọng hoặc đóng vị thế để quản trị rủi ro nếu áp lực bán gia tăng khiến giá cắt xuống dưới dải dưới với khối lượng cao.
-3. Lọc tín hiệu nhiễu: Bạn bắt buộc kết hợp các chỉ báo động lượng như [macd là gì](content/blog/3-finalized/Final-macd-la-gi.md) vì BBW không chỉ hướng giá. Độ tin cậy của lệnh mua sẽ tăng cao nếu đường MACD cắt lên trên đường tín hiệu trong bối cảnh BBW báo hiệu co thắt và giá hướng lên dải trên.
+3. Lọc tín hiệu nhiễu: Bạn bắt buộc kết hợp các chỉ báo động lượng như [macd là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/macd-la-gi) vì BBW không chỉ hướng giá. Độ tin cậy của lệnh mua sẽ tăng cao nếu đường MACD cắt lên trên đường tín hiệu trong bối cảnh BBW báo hiệu co thắt và giá hướng lên dải trên.
 
 Quan sát diễn biến cổ phiếu VCB trên sàn HOSE làm ví dụ. Kịch bản tăng giá được xác nhận nếu xuất hiện một cây nến tăng mạnh vượt dải trên với khối lượng đạt 2 triệu cổ phiếu (vượt mức trung bình 20 phiên) khi dải Bollinger co thắt chặt với BBW dưới 0.04. Ngược lại, xu hướng giảm sẽ chiếm ưu thế nếu giá giảm mạnh kèm khối lượng lớn.
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu REE"]
 Status: Finalized
@@ -44,7 +44,7 @@ Lượng hợp đồng chưa thực hiện (backlog) mảng cơ điện lạnh �
 | Tỷ suất sinh lời ROE (%) | 16.5% | 11.2% | 9.0% |
 | Tỷ lệ nợ ròng/Vốn chủ sở hữu | 0.45x | 0.85x | 1.10x |
 
-Động lực từ mảng cơ điện lạnh sẽ là chất xúc tác quan trọng giúp doanh nghiệp duy trì tốc độ tăng trưởng EPS khả quan. Sự bùng nổ của hạ tầng năng lượng tái tạo tạo tiền đề cho chiến lược phát triển bền vững của doanh nghiệp trong tương lai. Sự phối hợp tốt giữa các đơn vị thành viên giúp REE tối ưu hóa tối đa chi phí vận hành chung. Bạn có thể cân nhắc thêm cơ hội đầu tư bằng cách nghiên cứu các mã thuộc [cổ phiếu ngành xây dựng](content/blog/3-finalized/Final-co-phieu-nganh-xay-dung.md) để so sánh hiệu quả backlog.
+Động lực từ mảng cơ điện lạnh sẽ là chất xúc tác quan trọng giúp doanh nghiệp duy trì tốc độ tăng trưởng EPS khả quan. Sự bùng nổ của hạ tầng năng lượng tái tạo tạo tiền đề cho chiến lược phát triển bền vững của doanh nghiệp trong tương lai. Sự phối hợp tốt giữa các đơn vị thành viên giúp REE tối ưu hóa tối đa chi phí vận hành chung. Bạn có thể cân nhắc thêm cơ hội đầu tư bằng cách nghiên cứu các mã thuộc [cổ phiếu ngành xây dựng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-nganh-xay-dung) để so sánh hiệu quả backlog.
 
 ---
 
@@ -60,7 +60,7 @@ Tình hình thời tiết dịch chuyển dần từ pha mưa nhiều sang pha E
 | Chậm tiến độ nghiệm thu dự án M&E | Trì hoãn ghi nhận doanh thu backlog | Trung bình |
 | Tỷ lệ lấp đầy E.Town 6 dưới 70% | Kéo dài thời gian thu hồi vốn tòa nhà mới | Thấp |
 
-Biên độ dao động của cổ phiếu tiện ích công cộng thường thấp hơn mặt bằng chung của thị trường tài chính. Việc phụ thuộc vào thời tiết của mảng thủy điện đòi hỏi bạn phải có tầm nhìn phân tích chu kỳ khí hậu đa niên. Để đa dạng hóa danh mục phòng thủ, bạn nên đối chiếu trực tiếp với các mã thuộc nhóm [cổ phiếu ngành năng lượng](content/blog/3-finalized/Final-co-phieu-nganh-nang-luong.md) tái tạo.
+Biên độ dao động của cổ phiếu tiện ích công cộng thường thấp hơn mặt bằng chung của thị trường tài chính. Việc phụ thuộc vào thời tiết của mảng thủy điện đòi hỏi bạn phải có tầm nhìn phân tích chu kỳ khí hậu đa niên. Để đa dạng hóa danh mục phòng thủ, bạn nên đối chiếu trực tiếp với các mã thuộc nhóm [cổ phiếu ngành năng lượng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-nganh-nang-luong) tái tạo.
 
 ---
 

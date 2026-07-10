@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -45,7 +45,7 @@ Trong công thức trên, $P$ là thị giá khớp lệnh của cổ phiếu GV
 
 ### Bước 3: Xem bảng điện chứng khoán và theo dõi mã GVR
 
-Bảng điện chứng khoán hiển thị biến động giá và khối lượng giao dịch trực quan của toàn bộ [thị trường chứng khoán](content/blog/3-finalized/Final-thi-truong-chung-khoan-la-gi.md). 
+Bảng điện chứng khoán hiển thị biến động giá và khối lượng giao dịch trực quan của toàn bộ [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thi-truong-chung-khoan-la-gi). 
 
 Phiên giao dịch chính thức của sàn HOSE diễn ra liên tục từ thứ Hai đến thứ Sáu hàng tuần, bắt đầu lúc 9h00 và kết thúc vào lúc 15h00, ngoại trừ các ngày nghỉ lễ quốc gia.
 
@@ -122,7 +122,7 @@ Chúng tôi cung cấp giải pháp đào tạo toàn diện và công cụ th�
 
 Nền tảng **HVS Tài chính số** được thiết kế nhằm giúp bạn làm chủ phương pháp định giá kết hợp giữa mảng nông nghiệp truyền thống và giá trị ròng của các dự án KCN đang quy hoạch.
 
-Thông qua chương trình huấn luyện **HVS Thực tập số** với 3 môn học cốt lõi, bạn sẽ được hướng dẫn chi tiết cách thực hiện [phân tích ngành](content/blog/3-finalized/Final-phan-tich-nganh-la-gi.md) cao su và bất động sản công nghiệp. 
+Thông qua chương trình huấn luyện **HVS Thực tập số** với 3 môn học cốt lõi, bạn sẽ được hướng dẫn chi tiết cách thực hiện [phân tích ngành](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-nganh-la-gi) cao su và bất động sản công nghiệp. 
 
 Lộ trình đào tạo trang bị cho bạn tư duy phân tích báo cáo tài chính độc lập, bóc tách cơ cấu nợ, doanh thu chưa thực hiện và dòng tiền thực tế của GVR thay vì phụ thuộc vào các hội nhóm hô hào.
 
@@ -140,7 +140,7 @@ Sau mỗi phiên giao dịch thử nghiệm, bạn có thể tham gia thảo lu�
 
 Đây là nơi quy tụ cộng đồng nhà đầu tư chất lượng cao, giúp bạn trao đổi các góc nhìn phản biện về mã GVR cùng các chuyên gia phân tích và Mentor CFA giàu kinh nghiệm thực chiến.
 
-Để giúp bạn dễ dàng lựa chọn giải pháp phù hợp với từng giai đoạn học tập và đầu tư [cổ phiếu](content/blog/3-finalized/Final-co-phieu-la-gi.md), chúng tôi tóm tắt hệ sinh thái HVS qua bảng thông tin sau:
+Để giúp bạn dễ dàng lựa chọn giải pháp phù hợp với từng giai đoạn học tập và đầu tư [cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi), chúng tôi tóm tắt hệ sinh thái HVS qua bảng thông tin sau:
 
 | Giải pháp HVS | Vai trò cốt lõi trong học tập | Lợi ích thực tế mang lại |
 | :--- | :--- | :--- |

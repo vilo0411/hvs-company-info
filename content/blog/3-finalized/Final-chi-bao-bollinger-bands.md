@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["chỉ báo Bollinger Bands"]
 Status: Finalized
@@ -32,7 +32,7 @@ Writing_Method: PAS
 HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS Forum"]
 Cluster: Phân tích kỹ thuật
 Internal_Links:
-  - "đường ma là gì": "content/blog/3-finalized/Final-duong-ma-la-gi.md"
+  - "đường ma là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/duong-ma-la-gi"
 ---
 
 # Chỉ báo Bollinger Bands là gì? Cấu tạo và chiến lược giao dịch
@@ -55,7 +55,7 @@ Sử dụng công cụ này độc lập đôi khi dẫn đến tín hiệu nhi�
 
 Cấu tạo dải Bollinger Bands gồm ba đường độc lập bao quanh giá cổ phiếu. Bạn cần hiểu cách tính toán của từng đường để khai thác tín hiệu kỹ thuật.
 
-*   **Dải giữa (Middle Band):** Đường trung bình động đơn giản SMA 20 phản ánh xu hướng ngắn hạn. Xem thêm bài [đường ma là gì](content/blog/3-finalized/Final-duong-ma-la-gi.md).
+*   **Dải giữa (Middle Band):** Đường trung bình động đơn giản SMA 20 phản ánh xu hướng ngắn hạn. Xem thêm bài [đường ma là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/duong-ma-la-gi).
 *   **Dải trên (Upper Band):** Bằng dải giữa cộng hai lần độ lệch chuẩn.
 *   **Dải dưới (Lower Band):** Bằng dải giữa trừ hai lần độ lệch chuẩn.
 

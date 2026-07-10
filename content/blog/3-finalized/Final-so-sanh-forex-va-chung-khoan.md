@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -17,7 +17,7 @@ Khi bắt đầu tham gia đầu tư tài chính, lựa chọn kênh đầu tư 
 
 Để phân biệt ngoại hối và chứng khoán, trước hết bạn hãy tìm hiểu khái niệm cơ bản của từng kênh.
 
-*   **Thị trường chứng khoán:** Nơi giao dịch sản phẩm như cổ phiếu, trái phiếu hoặc chứng chỉ quỹ. Khi mua cổ phiếu doanh nghiệp niêm yết trên sàn HOSE hay HNX (như VCB, HPG), bạn nắm giữ một phần cổ phần. Hãy tham khảo thêm bài viết [chứng khoán là gì](content/blog/3-finalized/Final-chung-khoan-la-gi.md) của HVS.
+*   **Thị trường chứng khoán:** Nơi giao dịch sản phẩm như cổ phiếu, trái phiếu hoặc chứng chỉ quỹ. Khi mua cổ phiếu doanh nghiệp niêm yết trên sàn HOSE hay HNX (như VCB, HPG), bạn nắm giữ một phần cổ phần. Hãy tham khảo thêm bài viết [chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi) của HVS.
 *   **Thị trường ngoại hối (Forex):** Nơi trao đổi tỷ giá cặp tiền tệ quốc tế như EUR/USD. Giao dịch Forex thực chất là mua đồng tiền này và bán đồng tiền khác cùng lúc. Lợi nhuận phát sinh từ chênh lệch tỷ giá theo thời gian.
 
 Thị trường Forex hoạt động liên tục 24 giờ một ngày và 5 ngày một tuần trên nền tảng phi tập trung. Do đó, đối tượng giao dịch của thị trường ngoại hối là các cặp tỷ giá tiền tệ quốc tế như EUR/USD, không gắn liền với giá trị nội tại của bất kỳ doanh nghiệp cụ thể nào.
@@ -36,7 +36,7 @@ Thị trường Forex hoạt động liên tục 24 giờ một ngày và 5 ngà
 | **Tỷ lệ đòn bẩy** | Cực kỳ cao, phổ biến từ 1:100 đến 1:1000 | Tỷ lệ margin an toàn dưới sự kiểm soát của UBCKNN (tối đa 1:1) |
 | **Chu kỳ thanh toán** | Khớp lệnh tức thì (T+0), thanh toán ngay | Theo chu kỳ quy định, hiện tại là T+2 |
 
-Tỷ lệ đòn bẩy tài chính là một trong những điểm khác biệt lớn nhất giữa hai kênh đầu tư này. Khi đầu tư cổ phiếu tại Việt Nam, bạn sử dụng [margin là gì](content/blog/3-finalized/Final-margin-la-gi.md) để gia tăng sức mua với tỷ lệ ký quỹ an toàn. Mức ký quỹ này được kiểm soát nghiêm ngặt nhằm tránh rủi ro bán giải chấp. Ngược lại, đòn bẩy Forex quá cao dễ khiến tài khoản biến động mạnh chỉ sau vài giây.
+Tỷ lệ đòn bẩy tài chính là một trong những điểm khác biệt lớn nhất giữa hai kênh đầu tư này. Khi đầu tư cổ phiếu tại Việt Nam, bạn sử dụng [margin là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/margin-la-gi) để gia tăng sức mua với tỷ lệ ký quỹ an toàn. Mức ký quỹ này được kiểm soát nghiêm ngặt nhằm tránh rủi ro bán giải chấp. Ngược lại, đòn bẩy Forex quá cao dễ khiến tài khoản biến động mạnh chỉ sau vài giây.
 
 Thêm vào đó, quy mô giao dịch Forex đạt hơn 6.000 tỷ USD mỗi ngày nhưng có tính chất phi tập trung. Chứng khoán Việt Nam hoạt động tập trung trên sàn HOSE và HNX, đảm bảo mọi giao dịch hiển thị minh bạch về giá và khối lượng thực tế.
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Pipeline_Mode: Express
@@ -93,15 +93,15 @@ Dòng tiền đầu tư âm không có nghĩa là xấu. Điều quan trọng l�
 - **Mua máy móc, nhà máy, hạ tầng (Capex):** chấp nhận được, đây là đầu tư cho tăng trưởng thực sự
 - **Mua trái phiếu ngắn hạn, gửi tiết kiệm, rót vốn công ty con không liên quan:** cần đặt câu hỏi về chất lượng phân bổ vốn
 
-Trong [phân tích cơ bản](Final-phan-tich-co-ban-la-gi.md), tỷ lệ Capex/Revenue cho thấy mức độ tái đầu tư vào năng lực kinh doanh.
+Trong [phân tích cơ bản](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi), tỷ lệ Capex/Revenue cho thấy mức độ tái đầu tư vào năng lực kinh doanh.
 
 ### Dòng tiền từ hoạt động tài chính
 
 Ba tín hiệu cần chú ý:
 
 - **Dương liên tục nhiều năm:** doanh nghiệp phụ thuộc vốn bên ngoài, rủi ro tăng khi lãi suất tăng
-- **Phát hành cổ phiếu mới thường xuyên:** pha loãng [EPS](Final-chi-so-eps-la-gi.md), nhà đầu tư hiện hữu bị thiệt hại
-- **Trả [cổ tức](Final-co-tuc-la-gi.md) tiền mặt đều đặn:** ban lãnh đạo tự tin vào dòng tiền tương lai
+- **Phát hành cổ phiếu mới thường xuyên:** pha loãng [EPS](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-eps-la-gi), nhà đầu tư hiện hữu bị thiệt hại
+- **Trả [cổ tức](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi) tiền mặt đều đặn:** ban lãnh đạo tự tin vào dòng tiền tương lai
 
 ## Phương pháp lập báo cáo lưu chuyển tiền tệ
 
@@ -128,7 +128,7 @@ Khi mở BCLCTT của bất kỳ doanh nghiệp nào, kiểm tra 5 điểm theo 
 | 2 | OCF/Net Income bao nhiêu? | < 0,5 kéo dài nhiều năm | Chất lượng lợi nhuận thấp |
 | 3 | Capex/Doanh thu bao nhiêu? | Vượt 50% mà không có kế hoạch rõ | Phân bổ vốn sai |
 | 4 | Dòng tiền tài chính dương liên tục? | Dương do vay nợ bù OCF âm | Phụ thuộc ngân hàng |
-| 5 | Phát hành cổ phiếu mới mỗi năm? | Liên tục, không kèm kế hoạch đầu tư | Pha loãng [P/E](Final-p-e-la-gi.md) và [EPS](Final-chi-so-eps-la-gi.md) |
+| 5 | Phát hành cổ phiếu mới mỗi năm? | Liên tục, không kèm kế hoạch đầu tư | Pha loãng [P/E](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/p-e-la-gi) và [EPS](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-eps-la-gi) |
 
 ### Ví dụ: báo cáo lưu chuyển tiền tệ của MWG (Thế Giới Di Động) giai đoạn 2018–2021
 
@@ -148,7 +148,7 @@ Bạn vừa nắm khung lý thuyết và 5 tín hiệu cảnh báo. Nhưng khi m
 
 Chưa chắc đăng ký ngay? **HVS Demo** cho phép thực hành mô phỏng trước khi dùng tiền thật.
 
-[Phân tích doanh nghiệp](Final-phan-tich-doanh-nghiep-la-gi.md) là kỹ năng xây dựng theo thời gian. Bắt đầu từ BCLCTT là nước đi đúng.
+[Phân tích doanh nghiệp](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-doanh-nghiep-la-gi) là kỹ năng xây dựng theo thời gian. Bắt đầu từ BCLCTT là nước đi đúng.
 
 ---
 

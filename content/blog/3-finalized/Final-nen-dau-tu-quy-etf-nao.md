@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -17,13 +17,13 @@ Bạn đang băn khoăn không biết nên đầu tư quỹ ETF nào tại Việ
 
 Quyết định nên đầu tư quỹ ETF nào **phụ thuộc vào khẩu vị rủi ro và kỳ vọng lợi nhuận của bạn, trong đó ba quỹ nổi bật nhất là FUEVFVND (tập trung cổ phiếu hết room ngoại), E1VFVN30 (mô phỏng nhóm cổ phiếu Blue-chip) và FUESSVFL (chuyên sâu nhóm ngành tài chính)**.
 
-Để xác định sản phẩm phù hợp, trước tiên bạn cần tự đánh giá mục tiêu tài chính cá nhân. Phân bổ vốn vào [chứng chỉ quỹ](content/blog/3-finalized/Final-chung-chi-quy-la-gi.md) không phải là phương pháp làm giàu nhanh chóng trong vài tuần. Đây là chiến lược tích sản dài hạn bám sát đà tăng trưởng của toàn bộ nền kinh tế Việt Nam.
+Để xác định sản phẩm phù hợp, trước tiên bạn cần tự đánh giá mục tiêu tài chính cá nhân. Phân bổ vốn vào [chứng chỉ quỹ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-quy-la-gi) không phải là phương pháp làm giàu nhanh chóng trong vài tuần. Đây là chiến lược tích sản dài hạn bám sát đà tăng trưởng của toàn bộ nền kinh tế Việt Nam.
 
 Mỗi nhà đầu tư sở hữu khẩu vị rủi ro và khả năng chịu đựng biến động khác nhau.
 Nếu bạn là người mới tham gia, tiếp cận thị trường thông qua rổ VN30 an toàn giúp giảm thiểu tác động tâm lý. Các biến động ngắn hạn của thị trường có thể làm tài sản sụt giảm tạm thời. Do đó, xác định rõ thời gian nắm giữ tối thiểu từ 3 đến 5 năm là điều kiện bắt buộc. Sự kiên nhẫn giúp bạn gặt hái hiệu suất ổn định và hạn chế tối đa các thua lỗ do bán tháo kỹ thuật.
 
 Chúng tôi khuyến nghị bạn nên trang bị kiến thức nền tảng về chứng khoán trước khi xuống tiền.
-Tham khảo cấu trúc [ETF là gì](content/blog/3-finalized/Final-etf-la-gi.md) sẽ giúp bạn hiểu rõ cơ chế vận hành của loại hình đầu tư này. Từ đó, bạn có thể tự tin lựa chọn các sản phẩm đáp ứng mục tiêu riêng của mình. Hãy coi đây là một phần quan trọng trong kế hoạch quản lý tài sản cá nhân lâu dài.
+Tham khảo cấu trúc [ETF là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/etf-la-gi) sẽ giúp bạn hiểu rõ cơ chế vận hành của loại hình đầu tư này. Từ đó, bạn có thể tự tin lựa chọn các sản phẩm đáp ứng mục tiêu riêng của mình. Hãy coi đây là một phần quan trọng trong kế hoạch quản lý tài sản cá nhân lâu dài.
 
 ## 3 tiêu chí cốt lõi khi lựa chọn quỹ ETF tại Việt Nam
 
@@ -58,7 +58,7 @@ Quỹ tập hợp các cổ phiếu thỏa mãn tiêu chí vốn hóa, thanh kho
 - **Quỹ mô phỏng VN-Finlead (như FUESSVFL):**
 Quỹ tập trung 100% tỷ trọng vào các doanh nghiệp dẫn dắt thuộc ngành tài chính (ngân hàng, công ty chứng khoán, bảo hiểm). Finlead có độ nhạy rất cao với lãi suất và chính sách tiền tệ của Ngân hàng Nhà nước. Nhóm này có biên độ dao động giá lớn hơn, thích hợp cho nhà đầu tư ưa mạo hiểm muốn lướt sóng theo chu kỳ tài chính.
 
-Bạn cũng nên tham khảo thêm các đặc tính tổng quan của [quỹ etf tại việt nam](content/blog/3-finalized/Final-quy-etf-tai-viet-nam.md) để mở rộng lựa chọn.
+Bạn cũng nên tham khảo thêm các đặc tính tổng quan của [quỹ etf tại việt nam](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quy-etf-tai-viet-nam) để mở rộng lựa chọn.
 
 | Rổ chỉ số ETF | Quy mô AUM ước tính (Tỷ đồng) | Số lượng cổ phiếu cơ cấu | Mức độ biến động giá | Đối tượng phù hợp |
 | :--- | :--- | :--- | :--- | :--- |

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["M&A là gì"]
 Status: Finalized
@@ -44,8 +44,8 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS
 # Cluster info
 Cluster: Phân tích cơ bản
 Internal_Links:
-  - "phân tích doanh nghiệp là gì": "content/blog/3-finalized/Final-phan-tich-doanh-nghiep-la-gi.md"
-  - "cổ phiếu là gì": "content/blog/3-finalized/Final-co-phieu-la-gi.md"
+  - "phân tích doanh nghiệp là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-doanh-nghiep-la-gi"
+  - "cổ phiếu là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi"
 ---
 
 # M&A là gì? Quy trình và ý nghĩa của mua bán sáp nhập
@@ -58,7 +58,7 @@ Trên thị trường tài chính, các thương vụ M&A quy mô hàng nghìn t
 
 M&A (viết tắt của Mergers and Acquisitions) là **hoạt động mua bán và sáp nhập doanh nghiệp, trong đó các công ty tiến hành hợp nhất tài sản thông qua giao dịch tài chính để giành quyền sở hữu hoặc kiểm soát một phần hay toàn bộ doanh nghiệp khác** thay vì tự xây dựng cơ sở kinh doanh mới. Trên sàn giao dịch, hoạt động này diễn ra phổ biến thông qua việc gom mua cổ phần biểu quyết của doanh nghiệp mục tiêu.
 
-Để hiểu rõ cách thức chuyển giao quyền sở hữu này, bạn cần hiểu bản chất [cổ phiếu là gì](content/blog/3-finalized/Final-co-phieu-la-gi.md) dưới góc độ pháp lý. Cổ phiếu đại diện cho quyền sở hữu một phần tài sản của doanh nghiệp. Khi một tổ chức mua lại phần lớn lượng cổ phần lưu hành của công ty khác, họ sẽ nắm quyền kiểm soát các quyết định kinh doanh cốt lõi. Mục đích tối cao của M&A là tạo ra giá trị cộng hưởng lớn hơn tổng giá trị của hai doanh nghiệp khi hoạt động độc lập, giúp tối ưu hóa chi phí vận hành và thâm nhập thị trường mới nhanh chóng.
+Để hiểu rõ cách thức chuyển giao quyền sở hữu này, bạn cần hiểu bản chất [cổ phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) dưới góc độ pháp lý. Cổ phiếu đại diện cho quyền sở hữu một phần tài sản của doanh nghiệp. Khi một tổ chức mua lại phần lớn lượng cổ phần lưu hành của công ty khác, họ sẽ nắm quyền kiểm soát các quyết định kinh doanh cốt lõi. Mục đích tối cao của M&A là tạo ra giá trị cộng hưởng lớn hơn tổng giá trị của hai doanh nghiệp khi hoạt động độc lập, giúp tối ưu hóa chi phí vận hành và thâm nhập thị trường mới nhanh chóng.
 
 ---
 
@@ -106,7 +106,7 @@ Ngược lại, giá cổ phiếu doanh nghiệp đi mua biến động phức t
 *   **Kịch bản tích cực:** Giá cổ phiếu tăng nếu thị trường đánh giá thương vụ giúp doanh nghiệp mở rộng quy mô kinh doanh hiệu quả, nâng cao biên lợi nhuận nhờ sức mạnh cộng hưởng thực tế.
 *   **Kịch bản tiêu cực:** Giá cổ phiếu giảm nếu nhà đầu tư lo ngại bên mua trả giá quá đắt, hoặc doanh nghiệp phải phát hành thêm cổ phiếu để hoán đổi sáp nhập gây pha loãng cổ phiếu của cổ đông.
 
-Để dự đoán phản ứng thị trường trước tin đồn thâu tóm, bạn cần hiểu sâu sắc [phân tích doanh nghiệp là gì](content/blog/3-finalized/Final-phan-tich-doanh-nghiep-la-gi.md) nhằm đánh giá thực chất sức khỏe tài chính của hai bên. Nếu công ty đi mua sử dụng đòn bẩy nợ vay quá lớn để thâu tóm, áp lực chi phí lãi vay tăng cao sau đó dễ khiến giới đầu tư bán tháo cổ phiếu.
+Để dự đoán phản ứng thị trường trước tin đồn thâu tóm, bạn cần hiểu sâu sắc [phân tích doanh nghiệp là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-doanh-nghiep-la-gi) nhằm đánh giá thực chất sức khỏe tài chính của hai bên. Nếu công ty đi mua sử dụng đòn bẩy nợ vay quá lớn để thâu tóm, áp lực chi phí lãi vay tăng cao sau đó dễ khiến giới đầu tư bán tháo cổ phiếu.
 
 ---
 
@@ -114,7 +114,7 @@ Ngược lại, giá cổ phiếu doanh nghiệp đi mua biến động phức t
 
 Đánh giá cơ hội đầu tư từ các thương vụ M&A đòi hỏi bạn phải có năng lực phân tích báo cáo tài chính và định giá độc lập. Phần lớn nhà đầu tư F0 (như chân dung Lan Newbie) thường nghe ngóng tin đồn thâu tóm rồi vội vã mua đuổi cổ phiếu theo đám đông. Đây là sai lầm cực kỳ nguy hiểm, bởi khi thương vụ bất ngờ đổ vỡ, bạn sẽ đối mặt với rủi ro chôn vốn dài hạn hoặc thua lỗ nặng nề do cổ phiếu giảm sàn.
 
-Để tự đánh giá tiềm năng thực tế của các thương vụ sáp nhập, nền tảng đào tạo trực tuyến **HVS Tài chính số** mang đến chương trình huấn luyện thực chiến **HVS Thực tập số** (môn Phân tích doanh nghiệp). Lộ trình này giúp bạn làm chủ kỹ năng đọc hiểu báo cáo tài chính, cách tính toán [chỉ số P/E](content/blog/3-finalized/Final-p-e-la-gi.md) hợp lý và dự báo dòng tiền cộng hưởng sau sáp nhập để tự đưa ra nhận định.
+Để tự đánh giá tiềm năng thực tế của các thương vụ sáp nhập, nền tảng đào tạo trực tuyến **HVS Tài chính số** mang đến chương trình huấn luyện thực chiến **HVS Thực tập số** (môn Phân tích doanh nghiệp). Lộ trình này giúp bạn làm chủ kỹ năng đọc hiểu báo cáo tài chính, cách tính toán [chỉ số P/E](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/p-e-la-gi) hợp lý và dự báo dòng tiền cộng hưởng sau sáp nhập để tự đưa ra nhận định.
 
 Bên cạnh đó, bạn có thể thực nghiệm giao dịch mô phỏng theo các tin tức M&A trên công cụ hỗ trợ **HVS Demo** để đo lường độ nhạy cảm của giá cổ phiếu mà không gặp rủi ro mất tiền thật. Đồng thời, không gian thảo luận **HVS Forum** là nơi các Mentor CFA hỗ trợ gỡ rối phân tích và phản biện tin đồn, giúp bạn tự tin đưa ra quyết định đầu tư khách quan.
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: HVS Senior Mentor
 Status: Finalized
 Mode: Express
@@ -80,4 +80,4 @@ Bạn nên chủ động khai thác tối đa nguồn lực bổ trợ từ hệ
 * Bạn chủ động tham gia thảo luận diễn biến thị trường và tích lũy bài học kinh nghiệm cùng cộng đồng trên **HVS Forum**.
 * Bạn nâng tầm tư duy phân tích báo cáo tài chính ngân hàng sâu sắc cùng **HVS Tài chính số** qua chương trình **HVS Thực tập số** chất lượng.
 
-Quản trị rủi ro danh mục là chiếc chìa khóa duy nhất giúp bạn tồn tại lâu dài trên thị trường chứng khoán Việt Nam. Bạn có thể tham khảo thêm [cách mua cổ phiếu VCB](Final-cach-mua-co-phieu-vcb.md) để học hỏi cách đa dạng hóa danh mục sang nhóm ngân hàng quốc doanh vững chắc nhất.
+Quản trị rủi ro danh mục là chiếc chìa khóa duy nhất giúp bạn tồn tại lâu dài trên thị trường chứng khoán Việt Nam. Bạn có thể tham khảo thêm [cách mua cổ phiếu VCB](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-vcb) để học hỏi cách đa dạng hóa danh mục sang nhóm ngân hàng quốc doanh vững chắc nhất.

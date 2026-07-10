@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Sóng Elliott là gì"]
 Status: Finalized
@@ -92,7 +92,7 @@ Sóng 4 không được giảm xuống dưới đỉnh sóng 1. Đây là ranh g
 
 ## Hướng dẫn giao dịch với sóng Elliott
 
-Biết lý thuyết chỉ là bước đầu. Phần này hướng dẫn áp dụng trực tiếp vào giao dịch: xác định vị trí sóng, tính điểm vào lệnh, cắt lỗ và chốt lời bằng tỷ lệ [Fibonacci thoái lui và mở rộng](content/blog/3-finalized/Final-fibonacci-la-gi.md).
+Biết lý thuyết chỉ là bước đầu. Phần này hướng dẫn áp dụng trực tiếp vào giao dịch: xác định vị trí sóng, tính điểm vào lệnh, cắt lỗ và chốt lời bằng tỷ lệ [Fibonacci thoái lui và mở rộng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/fibonacci-la-gi).
 
 ### Bước 1 — Xác định vị trí trong chu kỳ sóng
 
@@ -104,12 +104,12 @@ Luôn chuẩn bị ít nhất 2 kịch bản đếm sóng thay thế trước kh
 
 ### Bước 2 — Dùng Fibonacci thoái lui xác định vùng mua
 
-Khi thị trường đang điều chỉnh về sóng 2 hoặc sóng 4, dùng [tỷ lệ Fibonacci thoái lui](content/blog/3-finalized/Final-fibonacci-thoai-lui.md) để tính vùng giá mua tiềm năng:
+Khi thị trường đang điều chỉnh về sóng 2 hoặc sóng 4, dùng [tỷ lệ Fibonacci thoái lui](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/fibonacci-thoai-lui) để tính vùng giá mua tiềm năng:
 
 - Sóng 2 thường kết thúc ở vùng 50%–61.8% thoái lui của sóng 1. Đây là vùng vào lệnh cho sóng 3, con sóng mạnh và dài nhất.
 - Sóng 4 thường kết thúc ở vùng 38.2%–50% thoái lui của sóng 3. Đây là vùng vào lệnh cho sóng 5.
 
-Xác nhận thêm bằng tín hiệu giá tại vùng Fibonacci: nến đảo chiều (nến búa, nến engulfing), hoặc phân kỳ dương trên [chỉ báo RSI](content/blog/3-finalized/Final-rsi-la-gi.md) tại vùng quá bán.
+Xác nhận thêm bằng tín hiệu giá tại vùng Fibonacci: nến đảo chiều (nến búa, nến engulfing), hoặc phân kỳ dương trên [chỉ báo RSI](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/rsi-la-gi) tại vùng quá bán.
 
 ### Bước 3 — Dùng Fibonacci mở rộng đặt mục tiêu chốt lời
 
@@ -152,7 +152,7 @@ Học viên thực hành đếm sóng trực tiếp trên dữ liệu VN-Index t
 
 ## Kết luận
 
-Sóng Elliott là công cụ giúp [phân tích kỹ thuật](content/blog/3-finalized/Final-phan-tich-ky-thuat-la-gi.md) vượt ra ngoài việc đọc tín hiệu mua/bán tức thời, đặt giá vào bối cảnh chu kỳ dài hạn của thị trường.
+Sóng Elliott là công cụ giúp [phân tích kỹ thuật](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-ky-thuat-la-gi) vượt ra ngoài việc đọc tín hiệu mua/bán tức thời, đặt giá vào bối cảnh chu kỳ dài hạn của thị trường.
 
 Ba điểm cốt yếu cần ghi nhớ khi ứng dụng sóng Elliott:
 

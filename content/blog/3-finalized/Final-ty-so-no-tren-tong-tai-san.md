@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Tỷ số nợ trên tổng tài sản"]
 Status: Finalized
@@ -43,10 +43,10 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS
 
 Cluster: Phân tích cơ bản
 Internal_Links:
-  - "rủi ro doanh nghiệp trong đầu tư chứng khoán là gì": "content/blog/3-finalized/Final-rui-ro-doanh-nghiep-trong-dau-tu-chung-khoan-la-gi.md"
-  - "roa là gì": "content/blog/3-finalized/Final-roa-la-gi.md"
-  - "p/e là gì": "content/blog/3-finalized/Final-p-e-la-gi.md"
-  - "phân tích cơ bản là gì": "content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md"
+  - "rủi ro doanh nghiệp trong đầu tư chứng khoán là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/rui-ro-doanh-nghiep-trong-dau-tu-chung-khoan-la-gi"
+  - "roa là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/roa-la-gi"
+  - "p/e là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/p-e-la-gi"
+  - "phân tích cơ bản là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi"
 ---
 
 # Tỷ số nợ trên tổng tài sản là gì? Hướng dẫn cho F0
@@ -54,7 +54,7 @@ Internal_Links:
 Đòn bẩy tài chính là con dao hai lưỡi có thể khuếch đại tỷ suất lợi nhuận nhưng cũng có thể đẩy doanh nghiệp đến bờ vực phá sản. Để kiểm soát rủi ro này, nhà đầu tư chủ động sử dụng tỷ số nợ trên tổng tài sản. Bài viết từ HVS sẽ phân tích chi tiết khái niệm tỷ số nợ trên tổng tài sản là gì, công thức tính và ngưỡng an toàn trong đầu tư.
 
 ## Tỷ số nợ trên tổng tài sản là gì?
-Tỷ số nợ trên tổng tài sản là **chỉ số tài chính đo lường tỷ lệ phần trăm tổng tài sản của doanh nghiệp được tài trợ bằng nguồn vốn nợ** thay vì vốn chủ sở hữu. Chỉ số này phản ánh mức độ phụ thuộc của doanh nghiệp vào các khoản nợ vay ngoài. Phụ thuộc quá lớn vào nguồn vốn vay ngoài có thể dẫn đến gánh nặng chi phí lãi vay nghiêm trọng, trực tiếp làm tăng [rủi ro doanh nghiệp trong đầu tư chứng khoán là gì](content/blog/3-finalized/Final-rui-ro-doanh-nghiep-trong-dau-tu-chung-khoan-la-gi.md) khi bạn tiến hành phân tích cổ phiếu. Để đánh giá hiệu quả sử dụng nguồn vốn này, bạn chủ động kết hợp phân tích chỉ số [roa là gì](content/blog/3-finalized/Final-roa-la-gi.md).
+Tỷ số nợ trên tổng tài sản là **chỉ số tài chính đo lường tỷ lệ phần trăm tổng tài sản của doanh nghiệp được tài trợ bằng nguồn vốn nợ** thay vì vốn chủ sở hữu. Chỉ số này phản ánh mức độ phụ thuộc của doanh nghiệp vào các khoản nợ vay ngoài. Phụ thuộc quá lớn vào nguồn vốn vay ngoài có thể dẫn đến gánh nặng chi phí lãi vay nghiêm trọng, trực tiếp làm tăng [rủi ro doanh nghiệp trong đầu tư chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/rui-ro-doanh-nghiep-trong-dau-tu-chung-khoan-la-gi) khi bạn tiến hành phân tích cổ phiếu. Để đánh giá hiệu quả sử dụng nguồn vốn này, bạn chủ động kết hợp phân tích chỉ số [roa là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/roa-la-gi).
 
 Nhà đầu tư sử dụng chỉ số này để đánh giá cấu trúc vốn. Một cơ cấu mất cân bằng sẽ làm suy yếu khả năng chống chịu của doanh nghiệp trước các biến động tiêu cực của nền kinh tế. Chỉ số này còn gọi là Debt-to-Assets Ratio. Khi phân tích, bạn chủ động theo dõi biến động qua nhiều quý liên tiếp để nhận diện xu hướng sử dụng đòn bẩy tài chính.
 
@@ -75,7 +75,7 @@ Khi tỷ lệ nợ dưới 30%, doanh nghiệp có cấu trúc tài chính cực
 
 Nếu tỷ lệ nợ vượt quá 60%, doanh nghiệp bắt đầu bước vào vùng rủi ro tài chính cao. Tuy nhiên, một số ngành đặc thù như ngành điện nước vẫn duy trì tỷ lệ nợ cao do có dòng tiền hoạt động ổn định. Ngược lại, các doanh nghiệp có tính chu kỳ cao nếu gánh tỷ lệ nợ lớn sẽ gặp nguy hiểm khi thị trường đi xuống. Đặc biệt, nếu tỷ lệ nợ lớn hơn 100%, doanh nghiệp sẽ bị âm vốn chủ sở hữu, báo hiệu nguy cơ mất khả năng thanh toán nghiêm trọng.
 
-Bên cạnh đó, phân bổ nguồn vốn hợp lý cũng là yếu tố then chốt giúp tối ưu tỷ số này. Bạn chủ động tránh những doanh nghiệp liên tục tăng nợ vay chỉ để bù đắp thâm hụt dòng tiền hoạt động. Ngược lại, những doanh nghiệp có cấu trúc tài chính vững mạnh thường tự chủ động giảm nợ vay khi lãi suất có xu hướng leo thang. Bạn cũng chủ động kết hợp tỷ số này với chỉ số [p/e là gì](content/blog/3-finalized/Final-p-e-la-gi.md) để đánh giá toàn diện giá trị của cổ phiếu.
+Bên cạnh đó, phân bổ nguồn vốn hợp lý cũng là yếu tố then chốt giúp tối ưu tỷ số này. Bạn chủ động tránh những doanh nghiệp liên tục tăng nợ vay chỉ để bù đắp thâm hụt dòng tiền hoạt động. Ngược lại, những doanh nghiệp có cấu trúc tài chính vững mạnh thường tự chủ động giảm nợ vay khi lãi suất có xu hướng leo thang. Bạn cũng chủ động kết hợp tỷ số này với chỉ số [p/e là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/p-e-la-gi) để đánh giá toàn diện giá trị của cổ phiếu.
 
 ## Đòn bẩy tài chính và đặc thù cơ cấu nợ theo ngành tại Việt Nam
 Cơ cấu nợ của các doanh nghiệp niêm yết tại Việt Nam phân hóa rất rõ nét tùy theo đặc thù mô hình kinh doanh của từng ngành. Những ngành thâm dụng vốn thường có tỷ số nợ cao hơn các ngành dịch vụ. Dưới đây là bảng so sánh tỷ số nợ trung bình của một số ngành tiêu biểu trên sàn HOSE:
@@ -92,7 +92,7 @@ Khi đầu tư, bạn áp dụng tư duy kịch bản để đánh giá tác đ�
 ## Kiểm soát rủi ro cấu trúc vốn cùng HVS Tài chính số
 Nhà đầu tư cá nhân hoàn toàn có thể phòng tránh rủi ro từ các doanh nghiệp nợ nhiều bằng cách phân tích tài chính bài bản. Khi mới tham gia thị trường, nhiều người chỉ tập trung vào biến động giá ngắn hạn mà bỏ qua các yếu tố về cấu trúc vốn. Khi thị trường thắt chặt tiền tệ, doanh nghiệp sử dụng đòn bẩy lớn sẽ đối diện nguy cơ suy thoái, gây tổn thất lớn cho tài khoản.
 
-Để giải quyết vấn đề này, **HVS Tài chính số** mang đến lộ trình đào tạo **HVS Thực tập số** (đặc biệt là môn Phân tích cơ bản FA Level 1). Lộ trình này giúp bạn tự phân tích cấu trúc nguồn vốn để đánh giá rủi ro nợ vay trước khi giao dịch. Đây là kiến thức cốt lõi trong [phân tích cơ bản là gì](content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md) mà bạn chủ động trang bị. Đồng thời, bạn có thể thực hành sàng lọc doanh nghiệp và thử nghiệm giao dịch trên **HVS Demo**. Bạn cũng có thể trao đổi cùng cộng đồng tại **HVS Forum**.
+Để giải quyết vấn đề này, **HVS Tài chính số** mang đến lộ trình đào tạo **HVS Thực tập số** (đặc biệt là môn Phân tích cơ bản FA Level 1). Lộ trình này giúp bạn tự phân tích cấu trúc nguồn vốn để đánh giá rủi ro nợ vay trước khi giao dịch. Đây là kiến thức cốt lõi trong [phân tích cơ bản là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) mà bạn chủ động trang bị. Đồng thời, bạn có thể thực hành sàng lọc doanh nghiệp và thử nghiệm giao dịch trên **HVS Demo**. Bạn cũng có thể trao đổi cùng cộng đồng tại **HVS Forum**.
 
 ## Kết luận
 Tỷ số nợ trên tổng tài sản giúp bạn nhanh chóng đánh giá sức khỏe tài chính doanh nghiệp. Thấu hiểu chỉ số này giúp bạn chủ động tránh bẫy nợ vay từ công ty lạm dụng đòn bẩy. Bạn chủ động rèn luyện phân tích cơ cấu vốn cùng HVS để tự tin đầu tư trong mọi chu kỳ kinh tế.

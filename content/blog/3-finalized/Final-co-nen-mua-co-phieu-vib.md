@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu VIB"]
 Status: Finalized
@@ -24,7 +24,7 @@ Quyết định có nên mua cổ phiếu VIB đòi hỏi bạn phải cân nh�
 
 Cổ phiếu VIB là chứng chỉ sở hữu cổ phần của Ngân hàng TMCP Quốc tế Việt Nam niêm yết trên sàn HOSE, nổi tiếng là đơn vị dẫn đầu về tỷ trọng cho vay bán lẻ và tỷ suất cổ tức tiền mặt ổn định.
 
-Với định vị là một ngân hàng bán lẻ năng động, VIB tập trung phần lớn dư nợ cho vay vào phân khúc cá nhân như cho vay mua ô tô, cho vay mua nhà đất và phát hành thẻ tín dụng. Cổ phiếu VIB thu hút được sự quan tâm lớn của nhà đầu tư cá nhân trên sàn HOSE nhờ chính sách cổ tức hấp dẫn. Trước khi nghiên cứu chi tiết sức khỏe tài chính của VIB, bạn có thể tham khảo hướng dẫn [Cách mua cổ phiếu VIB](content/blog/3-finalized/Final-cach-mua-co-phieu-vib.md) để nắm rõ các bước mở tài khoản và thực hiện giao dịch thực tế trên bảng giá trực tuyến.
+Với định vị là một ngân hàng bán lẻ năng động, VIB tập trung phần lớn dư nợ cho vay vào phân khúc cá nhân như cho vay mua ô tô, cho vay mua nhà đất và phát hành thẻ tín dụng. Cổ phiếu VIB thu hút được sự quan tâm lớn của nhà đầu tư cá nhân trên sàn HOSE nhờ chính sách cổ tức hấp dẫn. Trước khi nghiên cứu chi tiết sức khỏe tài chính của VIB, bạn có thể tham khảo hướng dẫn [Cách mua cổ phiếu VIB](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-vib) để nắm rõ các bước mở tài khoản và thực hiện giao dịch thực tế trên bảng giá trực tuyến.
 
 * Quy mô bán lẻ: Hơn 90% dư nợ tín dụng của VIB phục vụ nhu cầu tiêu dùng và mua nhà của khách hàng cá nhân.
 * Chính sách cổ tức: Duy trì việc chi trả cổ tức đều đặn hàng năm bằng cả tiền mặt và cổ phiếu với tỷ lệ hấp dẫn.
@@ -61,7 +61,7 @@ Rủi ro lớn nhất đối với VIB là tính nhạy cảm cao của mảng c
 | Biên NIM co hẹp do cạnh tranh lãi suất | Làm giảm doanh thu từ hoạt động tín dụng cốt lõi | Trung bình |
 | Cổ đông ngoại lớn thoái vốn | Tạo áp lực bán ròng mạnh mẽ lên room ngoại trên sàn | Trung bình |
 
-Bên cạnh đó, việc cổ đông chiến lược nước ngoài thoái vốn tạo ra những đợt rung lắc mạnh về cung cầu cổ phiếu trên sàn HOSE trong ngắn hạn. Nếu bạn muốn so sánh tính chất phòng thủ của danh mục, hãy tham khảo thêm bài viết phân tích [Có nên mua cổ phiếu POW](content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md) để có sự cân đối hợp lý giữa nhóm tài chính và nhóm năng lượng hạ tầng.
+Bên cạnh đó, việc cổ đông chiến lược nước ngoài thoái vốn tạo ra những đợt rung lắc mạnh về cung cầu cổ phiếu trên sàn HOSE trong ngắn hạn. Nếu bạn muốn so sánh tính chất phòng thủ của danh mục, hãy tham khảo thêm bài viết phân tích [Có nên mua cổ phiếu POW](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pow) để có sự cân đối hợp lý giữa nhóm tài chính và nhóm năng lượng hạ tầng.
 
 ---
 

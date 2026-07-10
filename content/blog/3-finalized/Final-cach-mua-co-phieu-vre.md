@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Mode: Detailed
@@ -61,10 +61,10 @@ Tùy thuộc vào chiến lược giao dịch, bạn lựa chọn lệnh LO đ�
 Giao dịch cổ phiếu VRE đòi hỏi bạn phải nắm vững chu kỳ bất động sản bán lẻ, theo dõi sát diện tích sàn khai thác và áp dụng kỷ luật phân bổ vốn để tối ưu hiệu quả đầu tư.
 
 ### Đặc thù chu kỳ ngành bất động sản bán lẻ và mô hình Vincom Retail
-Vincom Retail (mã VRE) hoạt động trong phân khúc bất động sản bán lẻ với mô hình kinh doanh độc thù. Doanh nghiệp tăng trưởng phụ thuộc chặt chẽ vào tổng diện tích sàn bán lẻ (GFA) và tỷ lệ lấp đầy. Doanh nghiệp hiện vận hành bốn mô hình trung tâm thương mại lớn bao gồm Vincom Center, Vincom Mega Mall, Vincom Plaza và Vincom+. Mỗi mô hình hướng tới phân khúc khách hàng và địa bàn khác nhau. Doanh thu của VRE đến từ hoạt động cho thuê mặt bằng bán lẻ dài hạn cùng các dịch vụ đi kèm. Kết quả kinh doanh này chịu ảnh hưởng lớn từ chi tiêu tiêu dùng nội địa và sức mua của người dân. Khi kinh tế vĩ mô ổn định, nhu cầu mở rộng cửa hàng của các thương hiệu bán lẻ tăng lên, giúp duy trì tỷ lệ lấp đầy cao trên $90\%$. Bạn cần thực hiện [phân tích ngành](content/blog/3-finalized/Final-phan-tich-nganh-la-gi.md) bán lẻ trước khi đưa ra quyết định giải ngân dài hạn vào VRE.
+Vincom Retail (mã VRE) hoạt động trong phân khúc bất động sản bán lẻ với mô hình kinh doanh độc thù. Doanh nghiệp tăng trưởng phụ thuộc chặt chẽ vào tổng diện tích sàn bán lẻ (GFA) và tỷ lệ lấp đầy. Doanh nghiệp hiện vận hành bốn mô hình trung tâm thương mại lớn bao gồm Vincom Center, Vincom Mega Mall, Vincom Plaza và Vincom+. Mỗi mô hình hướng tới phân khúc khách hàng và địa bàn khác nhau. Doanh thu của VRE đến từ hoạt động cho thuê mặt bằng bán lẻ dài hạn cùng các dịch vụ đi kèm. Kết quả kinh doanh này chịu ảnh hưởng lớn từ chi tiêu tiêu dùng nội địa và sức mua của người dân. Khi kinh tế vĩ mô ổn định, nhu cầu mở rộng cửa hàng của các thương hiệu bán lẻ tăng lên, giúp duy trì tỷ lệ lấp đầy cao trên $90\%$. Bạn cần thực hiện [phân tích ngành](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-nganh-la-gi) bán lẻ trước khi đưa ra quyết định giải ngân dài hạn vào VRE.
 
 ### Phương pháp phân bổ vốn và xác định ngưỡng cắt lỗ
-Quản trị danh mục đầu tư là yếu tố quyết định khả năng tồn tại bền vững của bạn trên [thị trường chứng khoán](content/blog/3-finalized/Final-thi-truong-chung-khoan-la-gi.md). Mã VRE là một [cổ phiếu](content/blog/3-finalized/Final-co-phieu-la-gi.md) trụ có vốn hóa lớn và chịu ảnh hưởng trực tiếp từ dòng tiền của khối ngoại và tự doanh. Hãy chia nhỏ quy mô. 
+Quản trị danh mục đầu tư là yếu tố quyết định khả năng tồn tại bền vững của bạn trên [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thi-truong-chung-khoan-la-gi). Mã VRE là một [cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) trụ có vốn hóa lớn và chịu ảnh hưởng trực tiếp từ dòng tiền của khối ngoại và tự doanh. Hãy chia nhỏ quy mô. 
 
 Nguyên tắc quản trị rủi ro nghiêm ngặt yêu cầu bạn khống chế tỷ trọng giải ngân cho mã VRE không vượt quá mức $15\%$ tổng giá trị danh mục đầu tư:
 $$\text{Tỷ trọng VRE} \le 15\% \times \text{Tổng tài sản danh mục}$$

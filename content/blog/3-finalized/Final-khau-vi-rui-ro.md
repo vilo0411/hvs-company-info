@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: [\"khẩu vị rủi ro"]
 Status: Finalized
@@ -53,7 +53,7 @@ Cơ cấu danh mục của nhóm này tập trung từ **80% đến 100% vào c�
 1. **Thời gian đầu tư (Time Horizon):** Khoảng thời gian bạn dự kiến để dòng vốn hoạt động sinh lời quyết định mức độ chịu đựng rủi ro của bạn. Nếu bạn đầu tư dài hạn (trên 5 năm) cho mục tiêu hưu trí, bạn có thể tự tin phân bổ tỷ lệ cổ phiếu cao vì thời gian dài giúp danh mục tự động phục hồi và vượt qua các nhịp điều chỉnh kỹ thuật của thị trường. Ngược lại, nếu bạn cần rút tiền mua nhà trong vòng 1 năm tới, danh mục bắt buộc phải nằm ở các tài sản an toàn thu nhập cố định.
 2. **Mục tiêu tài chính và Lợi nhuận kỳ vọng:** Bạn muốn đạt được điều gì khi đầu tư? Một mục tiêu thực tế với lợi nhuận kỳ vọng từ 12-15%/năm cho phép bạn xây dựng danh mục cân bằng nhẹ nhàng. Nếu bạn đặt mục tiêu nhân đôi tài khoản trong 6 tháng, bạn bắt buộc phải đẩy hồ sơ rủi ro của mình lên mức mạo hiểm tối đa, đi kèm xác suất mất vốn cực lớn.
 3. **Tình trạng tài chính thực tế và trách nhiệm gia đình:** Tuổi tác và trách nhiệm chu cấp quyết định trực tiếp đến khả năng chịu rủi ro thực tế của bạn. Một người trẻ độc thân tuổi 25, thu nhập thặng dư ổn định và chưa có người phụ thuộc hoàn toàn có thể ngủ ngon khi tài khoản tạm âm 20% do đầu tư cổ phiếu tăng trưởng. Tuy nhiên, một nhà đầu tư tuổi 45 đã lập gia đình, có con nhỏ đang tuổi ăn học và đang gánh khoản nợ vay mua nhà hàng tháng sẽ không được phép mạo hiểm như vậy. Danh mục của họ đòi hỏi sự bảo vệ nghiêm ngặt của các lớp tài sản phòng thủ.
-4. **Kinh nghiệm và kiến thức quản trị:** Mức độ thấu hiểu các công cụ tài chính và cơ chế vận hành của thị trường giúp bạn làm chủ cảm xúc. Khi có đủ kiến thức chuyên môn để định giá doanh nghiệp, bạn sẽ nhìn nhận nhịp giảm 15% của cổ phiếu tốt là cơ hội mua gom giá rẻ, thay vì hoảng loạn bán tháo cắt lỗ như những người thiếu kinh nghiệm [quản trị rủi ro chứng khoán](Final-quan-tri-rui-ro-chung-khoan.md) bài bản.
+4. **Kinh nghiệm và kiến thức quản trị:** Mức độ thấu hiểu các công cụ tài chính và cơ chế vận hành của thị trường giúp bạn làm chủ cảm xúc. Khi có đủ kiến thức chuyên môn để định giá doanh nghiệp, bạn sẽ nhìn nhận nhịp giảm 15% của cổ phiếu tốt là cơ hội mua gom giá rẻ, thay vì hoảng loạn bán tháo cắt lỗ như những người thiếu kinh nghiệm [quản trị rủi ro chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quan-tri-rui-ro-chung-khoan) bài bản.
 
 ## Các chiến lược đầu tư cho từng mức khẩu vị rủi ro
 

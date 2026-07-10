@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Mode: Express
@@ -23,14 +23,14 @@ Chỉ số Hang Seng là phong vũ biểu đo lường hiệu suất của Sở 
 
 Chỉ số Hang Seng (Hang Seng Index - HSI) là phong vũ biểu đo lường hiệu suất của **Sở Giao dịch Chứng khoán Hồng Kông** (HKEX). Đây là chỉ số trọng số vốn hóa thị trường tự do lưu hành, đại diện cho các doanh nghiệp lớn nhất niêm yết trên sàn giao dịch này.
 
-Hang Seng Bank đã thành lập chỉ số này vào ngày 24 tháng 11 năm 1969, lấy mốc cơ sở 100 điểm tương ứng ngày 31 tháng 7 năm 1964. Từ xuất phát điểm đó, chỉ số Hang Seng nhanh chóng trở thành thước đo vĩ mô hàng đầu khu vực, nằm trong hệ thống các [chỉ số chứng khoán châu Á](content/blog/3-finalized/Final-chi-so-chung-khoan-chau-a.md) quan trọng phản ánh dòng vốn quốc tế đổ vào nền kinh tế Trung Quốc và Châu Á.
+Hang Seng Bank đã thành lập chỉ số này vào ngày 24 tháng 11 năm 1969, lấy mốc cơ sở 100 điểm tương ứng ngày 31 tháng 7 năm 1964. Từ xuất phát điểm đó, chỉ số Hang Seng nhanh chóng trở thành thước đo vĩ mô hàng đầu khu vực, nằm trong hệ thống các [chỉ số chứng khoán châu Á](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-chung-khoan-chau-a) quan trọng phản ánh dòng vốn quốc tế đổ vào nền kinh tế Trung Quốc và Châu Á.
 
 Nhờ tính đại diện cao, chỉ số này sở hữu những cột mốc nổi bật:
 *   **Năm 1969:** Ra mắt thị trường tài chính toàn cầu.
 *   **Năm 2021:** Áp dụng giới hạn tỷ trọng cấu phần 8%.
 *   **Năm 2026:** Trở thành phong vũ biểu công nghệ nhờ rổ P-Chips rộng lớn.
 
-Thị trường Hồng Kông liên kết dòng vốn quốc tế với Trung Quốc đại lục, nơi biến động HSI phản ánh sát sao tâm lý đầu tư Châu Á. Trong hệ thống chỉ số toàn cầu, HSI đóng vai trò tương đương với [chỉ số DAX](content/blog/3-finalized/Final-chi-so-dax-la-gi.md) tại châu Âu, là thước đo kinh tế chuẩn mực của từng khu vực.
+Thị trường Hồng Kông liên kết dòng vốn quốc tế với Trung Quốc đại lục, nơi biến động HSI phản ánh sát sao tâm lý đầu tư Châu Á. Trong hệ thống chỉ số toàn cầu, HSI đóng vai trò tương đương với [chỉ số DAX](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-dax-la-gi) tại châu Âu, là thước đo kinh tế chuẩn mực của từng khu vực.
 
 Hãy lưu ý rằng biến động tại HKEX tạo ra tác động lan truyền rất nhanh. Dòng tiền ngoại thường phản ứng đồng điệu trên các thị trường lân cận. Do đó, theo dõi HSI giúp bạn chủ động nhận diện sớm dịch chuyển dòng vốn lớn.
 
@@ -90,7 +90,7 @@ Tương quan dòng tiền ngoại giữa HSI và Việt Nam hoạt động theo 
 
 Hai kịch bản dòng tiền thực tế mô tả mối tương quan này bao gồm:
 
-*   **Kịch bản 1 — Sàn HOSE chịu áp lực bán ròng khi HKEX sụt giảm:** Các quỹ ETF bán bớt chứng chỉ quỹ khi dòng vốn ngoại rút ròng tại sàn HKEX. Sàn HOSE chịu áp lực bán ròng liên đới. Các mã VN30 như VCB, HPG lập tức thoái lui kỹ thuật. Biến động này ảnh hưởng trực tiếp đến [các chỉ số chứng khoán việt nam](content/blog/3-finalized/Final-cac-chi-so-chung-khoan-viet-nam.md) chính.
+*   **Kịch bản 1 — Sàn HOSE chịu áp lực bán ròng khi HKEX sụt giảm:** Các quỹ ETF bán bớt chứng chỉ quỹ khi dòng vốn ngoại rút ròng tại sàn HKEX. Sàn HOSE chịu áp lực bán ròng liên đới. Các mã VN30 như VCB, HPG lập tức thoái lui kỹ thuật. Biến động này ảnh hưởng trực tiếp đến [các chỉ số chứng khoán việt nam](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cac-chi-so-chung-khoan-viet-nam) chính.
 *   **Kịch bản 2 — Sàn HOSE hút dòng tiền khi HSI bứt phá:** Dòng tiền ngoại giải ngân mạnh vào Việt Nam khi HSI vượt kháng cự, giúp nâng đỡ chỉ số VN-Index.
 
 Hãy ghi nhớ giao dịch theo liên thị trường luôn có độ trễ. Bán đuổi cổ phiếu Việt Nam chỉ vì chỉ số HSI giảm phiên sáng mà không phân tích dòng tiền nội sàn HOSE là hành động dễ rơi vào bẫy rũ bỏ của tạo lập.
@@ -99,7 +99,7 @@ Hãy ghi nhớ giao dịch theo liên thị trường luôn có độ trễ. Bá
 
 ## Đào tạo phân tích vĩ mô thị trường chứng khoán Việt Nam tại HVS Tài chính số
 
-Nhận diện tác động HSI tới HOSE là kỹ năng sinh tồn của nhà đầu tư. Tuy nhiên, nhiều F0 vội vã tìm [cách mua cổ phiếu](content/blog/3-finalized/Final-cach-mua-co-phieu.md) bằng tiền thật và giao dịch theo cảm tính. Thiếu hệ thống quan sát liên thị trường khiến họ gánh chịu thua lỗ khi dòng ngoại rút ròng.
+Nhận diện tác động HSI tới HOSE là kỹ năng sinh tồn của nhà đầu tư. Tuy nhiên, nhiều F0 vội vã tìm [cách mua cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu) bằng tiền thật và giao dịch theo cảm tính. Thiếu hệ thống quan sát liên thị trường khiến họ gánh chịu thua lỗ khi dòng ngoại rút ròng.
 
 > **Cảnh báo từ Senior Mentor:** Hơn 85% F0 thua lỗ trong năm đầu vì giao dịch theo cảm tính và bỏ qua biến động dòng vốn ngoại liên thị trường.
 

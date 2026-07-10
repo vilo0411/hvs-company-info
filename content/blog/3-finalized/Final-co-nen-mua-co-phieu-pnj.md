@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu PNJ"]
 Status: Finalized
@@ -44,7 +44,7 @@ Doanh số bán lẻ trang sức ghi nhận kết quả kinh doanh đột phá t
 | Tỷ suất sinh lời ROE (%) | 22.0% | 14.5% | 11.2% |
 | Tốc độ tăng trưởng doanh thu | 15.2% | 8.5% | 6.0% |
 
-Sức hấp dẫn từ các sản phẩm trang sức có thương hiệu giúp PNJ liên tục gia tăng thị phần so với phân khúc tiệm vàng truyền thống không thương hiệu. Cổ tức tiền mặt đều đặn hàng năm đóng vai trò như một bộ lọc an toàn cho các quyết định đầu tư dài hạn. Bạn có thể kết hợp theo dõi nhóm [cổ phiếu ngành bán lẻ](content/blog/3-finalized/Final-co-phieu-nganh-ban-le.md) để đánh giá đúng tương quan sức mua tiêu dùng toàn hệ thống.
+Sức hấp dẫn từ các sản phẩm trang sức có thương hiệu giúp PNJ liên tục gia tăng thị phần so với phân khúc tiệm vàng truyền thống không thương hiệu. Cổ tức tiền mặt đều đặn hàng năm đóng vai trò như một bộ lọc an toàn cho các quyết định đầu tư dài hạn. Bạn có thể kết hợp theo dõi nhóm [cổ phiếu ngành bán lẻ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-nganh-ban-le) để đánh giá đúng tương quan sức mua tiêu dùng toàn hệ thống.
 
 ---
 

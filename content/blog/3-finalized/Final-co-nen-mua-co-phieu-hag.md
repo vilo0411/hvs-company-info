@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -84,7 +84,7 @@ Dưới đây là bảng định giá lịch sử và dự phóng của cổ phi
 Mức P/B dự phóng quanh 1.1 lần mở ra biên an toàn cho những người theo đuổi câu chuyện phục hồi tài chính.
 
 Việc phân tích các kịch bản hành động cụ thể bao gồm:
-- **Kịch bản 1:** Thực hiện tích lũy định kỳ cổ phiếu HAG khi thị giá chiết khấu sâu về vùng P/B dưới 1.0 lần, đồng thời tiến độ thanh lý nợ vay diễn ra đúng lộ trình, tương tự cách phân tích [cổ phiếu ngành nông nghiệp](content/blog/3-finalized/Final-co-phieu-nganh-nong-nghiep.md) đầu ngành.
+- **Kịch bản 1:** Thực hiện tích lũy định kỳ cổ phiếu HAG khi thị giá chiết khấu sâu về vùng P/B dưới 1.0 lần, đồng thời tiến độ thanh lý nợ vay diễn ra đúng lộ trình, tương tự cách phân tích [cổ phiếu ngành nông nghiệp](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-nganh-nong-nghiep) đầu ngành.
 - **Kịch bản 2:** Tạm thời quan sát ngoài thị trường nếu lợi nhuận nông nghiệp cốt lõi sụt giảm liên tục trong hai quý liên tiếp và chi phí tài chính tăng trở lại do biến động lãi suất vay mua tài sản.
 
 ---

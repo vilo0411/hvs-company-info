@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -79,7 +79,7 @@ Dưới đây là bảng định giá lịch sử và dự phòng của cổ phi
 Mức định giá P/E dự phóng quanh 14 lần được xem là hợp lý cho một doanh nghiệp độc quyền sở hữu cơ cấu tài chính không nợ vay.
 
 Việc phân tích các kịch bản hành động cụ thể bao gồm:
-- **Kịch bản 1:** Thực hiện tích lũy định kỳ cổ phiếu GAS khi thị giá chiết khấu sâu về vùng định giá P/E dưới 13.5 lần, kết hợp nắm giữ dài hạn để nhận cổ tức tiền mặt đều đặn, tương tự chiến lược phân bổ vào các [cổ phiếu dầu khí](content/blog/3-finalized/Final-co-phieu-dau-khi.md) đầu ngành.
+- **Kịch bản 1:** Thực hiện tích lũy định kỳ cổ phiếu GAS khi thị giá chiết khấu sâu về vùng định giá P/E dưới 13.5 lần, kết hợp nắm giữ dài hạn để nhận cổ tức tiền mặt đều đặn, tương tự chiến lược phân bổ vào các [cổ phiếu dầu khí](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-dau-khi) đầu ngành.
 - **Kịch bản 2:** Tạm thời quan sát ngoài thị trường nếu giá dầu Brent thế giới giảm sâu xuống dưới mức 65 USD/thùng hoặc tiến độ ký kết các hợp đồng bao tiêu điện khí bị trì hoãn kéo dài.
 
 ---

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Cổ phiếu OTC là gì"]
 Status: Finalized
@@ -43,7 +43,7 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số"]
 
 # Cluster info
 Cluster: Cổ phiếu
-Internal_Links: ["content/blog/3-finalized/Final-cach-dau-tu-chung-khoan.md", "content/blog/3-finalized/Final-cach-mua-co-phieu-ipo.md", "content/blog/3-finalized/Final-upcom-la-gi.md", "content/blog/3-finalized/Final-co-phieu-la-gi.md"]
+Internal_Links: ["https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-khoan", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-ipo", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/upcom-la-gi", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi"]
 ---
 
 # Cổ phiếu OTC là gì? Quy trình giao dịch an toàn hiệu quả
@@ -56,13 +56,13 @@ Cổ phiếu OTC mang lại cơ hội lợi nhuận lớn trước khi IPO nhưn
 
 Thuật ngữ này bắt nguồn từ việc mua bán chứng khoán "tại quầy" vật lý thời kỳ sơ khai của thị trường tài chính thế giới. Ngày nay, bản chất OTC vẫn giữ nguyên tính phi tập trung và giao dịch ngang hàng (peer-to-peer). Mọi điều khoản giao dịch, phương thức thanh toán và giá cả đều do hai bên tự thỏa thuận trực tiếp mà không thông qua hệ thống khớp lệnh tự động nào.
 
-Tại Việt Nam, cổ phiếu OTC đại diện cho chứng khoán của các doanh nghiệp chưa niêm yết chính thức (như công ty nhà nước cổ phần hóa hoặc doanh nghiệp tư nhân pre-IPO). Việc sở hữu dòng [cổ phiếu](content/blog/3-finalized/Final-co-phieu-la-gi.md) này mở ra cơ hội sinh lời lớn nhờ chênh lệch định giá trước và sau khi lên sàn, nhưng đồng thời đòi hỏi năng lực phân tích báo cáo tài chính vững chắc.
+Tại Việt Nam, cổ phiếu OTC đại diện cho chứng khoán của các doanh nghiệp chưa niêm yết chính thức (như công ty nhà nước cổ phần hóa hoặc doanh nghiệp tư nhân pre-IPO). Việc sở hữu dòng [cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) này mở ra cơ hội sinh lời lớn nhờ chênh lệch định giá trước và sau khi lên sàn, nhưng đồng thời đòi hỏi năng lực phân tích báo cáo tài chính vững chắc.
 
 ## Cơ chế vận hành đặc thù của thị trường OTC tại Việt Nam
 
 Thị trường OTC Việt Nam gồm hai phân khúc chính với cơ chế kiểm soát kỹ thuật và mức độ rủi ro khác biệt rõ rệt:
 
-*   **Nhóm cổ phiếu đăng ký giao dịch trên sàn UPCoM (OTC có quản lý):** Do HNX vận hành. Giao dịch thực hiện qua bảng điện tử tập trung với biên độ ±15%, chịu sự giám sát của cơ quan quản lý. Để hiểu sâu hơn về cơ chế này, bạn nên xem quy chuẩn giao dịch [sàn UPCoM](content/blog/3-finalized/Final-upcom-la-gi.md) hiện hành.
+*   **Nhóm cổ phiếu đăng ký giao dịch trên sàn UPCoM (OTC có quản lý):** Do HNX vận hành. Giao dịch thực hiện qua bảng điện tử tập trung với biên độ ±15%, chịu sự giám sát của cơ quan quản lý. Để hiểu sâu hơn về cơ chế này, bạn nên xem quy chuẩn giao dịch [sàn UPCoM](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/upcom-la-gi) hiện hành.
 *   **Nhóm cổ phiếu tự do hoàn toàn (OTC phi tập trung):** Là phân khúc OTC truyền thống chưa đăng ký giao dịch UPCoM. Giao dịch thực hiện thỏa thuận trực tiếp P2P thông qua diễn đàn hoặc môi giới tự do (broker). Điểm cốt lõi là không bảng điện công khai, không biên độ trần sàn, và tự thương lượng giá.
 
 Với nhóm cổ phiếu tự do, quyền sở hữu của bạn được quản lý bằng hai công cụ pháp lý chính:
@@ -87,7 +87,7 @@ Với nhóm cổ phiếu tự do, quyền sở hữu của bạn được quản
 
 ## Hướng dẫn quy trình giao dịch cổ phiếu OTC an toàn
 
-Để phòng tránh rủi ro lừa đảo và bảo đảm pháp lý khi [đầu tư chứng khoán](content/blog/3-finalized/Final-cach-dau-tu-chung-khoan.md) ở thị trường phi tập trung, bạn phải tuân thủ quy trình 4 bước kỹ thuật sau:
+Để phòng tránh rủi ro lừa đảo và bảo đảm pháp lý khi [đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-khoan) ở thị trường phi tập trung, bạn phải tuân thủ quy trình 4 bước kỹ thuật sau:
 
 1.  **Kiểm tra tính chính danh của cổ phần và bên bán:** Yêu cầu bên bán cung cấp bản gốc Giấy chứng nhận. Trực tiếp liên hệ phòng Quan hệ cổ đông (IR) doanh nghiệp phát hành để xác nhận: số lượng cổ phần nắm giữ có bị phong tỏa hay hạn chế chuyển nhượng không.
 2.  **Lập hợp đồng chuyển nhượng cổ phần hợp pháp:** Hai bên ký kết hợp đồng chuyển nhượng cổ phần chi tiết, quy định rõ số lượng, mức giá, phương thức thanh toán và nghĩa vụ đóng thuế. Hợp đồng nên được thực hiện tại văn phòng của doanh nghiệp phát hành hoặc có công chứng để đảm bảo tính pháp lý vững chắc trước pháp luật.
@@ -96,7 +96,7 @@ Với nhóm cổ phiếu tự do, quyền sở hữu của bạn được quản
 
 ## Rèn luyện tư duy phân tích và quản trị danh mục cùng HVS
 
-Đầu tư cổ phiếu OTC tự do theo cảm tính rất dễ dẫn đến thua lỗ. Trước khi tìm hiểu [cách mua cổ phiếu IPO](content/blog/3-finalized/Final-cach-mua-co-phieu-ipo.md) hay thực hiện giao dịch thỏa thuận phức tạp, bạn cần trang bị nền tảng kiến thức và tư duy quản trị rủi ro chuyên nghiệp.
+Đầu tư cổ phiếu OTC tự do theo cảm tính rất dễ dẫn đến thua lỗ. Trước khi tìm hiểu [cách mua cổ phiếu IPO](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-ipo) hay thực hiện giao dịch thỏa thuận phức tạp, bạn cần trang bị nền tảng kiến thức và tư duy quản trị rủi ro chuyên nghiệp.
 
 Hệ sinh thái HVS hỗ trợ bạn từng bước làm chủ kỹ năng này thông qua:
 *   **Học kiến thức chuẩn xác:** Nền tảng **HVS Tài chính số** cung cấp hệ thống bài giảng chuyên sâu về phương pháp phân tích top-down (từ vĩ mô, ngành đến doanh nghiệp), giúp bạn xây dựng tư duy đầu tư bài bản và chuyên nghiệp.

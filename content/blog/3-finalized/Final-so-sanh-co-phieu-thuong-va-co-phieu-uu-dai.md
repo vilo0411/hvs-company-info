@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Mode: Detailed
@@ -23,9 +23,9 @@ Hiểu rõ sự khác biệt khi so sánh cổ phiếu thường và cổ phiế
 
 ## Khái niệm cổ phiếu thường và cổ phiếu ưu đãi là gì?
 
-Cổ phiếu thường là loại chứng khoán bắt buộc phải có để xác nhận quyền [sở hữu cổ phần](content/blog/3-finalized/Final-co-phieu-la-gi.md) cơ bản của cổ đông trong một công ty cổ phần. Luật Doanh nghiệp 2020 quy định mọi công ty cổ phần đều phải có cổ phần phổ thông, và người sở hữu loại cổ phần này chính là cổ đông phổ thông. Bạn có quyền dự họp Đại hội đồng cổ đông (ĐHĐCĐ), biểu quyết các vấn đề quan trọng và nhận cổ tức biến động dựa trên kết quả kinh doanh thực tế của doanh nghiệp.
+Cổ phiếu thường là loại chứng khoán bắt buộc phải có để xác nhận quyền [sở hữu cổ phần](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) cơ bản của cổ đông trong một công ty cổ phần. Luật Doanh nghiệp 2020 quy định mọi công ty cổ phần đều phải có cổ phần phổ thông, và người sở hữu loại cổ phần này chính là cổ đông phổ thông. Bạn có quyền dự họp Đại hội đồng cổ đông (ĐHĐCĐ), biểu quyết các vấn đề quan trọng và nhận cổ tức biến động dựa trên kết quả kinh doanh thực tế của doanh nghiệp.
 
-[Cổ phiếu ưu đãi](content/blog/3-finalized/Final-co-phieu-uu-dai-la-gi.md) là loại chứng khoán xác nhận tư cách cổ đông nhưng mang lại cho người sở hữu những quyền lợi ưu tiên đặc biệt so với cổ phần phổ thông. Công ty cổ phần gọi người sở hữu loại cổ phần này là cổ đông ưu đãi. Về bản chất, đây là công cụ lai (hybrid security) kết hợp đặc tính của cổ phiếu thường và trái phiếu. Tuy nhận mức cổ tức cố định ổn định, cổ đông ưu đãi lại chịu giới hạn hoặc bị tước bỏ quyền biểu quyết trong phần lớn quyết định quản trị doanh nghiệp.
+[Cổ phiếu ưu đãi](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-uu-dai-la-gi) là loại chứng khoán xác nhận tư cách cổ đông nhưng mang lại cho người sở hữu những quyền lợi ưu tiên đặc biệt so với cổ phần phổ thông. Công ty cổ phần gọi người sở hữu loại cổ phần này là cổ đông ưu đãi. Về bản chất, đây là công cụ lai (hybrid security) kết hợp đặc tính của cổ phiếu thường và trái phiếu. Tuy nhận mức cổ tức cố định ổn định, cổ đông ưu đãi lại chịu giới hạn hoặc bị tước bỏ quyền biểu quyết trong phần lớn quyết định quản trị doanh nghiệp.
 
 Sự phân chia này giúp các công ty cổ phần linh hoạt hơn khi huy động vốn từ nhiều nhóm nhà đầu tư khác nhau. Quyết định lựa chọn công cụ phát hành phụ thuộc vào nhu cầu kiểm soát quyền lực hoặc áp lực chi trả tài chính của ban lãnh đạo công ty. Hiểu rõ bản chất từng loại cổ phần giúp bạn nắm chắc cơ chế vận hành dòng vốn của doanh nghiệp.
 

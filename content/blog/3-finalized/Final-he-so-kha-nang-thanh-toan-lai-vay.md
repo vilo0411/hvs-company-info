@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["hệ số khả năng thanh toán lãi vay"]
 Status: Finalized
@@ -25,7 +25,7 @@ Khi doanh nghiệp sử dụng đòn bẩy nợ lớn, áp lực lớn nhất kh
 
 Hệ số khả năng thanh toán lãi vay (ký hiệu là ICR (Interest Coverage Ratio)) là chỉ số tài chính đo lường khả năng của doanh nghiệp trong việc chi trả chi phí lãi vay phát sinh từ các khoản nợ bằng lợi nhuận trước thuế và lãi vay (EBIT). Chỉ số này phản ánh số lần lợi nhuận từ hoạt động kinh doanh cốt lõi có thể bao phủ nghĩa vụ trả lãi nợ vay. Đây là thước đo sức khỏe tài chính thiết yếu giúp nhà đầu tư đánh giá mức độ rủi ro tín dụng của tổ chức phát hành.
 
-Khi doanh nghiệp tăng nợ để mở rộng quy mô, áp lực trả lãi sẽ đè nặng lên dòng tiền hoạt động nếu kết quả kinh doanh sa sút. Một hệ số khả năng thanh toán lãi vay quá thấp cảnh báo doanh nghiệp sắp mất khả năng thanh toán. Ngược lại, chỉ số cao thể hiện nguồn thu nhập dồi dào, đủ khả năng gánh đỡ các nghĩa vụ tài chính phát sinh. Đối với các công ty có chi phí khấu hao tài sản cố định lớn, bạn cần so sánh thêm với chỉ số [ebitda là gì](content/blog/3-finalized/Final-ebitda-la-gi.md) để đánh giá năng lực trả nợ dòng tiền thực tế.
+Khi doanh nghiệp tăng nợ để mở rộng quy mô, áp lực trả lãi sẽ đè nặng lên dòng tiền hoạt động nếu kết quả kinh doanh sa sút. Một hệ số khả năng thanh toán lãi vay quá thấp cảnh báo doanh nghiệp sắp mất khả năng thanh toán. Ngược lại, chỉ số cao thể hiện nguồn thu nhập dồi dào, đủ khả năng gánh đỡ các nghĩa vụ tài chính phát sinh. Đối với các công ty có chi phí khấu hao tài sản cố định lớn, bạn cần so sánh thêm với chỉ số [ebitda là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ebitda-la-gi) để đánh giá năng lực trả nợ dòng tiền thực tế.
 
 ## Công thức tính hệ số khả năng thanh toán lãi vay (ICR)
 

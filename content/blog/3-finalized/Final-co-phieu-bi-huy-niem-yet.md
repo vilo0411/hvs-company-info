@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["cổ phiếu bị hủy niêm yết"]
 Status: Finalized
@@ -65,7 +65,7 @@ Cổ phiếu bị hủy niêm yết là rủi ro nghiêm trọng gây thiệt h�
 
 **Cổ phiếu bị hủy niêm yết là chứng khoán ngừng giao dịch hoàn toàn trên các sở giao dịch tập trung (như HOSE hoặc HNX) theo quyết định bắt buộc từ cơ quan quản lý hoặc do doanh nghiệp tự nguyện xin rút.** Trạng thái này đánh dấu việc doanh nghiệp không còn đủ điều kiện niêm yết công khai trên thị trường đại chúng tập trung.
 
-Bạn cần lưu ý rằng **nhà đầu tư không bị mất quyền sở hữu cổ phần hợp pháp khi doanh nghiệp bị hủy niêm yết, nhưng sẽ chịu tổn thất lớn về tính thanh khoản và giá trị tài sản do không thể giao dịch công khai trên bảng điện.** Tên của bạn vẫn lưu trên sổ đăng ký cổ đông và bạn vẫn được hưởng đầy đủ [cổ tức](content/blog/3-finalized/Final-co-tuc-la-gi.md) hoặc biểu quyết tại Đại hội đồng cổ đông (ĐHĐCĐ).
+Bạn cần lưu ý rằng **nhà đầu tư không bị mất quyền sở hữu cổ phần hợp pháp khi doanh nghiệp bị hủy niêm yết, nhưng sẽ chịu tổn thất lớn về tính thanh khoản và giá trị tài sản do không thể giao dịch công khai trên bảng điện.** Tên của bạn vẫn lưu trên sổ đăng ký cổ đông và bạn vẫn được hưởng đầy đủ [cổ tức](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi) hoặc biểu quyết tại Đại hội đồng cổ đông (ĐHĐCĐ).
 
 Thiệt hại lớn nhất nằm ở việc chuyển đổi cổ phiếu thành tiền mặt. Do không còn giao dịch khớp lệnh tự động trên sàn tập trung, giá trị thị trường của cổ phiếu thường giảm mạnh. Giao dịch mua bán lúc này phải thực hiện thủ công qua thỏa thuận trực tiếp giữa các cá nhân.
 
@@ -97,9 +97,9 @@ Quy định tại Điều 121 Nghị định 155/2020/NĐ-CP nêu rõ điều ki
 *   Đề xuất phải được thông qua bởi Đại hội đồng cổ đông với tỷ lệ biểu quyết đạt trên 50% số phiếu của các cổ đông nhỏ lẻ (cổ đông nắm giữ dưới 5% cổ phần có quyền biểu quyết).
 *   Doanh nghiệp chỉ được đề xuất hủy niêm yết sau tối thiểu 2 năm kể từ ngày giao dịch đầu tiên trên sàn chứng khoán.
 
-Doanh nghiệp tự nguyện rút niêm yết thường nhằm tái cấu trúc hoặc sáp nhập để tối ưu hóa nguồn lực. Một số ban lãnh đạo chọn hủy niêm yết để bảo mật dữ liệu kinh doanh trước đối thủ bằng cách giảm nghĩa vụ công bố thông tin, hoặc tiết kiệm chi phí vận hành và phí duy trì niêm yết khi doanh nghiệp đã có đủ nguồn vốn tích lũy, không cần huy động thêm từ công chúng.
+Doanh nghiệp tự nguyện rút niêm yết thường nhằm tái cấu trúc hoặc sáp nhập để tối ưu hóa nguồn lực. Một số ban lãnh đạo chọn hủy niêm yết để bảo mật dữ liệu kinh doanh trước đối thủ bằng cách giảm nghĩa vụ công bố thông tin, hoặc tiết kiệm chi phí vận hành và phí duy trì niêm yết khi doanh nghiệp đã có đủ nguồn vốn tích lũy, không cần huy động thêm từ công chúng. Điển hình là trường hợp [phân tích báo cáo tài chính Công ty Bibica](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-bao-cao-tai-chinh-cong-ty-bibica) khi doanh nghiệp này hủy niêm yết tự nguyện vào tháng 1 năm 2026 sau khi công ty mẹ PAN Group đạt sở hữu chi phối 98.3%.
 
-Ví dụ cụ thể, Công ty Cổ phần Xây dựng Hạ tầng CII (mã CEE) tự nguyện hủy niêm yết trên HOSE năm 2022 để sáp nhập vào công ty mẹ là CII. Trái lại, Công ty Cổ phần Ô tô Trường Hải (Thaco) bị hủy niêm yết bắt buộc năm 2021. Nguyên nhân do cơ cấu sở hữu thay đổi, tỷ lệ cổ phần biểu quyết của các cổ đông nhỏ lẻ giảm xuống còn 3%, không đáp ứng điều kiện tối thiểu 10% để là công ty đại chúng theo Luật Chứng khoán 2019.
+Ví cụ thể, Công ty Cổ phần Xây dựng Hạ tầng CII (mã CEE) tự nguyện hủy niêm yết trên HOSE năm 2022 để sáp nhập vào công ty mẹ là CII. Trái lại, Công ty Cổ phần Ô tô Trường Hải (Thaco) bị hủy niêm yết bắt buộc năm 2021. Nguyên nhân do cơ cấu sở hữu thay đổi, tỷ lệ cổ phần biểu quyết của các cổ đông nhỏ lẻ giảm xuống còn 3%, không đáp ứng điều kiện tối thiểu 10% để là công ty đại chúng theo Luật Chứng khoán 2019.
 
 ---
 
@@ -162,7 +162,7 @@ Bạn cần chủ động cơ cấu danh mục và quyết định cắt lỗ ng
 
 ## Nhận diện rủi ro doanh nghiệp và quản trị danh mục cùng HVS Tài chính số
 
-Nhiều nhà đầu tư F0 thường mua đuổi các loại [cổ phiếu vốn hóa nhỏ](content/blog/3-finalized/Final-co-phieu-penny-la-gi.md) giá rẻ để tìm lợi nhuận nhanh. Do thiếu kiến thức phân tích cơ bản (FA), họ bỏ qua rủi ro lỗ lũy kế hay âm vốn, dẫn đến bị chôn vốn khi doanh nghiệp bị hủy niêm yết.
+Nhiều nhà đầu tư F0 thường mua đuổi các loại [cổ phiếu vốn hóa nhỏ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-penny-la-gi) giá rẻ để tìm lợi nhuận nhanh. Do thiếu kiến thức phân tích cơ bản (FA), họ bỏ qua rủi ro lỗ lũy kế hay âm vốn, dẫn đến bị chôn vốn khi doanh nghiệp bị hủy niêm yết.
 
 Nền tảng **HVS Tài chính số** cung cấp chương trình **HVS Thực tập số** giúp bạn tự đọc hiểu báo cáo tài chính qua lộ trình Phân tích cơ bản Level 1 (FA LV1). Bạn sẽ sớm nhận diện nguy cơ âm vốn và phát hiện dấu hiệu chậm nộp báo cáo kiểm toán. 
 

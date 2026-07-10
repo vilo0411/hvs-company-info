@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Pipeline_Mode: Express
@@ -58,7 +58,7 @@ Cục Dự trữ Liên bang Mỹ (FED) duy trì lãi suất thấp trong phần 
 
 Đây là nguyên nhân triệt để nhất. Thay vì định giá dựa trên doanh thu và dòng tiền, nhà đầu tư chấp nhận một tiêu chí mới: số lượt truy cập (eyeballs). Logic nghe có vẻ hợp lý: càng nhiều người dùng → càng có giá trị tiềm năng → lợi nhuận có thể tính sau.
 
-Kết quả thực tế: hàng trăm công ty chưa tạo ra 1 USD lợi nhuận vẫn IPO thành công và tăng giá hàng chục lần chỉ trong vài tháng. Ngày 10/03/2000, Nasdaq Composite chạm đỉnh lịch sử **5,048.62 điểm** với mức [hệ số P/E](content/blog/3-finalized/Final-p-e-la-gi.md) trung bình toàn sàn xấp xỉ **200 lần**. Để so sánh: P/E bình thường của thị trường chứng khoán Mỹ dao động trong khoảng 15-25 lần. Mức 200 lần có nghĩa là thị trường đang định giá toàn bộ thu nhập tương lai của doanh nghiệp trong 200 năm vào hiện tại.
+Kết quả thực tế: hàng trăm công ty chưa tạo ra 1 USD lợi nhuận vẫn IPO thành công và tăng giá hàng chục lần chỉ trong vài tháng. Ngày 10/03/2000, Nasdaq Composite chạm đỉnh lịch sử **5,048.62 điểm** với mức [hệ số P/E](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/p-e-la-gi) trung bình toàn sàn xấp xỉ **200 lần**. Để so sánh: P/E bình thường của thị trường chứng khoán Mỹ dao động trong khoảng 15-25 lần. Mức 200 lần có nghĩa là thị trường đang định giá toàn bộ thu nhập tương lai của doanh nghiệp trong 200 năm vào hiện tại.
 
 **3. Thương vụ sáp nhập đỉnh điểm — AOL & Time Warner**
 
@@ -70,7 +70,7 @@ Thương vụ này trở thành biểu tượng của ảo tưởng tập thể.
 
 Các chương trình tài chính trên truyền hình ăn mừng "kỷ nguyên mới" liên tục. Nhà phân tích Wall Street thi nhau đưa ra khuyến nghị MUA với mục tiêu giá trên trời. Diễn đàn đầu tư và báo chí biến hành động đặt câu hỏi về định giá thành thái độ "bảo thủ" và "bỏ lỡ cơ hội thập kỷ". Ai không mua là người kém thông minh.
 
-Tâm lý này không phải ngu ngốc — nó là [lỗi tâm lý FOMO và hoảng loạn](content/blog/3-finalized/Final-tam-ly-dau-tu-chung-khoan.md) được khuếch đại bởi môi trường thông tin không có phản biện. Khi mọi người xung quanh đều kiếm tiền và nói rằng bạn sai, rất khó để giữ vững lập trường độc lập.
+Tâm lý này không phải ngu ngốc — nó là [lỗi tâm lý FOMO và hoảng loạn](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan) được khuếch đại bởi môi trường thông tin không có phản biện. Khi mọi người xung quanh đều kiếm tiền và nói rằng bạn sai, rất khó để giữ vững lập trường độc lập.
 
 ## Diễn biến sụp đổ và hệ quả của Dotcom bubble
 

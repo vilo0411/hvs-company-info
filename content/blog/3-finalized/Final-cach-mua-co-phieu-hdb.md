@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -27,7 +27,7 @@ Khách hàng sử dụng ứng dụng HDBank Mobile Banking có thể mở nhanh
 
 Để giao dịch, bạn nạp tiền vào tài khoản chứng khoán. Tốc độ chuyển tiền ảnh hưởng trực tiếp đến thời điểm giải ngân. HVS khuyên bạn dùng kênh chuyển khoản định danh nhanh để tiền vào hệ thống trong 1 đến 2 phút.
 
-Nhà đầu tư sử dụng tài khoản Ngân hàng HDBank cá nhân được hưởng lợi lớn nhờ tính năng chuyển tiền nhanh không mất phí trong môi trường liên kết. Bạn thao tác chuyển khoản trực tiếp từ app HDBank Mobile Banking sang tài khoản chứng khoán HDS thông qua số tài khoản định danh riêng. Dòng tiền lưu chuyển tức thì, giúp bạn chủ động chớp lấy các vị thế giao dịch thuận lợi khi mã HDB có nhịp điều chỉnh giá hợp lý trên [thị trường chứng khoán](content/blog/3-finalized/Final-thi-truong-chung-khoan-la-gi.md).
+Nhà đầu tư sử dụng tài khoản Ngân hàng HDBank cá nhân được hưởng lợi lớn nhờ tính năng chuyển tiền nhanh không mất phí trong môi trường liên kết. Bạn thao tác chuyển khoản trực tiếp từ app HDBank Mobile Banking sang tài khoản chứng khoán HDS thông qua số tài khoản định danh riêng. Dòng tiền lưu chuyển tức thì, giúp bạn chủ động chớp lấy các vị thế giao dịch thuận lợi khi mã HDB có nhịp điều chỉnh giá hợp lý trên [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thi-truong-chung-khoan-la-gi).
 
 ### Bước 3: Xem bảng điện chứng khoán và theo dõi mã HDB
 
@@ -37,7 +37,7 @@ Khi theo dõi mã HDB, bạn cần phân biệt rõ ba màu sắc giá cơ bản
 
 ### Bước 4: Đặt lệnh mua cổ phiếu HDB trực tuyến
 
-Khi mua [cổ phiếu](content/blog/3-finalized/Final-co-phieu-la-gi.md) HDB, bạn tiến hành đặt lệnh trên nền tảng giao dịch. Theo quy định của sàn HOSE, đơn vị giao dịch tối thiểu chẵn lô là $100$ cổ phiếu. Bạn cần chuẩn bị nguồn vốn tối thiểu tương đương $100$ lần thị giá HDB tại thời điểm mua.
+Khi mua [cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) HDB, bạn tiến hành đặt lệnh trên nền tảng giao dịch. Theo quy định của sàn HOSE, đơn vị giao dịch tối thiểu chẵn lô là $100$ cổ phiếu. Bạn cần chuẩn bị nguồn vốn tối thiểu tương đương $100$ lần thị giá HDB tại thời điểm mua.
 
 Để tối ưu hóa hiệu quả khớp lệnh, bạn phải phân biệt rõ cơ chế hoạt động của ba loại lệnh phổ biến nhất. Bảng dưới đây tóm tắt chi tiết các loại lệnh trên sàn HOSE:
 
@@ -95,4 +95,4 @@ Bạn muốn thực hành đặt lệnh LO, MP hay ATC trên sàn HOSE nhưng e 
 
 Công cụ **HVS Demo** hỗ trợ bạn luyện tập giao dịch mô phỏng miễn phí, không chịu rủi ro tài chính. Bạn thoải mái thực hành đặt lệnh mua bán cổ phiếu HDB, kiểm nghiệm các kịch bản thực chiến và tích lũy kinh nghiệm khớp lệnh thực tế. Nền tảng hiển thị biến động giá thời gian thực, mô phỏng chính xác biên độ dao động $\pm 7\%$ của sàn HOSE.
 
-Đồng thời, khi tham gia **HVS Forum**, bạn sẽ kết nối trực tiếp với cộng đồng nhà đầu tư chất lượng và các Mentor giàu kinh nghiệm. Bạn có cơ hội phản biện báo cáo [phân tích ngành](content/blog/3-finalized/Final-phan-tich-nganh-la-gi.md) ngân hàng, thảo luận chuyên sâu về mã HDB cùng các chuyên gia CFA uy tín. Kết nối trực tiếp này hỗ trợ bạn loại bỏ tâm lý đám đông, định hình tư duy quản trị danh mục độc lập để hướng tới mục tiêu tích lũy tài sản lâu dài.
+Đồng thời, khi tham gia **HVS Forum**, bạn sẽ kết nối trực tiếp với cộng đồng nhà đầu tư chất lượng và các Mentor giàu kinh nghiệm. Bạn có cơ hội phản biện báo cáo [phân tích ngành](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-nganh-la-gi) ngân hàng, thảo luận chuyên sâu về mã HDB cùng các chuyên gia CFA uy tín. Kết nối trực tiếp này hỗ trợ bạn loại bỏ tâm lý đám đông, định hình tư duy quản trị danh mục độc lập để hướng tới mục tiêu tích lũy tài sản lâu dài.

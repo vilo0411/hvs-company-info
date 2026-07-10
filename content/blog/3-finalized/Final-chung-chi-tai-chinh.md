@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Pipeline_Mode: Express
@@ -31,9 +31,9 @@ Writing_Method: PAS
 HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS Forum"]
 Cluster: chứng chỉ
 Internal_Links:
-  - "chứng chỉ cfa": "content/blog/3-finalized/Final-chung-chi-cfa.md"
-  - "chứng chỉ cmt": "content/blog/3-finalized/Final-chung-chi-cmt.md"
-  - "chứng chỉ cpa": "content/blog/3-finalized/Final-chung-chi-cpa.md"
+  - "chứng chỉ cfa": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cfa"
+  - "chứng chỉ cmt": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cmt"
+  - "chứng chỉ cpa": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cpa"
 ---
 
 # Chứng chỉ tài chính: Phân loại, so sánh và lộ trình chinh phục
@@ -61,9 +61,9 @@ Quy chế của Ủy ban Chứng khoán Nhà nước (UBCKNN) đăng tải trên
 
 Thông tin chi tiết về từng chứng chỉ:
 
-*   **Chứng chỉ CFA (Chartered Financial Analyst):** Chương trình đào tạo kiến thức phân tích báo cáo tài chính và quản lý danh mục do Viện CFA cấp. Đây là chứng chỉ uy tín cho vị trí phân tích tại quỹ đầu tư và doanh nghiệp chứng khoán. Chi tiết lộ trình học tại bài viết về [chứng chỉ cfa](content/blog/3-finalized/Final-chung-chi-cfa.md).
-*   **Chứng chỉ CMT (Chartered Market Technician):** Chương trình tập trung phân tích kỹ thuật và tâm lý thị trường do Hiệp hội CMT cấp, phù hợp với các trader chuyên nghiệp và chuyên gia quản trị danh mục. Chi tiết tại bài viết [chứng chỉ cmt](content/blog/3-finalized/Final-chung-chi-cmt.md).
-*   **Chứng chỉ CPA (Certified Public Accountant):** Văn bằng này cho phép kiểm toán viên thực hiện kiểm toán độc lập theo quy định Bộ Tài chính, là điều kiện để ký báo cáo kiểm toán. Chi tiết tại [chứng chỉ cpa](content/blog/3-finalized/Final-chung-chi-cpa.md).
+*   **Chứng chỉ CFA (Chartered Financial Analyst):** Chương trình đào tạo kiến thức phân tích báo cáo tài chính và quản lý danh mục do Viện CFA cấp. Đây là chứng chỉ uy tín cho vị trí phân tích tại quỹ đầu tư và doanh nghiệp chứng khoán. Chi tiết lộ trình học tại bài viết về [chứng chỉ cfa](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cfa).
+*   **Chứng chỉ CMT (Chartered Market Technician):** Chương trình tập trung phân tích kỹ thuật và tâm lý thị trường do Hiệp hội CMT cấp, phù hợp với các trader chuyên nghiệp và chuyên gia quản trị danh mục. Chi tiết tại bài viết [chứng chỉ cmt](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cmt).
+*   **Chứng chỉ CPA (Certified Public Accountant):** Văn bằng này cho phép kiểm toán viên thực hiện kiểm toán độc lập theo quy định Bộ Tài chính, là điều kiện để ký báo cáo kiểm toán. Chi tiết tại [chứng chỉ cpa](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-cpa).
 *   **Chứng chỉ FRM (Financial Risk Manager):** Chương trình do Hiệp hội GARP cấp nhằm kiểm soát rủi ro, hỗ trợ bạn làm việc tại bộ phận quản trị rủi ro ngân hàng thương mại lớn tại Việt Nam.
 
 Sở hữu các chứng chỉ quốc tế mở ra cơ hội thăng tiến rộng mở. Tuy nhiên, thời gian ôn luyện và chi phí tương đối lớn đòi hỏi bạn cân nhắc kỹ.

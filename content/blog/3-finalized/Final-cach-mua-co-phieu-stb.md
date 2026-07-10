@@ -1,4 +1,4 @@
----
+﻿---
 Author: HVS Senior Mentor
 Status: Finalized
 Mode: Express
@@ -80,4 +80,4 @@ F0 nên tích cực sử dụng các công cụ hỗ trợ chất lượng của
 * Bạn trao đổi nhận định và đúc rút kinh nghiệm thực tế cùng các thành viên trên **HVS Forum**.
 * Bạn làm chủ tư duy phân tích báo cáo tài chính cùng **HVS Tài chính số** qua chương trình **HVS Thực tập số** bài bản.
 
-Kiểm soát cảm xúc giao dịch là yếu tố quyết định sự tồn tại lâu dài trên thị trường. Bạn có thể tham khảo thêm [cách mua cổ phiếu VCB](Final-cach-mua-co-phieu-vcb.md) để so sánh đặc tính biến động của mã STB với ngân hàng quốc doanh hàng đầu.
+Kiểm soát cảm xúc giao dịch là yếu tố quyết định sự tồn tại lâu dài trên thị trường. Bạn có thể tham khảo thêm [cách mua cổ phiếu VCB](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-vcb) để so sánh đặc tính biến động của mã STB với ngân hàng quốc doanh hàng đầu.

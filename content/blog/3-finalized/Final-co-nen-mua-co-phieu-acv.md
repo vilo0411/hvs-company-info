@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Pipeline_Mode: Express
@@ -33,7 +33,7 @@ Vị thế độc quyền tự nhiên giúp ACV duy trì nguồn thu ổn địn
 
 Sàn UPCoM áp dụng biên độ dao động giá hàng ngày ở mức ±15%. Biên độ rộng đòi hỏi bạn phải kiểm soát tâm lý giao dịch chặt chẽ, tránh mua đuổi trong các phiên biến động mạnh.
 
-Nhà nước nắm giữ tỷ lệ sở hữu tại ACV rất cao lên tới 95.4% tổng số cổ phần lưu hành. Tỷ lệ này đem lại sự an toàn pháp lý tối đa cho cổ đông nhưng cũng làm giảm lượng cổ phiếu trôi nổi tự do trên thị trường chứng khoán. Bạn có thể tìm hiểu thêm về [cổ phiếu hàng không](content/blog/3-finalized/Final-co-phieu-hang-khong.md) để đánh giá toàn chuỗi giá trị ngành.
+Nhà nước nắm giữ tỷ lệ sở hữu tại ACV rất cao lên tới 95.4% tổng số cổ phần lưu hành. Tỷ lệ này đem lại sự an toàn pháp lý tối đa cho cổ đông nhưng cũng làm giảm lượng cổ phiếu trôi nổi tự do trên thị trường chứng khoán. Bạn có thể tìm hiểu thêm về [cổ phiếu hàng không](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-hang-khong) để đánh giá toàn chuỗi giá trị ngành.
 
 ## Động lực tăng trưởng trung và dài hạn của cổ phiếu ACV
 
@@ -76,7 +76,7 @@ Quy trình 3 bước giải ngân vốn thực chiến cho cổ phiếu ACV đư
 2. Bạn đặt lệnh mua thăm dò với tỷ trọng 20% tổng nguồn vốn dự kiến dành cho mã ACV tại vùng giá hỗ trợ đã xác định.
 3. Bạn thực hiện giải ngân nốt 80% nguồn vốn còn lại khi giá cổ phiếu ACV bứt phá khỏi kênh xu hướng giảm ngắn hạn đi kèm khối lượng giao dịch lớn vượt trung bình 20 phiên.
 
-Kỷ luật quản trị rủi ro đòi hỏi bạn phải đặt ngưỡng cắt lỗ cụ thể khi giao dịch mã này trên sàn UPCoM. Hãy tuân thủ kỷ luật. Để đa dạng hóa danh mục đầu tư hạ tầng và năng lượng hiệu quả, bạn hãy nghiên cứu kỹ phân tích [Có nên mua cổ phiếu POW](content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md) nhằm cân bằng lợi nhuận.
+Kỷ luật quản trị rủi ro đòi hỏi bạn phải đặt ngưỡng cắt lỗ cụ thể khi giao dịch mã này trên sàn UPCoM. Hãy tuân thủ kỷ luật. Để đa dạng hóa danh mục đầu tư hạ tầng và năng lượng hiệu quả, bạn hãy nghiên cứu kỹ phân tích [Có nên mua cổ phiếu POW](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pow) nhằm cân bằng lợi nhuận.
 
 Việc sử dụng đường trung bình động giúp tránh bắt đáy quá sớm. Tỷ trọng giải ngân 20% bảo vệ tài khoản nếu thị trường đảo chiều giảm sâu. Bạn chỉ gia tăng tỷ trọng khi xu hướng tăng trung hạn xác nhận rõ ràng.
 

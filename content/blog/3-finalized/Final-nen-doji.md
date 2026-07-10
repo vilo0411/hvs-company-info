@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Pipeline_Mode: Express
@@ -23,7 +23,7 @@ Trong phân tích kỹ thuật chứng khoán, nến Doji báo hiệu trạng th
 
 Sự xuất hiện của cây nến này thể hiện trạng thái lưỡng lự cực độ của thị trường. Cả phe mua và phe bán đều cố gắng đẩy giá đi theo ý mình trong phiên, nhưng cuối cùng đành chấp nhận kết quả hòa hoãn khi tiếng chuông đóng cửa vang lên. Đây là tín hiệu giằng co. Phe mua hay phe bán đều không thể áp đảo đối phương.
 
-Khi phân tích biểu đồ kỹ thuật, bạn cần nhớ nến Doji không đại diện cho xu hướng tăng hay giảm. Cây nến này chỉ phản ánh sự tạm dừng của xu hướng hiện tại trước khi dòng tiền lớn đưa ra quyết định mới. Bạn có thể tìm hiểu thêm về cấu trúc này trong bài viết chi tiết của chúng tôi về [mô hình nến](content/blog/3-finalized/Final-mo-hinh-nen.md).
+Khi phân tích biểu đồ kỹ thuật, bạn cần nhớ nến Doji không đại diện cho xu hướng tăng hay giảm. Cây nến này chỉ phản ánh sự tạm dừng của xu hướng hiện tại trước khi dòng tiền lớn đưa ra quyết định mới. Bạn có thể tìm hiểu thêm về cấu trúc này trong bài viết chi tiết của chúng tôi về [mô hình nến](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/mo-hinh-nen).
 
 ## Các loại nến Doji phổ biến nhất trên biểu đồ kỹ thuật
 
@@ -31,7 +31,7 @@ Biểu đồ kỹ thuật ghi nhận 5 loại nến Doji phổ biến với cấ
 
 - **Nến Doji tiêu chuẩn (Standard Doji):** Thể hiện sự do dự khi biên độ giá trong phiên rất nhỏ, giá đóng cửa trùng với giá mở cửa.
 - **Nến Doji chân dài (Long-legged Doji):** Phản ánh tranh chấp quyết liệt giữa phe mua và phe bán khi cả hai phe đều cố đẩy giá đi xa nhưng đành hòa hoãn.
-- **Nến Doji chuồn chuồn (Dragonfly Doji):** Báo hiệu lực mua mạnh cuối phiên khi bóng dưới dài. Mô hình này dự báo đảo chiều tăng tại hỗ trợ, tương tự [nến búa](content/blog/3-finalized/Final-nen-bua.md).
+- **Nến Doji chuồn chuồn (Dragonfly Doji):** Báo hiệu lực mua mạnh cuối phiên khi bóng dưới dài. Mô hình này dự báo đảo chiều tăng tại hỗ trợ, tương tự [nến búa](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/nen-bua).
 - **Nến Doji bia mộ (Gravestone Doji):** Thể hiện lực bán đè bẹp lực mua cuối phiên khiến giá đóng cửa rơi về mức thấp nhất. Đây là tín hiệu đảo chiều giảm tại kháng cự.
 - **Nến Doji 4 giá (4-Price Doji):** Xuất hiện khi cổ phiếu mất thanh khoản trên sàn HOSE hoặc HNX, khiến toàn bộ giao dịch chỉ khớp ở một mức giá duy nhất.
 
@@ -60,7 +60,7 @@ Bạn bắt buộc phải đợi nến tiếp theo đóng cửa để xác nhậ
 
 #### Bước 3: Kết hợp khối lượng giao dịch
 
-Nến Doji đi kèm khối lượng lớn đột biến cho thấy dòng tiền lớn đang giao tranh mạnh. Bạn nên kết hợp thêm [chỉ báo RSI](content/blog/3-finalized/Final-rsi-la-gi.md) hoặc [đường trung bình động (MA)](content/blog/3-finalized/Final-duong-ma-la-gi.md). Khi Doji xuất hiện tại vùng RSI quá bán dưới 30% và chạm hỗ trợ MA20, xác suất đảo chiều tăng của cổ phiếu sẽ tăng lên.
+Nến Doji đi kèm khối lượng lớn đột biến cho thấy dòng tiền lớn đang giao tranh mạnh. Bạn nên kết hợp thêm [chỉ báo RSI](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/rsi-la-gi) hoặc [đường trung bình động (MA)](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/duong-ma-la-gi). Khi Doji xuất hiện tại vùng RSI quá bán dưới 30% và chạm hỗ trợ MA20, xác suất đảo chiều tăng của cổ phiếu sẽ tăng lên.
 
 ## Phân tích hành vi giá thực chiến cùng HVS Tài chính số
 

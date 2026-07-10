@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Pipeline_Mode: Express
@@ -58,7 +58,7 @@ Ba khái niệm này thường bị dùng lẫn lộn trong cộng đồng F0. B
 | **Bản chất** | Giá giao dịch thực tế trên sàn | Giá trị danh nghĩa in trên cổ phiếu | Giá trị kế toán dựa trên báo cáo tài chính |
 | **Cách xác định** | Do cung cầu thị trường quyết định mỗi giây | Luật định: 10,000đ/cổ phiếu khi IPO (theo Luật Chứng khoán VN) | Vốn chủ sở hữu ÷ Số cổ phiếu lưu hành |
 | **Tính pháp lý** | Không bị ràng buộc, biến động tự do | Bắt buộc theo quy định pháp luật | Phản ánh giá trị tài sản ròng trên sổ sách |
-| **Thay đổi theo thời gian** | Biến động liên tục, từng giây | Cố định (trừ khi [chia tách cổ phiếu](Final-chia-tach-co-phieu-la-gi.md)) | Cập nhật theo chu kỳ kế toán (quý/năm) |
+| **Thay đổi theo thời gian** | Biến động liên tục, từng giây | Cố định (trừ khi [chia tách cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chia-tach-co-phieu-la-gi)) | Cập nhật theo chu kỳ kế toán (quý/năm) |
 | **Ví dụ VCB (2026)** | ~92,000đ/cổ phiếu | 10,000đ/cổ phiếu | ~30,000đ/cổ phiếu (ước tính) |
 
 **Ví dụ thực tế với VCB:** Mệnh giá pháp lý của VCB vẫn là 10,000đ — con số cố định từ khi IPO theo quy định của Luật Chứng khoán (vanban.chinhphu.vn). Giá trị sổ sách khoảng 30,000đ, phản ánh tổng tài sản ròng của Vietcombank chia đều cho từng cổ phiếu theo báo cáo tài chính gần nhất. Còn thị giá dao động quanh 90,000–92,000đ — tức là thị trường đang định giá VCB gấp 3 lần giá trị sổ sách, vì kỳ vọng vào lợi nhuận và vị thế ngân hàng quốc doanh hàng đầu.
@@ -73,7 +73,7 @@ Thị giá phản ánh tổng hợp nhiều lực lượng tác động đồng 
 
 #### Nhóm 1: Kết quả kinh doanh và triển vọng doanh nghiệp
 
-Đây là yếu tố nền tảng. Khi HPG công bố lợi nhuận quý tăng 40% so với cùng kỳ, cổ phiếu thường phản ứng tích cực trong 1–3 phiên tiếp theo. Ngược lại, thông tin thua lỗ hoặc cắt giảm [cổ tức](Final-co-tuc-la-gi.md) kéo thị giá xuống nhanh.
+Đây là yếu tố nền tảng. Khi HPG công bố lợi nhuận quý tăng 40% so với cùng kỳ, cổ phiếu thường phản ứng tích cực trong 1–3 phiên tiếp theo. Ngược lại, thông tin thua lỗ hoặc cắt giảm [cổ tức](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi) kéo thị giá xuống nhanh.
 
 Triển vọng quan trọng hơn hiện tại. Thị giá chiết khấu thông tin tương lai — nhà đầu tư mua cổ phiếu hôm nay vì họ kỳ vọng doanh nghiệp sẽ có lợi nhuận cao hơn trong 12–24 tháng tới.
 

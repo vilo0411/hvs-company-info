@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -39,7 +39,7 @@ Trong đó, $P$ là thị giá cổ phiếu POW, $Q$ là số lượng mua, và 
 
 ### Bước 3: Xem bảng điện chứng khoán và theo dõi mã POW
 
-Bảng điện chứng khoán hiển thị toàn bộ diễn biến của [thị trường chứng khoán](content/blog/3-finalized/Final-thi-truong-chung-khoan-la-gi.md). Mã POW niêm yết trên sàn HOSE, do đó bạn cần theo dõi bảng điện HOSE trong khung giờ hành chính từ 9 giờ đến 15 giờ, từ thứ Hai đến thứ Sáu.
+Bảng điện chứng khoán hiển thị toàn bộ diễn biến của [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thi-truong-chung-khoan-la-gi). Mã POW niêm yết trên sàn HOSE, do đó bạn cần theo dõi bảng điện HOSE trong khung giờ hành chính từ 9 giờ đến 15 giờ, từ thứ Hai đến thứ Sáu.
 
 Biên độ dao động giá quy định của sàn HOSE là $\pm 7\%$ so với mức giá tham chiếu. Bảng điện sử dụng ba màu chủ đạo: màu tím (giá trần), màu xanh lam (giá sàn) và màu vàng (giá tham chiếu). Mức giá tham chiếu là cơ sở để tính toán biên độ cho phiên kế tiếp. Hiểu rõ bảng điện sẽ giúp bạn tránh các sai lầm do tâm lý đám đông.
 
@@ -69,7 +69,7 @@ La Nina mưa nhiều ủng hộ thủy điện phát huy ưu thế giá rẻ. Ng
 
 ### Phương pháp phân bổ vốn và xác định ngưỡng cắt lỗ cho cổ phiếu POW
 
-Đối với [cổ phiếu](content/blog/3-finalized/Final-co-phieu-la-gi.md) có tính phòng thủ như POW, bạn chỉ nên phân bổ tỷ trọng từ $10\%$ đến $15\%$ tổng danh mục đầu tư. Kỷ luật quản trị rủi ro yêu cầu thiết lập ngưỡng cắt lỗ tự động từ $7\%$ đến $8\%$ từ giá mua trung bình.
+Đối với [cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) có tính phòng thủ như POW, bạn chỉ nên phân bổ tỷ trọng từ $10\%$ đến $15\%$ tổng danh mục đầu tư. Kỷ luật quản trị rủi ro yêu cầu thiết lập ngưỡng cắt lỗ tự động từ $7\%$ đến $8\%$ từ giá mua trung bình.
 
 Giả sử bạn giải ngân mua POW tại mức giá $13.500\text{ VND}$, ngưỡng cắt lỗ kỹ thuật được tính như sau:
 
@@ -92,7 +92,7 @@ Phương pháp phân tích hỗn hợp (Hybrid Analysis) là chìa khóa giúp b
 
 Nhiều nhà đầu tư F0 thường chịu áp lực thua lỗ lớn do thói quen mua cổ phiếu theo tin đồn mà không nắm vững các chỉ số cơ bản của ngành năng lượng. Nền tảng **HVS Tài chính số** mang đến các chương trình huấn luyện tư duy phân tích chuyên sâu phù hợp với từng cấp độ của nhà đầu tư.
 
-Đặc biệt, khóa học **HVS Thực tập số** giúp bạn làm chủ kỹ năng đọc báo cáo tài chính và bóc tách cơ cấu nợ vay tài trợ dự án Nhơn Trạch 3 & 4. Việc tự thực hiện [phân tích ngành](content/blog/3-finalized/Final-phan-tich-nganh-la-gi.md) năng lượng giúp bạn xác định chính xác giá trị thực của cổ phiếu POW thay vì phụ thuộc vào các hội nhóm trên mạng xã hội.
+Đặc biệt, khóa học **HVS Thực tập số** giúp bạn làm chủ kỹ năng đọc báo cáo tài chính và bóc tách cơ cấu nợ vay tài trợ dự án Nhơn Trạch 3 & 4. Việc tự thực hiện [phân tích ngành](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-nganh-la-gi) năng lượng giúp bạn xác định chính xác giá trị thực của cổ phiếu POW thay vì phụ thuộc vào các hội nhóm trên mạng xã hội.
 
 ### Thực hành không rủi ro và thảo luận cùng cộng đồng HVS
 

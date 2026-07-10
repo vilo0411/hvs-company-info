@@ -1,4 +1,4 @@
----
+﻿---
 title: "Phân tích ngành là gì? Chìa khóa giúp nhà đầu tư bứt phá"
 date: "2026-05-07"
 author: "HVS Team"
@@ -21,7 +21,7 @@ Trong đầu tư, phân tích ngành đóng vai trò là "màng lọc" quan tr�
 
 ## Tại sao nhà đầu tư chứng khoán bắt buộc phải phân tích ngành?
 
-Nhiều [người mới tham gia thị trường](content/blog/3-finalized/Final-chung-khoan-la-gi.md) thường mắc sai lầm khi chỉ tập trung vào biểu đồ kỹ thuật hoặc báo cáo tài chính của một mã riêng lẻ. Tuy nhiên, có 3 lý do khiến bạn phải nhìn rộng hơn ra quy mô ngành:
+Nhiều [người mới tham gia thị trường](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi) thường mắc sai lầm khi chỉ tập trung vào biểu đồ kỹ thuật hoặc báo cáo tài chính của một mã riêng lẻ. Tuy nhiên, có 3 lý do khiến bạn phải nhìn rộng hơn ra quy mô ngành:
 
 1.  **Quy luật "nước lên thuyền lên":** Theo thống kê, khoảng 80% cổ phiếu sẽ chuyển động cùng chiều với xu hướng chung của ngành. Khi ngành Ngân hàng "dậy sóng" nhờ tin nới room tín dụng, hầu hết các mã như VCB, BID, CTG đều sẽ hưởng lợi.
 2.  **Nhận diện chu kỳ "bình minh" và "hoàng hôn":** Có những ngành đang bước vào giai đoạn bão hòa hoặc bị thay thế bởi công nghệ mới (ngành hoàng hôn). Ngược lại, những ngành như Năng lượng tái tạo hay Công nghệ bán dẫn đang là những "ngành bình minh" với dư địa tăng trưởng khổng lồ.

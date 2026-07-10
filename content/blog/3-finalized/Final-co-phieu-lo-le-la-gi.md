@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["cổ phiếu lô lẻ là gì"]
 Status: Finalized
@@ -43,7 +43,7 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số"]
 
 # Cluster info
 Cluster: Cổ phiếu
-Internal_Links: ["content/blog/3-finalized/Final-chung-khoan-la-gi.md", "content/blog/3-finalized/Final-co-phieu-la-gi.md", "content/blog/3-finalized/Final-cach-mua-co-phieu-tren-san-hose.md"]
+Internal_Links: ["https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-tren-san-hose"]
 ---
 
 # cổ phiếu lô lẻ là gì? Quy định và cách giao dịch mới nhất
@@ -52,7 +52,7 @@ Cổ phiếu lô lẻ phát sinh từ quá trình chia cổ tức hoặc nhận 
 
 ## Cổ phiếu lô lẻ là gì?
 
-Để thiết lập một quy trình giao dịch an toàn và tối ưu, nhà đầu tư cần nắm vững khái niệm về khối lượng giao dịch quy chuẩn khi tham gia [đầu tư chứng khoán](content/blog/3-finalized/Final-chung-khoan-la-gi.md) tại Việt Nam. Cổ phiếu lô lẻ là lượng cổ phiếu có số lượng **ít hơn một lô giao dịch tiêu chuẩn** theo quy định hiện hành đối với từng [mã cổ phiếu](content/blog/3-finalized/Final-co-phieu-la-gi.md) niêm yết.
+Để thiết lập một quy trình giao dịch an toàn và tối ưu, nhà đầu tư cần nắm vững khái niệm về khối lượng giao dịch quy chuẩn khi tham gia [đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi) tại Việt Nam. Cổ phiếu lô lẻ là lượng cổ phiếu có số lượng **ít hơn một lô giao dịch tiêu chuẩn** theo quy định hiện hành đối với từng [mã cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) niêm yết.
 
 Cụ thể, kể từ ngày 12/09/2022, Sở Giao dịch Chứng khoán TP.HCM (HOSE) chính thức áp dụng lại quy chuẩn lô giao dịch chẵn là 100 cổ phiếu hoặc chứng chỉ quỹ. Quy định này cũng đồng bộ với Sở Giao dịch Chứng khoán Hà Nội (HNX) và sàn UPCoM. Như vậy, bất kỳ giao dịch nào có số lượng cổ phiếu nằm trong khoảng từ 1 đến 99 đơn vị đều được phân loại là giao dịch lô lẻ.
 
@@ -72,7 +72,7 @@ Trong quá trình đầu tư thực chiến, tài khoản của bạn sẽ xuấ
 
 Để xử lý hiệu quả lượng cổ phiếu lẻ phát sinh trong tài khoản, nhà đầu tư cần nắm rõ quy định kỹ thuật hiện hành trên hai sàn giao dịch chính tại Việt Nam là HOSE và HNX. Quy chế giao dịch lô lẻ có những điểm khác biệt cốt lõi so với giao dịch lô chẵn thông thường.
 
-Thời gian giao dịch lô lẻ đồng bộ với lô chẵn (từ 9h00 đến 14h30). Tuy nhiên, quy chế cấm hoàn toàn lệnh lô lẻ trong phiên định kỳ mở cửa (ATO) và đóng cửa (ATC). Lệnh sau giờ PLO cũng không áp dụng. Lệnh giới hạn (LO) là loại lệnh duy nhất được chấp nhận; mọi lệnh thị trường hay điều kiện đều bị hệ thống tự động từ chối khi [giao dịch trên sàn HOSE](content/blog/3-finalized/Final-cach-mua-co-phieu-tren-san-hose.md) và HNX.
+Thời gian giao dịch lô lẻ đồng bộ với lô chẵn (từ 9h00 đến 14h30). Tuy nhiên, quy chế cấm hoàn toàn lệnh lô lẻ trong phiên định kỳ mở cửa (ATO) và đóng cửa (ATC). Lệnh sau giờ PLO cũng không áp dụng. Lệnh giới hạn (LO) là loại lệnh duy nhất được chấp nhận; mọi lệnh thị trường hay điều kiện đều bị hệ thống tự động từ chối khi [giao dịch trên sàn HOSE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-tren-san-hose) và HNX.
 
 Về phương thức đặt lệnh, các công ty chứng khoán đã tích hợp bảng giao dịch lô lẻ trên ứng dụng. Bạn chỉ cần truy cập bảng điện lẻ chuyên biệt, nhập mã chứng khoán (như HPG, VNM) với khối lượng từ 1 đến 99 và chọn mức giá LO phù hợp.
 

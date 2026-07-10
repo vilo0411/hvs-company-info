@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Detailed
@@ -11,7 +11,7 @@ Meta_Description: Hướng dẫn cách mua cổ phiếu MWG (Thế Giới Di Đ�
 
 # Cách Mua Cổ Phiếu MWG (Thế Giới Di Động): Quy Trình Dành Cho F0
 
-Cổ phiếu MWG (Công ty Cổ phần Đầu tư Thế Giới Di Động) là một trong những mã chứng khoán trụ cột thuộc ngành bán lẻ niêm yết trên sàn HOSE. Bài viết này hướng dẫn chi tiết quy trình mở tài khoản, nạp tiền và thực hiện lệnh mua cổ phiếu MWG trực tuyến an toàn. Các thông tin hữu ích giúp nhà đầu tư mới làm chủ quá trình đặt lệnh giao dịch và tối ưu hóa chi phí đầu tư khi tham gia [thị trường chứng khoán](content/blog/3-finalized/Final-chung-khoan-la-gi.md).
+Cổ phiếu MWG (Công ty Cổ phần Đầu tư Thế Giới Di Động) là một trong những mã chứng khoán trụ cột thuộc ngành bán lẻ niêm yết trên sàn HOSE. Bài viết này hướng dẫn chi tiết quy trình mở tài khoản, nạp tiền và thực hiện lệnh mua cổ phiếu MWG trực tuyến an toàn. Các thông tin hữu ích giúp nhà đầu tư mới làm chủ quá trình đặt lệnh giao dịch và tối ưu hóa chi phí đầu tư khi tham gia [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi).
 
 ---
 
@@ -110,7 +110,7 @@ Khi mua cổ phiếu MWG, nhà đầu tư cần đặc biệt chú ý đến chu
 Doanh số và biên lợi nhuận của Thế Giới Di Động phụ thuộc trực tiếp vào thu nhập khả dụng và xu hướng chi tiêu thực tế của người dân:
 
 *   **Giai đoạn kinh tế tăng trưởng:** Người dân cải thiện thu nhập, thúc đẩy nhu cầu đổi mới các sản phẩm công nghệ, điện thoại và thiết bị gia dụng có giá trị cao (đóng góp lớn cho chuỗi Thế Giới Di Động và Điện Máy Xanh).
-*   **Giai đoạn lạm phát tăng cao:** Người tiêu dùng có xu hướng thắt chặt chi tiêu, ưu tiên các nhu yếu phẩm cơ bản và cắt giảm các mặt hàng không thiết yếu. Điều này đòi hỏi bạn cần áp dụng bộ kỹ năng [phân tích ngành là gì](content/blog/3-finalized/Final-phan-tich-nganh-la-gi.md) để lựa chọn đúng thời điểm đầu tư phù hợp.
+*   **Giai đoạn lạm phát tăng cao:** Người tiêu dùng có xu hướng thắt chặt chi tiêu, ưu tiên các nhu yếu phẩm cơ bản và cắt giảm các mặt hàng không thiết yếu. Điều này đòi hỏi bạn cần áp dụng bộ kỹ năng [phân tích ngành là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-nganh-la-gi) để lựa chọn đúng thời điểm đầu tư phù hợp.
 
 ### Nguyên tắc phân bổ vốn và kỷ luật cắt lỗ nghiêm ngặt
 
@@ -128,7 +128,7 @@ Việc thiết lập các kịch bản hành động giúp bạn luôn chủ đ�
     *   *Hành động:* Bạn tự tin tiếp tục nắm giữ cổ phiếu MWG để tối ưu hóa mục tiêu lợi nhuận trung và dài hạn.
 *   **Kịch bản 2: Áp lực suy giảm biên lợi nhuận**
     *   *Điều kiện:* Lạm phát tiêu dùng kéo dài làm giảm 10% biên lợi nhuận gộp của tập đoàn, giá cổ phiếu phá vỡ các vùng hỗ trợ kỹ thuật quan trọng.
-    *   *Hành động:* Bạn chủ động thực hiện bán hạ tỷ trọng cổ phiếu MWG về mức an toàn để bảo vệ nguồn vốn nhàn rỗi ban đầu. Sự dứt khoát này giúp bạn ổn định tốt [tâm lý đầu tư chứng khoán](content/blog/3-finalized/Final-tam-ly-dau-tu-chung-khoan.md).
+    *   *Hành động:* Bạn chủ động thực hiện bán hạ tỷ trọng cổ phiếu MWG về mức an toàn để bảo vệ nguồn vốn nhàn rỗi ban đầu. Sự dứt khoát này giúp bạn ổn định tốt [tâm lý đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan).
 
 ---
 
@@ -142,7 +142,7 @@ Nhiều nhà đầu tư F0 thường thực hiện đặt lệnh mua cổ phiế
 
 *   **HVS Thực tập số** cung cấp lộ trình đào tạo Phân tích hỗn hợp (Hybrid Analysis) chuyên sâu.
 *   Bạn sẽ được hướng dẫn trực tiếp phương pháp đọc hiểu báo cáo tài chính của Thế Giới Di Động, phân tích cơ cấu doanh thu các chuỗi cửa hàng, và định giá cổ phiếu khoa học.
-*   Tham gia một [khóa học chứng khoán](content/blog/3-finalized/Final-khoa-hoc-chung-khoan.md) chất lượng giúp bạn tự tin đưa ra các quyết định đầu tư độc lập.
+*   Tham gia một [khóa học chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/khoa-hoc-chung-khoan) chất lượng giúp bạn tự tin đưa ra các quyết định đầu tư độc lập.
 
 ### Thực hành đặt lệnh không rủi ro cùng HVS Demo và thảo luận trên HVS Forum
 

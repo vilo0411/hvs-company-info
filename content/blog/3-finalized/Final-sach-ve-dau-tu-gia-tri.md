@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["sách về đầu tư giá trị"]
 Status: Finalized
@@ -68,7 +68,7 @@ Tại thị trường Việt Nam, việc áp dụng phương pháp net-net cực
 | **Nhà đầu tư Dhandho** | Mohnish Pabrai | Quản trị rủi ro vốn | Dễ (F0) | Triết lý rủi ro thấp, lợi nhuận cao |
 | **Điều quan trọng nhất** | Howard Marks | Chu kỳ & Tâm lý | Khó (F1) | Áp dụng tư duy cấp độ hai trong giao dịch |
 
-Bạn nên đọc thêm về [sách chứng khoán](Final-sach-chung-khoan.md) và [đầu tư giá trị](Final-dau-tu-gia-tri.md) để củng cố hệ thống giao dịch cá nhân.
+Bạn nên đọc thêm về [sách chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/sach-chung-khoan) và [đầu tư giá trị](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-gia-tri) để củng cố hệ thống giao dịch cá nhân.
 
 ## Từ trang sách đến dòng tiền thực tế: đầu tư chứng khoán hiệu quả cùng HVS
 

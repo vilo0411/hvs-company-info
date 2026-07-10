@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -39,7 +39,7 @@ Trong đó, $P$ đại diện cho thị giá của cổ phiếu CTG, $Q$ là s�
 
 ### Bước 3: Xem bảng điện chứng khoán và theo dõi mã CTG
 
-Bảng điện chứng khoán là nơi hiển thị các thông tin giao dịch trực tuyến của toàn bộ [thị trường chứng khoán](content/blog/3-finalized/Final-thi-truong-chung-khoan-la-gi.md) trong phiên. Để theo dõi mã CTG, bạn cần truy cập vào bảng điện của sàn HOSE trong khung giờ hành chính từ 9h00 đến 15h00, từ thứ Hai đến thứ Sáu hàng tuần (trừ các ngày lễ theo luật định).
+Bảng điện chứng khoán là nơi hiển thị các thông tin giao dịch trực tuyến của toàn bộ [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thi-truong-chung-khoan-la-gi) trong phiên. Để theo dõi mã CTG, bạn cần truy cập vào bảng điện của sàn HOSE trong khung giờ hành chính từ 9h00 đến 15h00, từ thứ Hai đến thứ Sáu hàng tuần (trừ các ngày lễ theo luật định).
 
 Bạn cần ghi nhớ quy định về biên độ dao động giá trên sàn HOSE hiện hành là $\pm 7\%$ so với mức giá tham chiếu của phiên giao dịch trước đó. Bảng điện sử dụng ba màu sắc chủ đạo để phản ánh trạng thái của giá: màu tím đại diện cho giá trần (mức tăng kịch trần $\pm 7\%$), màu xanh lam đại diện cho giá sàn (mức giảm kịch sàn $\pm 7\%$), và màu vàng thể hiện mức giá tham chiếu.
 
@@ -67,7 +67,7 @@ Theo quy định tại "Thông tư 96/2020/TT-BTC" về công bố thông tin tr
 
 ### Chỉ số an toàn tài chính: Tỷ lệ bao phủ nợ xấu (LLR) và Chi phí vốn (CoF)
 
-Cổ phiếu CTG đại diện cho Ngân hàng TMCP Công thương Việt Nam (VietinBank), một tổ chức tín dụng thuộc nhóm Big 4 quốc doanh có quy mô hoạt động khổng lồ. Khi tiến hành PTCB để định giá [cổ phiếu](content/blog/3-finalized/Final-co-phieu-la-gi.md) này, bạn không thể bỏ qua tỷ lệ bao phủ nợ xấu LLR. LLR là thước đo thể hiện năng lực đệm phòng thủ của ngân hàng trước các rủi ro tổn thất tín dụng bất ngờ:
+Cổ phiếu CTG đại diện cho Ngân hàng TMCP Công thương Việt Nam (VietinBank), một tổ chức tín dụng thuộc nhóm Big 4 quốc doanh có quy mô hoạt động khổng lồ. Khi tiến hành PTCB để định giá [cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) này, bạn không thể bỏ qua tỷ lệ bao phủ nợ xấu LLR. LLR là thước đo thể hiện năng lực đệm phòng thủ của ngân hàng trước các rủi ro tổn thất tín dụng bất ngờ:
 
 $$\text{LLR} = \frac{\text{Số dư dự phòng rủi ro tín dụng}}{\text{Tổng nợ xấu (Nhóm 3, 4, 5)}} \times 100\%$$
 
@@ -106,7 +106,7 @@ Nhà đầu tư F0 tham gia thị trường thường gặp rất nhiều khó k
 
 Đặc biệt, lộ trình trải nghiệm thực tế **HVS Thực tập số** gồm 3 môn học nền tảng sẽ giúp bạn từng bước làm chủ kỹ năng đọc hiểu báo cáo tài chính, bóc tách cơ cấu nợ xấu và định giá doanh nghiệp.
 
-Bạn sẽ được học cách thực hiện [phân tích ngành](content/blog/3-finalized/Final-phan-tich-nganh-la-gi.md) ngân hàng một cách bài bản, từ đó chủ động đánh giá chất lượng tài sản của VietinBank thay vì phụ thuộc vào các khuyến nghị mơ hồ trên mạng xã hội. Việc học tập thực chất sẽ giúp bạn xây dựng đệm bảo vệ an toàn cho mọi quyết định giải ngân sau này.
+Bạn sẽ được học cách thực hiện [phân tích ngành](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-nganh-la-gi) ngân hàng một cách bài bản, từ đó chủ động đánh giá chất lượng tài sản của VietinBank thay vì phụ thuộc vào các khuyến nghị mơ hồ trên mạng xã hội. Việc học tập thực chất sẽ giúp bạn xây dựng đệm bảo vệ an toàn cho mọi quyết định giải ngân sau này.
 
 ### Thực hành không rủi ro và thảo luận cùng cộng đồng HVS
 

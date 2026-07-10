@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu VJC"]
 Status: Finalized
@@ -24,7 +24,7 @@ Quyết định có nên mua cổ phiếu VJC đòi hỏi bạn phải cân nh�
 
 Cổ phiếu VJC là chứng chỉ sở hữu cổ phần của Công ty Cổ phần Hàng không Vietjet niêm yết trên sàn HOSE, đại diện cho doanh nghiệp dẫn đầu thị phần vận chuyển hành khách nội địa Việt Nam.
 
-Với mô hình kinh doanh hàng không giá rẻ (LCC) linh hoạt, Vietjet nhanh chóng vươn lên chiếm lĩnh thị phần vận chuyển hành khách trong nước và tích cực mở rộng mạng lưới đường bay quốc tế. Cổ phiếu VJC là một trong những đại diện tiêu biểu của nhóm ngành giao thông vận tải niêm yết trên sàn HOSE. Trước khi tìm hiểu chi tiết các báo cáo tài chính của doanh nghiệp hàng không, bạn có thể tham khảo thêm về [cách mua cổ phiếu VJC](content/blog/3-finalized/Final-cach-mua-co-phieu-vjc.md) để hiểu rõ các bước đăng ký tài khoản giao dịch trực tuyến thực tế.
+Với mô hình kinh doanh hàng không giá rẻ (LCC) linh hoạt, Vietjet nhanh chóng vươn lên chiếm lĩnh thị phần vận chuyển hành khách trong nước và tích cực mở rộng mạng lưới đường bay quốc tế. Cổ phiếu VJC là một trong những đại diện tiêu biểu của nhóm ngành giao thông vận tải niêm yết trên sàn HOSE. Trước khi tìm hiểu chi tiết các báo cáo tài chính của doanh nghiệp hàng không, bạn có thể tham khảo thêm về [cách mua cổ phiếu VJC](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-vjc) để hiểu rõ các bước đăng ký tài khoản giao dịch trực tuyến thực tế.
 
 * Thị phần vận chuyển: Vietjet hiện đang sở hữu thị phần bay nội địa lớn nhất Việt Nam với đội tàu bay hiện đại.
 * Cơ cấu doanh thu: Tăng trưởng mạnh nhờ đóng góp lớn của doanh thu từ các đường bay quốc tế và mảng phụ trợ (ancillary).
@@ -61,7 +61,7 @@ Vietjet sở hữu cơ cấu tài sản tài trợ phần lớn bằng nợ vay 
 | Giá dầu Jet A1 vượt 100 USD/thùng | Kéo sụt biên lợi nhuận gộp mảng vận chuyển | Trung bình |
 | Pha loãng cổ phiếu từ lượng phát hành lớn | Làm giảm chỉ số EPS, gây áp lực lên định giá thị trường | Khá cao |
 
-Việc giải phóng tự do giao dịch đối với lượng cổ phiếu phát hành riêng lẻ cũ sau nhiều năm hạn chế chuyển nhượng cũng tạo ra áp lực cung cổ phiếu lớn trên sàn trong ngắn hạn. Nếu bạn muốn tìm kiếm một mã cổ phiếu phòng thủ có độ biến động thấp hơn, hãy tham khảo thêm bài viết phân tích [Có nên mua cổ phiếu POW](content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md).
+Việc giải phóng tự do giao dịch đối với lượng cổ phiếu phát hành riêng lẻ cũ sau nhiều năm hạn chế chuyển nhượng cũng tạo ra áp lực cung cổ phiếu lớn trên sàn trong ngắn hạn. Nếu bạn muốn tìm kiếm một mã cổ phiếu phòng thủ có độ biến động thấp hơn, hãy tham khảo thêm bài viết phân tích [Có nên mua cổ phiếu POW](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pow).
 
 ---
 

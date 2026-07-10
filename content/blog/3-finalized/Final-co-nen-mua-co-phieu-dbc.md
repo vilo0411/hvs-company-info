@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Detailed
@@ -27,7 +27,7 @@ Các thông số giao dịch cơ bản của cổ phiếu DBC bao gồm:
 * Rổ chỉ số thành viên: VNMidcap, VNAllshare.
 * Khối lượng khớp lệnh trung bình: Đạt trên 3 triệu cổ phiếu mỗi phiên giao dịch.
 
-Bạn có thể tìm hiểu thêm về đặc trưng dòng tiền của [cổ phiếu ngành nông nghiệp](content/blog/3-finalized/Final-co-phieu-nganh-nong-nghiep.md) để so sánh vị thế. Tính thanh khoản cao của DBC là điểm cộng lớn, giúp dòng tiền của bạn dễ dàng ra vào. Tuy nhiên, cổ phiếu ngành nông nghiệp luôn đi kèm biến động giá lớn theo giá cả hàng hóa thực tế. Bạn nên tham khảo cấu trúc phân tích tại bài viết [Có nên mua cổ phiếu POW](content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md) để nắm rõ phương pháp đánh giá trước khi thực hành.
+Bạn có thể tìm hiểu thêm về đặc trưng dòng tiền của [cổ phiếu ngành nông nghiệp](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-nganh-nong-nghiep) để so sánh vị thế. Tính thanh khoản cao của DBC là điểm cộng lớn, giúp dòng tiền của bạn dễ dàng ra vào. Tuy nhiên, cổ phiếu ngành nông nghiệp luôn đi kèm biến động giá lớn theo giá cả hàng hóa thực tế. Bạn nên tham khảo cấu trúc phân tích tại bài viết [Có nên mua cổ phiếu POW](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pow) để nắm rõ phương pháp đánh giá trước khi thực hành.
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -16,7 +16,7 @@ MACD là công cụ kỹ thuật giúp bạn xác định xu hướng và đo l�
 
 ## MACD là gì? Định nghĩa chuẩn trong đầu tư
 
-**MACD (Moving Average Convergence Divergence)** là [đường trung bình động](content/blog/3-finalized/Final-duong-ma-la-gi.md) hội tụ phân kỳ. Đây là chỉ báo kỹ thuật dùng để đo lường mối quan hệ giữa hai đường trung bình động hàm mũ (EMA) của giá cổ phiếu.
+**MACD (Moving Average Convergence Divergence)** là [đường trung bình động](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/duong-ma-la-gi) hội tụ phân kỳ. Đây là chỉ báo kỹ thuật dùng để đo lường mối quan hệ giữa hai đường trung bình động hàm mũ (EMA) của giá cổ phiếu.
 
 Về bản chất, MACD giúp nhà đầu tư F0 nhận diện sớm sự thay đổi trong sức mạnh, hướng đi và thời gian của một xu hướng. Khi hai đường EMA tách xa nhau, xu hướng đang mạnh dần (phân kỳ); khi chúng tiến lại gần nhau, xu hướng có dấu hiệu suy yếu hoặc đảo chiều (hội tụ).
 
@@ -57,7 +57,7 @@ HVS giúp bạn khắc phục tư duy đầu tư cảm tính bằng hệ thống
 
 - **Học để hiểu gốc rễ:** Tại khóa học **Level 1**, HVS hướng dẫn bạn cách thiết lập các thông số EMA chuẩn (12, 26, 9) và hiểu tại sao những con số này lại có ý nghĩa trên thị trường chứng khoán Việt Nam.
 - **Thực hành không rủi ro:** Trước khi dùng tiền thật, bạn hãy thử nghiệm chiến thuật MACD trên **HVS Demo**. Tại đây, bạn có thể kiểm chứng tỷ lệ thắng của tín hiệu phân kỳ với dữ liệu thực tế từ sàn HOSE, HNX mà không lo ngại mất vốn.
-- **Kiểm soát tâm lý cùng Mentor:** Tham gia **HVS Forum** để gửi các biểu đồ bạn đang phân tích. Các Mentor giàu kinh nghiệm sẽ giúp bạn "soi" bẫy tín hiệu giả và cách kết hợp MACD với các chỉ báo khác như [RSI](content/blog/3-finalized/Final-rsi-la-gi.md) hoặc khối lượng để tăng độ chính xác.
+- **Kiểm soát tâm lý cùng Mentor:** Tham gia **HVS Forum** để gửi các biểu đồ bạn đang phân tích. Các Mentor giàu kinh nghiệm sẽ giúp bạn "soi" bẫy tín hiệu giả và cách kết hợp MACD với các chỉ báo khác như [RSI](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/rsi-la-gi) hoặc khối lượng để tăng độ chính xác.
 - **Lộ trình phân tích chuyên nghiệp:** Với **HVS Thực tập số**, bạn không chỉ học chỉ báo, mà còn học cách lập báo cáo phân tích kỹ thuật hoàn chỉnh, bóc tách xung lực tăng trưởng của từng nhóm ngành (Ngân hàng, Thép, Bất động sản).
 
 Làm chủ MACD là khởi đầu của việc quản trị danh mục chuyên nghiệp. Hãy cùng HVS xây dựng tư duy đầu tư thực thụ dựa trên dữ liệu và kỷ luật.

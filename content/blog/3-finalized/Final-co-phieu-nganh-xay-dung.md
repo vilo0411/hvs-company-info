@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Mode: Detailed
@@ -108,7 +108,7 @@ Giá trị backlog gối đầu của doanh nghiệp sẽ sụt giảm mạnh v�
 Để bảo toàn nguồn vốn thực chiến khi đầu tư nhóm cổ phiếu xây lắp, bạn hãy áp dụng hai quy tắc cốt lõi sau:
 
 *   **Bóc tách dòng tiền hoạt động kinh doanh (CFO):** Bạn chỉ nên phân bổ tỷ trọng đầu tư vào các doanh nghiệp sở hữu dòng tiền hoạt động kinh doanh CFO dương thực chất liên tục trong 2-3 năm gần nhất. Đồng thời, tỷ lệ Khoản phải thu/Tổng tài sản lý tưởng phải duy trì ở mức dưới 40% để loại trừ rủi ro lợi nhuận ảo.
-*   **Giao dịch theo chu kỳ công bố trúng thầu:** Bạn hãy tích lũy cổ phiếu ở vùng giá chiết khấu khi doanh nghiệp công bố trúng thầu các gói thầu lớn có dòng tiền thanh toán đảm bảo. Tránh tuyệt đối việc mua đuổi giá trần khi tin trúng thầu đã lan rộng để không rơi vào [lỗi tâm lý FOMO và hoảng loạn](content/blog/3-finalized/Final-tam-ly-dau-tu-chung-khoan.md) của đám đông.
+*   **Giao dịch theo chu kỳ công bố trúng thầu:** Bạn hãy tích lũy cổ phiếu ở vùng giá chiết khấu khi doanh nghiệp công bố trúng thầu các gói thầu lớn có dòng tiền thanh toán đảm bảo. Tránh tuyệt đối việc mua đuổi giá trần khi tin trúng thầu đã lan rộng để không rơi vào [lỗi tâm lý FOMO và hoảng loạn](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan) của đám đông.
 
 ---
 

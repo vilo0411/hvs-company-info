@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Detailed
@@ -18,7 +18,7 @@ Cổ phiếu VHM (Công ty Cổ phần Vinhomes) là mã chứng khoán bất đ
 
 ## 4 Bước đặt lệnh cách mua cổ phiếu vhm trên sàn chứng khoán
 
-Để thực hiện [cách mua cổ phiếu trên sàn HOSE](content/blog/3-finalized/Final-cach-mua-co-phieu-tren-san-hose.md) nói chung và sở hữu mã cổ phiếu VHM nói riêng, bạn không cần phải trực tiếp đến sở giao dịch. Quy trình đặt lệnh hiện nay diễn ra trực tuyến 100% qua điện thoại thông minh vô cùng tiện lợi. Dưới đây là bốn bước hướng dẫn chi tiết giúp bạn tự tin thực hiện giao dịch khớp lệnh thành công:
+Để thực hiện [cách mua cổ phiếu trên sàn HOSE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-tren-san-hose) nói chung và sở hữu mã cổ phiếu VHM nói riêng, bạn không cần phải trực tiếp đến sở giao dịch. Quy trình đặt lệnh hiện nay diễn ra trực tuyến 100% qua điện thoại thông minh vô cùng tiện lợi. Dưới đây là bốn bước hướng dẫn chi tiết giúp bạn tự tin thực hiện giao dịch khớp lệnh thành công:
 
 ### Bước 1: Mở tài khoản chứng khoán trực tuyến eKYC miễn phí
 
@@ -89,9 +89,9 @@ Thứ ba là kỷ luật thiết lập ngưỡng cắt lỗ và tuân thủ ch�
 
 Đầu tư vào một doanh nghiệp bất động sản khổng lồ như VHM đòi hỏi bạn phải có tầm nhìn phân tích dự án sâu sắc và tư duy tài chính chuyên nghiệp. Hệ sinh thái HVS Tài Chính Số mang đến giải pháp đào tạo thực chiến toàn diện giúp nhà đầu tư F0 nâng cao năng lực định giá và quản trị danh mục khoa học.
 
-Thông qua lộ trình đào tạo Phân tích hỗn hợp chuyên sâu tại chương trình **HVS Thực tập số**, bạn sẽ được các chuyên gia giàu kinh nghiệm hướng dẫn cách đọc báo cáo tài chính bất động sản, phân tích dòng tiền người mua trả tiền trước của Vinhomes và tham gia [khóa học chứng khoán](content/blog/3-finalized/Final-khoa-hoc-chung-khoan.md) bài bản từ cơ bản đến nâng cao. Đây là bệ đỡ vững chắc để bạn tự tin đưa ra nhận định độc lập về triển vọng thực tế của doanh nghiệp thay vì mua bán theo tin đồn thất thiệt.
+Thông qua lộ trình đào tạo Phân tích hỗn hợp chuyên sâu tại chương trình **HVS Thực tập số**, bạn sẽ được các chuyên gia giàu kinh nghiệm hướng dẫn cách đọc báo cáo tài chính bất động sản, phân tích dòng tiền người mua trả tiền trước của Vinhomes và tham gia [khóa học chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/khoa-hoc-chung-khoan) bài bản từ cơ bản đến nâng cao. Đây là bệ đỡ vững chắc để bạn tự tin đưa ra nhận định độc lập về triển vọng thực tế của doanh nghiệp thay vì mua bán theo tin đồn thất thiệt.
 
-Bên cạnh đó, bạn có thể rèn luyện kỹ năng thực hành giao dịch hoàn toàn miễn phí trên hệ thống **HVS Demo**. Với dữ liệu cập nhật theo thời gian thực từ sàn HOSE, bạn được trải nghiệm đặt các loại lệnh LO, MP, ATC an toàn không có rủi ro tài chính trước khi sử dụng dòng vốn thật. Đồng thời, cộng đồng **HVS Forum** là nơi giao lưu kết nối cùng các chuyên gia và các nhà đầu tư thực chiến kinh nghiệm. Tham gia thảo luận tại đây giúp bạn rèn luyện [tâm lý đầu tư chứng khoán](content/blog/3-finalized/Final-tam-ly-dau-tu-chung-khoan.md) vững vàng để sẵn sàng đưa ra các quyết định đầu tư chính xác và hiệu quả nhất.
+Bên cạnh đó, bạn có thể rèn luyện kỹ năng thực hành giao dịch hoàn toàn miễn phí trên hệ thống **HVS Demo**. Với dữ liệu cập nhật theo thời gian thực từ sàn HOSE, bạn được trải nghiệm đặt các loại lệnh LO, MP, ATC an toàn không có rủi ro tài chính trước khi sử dụng dòng vốn thật. Đồng thời, cộng đồng **HVS Forum** là nơi giao lưu kết nối cùng các chuyên gia và các nhà đầu tư thực chiến kinh nghiệm. Tham gia thảo luận tại đây giúp bạn rèn luyện [tâm lý đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan) vững vàng để sẵn sàng đưa ra các quyết định đầu tư chính xác và hiệu quả nhất.
 
 ---
 

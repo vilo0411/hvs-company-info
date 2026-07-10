@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Hệ số thanh toán là gì"]
 Status: Finalized
@@ -44,8 +44,8 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS
 # Cluster info
 Cluster: Phân tích cơ bản
 Internal_Links:
-  - "phân tích cơ bản là gì": "content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md"
-  - "vốn hóa thị trường là gì": "content/blog/3-finalized/Final-von-hoa-thi-truong-la-gi.md"
+  - "phân tích cơ bản là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi"
+  - "vốn hóa thị trường là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/von-hoa-thi-truong-la-gi"
 ---
 
 # Hệ số thanh toán là gì? 3 chỉ số thanh khoản quan trọng cần biết
@@ -56,7 +56,7 @@ Khả năng thanh toán nợ ngắn hạn phản ánh trực tiếp năng lực 
 
 ## Hệ số thanh toán là gì?
 
-Hệ số thanh toán là **chỉ số tài chính đo lường mức độ thanh khoản của doanh nghiệp, thể hiện khả năng sử dụng các loại tài sản ngắn hạn để thực hiện nghĩa vụ hoàn trả các khoản nợ ngắn hạn đến hạn** dưới 1 năm. Nhóm chỉ số thanh khoản này nằm trong bộ công cụ phân tích tài chính căn bản. Để đánh giá cổ phiếu trước khi giải ngân, tiến hành [phân tích cơ bản là gì](content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md) chính là nền móng giúp bạn bóc tách tài chính. Số liệu này xuất hiện trực tiếp trên bảng cân đối kế toán tại thời điểm báo cáo cụ thể (như cuối quý hoặc cuối năm).
+Hệ số thanh toán là **chỉ số tài chính đo lường mức độ thanh khoản của doanh nghiệp, thể hiện khả năng sử dụng các loại tài sản ngắn hạn để thực hiện nghĩa vụ hoàn trả các khoản nợ ngắn hạn đến hạn** dưới 1 năm. Nhóm chỉ số thanh khoản này nằm trong bộ công cụ phân tích tài chính căn bản. Để đánh giá cổ phiếu trước khi giải ngân, tiến hành [phân tích cơ bản là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) chính là nền móng giúp bạn bóc tách tài chính. Số liệu này xuất hiện trực tiếp trên bảng cân đối kế toán tại thời điểm báo cáo cụ thể (như cuối quý hoặc cuối năm).
 
 Thanh khoản quyết định khả năng sinh tồn của doanh nghiệp. Nếu tài sản ngắn hạn không thể chuyển đổi kịp thời, rủi ro vỡ nợ kỹ thuật sẽ xảy ra khi nợ ngắn hạn đến hạn. Tình huống này diễn ra ngay cả khi doanh nghiệp ghi nhận lợi nhuận cao. Vì vậy, phân tích khả năng thanh toán là bước bắt buộc khi lọc cổ phiếu.
 
@@ -102,7 +102,7 @@ Chỉ số giúp đánh giá trả nợ mà không phụ thuộc vào thu hồi 
 Đánh giá hệ số thanh toán yêu cầu nhà đầu tư phân tích hai trạng thái của chỉ số và đối chiếu đặc thù ngành. Chỉ số đơn lẻ không phản ánh toàn diện sức khỏe tài chính.
 
 #### Nhận diện rủi ro khi hệ số thanh toán quá thấp
-Nếu hệ số hiện hành nhỏ hơn 1, doanh nghiệp đối mặt rủi ro vỡ nợ kỹ thuật. Dòng tiền thắt chặt buộc doanh nghiệp đi vay nóng hoặc bán tháo tài sản. Quy mô doanh nghiệp thể hiện qua [vốn hóa thị trường là gì](content/blog/3-finalized/Final-von-hoa-thi-truong-la-gi.md) ảnh hưởng khả năng huy động vốn bù đắp thanh khoản.
+Nếu hệ số hiện hành nhỏ hơn 1, doanh nghiệp đối mặt rủi ro vỡ nợ kỹ thuật. Dòng tiền thắt chặt buộc doanh nghiệp đi vay nóng hoặc bán tháo tài sản. Quy mô doanh nghiệp thể hiện qua [vốn hóa thị trường là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/von-hoa-thi-truong-la-gi) ảnh hưởng khả năng huy động vốn bù đắp thanh khoản.
 
 #### Đánh giá hiệu quả sử dụng vốn khi hệ số thanh toán quá cao
 Ngược lại, nếu hệ số lớn hơn 2, hiệu quả sử dụng vốn ở mức thấp. Tiền nhàn rỗi không tạo lợi nhuận ròng, hoặc tài sản bị ứ đọng ở hàng tồn kho và các khoản phải thu. Đây là dấu hiệu doanh nghiệp nới lỏng bán hàng trả chậm, dễ phát sinh nợ xấu.

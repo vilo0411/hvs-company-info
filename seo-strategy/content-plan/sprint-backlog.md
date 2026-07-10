@@ -9,13 +9,10 @@
 | 225 | sách về chứng khoán của warren buffett | tài liệu | Sinh viên | Priority 1 | Outline-Pending |
 | 226 | giáo trình phân tích báo cáo tài chính | tài liệu | Sinh viên | Priority 1 | Outline-Pending |
 | 227 | sách phân tích kỹ thuật chứng khoán | tài liệu | Sinh viên | Priority 1 | Outline-Pending |
-| 230 | Trái phiếu chuyển đổi là gì | Trái phiếu | F0 | Priority 1 | Outline-Pending |
 | 233 | giá trị sổ sách của cổ phiếu | Phân tích cơ bản | F0 | Priority 1 | Outline-Pending |
 
 | 240 | Sóng Elliott là gì | Phân tích kỹ thuật | F0 | Priority 1 | Outline-Pending |
 | 249 | Khi nào nên mua cổ phiếu | Phân tích cơ bản | F0 | Priority 1 | Outline-Pending |
-| 255 | Phân tích Dupont là gì | Phân tích cơ bản | F0 | Priority 1 | Outline-Pending |
-| 256 | Phân tích báo cáo tài chính Công ty Bibica | Phân tích cơ bản | F0 | Priority 1 | Outline-Pending |
 | 257 | Phân tích báo cáo tài chính Công ty Kinh Đô | Phân tích cơ bản | F0 | Priority 1 | Planned |
 | 258 | Phân tích báo cáo tài chính FPT | Phân tích cơ bản | F0 | Priority 1 | Planned |
 | 259 | Phân tích báo cáo tài chính PNJ | Phân tích cơ bản | F0 | Priority 1 | Planned |

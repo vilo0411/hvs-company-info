@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Pipeline_Mode: Express
@@ -31,9 +31,9 @@ Writing_Method: PAS
 HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS Forum"]
 Cluster: Phân tích cơ bản
 Internal_Links:
-  - "phân tích cơ bản là gì": "content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md"
-  - "báo cáo lưu chuyển tiền tệ là gì": "content/blog/3-finalized/Final-bao-cao-luu-chuyen-tien-te-la-gi.md"
-  - "hệ số thanh toán": "content/blog/3-finalized/Final-he-so-thanh-toan-la-gi.md"
+  - "phân tích cơ bản là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi"
+  - "báo cáo lưu chuyển tiền tệ là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/bao-cao-luu-chuyen-tien-te-la-gi"
+  - "hệ số thanh toán": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/he-so-thanh-toan-la-gi"
 ---
 
 # Nợ phải trả là gì? Phân loại và cách phân tích cơ cấu nợ
@@ -50,7 +50,7 @@ Trên bảng cân đối kế toán, mối quan hệ giữa các thành phần n
 
 > **Tài sản = Nợ phải trả + Vốn chủ sở hữu**
 
-Phương trình này rất đơn giản. Nó chỉ ra tài sản của doanh nghiệp hình thành từ hai nguồn chính: vốn tự có và vốn đi vay. Khi bạn thực hiện [phân tích cơ bản là gì](content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md) đối với một cổ phiếu như VCB trên sàn HOSE, bóc tách cấu trúc nợ là bước bắt buộc để đánh giá doanh nghiệp đang tự chủ tài chính hay phụ thuộc dòng vốn bên ngoài. Nợ phải trả thể hiện cam kết pháp lý mà doanh nghiệp bắt buộc thanh toán cho các đối tác, tổ chức tín dụng hoặc cơ quan nhà nước.
+Phương trình này rất đơn giản. Nó chỉ ra tài sản của doanh nghiệp hình thành từ hai nguồn chính: vốn tự có và vốn đi vay. Khi bạn thực hiện [phân tích cơ bản là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) đối với một cổ phiếu như VCB trên sàn HOSE, bóc tách cấu trúc nợ là bước bắt buộc để đánh giá doanh nghiệp đang tự chủ tài chính hay phụ thuộc dòng vốn bên ngoài. Nợ phải trả thể hiện cam kết pháp lý mà doanh nghiệp bắt buộc thanh toán cho các đối tác, tổ chức tín dụng hoặc cơ quan nhà nước.
 
 ---
 
@@ -88,7 +88,7 @@ Sự khác biệt cốt lõi giữa nợ vay chịu lãi và nợ chiếm dụng
 
 #### Đặc điểm nợ vay chịu lãi
 
-Gồm vay ngân hàng và trái phiếu doanh nghiệp. Khoản nợ này bắt buộc doanh nghiệp thanh toán lãi định kỳ, bất kể kết quả kinh doanh lãi hay lỗ. Bạn đối chiếu với [báo cáo lưu chuyển tiền tệ là gì](content/blog/3-finalized/Final-bao-cao-luu-chuyen-tien-te-la-gi.md) để theo dõi dòng tiền chi trả nợ gốc và lãi thực tế từ hoạt động tài chính.
+Gồm vay ngân hàng và trái phiếu doanh nghiệp. Khoản nợ này bắt buộc doanh nghiệp thanh toán lãi định kỳ, bất kể kết quả kinh doanh lãi hay lỗ. Bạn đối chiếu với [báo cáo lưu chuyển tiền tệ là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/bao-cao-luu-chuyen-tien-te-la-gi) để theo dõi dòng tiền chi trả nợ gốc và lãi thực tế từ hoạt động tài chính.
 
 #### Đặc điểm nợ chiếm dụng vốn
 
@@ -112,7 +112,7 @@ Chỉ số đo lường mức độ lạm dụng đòn bẩy tài chính. Doanh 
 
 #### Hệ số thanh toán hiện thời và hệ số thanh toán nhanh
 
-Hệ số hiện thời bằng tài sản ngắn hạn chia nợ ngắn hạn. Hệ số nhanh loại bỏ hàng tồn kho. Những [hệ số thanh toán](content/blog/3-finalized/Final-he-so-thanh-toan-la-gi.md) này nên lớn hơn 1.0 lần để đảm bảo an toàn thanh khoản.
+Hệ số hiện thời bằng tài sản ngắn hạn chia nợ ngắn hạn. Hệ số nhanh loại bỏ hàng tồn kho. Những [hệ số thanh toán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/he-so-thanh-toan-la-gi) này nên lớn hơn 1.0 lần để đảm bảo an toàn thanh khoản.
 
 Cách tính toán cụ thể hai chỉ số này như sau:
 

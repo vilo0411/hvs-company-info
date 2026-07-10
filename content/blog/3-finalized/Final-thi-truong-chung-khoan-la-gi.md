@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -24,7 +24,7 @@ Thay vì phải đi vay ngân hàng với lãi suất cố định, các doanh n
 Dòng tiền của bạn sẽ vận hành khác nhau tùy vào giai đoạn của thị trường:
 
 ### 1. Thị trường sơ cấp: Nơi doanh nghiệp gọi vốn
-Đây là điểm khởi đầu khi chứng khoán lần đầu được bán ra công chúng thông qua các đợt **[IPO](content/blog/3-finalized/Final-ipo-la-gi.md)**. Trong kịch bản này, dòng vốn của nhà đầu tư chảy trực tiếp vào doanh nghiệp để phục vụ mục đích mở rộng sản xuất kinh doanh. Đây là cơ hội để bạn sở hữu cổ phiếu ở mức giá gốc trước khi chúng chính thức được giao dịch rộng rãi.
+Đây là điểm khởi đầu khi chứng khoán lần đầu được bán ra công chúng thông qua các đợt **[IPO](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ipo-la-gi)**. Trong kịch bản này, dòng vốn của nhà đầu tư chảy trực tiếp vào doanh nghiệp để phục vụ mục đích mở rộng sản xuất kinh doanh. Đây là cơ hội để bạn sở hữu cổ phiếu ở mức giá gốc trước khi chúng chính thức được giao dịch rộng rãi.
 
 ### 2. Thị trường thứ cấp: Nơi tạo ra tính thanh khoản
 Khi chứng khoán đã được phát hành, chúng sẽ được mua đi bán lại giữa các nhà đầu tư trên các sàn tập trung như **HOSE** hay **HNX**. Điểm mấu chốt ở đây là tính thanh khoản: Bạn có thể dễ dàng chuyển đổi cổ phiếu thành tiền mặt trong vòng T+2.5 phiên giao dịch. Giá cả lúc này hoàn toàn do quy luật cung cầu và tâm lý thị trường định đoạt.
@@ -41,14 +41,14 @@ Khi chứng khoán đã được phát hành, chúng sẽ được mua đi bán 
 
 Thị trường chứng khoán Việt Nam đang đứng trước cơ hội lịch sử khi tiến gần hơn đến lộ trình nâng hạng từ **Thị trường Cận biên** lên **Thị trường Mới nổi**. Đây không chỉ là thay đổi về mặt tên gọi mà còn là một sự thay máu về dòng vốn.
 
-Khi kịch bản nâng hạng thành công, thị trường sẽ đón nhận một lượng lớn vốn ngoại từ các quỹ chỉ số toàn cầu. Dòng tiền này thường tập trung vào các mã [cổ phiếu trụ (Blue-chip)](content/blog/3-finalized/Final-co-phieu-blue-chip-la-gi.md) có nền tảng quản trị tốt và vốn hóa lớn. Điều này tạo ra một cú hích đáng kể giúp nâng cao mặt bằng định giá của toàn thị trường. Tuy nhiên, đi kèm với đó là yêu cầu khắt khe hơn về tính minh bạch và sự chuyên nghiệp của các chủ thể tham gia.
+Khi kịch bản nâng hạng thành công, thị trường sẽ đón nhận một lượng lớn vốn ngoại từ các quỹ chỉ số toàn cầu. Dòng tiền này thường tập trung vào các mã [cổ phiếu trụ (Blue-chip)](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-blue-chip-la-gi) có nền tảng quản trị tốt và vốn hóa lớn. Điều này tạo ra một cú hích đáng kể giúp nâng cao mặt bằng định giá của toàn thị trường. Tuy nhiên, đi kèm với đó là yêu cầu khắt khe hơn về tính minh bạch và sự chuyên nghiệp của các chủ thể tham gia.
 
 ## Tại sao nhà đầu tư mới thường gặp khó khăn khi tham gia thị trường chứng khoán?
 
 Bước chân vào thị trường mà thiếu sự chuẩn bị về tâm lý và kiến thức, F0 rất dễ rơi vào các bẫy rủi ro tiềm ẩn:
 - **Áp lực từ chi phí vốn (Lãi suất):** Chứng khoán đặc biệt nhạy cảm với lãi suất. Khi mặt bằng lãi suất tăng lên, chi phí vay vốn của doanh nghiệp sẽ đội lên, trực tiếp bào mòn biên lợi nhuận. Đồng thời, nhà đầu tư có xu hướng rút tiền khỏi cổ phiếu để chuyển sang các kênh an toàn hơn như gửi tiết kiệm, gây ra áp lực bán tháo trên diện rộng.
 - **Bẫy cảm xúc:** Tâm lý sợ bỏ lỡ (FOMO) ở vùng đỉnh hoặc hoảng loạn bán tháo ở vùng đáy là nguyên nhân chính khiến nhiều người cháy túi dù thị trường chung vẫn đang trong xu hướng tăng.
-- **Tính thanh khoản ảo:** Một số mã cổ phiếu có thể tăng nóng bất thường nhưng khi có biến cố lại rơi vào tình trạng [trắng bên mua](content/blog/3-finalized/Final-co-phieu-trang-ben-mua-la-gi.md), khiến nhà đầu tư kẹt vốn không thể thoát hàng.
+- **Tính thanh khoản ảo:** Một số mã cổ phiếu có thể tăng nóng bất thường nhưng khi có biến cố lại rơi vào tình trạng [trắng bên mua](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-trang-ben-mua-la-gi), khiến nhà đầu tư kẹt vốn không thể thoát hàng.
 
 ## Xây dựng năng lực đầu tư thực chiến cùng HVS Tài Chính Số
 

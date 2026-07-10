@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -88,7 +88,7 @@ Bảng bên dưới trình bày các chỉ số định giá cơ bản của c�
 Mức định giá P/E dự phóng quanh 15 lần cho thấy cổ phiếu PLX đang ở vùng giao dịch tương đối hợp lý khi đặt trong tương quan với các tập đoàn phân phối năng lượng lớn tại Đông Nam Á.
 
 Việc phân tích các kịch bản hành động cụ thể bao gồm:
-- **Kịch bản 1:** Thực hiện tích lũy định kỳ cổ phiếu PLX khi thị giá giảm sâu về vùng P/B dưới 1.5 lần và dòng tiền khớp lệnh sau sự kiện bán cổ phiếu quỹ dần ổn định trở lại, tương tự như chiến lược [đầu tư cổ phiếu BVH](content/blog/3-finalized/Final-cach-mua-co-phieu-bvh.md) đối với các mã vốn hóa lớn có cổ tức tiền mặt đều đặn.
+- **Kịch bản 1:** Thực hiện tích lũy định kỳ cổ phiếu PLX khi thị giá giảm sâu về vùng P/B dưới 1.5 lần và dòng tiền khớp lệnh sau sự kiện bán cổ phiếu quỹ dần ổn định trở lại, tương tự như chiến lược [đầu tư cổ phiếu BVH](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-bvh) đối với các mã vốn hóa lớn có cổ tức tiền mặt đều đặn.
 - **Kịch bản 2:** Duy trì trạng thái quan sát và không gia tăng tỷ trọng nắm giữ nếu giá dầu Brent thế giới duy trì xu hướng giảm dưới mốc 70 USD/thùng đồng thời chi phí trích lập dự phòng hàng tồn kho của Petrolimex tiếp tục tăng cao trên báo cáo tài chính quý.
 
 ---

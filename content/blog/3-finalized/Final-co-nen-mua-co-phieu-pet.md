@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu PET"]
 Status: Finalized
@@ -122,7 +122,7 @@ Nếu bạn theo đuổi đầu tư giá trị tài sản, PET phù hợp để 
 
 Đối với nhà đầu tư ngắn hạn, bạn nên giao dịch theo tín hiệu kỹ thuật. Hãy kiên nhẫn chờ giá cổ phiếu PET điều chỉnh về vùng hỗ trợ quanh 45.000 đồng/CP vì đây là vùng có lực cầu mua chủ động tốt. Mục tiêu chốt lời ngắn hạn kỳ vọng đạt 55.000 đồng/CP. Quản trị rủi ro bằng cách đặt lệnh cắt lỗ chủ động nếu giá đóng cửa thủng ngưỡng 42.000 đồng/CP.
 
-So với các mã cổ phiếu cùng nhóm dầu khí trước đây như POW, PET có mức độ biến động giá cao hơn. Bạn nên tham khảo phân tích chi tiết để đánh giá sự khác biệt về khẩu vị rủi ro tại bài viết [Có nên mua cổ phiếu POW](content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md) nhằm tối ưu hóa danh mục đầu tư.
+So với các mã cổ phiếu cùng nhóm dầu khí trước đây như POW, PET có mức độ biến động giá cao hơn. Bạn nên tham khảo phân tích chi tiết để đánh giá sự khác biệt về khẩu vị rủi ro tại bài viết [Có nên mua cổ phiếu POW](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pow) nhằm tối ưu hóa danh mục đầu tư.
 
 ## Nâng cao năng lực thẩm định doanh nghiệp cùng HVS
 

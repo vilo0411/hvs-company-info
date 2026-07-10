@@ -1,4 +1,4 @@
----
+﻿---
 Author: HVS Senior Mentor
 Status: Finalized
 Mode: Express
@@ -82,4 +82,4 @@ Nhà đầu tư F0 nên tận dụng tối đa các công cụ bổ trợ của 
 * Bạn chủ động tham gia thảo luận diễn biến thị trường và học hỏi kinh nghiệm giao dịch thực tế từ cộng đồng trên **HVS Forum**.
 * Bạn nâng tầm tư duy phân tích báo cáo tài chính chuyên sâu và xây dựng kịch bản quản trị danh mục cùng **HVS Tài chính số** thông qua chương trình đào tạo **HVS Thực tập số** bài bản.
 
-Thấu hiểu các rủi ro thực tế trên thị trường là bước đầu tiên để bạn bảo vệ nguồn vốn của mình. Bạn có thể tham khảo thêm [cách mua cổ phiếu VCB](Final-cach-mua-co-phieu-vcb.md) để đa dạng hóa danh mục đầu tư sang nhóm ngân hàng quốc doanh hàng đầu Việt Nam.
+Thấu hiểu các rủi ro thực tế trên thị trường là bước đầu tiên để bạn bảo vệ nguồn vốn của mình. Bạn có thể tham khảo thêm [cách mua cổ phiếu VCB](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-vcb) để đa dạng hóa danh mục đầu tư sang nhóm ngân hàng quốc doanh hàng đầu Việt Nam.

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Khi nào nên mua cổ phiếu"]
 Status: Finalized
@@ -44,9 +44,9 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS
 # Cluster info
 Cluster: Phân tích cơ bản
 Internal_Links:
-  - "khi nào nên bán cổ phiếu": "content/blog/3-finalized/Final-khi-nao-nen-ban-co-phieu.md"
-  - "cách mua cổ phiếu": "content/blog/3-finalized/Final-cach-mua-co-phieu.md"
-  - "cách đầu tư chứng khoán": "content/blog/3-finalized/Final-cach-dau-tu-chung-khoan.md"
+  - "khi nào nên bán cổ phiếu": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/khi-nao-nen-ban-co-phieu"
+  - "cách mua cổ phiếu": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu"
+  - "cách đầu tư chứng khoán": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-khoan"
 ---
 
 # Khi nào nên mua cổ phiếu? 3 nguyên tắc chọn thời điểm vàng
@@ -61,7 +61,7 @@ Thời điểm mua cổ phiếu hợp lý nhất là **khi doanh nghiệp đư�
 
 Trường phái phân tích cơ bản định hướng mua cổ phiếu khi thị trường định giá tài sản thấp hơn giá trị nội tại. Ngược lại, phân tích kỹ thuật xác định thời điểm mua dựa trên xu hướng dòng tiền, đường hỗ trợ mạnh hoặc các tín hiệu bứt phá (breakout) khỏi vùng tích lũy.
 
-Nhà đầu tư chuyên nghiệp thường áp dụng tư duy phân tích hỗn hợp (Hybrid Analysis) bằng cách dùng phân tích cơ bản để chọn doanh nghiệp tốt, rồi dùng phân tích kỹ thuật tìm điểm mua tối ưu. Trước khi bắt đầu, bạn hãy trang bị kiến thức cơ bản về [cách mua cổ phiếu](content/blog/3-finalized/Final-cach-mua-co-phieu.md) và thiết lập một [cách đầu tư chứng khoán](content/blog/3-finalized/Final-cach-dau-tu-chung-khoan.md) bài bản để giao dịch hiệu quả.
+Nhà đầu tư chuyên nghiệp thường áp dụng tư duy phân tích hỗn hợp (Hybrid Analysis) bằng cách dùng phân tích cơ bản để chọn doanh nghiệp tốt, rồi dùng phân tích kỹ thuật tìm điểm mua tối ưu. Trước khi bắt đầu, bạn hãy trang bị kiến thức cơ bản về [cách mua cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu) và thiết lập một [cách đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-khoan) bài bản để giao dịch hiệu quả.
 
 ---
 
@@ -93,7 +93,7 @@ Trong phiên khớp lệnh ATO và ATC, tâm lý hưng phấn hoặc hoảng lo�
 
 Kịch bản giải ngân thực chiến trên thị trường Việt Nam cần xây dựng dựa trên năng lực tài chính và khẩu vị rủi ro của bạn. Thay vì tất tay mua một lần, bạn hãy chia nhỏ dòng vốn để chủ động ứng phó trước diễn biến của VN-Index.
 
-Nếu tích sản dài hạn, bạn áp dụng kịch bản trung bình giá (DCA) mua định kỳ hàng tháng. Ngược lại, nếu muốn tối ưu giá vốn, bạn chọn kịch bản gom mua khi thị trường điều chỉnh sâu, chờ giá cổ phiếu đầu ngành như VCB hay VNM thoái lui về vùng hỗ trợ cứng. Đồng thời, bạn cần tìm hiểu thêm [khi nào nên bán cổ phiếu](content/blog/3-finalized/Final-khi-nao-nen-ban-co-phieu.md) để quản trị rủi ro và kỷ luật cắt lỗ 7-8% nhằm bảo vệ dòng vốn.
+Nếu tích sản dài hạn, bạn áp dụng kịch bản trung bình giá (DCA) mua định kỳ hàng tháng. Ngược lại, nếu muốn tối ưu giá vốn, bạn chọn kịch bản gom mua khi thị trường điều chỉnh sâu, chờ giá cổ phiếu đầu ngành như VCB hay VNM thoái lui về vùng hỗ trợ cứng. Đồng thời, bạn cần tìm hiểu thêm [khi nào nên bán cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/khi-nao-nen-ban-co-phieu) để quản trị rủi ro và kỷ luật cắt lỗ 7-8% nhằm bảo vệ dòng vốn.
 
 Bảng dưới đây so sánh chi tiết hai kịch bản giải ngân phổ biến:
 

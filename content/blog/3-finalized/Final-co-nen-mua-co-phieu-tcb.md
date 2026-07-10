@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -79,7 +79,7 @@ Dưới đây là bảng thống kê định giá lịch sử và dự phóng c�
 Mức P/B dự phóng quanh mức 1.0 lần được đánh giá là vùng biên an toàn cao cho những người tích lũy cổ phiếu mục tiêu dài hạn.
 
 Việc phân tích các kịch bản hành động cụ thể bao gồm:
-- **Kịch bản 1:** Thực hiện tích lũy định kỳ cổ phiếu TCB khi hệ số P/B giảm về dưới mức 1.0 lần, kết hợp với việc thực hiện chiến lược [đầu tư cổ phiếu Techcombank](content/blog/3-finalized/Final-cach-mua-co-phieu-techcombank.md) dài hạn dựa trên sự phục hồi của nền kinh tế.
+- **Kịch bản 1:** Thực hiện tích lũy định kỳ cổ phiếu TCB khi hệ số P/B giảm về dưới mức 1.0 lần, kết hợp với việc thực hiện chiến lược [đầu tư cổ phiếu Techcombank](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-techcombank) dài hạn dựa trên sự phục hồi của nền kinh tế.
 - **Kịch bản 2:** Duy trì trạng thái quan sát và không giải ngân thêm nếu tỷ lệ nợ xấu của ngân hàng tăng vượt ngưỡng 2.0% đồng thời tỷ lệ CASA giảm liên tục trong hai quý liên tiếp.
 
 ---

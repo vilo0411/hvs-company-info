@@ -47,7 +47,7 @@ Mỗi ngành nghề có một "ngưỡng" ROE đặc thù. Bạn không thể so
 Hãy cẩn trọng với các doanh nghiệp có ROE tăng vọt đột biến trong một năm. 
 **Ví dụ bài học từ Hòa Phát (HPG):** Giai đoạn 2021, ROE của HPG đạt đỉnh trên **40%** do chu kỳ thép thuận lợi. Tuy nhiên, khi ngành bước vào giai đoạn khó khăn năm 2023, ROE sụt giảm mạnh. Nhà đầu tư thông minh sẽ tìm kiếm sự ổn định hơn là những cú nhảy vọt nhất thời.
 
-## Phân tích Dupont: Soi xét bản chất của ROE
+## [Phân tích Dupont](content/blog/3-finalized/Final-phan-tich-dupont-la-gi.md): Soi xét bản chất của ROE
 
 Đôi khi ROE cao "giả tạo" là do doanh nghiệp sử dụng quá nhiều nợ vay (đòn bẩy tài chính). Để không bị đánh lừa, bạn nên bóc tách ROE thành 3 phần:
 1.  **Biên lợi nhuận:** Doanh nghiệp có bán hàng giá cao hoặc quản lý chi phí tốt không?

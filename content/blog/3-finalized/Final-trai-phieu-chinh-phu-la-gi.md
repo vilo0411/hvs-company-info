@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Trái phiếu chính phủ là gì"]
 Status: Finalized
@@ -44,8 +44,8 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS
 # Cluster info
 Cluster: Trái phiếu
 Internal_Links:
-  - "trái phiếu là gì": "content/blog/3-finalized/Final-trai-phieu-la-gi.md"
-  - "bond yield là gì": "content/blog/3-finalized/Final-bond-yield-la-gi.md"
+  - "trái phiếu là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-la-gi"
+  - "bond yield là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/bond-yield-la-gi"
 ---
 
 # Trái phiếu chính phủ là gì? Cách đầu tư an toàn cho F0
@@ -58,7 +58,7 @@ Trái phiếu chính phủ thuộc nhóm đầu tư an toàn nhất nhờ ngân 
 
 Trái phiếu chính phủ là **loại chứng khoán nợ do chính phủ hoặc bộ tài chính phát hành** nhằm huy động vốn phục vụ các dự án công cộng hoặc bù đắp bội chi ngân sách. Khi mua sản phẩm này, bạn trở thành chủ nợ của quốc gia phát hành. Kho bạc Nhà nước có trách nhiệm thanh toán gốc khi đáo hạn, kèm khoản lãi suất coupon định kỳ.
 
-Khác với [trái phiếu là gì](content/blog/3-finalized/Final-trai-phieu-la-gi.md) của doanh nghiệp, trái phiếu chính phủ mang tính phòng thủ cao. Mệnh giá quy định tại thị trường Việt Nam thường là 100.000 đồng hoặc bội số của số tiền này. Bộ Tài chính chịu trách nhiệm quản lý dòng tiền huy động, phân bổ ngân sách thực thi.
+Khác với [trái phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-la-gi) của doanh nghiệp, trái phiếu chính phủ mang tính phòng thủ cao. Mệnh giá quy định tại thị trường Việt Nam thường là 100.000 đồng hoặc bội số của số tiền này. Bộ Tài chính chịu trách nhiệm quản lý dòng tiền huy động, phân bổ ngân sách thực thi.
 
 Hãy xem xét ví dụ cụ thể. Kho bạc Nhà nước phát hành đợt trái phiếu kỳ hạn 5 năm, mệnh giá 10.000.000 đồng, lãi suất coupon 4%/năm. Nếu bạn mua chứng khoán này, bạn nhận về 400.000 đồng tiền lãi mỗi năm. Đến năm thứ 5, bạn nhận lại toàn bộ 10.000.000 đồng vốn gốc. Quá trình thanh toán diễn ra đúng cam kết nhờ nguồn thu thuế quốc gia bảo đảm. Sản phẩm giúp bảo vệ dòng vốn tối ưu.
 
@@ -78,7 +78,7 @@ Lãi suất coupon của trái phiếu chính phủ được xác định rõ r�
 
 #### Tính thanh khoản cao trên thị trường thứ cấp
 
-Giao dịch trái phiếu chính phủ diễn ra sôi động trên thị trường thứ cấp thông qua sàn HNX. Bạn dễ dàng thực hiện chuyển nhượng hoặc bán lại tài sản trước ngày đáo hạn để thu hồi tiền mặt. Quá trình giao dịch khớp lệnh nhanh chóng giúp tối ưu dòng vốn cá nhân. Biến động giá giao dịch chịu ảnh hưởng trực tiếp bởi [bond yield là gì](content/blog/3-finalized/Final-bond-yield-la-gi.md) hay lợi suất trái phiếu trên thị trường.
+Giao dịch trái phiếu chính phủ diễn ra sôi động trên thị trường thứ cấp thông qua sàn HNX. Bạn dễ dàng thực hiện chuyển nhượng hoặc bán lại tài sản trước ngày đáo hạn để thu hồi tiền mặt. Quá trình giao dịch khớp lệnh nhanh chóng giúp tối ưu dòng vốn cá nhân. Biến động giá giao dịch chịu ảnh hưởng trực tiếp bởi [bond yield là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/bond-yield-la-gi) hay lợi suất trái phiếu trên thị trường.
 
 Dòng vốn chảy vào loại chứng khoán nợ này luôn duy trì trạng thái ổn định.
 

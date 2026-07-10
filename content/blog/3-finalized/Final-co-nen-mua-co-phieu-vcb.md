@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu VCB"]
 Status: Finalized
@@ -24,7 +24,7 @@ Quyết định có nên mua cổ phiếu VCB đòi hỏi bạn phải cân đ�
 
 Cổ phiếu VCB là chứng chỉ sở hữu cổ phần của Ngân hàng TMCP Ngoại thương Việt Nam niêm yết trên sàn HOSE, là cổ phiếu ngân hàng có vốn hóa lớn nhất và chất lượng tài sản tốt nhất hệ thống.
 
-Là "anh cả" của hệ thống ngân hàng Việt Nam, VCB đóng vai trò điểm neo chỉ số quan trọng trong rổ VN30 và là tâm điểm thu hút dòng vốn của các quỹ đầu tư ngoại trên sàn HOSE. Trước khi nghiên cứu các chỉ số tài chính chuyên sâu, bạn có thể tham khảo hướng dẫn chi tiết về [cách mua cổ phiếu VCB](content/blog/3-finalized/Final-cach-mua-co-phieu-vcb.md) để chuẩn bị các bước giao dịch thực tiễn trực tuyến.
+Là "anh cả" của hệ thống ngân hàng Việt Nam, VCB đóng vai trò điểm neo chỉ số quan trọng trong rổ VN30 và là tâm điểm thu hút dòng vốn của các quỹ đầu tư ngoại trên sàn HOSE. Trước khi nghiên cứu các chỉ số tài chính chuyên sâu, bạn có thể tham khảo hướng dẫn chi tiết về [cách mua cổ phiếu VCB](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-vcb) để chuẩn bị các bước giao dịch thực tiễn trực tuyến.
 
 * Quy mô vốn hóa: Luôn dẫn đầu nhóm cổ phiếu ngân hàng và toàn thị trường chứng khoán Việt Nam.
 * Chất lượng nợ xấu: Duy trì tỷ lệ nợ xấu ở mức thấp kỷ lục toàn ngành (thường dưới 1%).
@@ -61,7 +61,7 @@ Vietcombank luôn được thị trường định giá ở mức Premium (cao h
 | Room tín dụng vĩ mô bị thu hẹp | Làm chậm tốc độ tăng trưởng quy mô tài sản sinh lời | Trung bình |
 | Nợ xấu bất động sản lan rộng | Buộc phải trích lập bổ sung, làm giảm biên lợi nhuận | Thấp |
 
-Bên cạnh đó, các khoản nợ nhóm 2 (nợ cần chú ý) có xu hướng gia tăng nhẹ do các khó khăn chung của nền kinh tế cũng đòi hỏi bạn phải theo dõi sát sao qua các báo cáo tài chính cập nhật hàng quý. Để so sánh tương quan hiệu quả phòng thủ, bạn có thể xem thêm phân tích về [Có nên mua cổ phiếu POW](content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md) trong danh mục đầu tư dài hạn.
+Bên cạnh đó, các khoản nợ nhóm 2 (nợ cần chú ý) có xu hướng gia tăng nhẹ do các khó khăn chung của nền kinh tế cũng đòi hỏi bạn phải theo dõi sát sao qua các báo cáo tài chính cập nhật hàng quý. Để so sánh tương quan hiệu quả phòng thủ, bạn có thể xem thêm phân tích về [Có nên mua cổ phiếu POW](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pow) trong danh mục đầu tư dài hạn.
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Mode: Express
@@ -47,7 +47,7 @@ Khi bạn may mắn sở hữu một cổ phiếu tăng trần liên tiếp 3 đ
 
 Nếu đà tăng giá chỉ dựa trên tin đồn và dòng tiền đầu cơ thuần túy, bạn nên bán toàn bộ để chốt lời ngay lập tức. Những cơn sóng đầu cơ thường rút đi rất nhanh. Nếu bạn chần chừ, toàn bộ khoản lãi có thể bốc hơi chỉ sau vài phiên giảm sàn. 
 
-Trong trường hợp đà tăng có sự hậu thuẫn từ yếu tố cơ bản tốt của doanh nghiệp, hãy áp dụng kỹ thuật chốt lời từng phần (Scale out). Bạn bán 1/2 vị thế để khóa lợi nhuận chắc chắn, 1/2 còn lại tiếp tục giữ để chạy theo xu hướng tăng trưởng của cổ phiếu. Để đánh giá sâu hơn về dòng tiền doanh nghiệp, bạn nên tìm hiểu thêm [cổ tức là gì](content/blog/3-finalized/Final-co-tuc-la-gi.md) trước khi quyết định hiện thực hóa toàn bộ lợi nhuận.
+Trong trường hợp đà tăng có sự hậu thuẫn từ yếu tố cơ bản tốt của doanh nghiệp, hãy áp dụng kỹ thuật chốt lời từng phần (Scale out). Bạn bán 1/2 vị thế để khóa lợi nhuận chắc chắn, 1/2 còn lại tiếp tục giữ để chạy theo xu hướng tăng trưởng của cổ phiếu. Để đánh giá sâu hơn về dòng tiền doanh nghiệp, bạn nên tìm hiểu thêm [cổ tức là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi) trước khi quyết định hiện thực hóa toàn bộ lợi nhuận.
 
 ### Định giá không còn phản ánh thực tế hoạt động kinh doanh
 
@@ -113,7 +113,7 @@ Sử dụng lệnh điều kiện tự động giúp bạn thực thi kỷ luậ
 
 ## Làm chủ kỷ luật chiều bán cùng HVS
 
-Nỗi đau lớn nhất của nhà đầu tư F0 trên thị trường là không có phương pháp định giá doanh nghiệp để biết điểm bán chốt lời hợp lý, cũng như thiếu kỷ luật thép để cắt lỗ chủ động dẫn đến [cháy tài khoản chứng khoán là gì](content/blog/3-finalized/Final-chay-tai-khoan-chung-khoan-la-gi.md).
+Nỗi đau lớn nhất của nhà đầu tư F0 trên thị trường là không có phương pháp định giá doanh nghiệp để biết điểm bán chốt lời hợp lý, cũng như thiếu kỷ luật thép để cắt lỗ chủ động dẫn đến [cháy tài khoản chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chay-tai-khoan-chung-khoan-la-gi).
 
 Để giải quyết vấn đề này, lộ trình đào tạo **HVS Thực tập số** (nằm trong nền tảng **HVS Tài chính số**) sẽ trang bị cho bạn bộ kiến thức đầu tư cốt lõi. Bạn sẽ được học Phân tích cơ bản FA Level 1 để biết cách định giá doanh nghiệp cơ bản và Phân tích kỹ thuật TA Level 1 để tự xác định các vùng hỗ trợ, kháng cự và điểm bán tối ưu. 
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Tỷ số thanh toán bằng tiền mặt"]
 Status: Finalized
@@ -44,7 +44,7 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS
 # Cluster info
 Cluster: Phân tích cơ bản
 Internal_Links:
-  - "báo cáo lưu chuyển tiền tệ là gì": "content/blog/3-finalized/Final-bao-cao-luu-chuyen-tien-te-la-gi.md"
+  - "báo cáo lưu chuyển tiền tệ là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/bao-cao-luu-chuyen-tien-te-la-gi"
 ---
 
 # Tỷ số thanh toán bằng tiền mặt là gì? Ý nghĩa và cách ứng dụng
@@ -54,7 +54,7 @@ Tiền mặt là dòng máu duy trì mọi hoạt động hàng ngày của doan
 ## Tỷ số thanh toán bằng tiền mặt là gì?
 Tỷ số thanh toán bằng tiền mặt là **chỉ số tài chính đo lường khả năng doanh nghiệp thanh toán khoản nợ ngắn hạn ngay lập tức bằng tiền mặt và khoản tương đương tiền** mà không phụ thuộc vào hoạt động thanh lý hàng tồn kho hay thu hồi khoản phải thu. Đây là thước đo thanh khoản khắt khe nhất trong hệ thống chỉ số tài chính, giúp phản ánh trung thực năng lực đối phó với khủng hoảng tài chính đột xuất.
 
-Chỉ số này loại bỏ toàn bộ tài sản ngắn hạn có tính thanh khoản kém hơn như hàng tồn kho hay khoản phải thu từ khách hàng. Doanh nghiệp sẽ bảo đảm vị thế tài chính an toàn trước chủ nợ nếu sở hữu lượng tiền mặt dồi dào. Ngược lại, doanh nghiệp sẽ đối mặt áp lực vỡ nợ ngắn hạn rất lớn nếu chỉ số này sụt giảm nghiêm trọng trong nhiều quý liên tiếp. Bạn chủ động kết hợp nghiên cứu chỉ số này khi thực hiện [báo cáo lưu chuyển tiền tệ là gì](content/blog/3-finalized/Final-bao-cao-luu-chuyen-tien-te-la-gi.md) để hiểu rõ nguồn gốc dòng tiền phát sinh.
+Chỉ số này loại bỏ toàn bộ tài sản ngắn hạn có tính thanh khoản kém hơn như hàng tồn kho hay khoản phải thu từ khách hàng. Doanh nghiệp sẽ bảo đảm vị thế tài chính an toàn trước chủ nợ nếu sở hữu lượng tiền mặt dồi dào. Ngược lại, doanh nghiệp sẽ đối mặt áp lực vỡ nợ ngắn hạn rất lớn nếu chỉ số này sụt giảm nghiêm trọng trong nhiều quý liên tiếp. Bạn chủ động kết hợp nghiên cứu chỉ số này khi thực hiện [báo cáo lưu chuyển tiền tệ là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/bao-cao-luu-chuyen-tien-te-la-gi) để hiểu rõ nguồn gốc dòng tiền phát sinh.
 
 ## Công thức tính tỷ số thanh toán bằng tiền mặt (Cash Ratio)
 Công thức tính tỷ số thanh toán bằng tiền mặt thiết lập bằng cách chia tổng giá trị tiền và khoản tương đương tiền cho nợ ngắn hạn của doanh nghiệp trên bảng cân đối kế toán. Công thức cụ thể được trình bày dưới đây:
@@ -70,7 +70,7 @@ Chỉ số này phản ánh năng lực chi trả nợ tức thì của doanh ng
 ## Ý nghĩa thực tế và ngưỡng đánh giá chỉ số Cash Ratio
 Tỷ số thanh toán bằng tiền mặt cung cấp cho nhà đầu tư góc nhìn thực tế về mức độ an toàn thanh khoản tức thời của doanh nghiệp. Ngưỡng đánh giá an toàn của chỉ số này thường dao động từ 0.2 đến 0.5 đối với đại đa số doanh nghiệp sản xuất và thương mại trên thị trường chứng khoán Việt Nam.
 
-Doanh nghiệp sẽ tối ưu hóa hiệu quả sử dụng vốn nếu duy trì tỷ số này ở mức hợp lý. Nhiều nhà đầu tư mới như Lan Newbie thường lầm tưởng chỉ số này càng cao càng tốt. Tuy nhiên, doanh nghiệp sẽ lãng phí cơ hội gia tăng lợi nhuận nếu tích trữ quá nhiều tiền mặt nhàn rỗi thay vì đem đi tái đầu tư vào hoạt động sản xuất kinh doanh hoặc thanh toán khoản nợ vay chịu lãi suất cao để cải thiện chỉ số [roa là gì](content/blog/3-finalized/Final-roa-la-gi.md). Tiền mặt nhàn rỗi gửi ngân hàng thường mang lại hiệu suất sinh lời rất thấp so với đầu tư phát triển quy mô.
+Doanh nghiệp sẽ tối ưu hóa hiệu quả sử dụng vốn nếu duy trì tỷ số này ở mức hợp lý. Nhiều nhà đầu tư mới như Lan Newbie thường lầm tưởng chỉ số này càng cao càng tốt. Tuy nhiên, doanh nghiệp sẽ lãng phí cơ hội gia tăng lợi nhuận nếu tích trữ quá nhiều tiền mặt nhàn rỗi thay vì đem đi tái đầu tư vào hoạt động sản xuất kinh doanh hoặc thanh toán khoản nợ vay chịu lãi suất cao để cải thiện chỉ số [roa là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/roa-la-gi). Tiền mặt nhàn rỗi gửi ngân hàng thường mang lại hiệu suất sinh lời rất thấp so với đầu tư phát triển quy mô.
 
 Ngược lại, rủi ro thanh toán tức thời sẽ tăng vọt nếu chỉ số Cash Ratio giảm xuống dưới mức 0.2. Doanh nghiệp sẽ đối mặt nguy cơ mất khả năng thanh toán tạm thời nếu chủ nợ đòi nợ đột xuất. Điều này đòi hỏi ban lãnh đạo phải cân bằng giữa an toàn và tỷ suất sinh lời.
 
@@ -89,7 +89,7 @@ Tỷ số thanh toán tiền mặt là công cụ khắt khe nhất trong nhóm 
 
 Tỷ số thanh toán hiện hành thường lớn nhất do tính cả hàng tồn kho. Tuy nhiên, doanh nghiệp sẽ gặp rủi ro đọng vốn nếu hàng tồn kho ứ đọng, khó thanh lý.
 
-Tỷ số thanh toán nhanh phản ánh sát thực tế hơn do loại bỏ hàng tồn kho, nhưng vẫn chịu rủi ro khoản phải thu khó đòi. Tỷ số thanh toán tiền mặt loại bỏ hoàn toàn tài sản kém thanh khoản để đo lường khả năng trả nợ tức thời. Bạn chủ động kết hợp chỉ số này với [tỷ số nợ trên tổng tài sản](content/blog/3-finalized/Final-ty-so-no-tren-tong-tai-san.md) để đánh giá cấu trúc vốn.
+Tỷ số thanh toán nhanh phản ánh sát thực tế hơn do loại bỏ hàng tồn kho, nhưng vẫn chịu rủi ro khoản phải thu khó đòi. Tỷ số thanh toán tiền mặt loại bỏ hoàn toàn tài sản kém thanh khoản để đo lường khả năng trả nợ tức thời. Bạn chủ động kết hợp chỉ số này với [tỷ số nợ trên tổng tài sản](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ty-so-no-tren-tong-tai-san) để đánh giá cấu trúc vốn.
 
 ## Quản trị dòng tiền doanh nghiệp thực chiến cùng HVS Tài chính số
 Nhiều nhà đầu tư thường rơi vào cái bẫy lợi nhuận trên sổ sách tăng trưởng mạnh nhưng doanh nghiệp vẫn cạn kiệt tiền mặt thực tế. Vấn đề này phát sinh khi đối tác chiếm dụng vốn của doanh nghiệp hoặc hàng tồn kho ứ đọng. Nhà đầu tư sẽ chịu tổn thất lớn nếu đầu tư vào doanh nghiệp mất cân đối dòng tiền này.

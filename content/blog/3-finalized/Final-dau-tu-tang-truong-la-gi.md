@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["đầu tư tăng trưởng là gì"]
 Status: Finalized
@@ -32,7 +32,7 @@ Nhiều nhà đầu tư cá nhân mới tham gia thị trường dễ rơi vào 
 
 Hai trường phái đầu tư lớn này sở hữu những triết lý giao dịch và tiêu chí sàng lọc cổ phiếu hoàn toàn khác biệt:
 
-Về mặt định giá, trường phái tăng trưởng chấp nhận mua cổ phiếu có chỉ số P/E cao nếu doanh nghiệp duy trì được đà bứt phá lợi nhuận lớn. Ngược lại, trường phái [đầu tư giá trị](Final-dau-tu-gia-tri.md) chỉ tập trung săn tìm các cổ phiếu có P/E và P/B thấp, đang bị thị trường định giá dưới mức giá trị nội tại thực tế của doanh nghiệp.
+Về mặt định giá, trường phái tăng trưởng chấp nhận mua cổ phiếu có chỉ số P/E cao nếu doanh nghiệp duy trì được đà bứt phá lợi nhuận lớn. Ngược lại, trường phái [đầu tư giá trị](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-gia-tri) chỉ tập trung săn tìm các cổ phiếu có P/E và P/B thấp, đang bị thị trường định giá dưới mức giá trị nội tại thực tế của doanh nghiệp.
 
 Về nguồn lợi nhuận, nhà đầu tư tăng trưởng tìm kiếm chênh lệch giá nhờ đà tăng thị giá. Nhà đầu tư giá trị hướng tới sự phục hồi giá trị nội tại kết hợp cổ tức tiền mặt đều đặn hàng năm làm bệ đỡ phòng thủ.
 
@@ -56,7 +56,7 @@ Bảng so sánh này giúp bạn dễ dàng đối chiếu và chọn lựa phon
 
 Thứ nhất, tốc độ tăng trưởng EPS (Lợi nhuận trên mỗi cổ phiếu) quý gần nhất phải đạt tối thiểu 20% so với cùng kỳ năm trước. Sự gia tăng này phải đi kèm tăng trưởng doanh thu thực tế để loại bỏ các khoản thu nhập bất thường một lần từ bán tài sản hay chênh lệch tỷ giá. Bạn cần rà soát kỹ lưỡng báo cáo tài chính quý để đảm bảo đà tăng đến từ hoạt động kinh doanh cốt lõi chứ không phải từ các thủ thuật tài chính ngắn hạn.
 
-Thứ hai, hiệu quả sử dụng vốn của doanh nghiệp phải thể hiện qua chỉ số ROE duy trì trên 15% liên tục trong nhiều năm. Chỉ số này chứng minh ban lãnh đạo sử dụng hiệu quả nguồn vốn tái tích lũy để tạo ra lợi nhuận thặng dư cho cổ đông. Biên lợi nhuận gộp cao và ổn định cũng cho thấy doanh nghiệp có khả năng chuyển hóa chi phí đầu vào tăng thêm sang người tiêu dùng mà không làm sụt giảm sản lượng bán hàng. Bạn cũng có thể áp dụng thêm bộ lọc [phương pháp canslim](Final-phuong-phap-canslim.md) để tối ưu thời điểm mua.
+Thứ hai, hiệu quả sử dụng vốn của doanh nghiệp phải thể hiện qua chỉ số ROE duy trì trên 15% liên tục trong nhiều năm. Chỉ số này chứng minh ban lãnh đạo sử dụng hiệu quả nguồn vốn tái tích lũy để tạo ra lợi nhuận thặng dư cho cổ đông. Biên lợi nhuận gộp cao và ổn định cũng cho thấy doanh nghiệp có khả năng chuyển hóa chi phí đầu vào tăng thêm sang người tiêu dùng mà không làm sụt giảm sản lượng bán hàng. Bạn cũng có thể áp dụng thêm bộ lọc [phương pháp canslim](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phuong-phap-canslim) để tối ưu thời điểm mua.
 
 Thứ ba, doanh nghiệp phải sở hữu lợi thế cạnh tranh độc quyền hoặc sản phẩm đột phá. Ví dụ như FPT luôn dẫn đầu mảng xuất khẩu phần mềm nhờ năng lực chuyển đổi số toàn cầu và sở hữu tệp nhân sự công nghệ khổng lồ, hay MWG từng bứt phá thần tốc nhờ chuỗi bán lẻ Điện Máy Xanh chiếm lĩnh thị trường nhờ dịch vụ khách hàng vượt trội. Việc bóc tách các lợi thế định tính này là điều kiện bắt buộc giúp bạn tránh được các doanh nghiệp tăng trưởng ảo.
 

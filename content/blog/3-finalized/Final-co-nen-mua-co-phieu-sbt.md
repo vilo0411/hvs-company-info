@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu SBT"]
 Status: Finalized
@@ -24,7 +24,7 @@ Quyết định có nên mua cổ phiếu SBT đòi hỏi bạn cân nhắc kỹ
 
 Cổ phiếu SBT là chứng chỉ sở hữu cổ phần của Công ty Cổ phần Thành Thành Công - Biên Hòa được niêm yết trực tuyến trên sàn HOSE, đại diện cho doanh nghiệp dẫn đầu ngành mía đường Việt Nam với hơn 46% thị phần nội địa.
 
-Thành Thành Công - Biên Hòa hiện đang là cánh chim đầu đàn của ngành mía đường nước nhà nhờ sở hữu chuỗi giá trị nông nghiệp khép kín quy mô lớn. Sàn HOSE ghi nhận cổ phiếu SBT là một đại diện tiêu biểu của nhóm [cổ phiếu ngành nông nghiệp](content/blog/3-finalized/Final-co-phieu-nganh-nong-nghiep.md) công nghệ cao. Quy mô vùng nguyên liệu khổng lồ trải dài từ Việt Nam qua Lào và Campuchia mang lại lợi thế tự chủ vượt trội về nguồn mía chế biến đầu vào.
+Thành Thành Công - Biên Hòa hiện đang là cánh chim đầu đàn của ngành mía đường nước nhà nhờ sở hữu chuỗi giá trị nông nghiệp khép kín quy mô lớn. Sàn HOSE ghi nhận cổ phiếu SBT là một đại diện tiêu biểu của nhóm [cổ phiếu ngành nông nghiệp](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-nganh-nong-nghiep) công nghệ cao. Quy mô vùng nguyên liệu khổng lồ trải dài từ Việt Nam qua Lào và Campuchia mang lại lợi thế tự chủ vượt trội về nguồn mía chế biến đầu vào.
 
 * Năng lực sản xuất vượt trội: Hệ thống nhà máy luyện đường hiện đại cung cấp đa dạng các dòng sản phẩm đường tinh luyện cao cấp.
 * Xu hướng xanh hóa năng lượng: Tận dụng phụ phẩm bã mía để sản xuất điện sinh khối phục vụ tự dùng và phát lên lưới điện quốc gia.

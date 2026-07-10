@@ -1,8 +1,8 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 253 bài
-- **Active Pipeline:** 8 items
+- **Published:** 256 bài
+- **Active Pipeline:** 4 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
@@ -15,9 +15,6 @@
 | sách về chứng khoán của warren buffett | Sơn Sinh Viên | Express | Outline-Pending |
 | giáo trình phân tích báo cáo tài chính | Sơn Sinh Viên | Express | Outline-Pending |
 | sách phân tích kỹ thuật chứng khoán | Sơn Sinh Viên | Express | Outline-Pending |
-| Trái phiếu chuyển đổi là gì | Lan Newbie | Express | Outline-Pending |
-| Phân tích Dupont là gì | Lan Newbie | Express | Outline-Pending |
-| Phân tích báo cáo tài chính Công ty Bibica | Lan Newbie | Express | Outline-Pending |
 
 ---
 
@@ -25,6 +22,9 @@
 
 | Date | Keyword | Persona | Mode | File Path |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-07-07 | Trái phiếu chuyển đổi là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-trai-phieu-chuyen-doi-la-gi.md` |
+| 2026-07-07 | Phân tích Dupont là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-phan-tich-dupont-la-gi.md` |
+| 2026-07-07 | Phân tích báo cáo tài chính Công ty Bibica | Lan Newbie | Express | `content/blog/3-finalized/Final-phan-tich-bao-cao-tai-chinh-cong-ty-bibica.md` |
 | 2026-07-02 | Tỷ số thanh toán nhanh là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-ty-so-thanh-toan-nhanh-la-gi.md` |
 | 2026-07-02 | Tỷ số thanh toán bằng tiền mặt | Lan Newbie | Express | `content/blog/3-finalized/Final-ty-so-thanh-toan-bang-tien-mat.md` |
 | 2026-07-02 | Tỷ số nợ trên tổng tài sản | Lan Newbie | Express | `content/blog/3-finalized/Final-ty-so-no-tren-tong-tai-san.md` |

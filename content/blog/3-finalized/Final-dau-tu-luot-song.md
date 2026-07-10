@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Đầu tư lướt sóng"]
 Status: Finalized
@@ -22,7 +22,7 @@ Nhiều nhà đầu tư cá nhân khi tham gia thị trường chứng khoán th
 
 **Đầu tư lướt sóng (Trading) là chiến lược giao dịch chứng khoán ngắn hạn, tận dụng các nhịp biến động giá ngắn hạn của cổ phiếu trong vài ngày hoặc vài tuần để kiếm lợi nhuận dựa trên các công cụ phân tích kỹ thuật và dòng tiền mà không cần quan tâm sâu đến giá trị nội tại dài hạn của doanh nghiệp.**
 
-Khác biệt lớn nhất giữa đầu tư lướt sóng và [đầu tư giá trị](Final-dau-tu-gia-tri.md) nằm ở thời gian nắm giữ cổ phiếu và phương pháp phân tích. Trong khi nhà đầu tư giá trị kiên nhẫn nắm giữ tài sản trong nhiều năm dựa trên kết quả kinh doanh và tài sản ròng của doanh nghiệp, thì nhà đầu tư lướt sóng chỉ tập trung quan sát hành động giá, khối lượng giao dịch và xu hướng dòng tiền ngắn hạn trên bảng điện tử của sàn HOSE và HNX. Mục tiêu duy nhất là mua thấp bán cao để tối ưu hóa vòng quay dòng vốn.
+Khác biệt lớn nhất giữa đầu tư lướt sóng và [đầu tư giá trị](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-gia-tri) nằm ở thời gian nắm giữ cổ phiếu và phương pháp phân tích. Trong khi nhà đầu tư giá trị kiên nhẫn nắm giữ tài sản trong nhiều năm dựa trên kết quả kinh doanh và tài sản ròng của doanh nghiệp, thì nhà đầu tư lướt sóng chỉ tập trung quan sát hành động giá, khối lượng giao dịch và xu hướng dòng tiền ngắn hạn trên bảng điện tử của sàn HOSE và HNX. Mục tiêu duy nhất là mua thấp bán cao để tối ưu hóa vòng quay dòng vốn.
 
 Bạn cần nhận thức rõ ràng rằng đầu tư lướt sóng ngắn hạn thực chất là một cuộc chơi có tổng bằng không (zero-sum game). Trên thị trường này, khoản lợi nhuận bạn kiếm được chính là phần thua lỗ của một nhà giao dịch khác không có đủ sự chuẩn bị hoặc thiếu kỷ luật. Vì vậy, để chiến thắng trong cuộc chơi khốc liệt này, việc tự trang bị cho bản thân bộ kỹ năng phân tích kỹ thuật vững chắc và kiểm soát tâm lý giao dịch chặt chẽ là điều kiện bắt buộc, thay vì dựa dẫm hoàn toàn vào sự may mắn.
 
@@ -30,7 +30,7 @@ Bạn cần nhận thức rõ ràng rằng đầu tư lướt sóng ngắn hạn
 
 Để đưa ra các quyết định mua bán chuẩn xác, nhà giao dịch lướt sóng chuyên nghiệp bắt buộc phải sử dụng thành thạo các chỉ báo kỹ thuật cốt lõi sau:
 
-Thứ nhất là **Đường trung bình động (MA)**. Bạn nên sử dụng các đường ngắn hạn như MA10 và MA20 để xác định xu hướng giá cổ phiếu trong vài phiên. Xem thêm chi tiết tại [đường ma là gì](Final-duong-ma-la-gi.md) để biết cách xác định điểm giao cắt mua bán. Khi giá cổ phiếu nằm trên các đường MA này và các đường đang dốc lên, đó là tín hiệu xu hướng tăng ngắn hạn được xác lập vững chắc để bạn mở vị thế giao dịch.
+Thứ nhất là **Đường trung bình động (MA)**. Bạn nên sử dụng các đường ngắn hạn như MA10 và MA20 để xác định xu hướng giá cổ phiếu trong vài phiên. Xem thêm chi tiết tại [đường ma là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/duong-ma-la-gi) để biết cách xác định điểm giao cắt mua bán. Khi giá cổ phiếu nằm trên các đường MA này và các đường đang dốc lên, đó là tín hiệu xu hướng tăng ngắn hạn được xác lập vững chắc để bạn mở vị thế giao dịch.
 
 Thứ hai là **Chỉ báo sức mạnh tương đối (RSI)**. RSI là công cụ đắc lực giúp bạn xác định tình trạng quá mua (RSI > 70) để chủ động chốt lời bảo toàn thặng dư, hoặc vùng quá bán (RSI < 30) để tìm kiếm các cơ hội bắt sóng hồi kỹ thuật nhanh chóng. Chỉ số RSI khi vượt lên trên 70 cho thấy lực mua đang quá mạnh và rủi ro điều chỉnh kỹ thuật ở vùng đỉnh ngắn hạn tăng cao, ngược lại khi RSI rơi xuống dưới 30 thể hiện lực bán quá đà và giá có xu hướng phục hồi ngắn hạn.
 
@@ -46,7 +46,7 @@ Thứ nhất là **Quản lý chu kỳ T+2.5**. Do quy luật mua xong 2.5 ngày
 
 Thứ hai là **Nguyên tắc cắt lỗ (Stop-loss) kỷ luật thép**. Trước khi đặt lệnh mua, bạn phải thiết lập sẵn một mức cắt lỗ tối đa (thông thường là 7% từ điểm mua). Khi giá cổ phiếu vi phạm ngưỡng này, bạn phải thực hiện cắt lỗ tự động ngay lập tức, tuyệt đối không gồng lỗ hay tự lừa dối bản thân bằng cách chuyển sang đầu tư dài hạn vô kỷ luật. Việc cắt lỗ dứt khoát là tấm khiên vững chắc nhất bảo vệ vốn của bạn.
 
-Thứ ba là **Quản trị đòn bẩy Margin**. Nhà đầu tư mới (F0) tuyệt đối không được sử dụng đòn bẩy tài chính trong giai đoạn đầu tham gia lướt sóng. Việc thiếu kinh nghiệm kết hợp với margin cao sẽ phóng đại các khoản lỗ rất nhanh khi thị trường rung lắc mạnh, dẫn đến nguy cơ bị công ty chứng khoán giải chấp bắt buộc. Xem thêm các quy tắc tại [quản trị rủi ro chứng khoán](Final-quan-tri-rui-ro-chung-khoan.md).
+Thứ ba là **Quản trị đòn bẩy Margin**. Nhà đầu tư mới (F0) tuyệt đối không được sử dụng đòn bẩy tài chính trong giai đoạn đầu tham gia lướt sóng. Việc thiếu kinh nghiệm kết hợp với margin cao sẽ phóng đại các khoản lỗ rất nhanh khi thị trường rung lắc mạnh, dẫn đến nguy cơ bị công ty chứng khoán giải chấp bắt buộc. Xem thêm các quy tắc tại [quản trị rủi ro chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quan-tri-rui-ro-chung-khoan).
 
 ### Bảng kế hoạch quản lý tỷ lệ rủi ro lợi nhuận khi lướt sóng
 

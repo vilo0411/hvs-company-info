@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Detailed
@@ -19,7 +19,7 @@ Khi đầu tư vào cổ phiếu ngành ngân hàng, chất lượng tài sản 
 
 Khoản nợ xấu ngân hàng bao gồm **các khoản vay quá hạn từ 90 ngày trở lên và người đi vay có dấu hiệu suy giảm khả năng thanh toán, cụ thể thuộc về Nhóm 3 (nợ dưới tiêu chuẩn), Nhóm 4 (nợ nghi ngờ) và Nhóm 5 (nợ có khả năng mất vốn) theo quy định của pháp luật Việt Nam**.
 
-Theo quy định tại Thông tư 11/2021/TT-NHNN đăng tải trên cổng thông tin vanban.chinhphu.vn, Ngân hàng Nhà nước Việt Nam chia các khoản cho vay thành 5 nhóm nợ riêng biệt. Sự phân loại này giúp giám sát chặt chẽ rủi ro tín dụng của hệ thống ngân hàng thương mại. Khi phân tích [cổ phiếu ngân hàng](content/blog/3-finalized/Final-co-phieu-ngan-hang.md), bạn cần hiểu rõ đặc tính của từng nhóm nợ này.
+Theo quy định tại Thông tư 11/2021/TT-NHNN đăng tải trên cổng thông tin vanban.chinhphu.vn, Ngân hàng Nhà nước Việt Nam chia các khoản cho vay thành 5 nhóm nợ riêng biệt. Sự phân loại này giúp giám sát chặt chẽ rủi ro tín dụng của hệ thống ngân hàng thương mại. Khi phân tích [cổ phiếu ngân hàng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-ngan-hang), bạn cần hiểu rõ đặc tính của từng nhóm nợ này.
 
 Dưới đây là bảng chi tiết phân loại 5 nhóm nợ cùng tỷ lệ trích lập dự phòng cụ thể tương ứng:
 
@@ -55,7 +55,7 @@ Chỉ số LLR phản ánh quy mô quỹ dự phòng rủi ro mà ngân hàng t�
 
 Để làm rõ vai trò của LLR, bạn hãy xem xét kịch bản so sánh thực tế giữa hai ngân hàng sau:
 
-*   **Kịch bản 1 (Ngân hàng A):** Sở hữu tỷ lệ nợ xấu NPL ở mức 2% nhưng có tỷ lệ bao phủ nợ xấu LLR đạt 150%. Khi nợ xấu bùng phát, ngân hàng A sử dụng quỹ dự phòng lớn đã trích lập từ trước để xóa nợ, giúp lợi nhuận sau thuế trong tương lai không bị ảnh hưởng đáng kể. Ví dụ tiêu biểu là trường hợp bạn phân tích [có nên mua cổ phiếu bid](content/blog/3-finalized/Final-co-nen-mua-co-phieu-bid.md) hoặc VCB, những nhà băng luôn duy trì đệm LLR rất dày.
+*   **Kịch bản 1 (Ngân hàng A):** Sở hữu tỷ lệ nợ xấu NPL ở mức 2% nhưng có tỷ lệ bao phủ nợ xấu LLR đạt 150%. Khi nợ xấu bùng phát, ngân hàng A sử dụng quỹ dự phòng lớn đã trích lập từ trước để xóa nợ, giúp lợi nhuận sau thuế trong tương lai không bị ảnh hưởng đáng kể. Ví dụ tiêu biểu là trường hợp bạn phân tích [có nên mua cổ phiếu bid](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-bid) hoặc VCB, những nhà băng luôn duy trì đệm LLR rất dày.
 *   **Kịch bản 2 (Ngân hàng B):** Cũng có tỷ lệ nợ xấu NPL là 2% nhưng tỷ lệ bao phủ nợ xấu LLR chỉ đạt 50%. Khi các khoản nợ xấu Nhóm 5 buộc phải xử lý xóa nợ, ngân hàng B bắt buộc phải trích lập bổ sung chi phí dự phòng rủi ro tín dụng trực tiếp từ nguồn thu nhập hiện tại, làm bào mòn nghiêm trọng lợi nhuận ròng của quý đó.
 
 Nhà đầu tư chuyên nghiệp luôn ưu tiên các ngân hàng thương mại thuộc Kịch bản 1. Trích lập dự phòng chủ động giúp các nhà băng này tạo ra tấm khiên bảo vệ vững chắc cho lợi nhuận của cổ đông, sẵn sàng vượt qua các giai đoạn thắt chặt dòng tiền vĩ mô của nền kinh tế.
@@ -72,7 +72,7 @@ Tác động tiếp theo xuất phát từ tình trạng tăng vọt chi phí tr
 
 Tác động thứ ba liên quan đến hệ số an toàn vốn (CAR). Nợ xấu phình to làm tăng tài sản có rủi ro, khiến hệ số CAR của ngân hàng sụt giảm. Khi hệ số an toàn vốn không đạt chuẩn, Ngân hàng Nhà nước sẽ siết chặt chỉ tiêu cấp room tín dụng cho kỳ tiếp theo. Điều này giới hạn đáng kể khả năng mở rộng quy mô kinh doanh của ngân hàng thương mại.
 
-Để giảm bớt các tác động tiêu cực từ rủi ro tín dụng này, các ngân hàng có tệp tiền gửi không kỳ hạn lớn sở hữu lợi thế lớn. Bạn hãy tìm hiểu thêm về [casa trong ngành ngân hàng là gì](content/blog/3-finalized/Final-casa-trong-nganh-ngan-hang-la-gi.md) để hiểu rõ cơ chế dòng vốn giá rẻ giúp các ngân hàng tối ưu chi phí huy động vốn CoF, tạo ra biên an toàn lợi nhuận dày để chống chịu áp lực trích lập dự phòng. Những ngân hàng sở hữu lợi thế CASA vững chắc thường duy trì giá cổ phiếu ổn định hơn trong giai đoạn thị trường chứng khoán biến động.
+Để giảm bớt các tác động tiêu cực từ rủi ro tín dụng này, các ngân hàng có tệp tiền gửi không kỳ hạn lớn sở hữu lợi thế lớn. Bạn hãy tìm hiểu thêm về [casa trong ngành ngân hàng là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/casa-trong-nganh-ngan-hang-la-gi) để hiểu rõ cơ chế dòng vốn giá rẻ giúp các ngân hàng tối ưu chi phí huy động vốn CoF, tạo ra biên an toàn lợi nhuận dày để chống chịu áp lực trích lập dự phòng. Những ngân hàng sở hữu lợi thế CASA vững chắc thường duy trì giá cổ phiếu ổn định hơn trong giai đoạn thị trường chứng khoán biến động.
 
 ---
 

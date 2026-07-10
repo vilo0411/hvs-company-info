@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Chỉ số MSCI là gì"]
 Status: Finalized
@@ -43,7 +43,7 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số"]
 
 # Cluster info
 Cluster: Chỉ số chứng khoán
-Internal_Links: ["content/blog/3-finalized/Final-cach-dau-tu-chung-chi-quy.md", "content/blog/3-finalized/Final-cach-mua-co-phieu-tren-san-hose.md", "content/blog/3-finalized/Final-cac-chi-so-chung-khoan-viet-nam-huong-dan-tu-a-z-cho-f0.md"]
+Internal_Links: ["https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-chi-quy", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-tren-san-hose", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cac-chi-so-chung-khoan-viet-nam-huong-dan-tu-a-z-cho-f0"]
 ---
 
 # Chỉ số MSCI là gì? Hướng dẫn phân tích vĩ mô từ A-Z
@@ -58,7 +58,7 @@ Tổ chức Morgan Stanley Capital International (MSCI) tính toán giá trị r
 
 > **Vốn hóa điều chỉnh Free-float = Tổng số lượng cổ phiếu lưu hành × Giá thị trường × Tỷ lệ Free-float**
 
-Quy trình loại bỏ cổ phiếu hạn chế chuyển nhượng giúp phản ánh chính xác nguồn cung thực tế trên sàn giao dịch. Các quỹ đầu tư quốc tế bắt buộc phải giải ngân mô phỏng theo đúng tỷ trọng này khi thực hiện [đầu tư quỹ mở và ETF](content/blog/3-finalized/Final-cach-dau-tu-chung-chi-quy.md) tại các thị trường thành viên.
+Quy trình loại bỏ cổ phiếu hạn chế chuyển nhượng giúp phản ánh chính xác nguồn cung thực tế trên sàn giao dịch. Các quỹ đầu tư quốc tế bắt buộc phải giải ngân mô phỏng theo đúng tỷ trọng này khi thực hiện [đầu tư quỹ mở và ETF](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-chi-quy) tại các thị trường thành viên.
 
 Sự thay đổi tỷ trọng trong rổ MSCI sẽ lập tức tạo ra làn sóng cơ cấu danh mục lớn. Khối ngoại sẽ ồ ạt mua ròng nếu cổ phiếu được thêm vào rổ. Ngược lại, áp lực bán ròng sẽ gia tăng nếu cổ phiếu bị loại khỏi danh mục.
 
@@ -94,7 +94,7 @@ Tổ chức MSCI tiến hành rà soát định kỳ danh mục 4 lần mỗi n�
 
 Quy chế sàng lọc liquidity và foreign room limit của MSCI đối với cổ phiếu Việt rất khắt khe. Cổ phiếu bắt buộc đạt giá trị giao dịch trung bình phiên tối thiểu 5 triệu USD. Đồng thời, tỷ lệ room ngoại khả dụng phải lớn hơn 15% mới đủ điều kiện duy trì trong danh mục.
 
-Các quỹ ETF thụ động (như iShares MSCI Frontier and Select EM ETF) bắt buộc phải tái cơ cấu danh mục khớp lệnh vào đợt ATC của ngày giao dịch cuối cùng trước khi danh mục mới có hiệu lực. Hành động này thường kích hoạt dòng tiền khổng lồ, tạo biến động mạnh khi [giao dịch trên sàn HOSE](content/blog/3-finalized/Final-cach-mua-co-phieu-tren-san-hose.md) đối với các cổ phiếu trụ cột (như VCB, HPG, VNM).
+Các quỹ ETF thụ động (như iShares MSCI Frontier and Select EM ETF) bắt buộc phải tái cơ cấu danh mục khớp lệnh vào đợt ATC của ngày giao dịch cuối cùng trước khi danh mục mới có hiệu lực. Hành động này thường kích hoạt dòng tiền khổng lồ, tạo biến động mạnh khi [giao dịch trên sàn HOSE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-tren-san-hose) đối với các cổ phiếu trụ cột (như VCB, HPG, VNM).
 
 Nhà đầu tư sẽ nắm bắt cơ hội sinh lời lớn nếu hiểu rõ quy luật dòng tiền này. Các quỹ ngoại sẽ mua ròng mạnh mẽ đẩy giá tăng cao nếu cổ phiếu Việt Nam được nâng tỷ trọng trong kỳ review bán niên. Trái lại, áp lực bán ròng từ khối ngoại sẽ kích hoạt đà giảm điểm ngắn hạn nếu một cổ phiếu (như HPG hoặc VNM) bị giảm tỷ trọng hoặc bị loại ra khỏi rổ MSCI do vi phạm room ngoại.
 
@@ -115,7 +115,7 @@ Sự dịch chuyển này giúp Việt Nam hấp thụ phần lớn dòng vốn 
 
 Dòng vốn từ các quỹ chuyên biệt (như iShares Frontier ETF, Coeli Frontier Markets) sẽ tiếp tục giải ngân vào sàn HOSE nếu vĩ mô giữ vững đà tăng trưởng. Do đó, theo dõi sức khỏe tài chính của các doanh nghiệp này là yêu cầu bắt buộc.
 
-Biến động tỷ trọng của nhóm cổ phiếu trụ cột này sẽ tác động ngay đến [chỉ số VN-Index và VN30](content/blog/3-finalized/Final-cac-chi-so-chung-khoan-viet-nam-huong-dan-tu-a-z-cho-f0.md) trên sàn giao dịch. Thấu hiểu cơ cấu vốn hóa giúp bạn đưa ra những quyết định phân bổ danh mục an toàn.
+Biến động tỷ trọng của nhóm cổ phiếu trụ cột này sẽ tác động ngay đến [chỉ số VN-Index và VN30](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cac-chi-so-chung-khoan-viet-nam-huong-dan-tu-a-z-cho-f0) trên sàn giao dịch. Thấu hiểu cơ cấu vốn hóa giúp bạn đưa ra những quyết định phân bổ danh mục an toàn.
 
 ## Đào tạo kỹ năng phân tích chứng khoán Việt Nam tại HVS Tài chính số
 

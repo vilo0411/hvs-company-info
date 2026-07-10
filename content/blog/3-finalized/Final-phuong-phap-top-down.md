@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["phương pháp top down"]
 Status: Finalized
@@ -22,13 +22,13 @@ Nhiều nhà đầu tư mới tham gia thị trường thường chọn cổ phi
 
 **Phương pháp Top-down (phương pháp từ trên xuống) là chiến lược đầu tư chứng khoán bắt đầu bằng việc phân tích bức tranh vĩ mô toàn cầu và trong nước, từ đó tìm ra các nhóm ngành được hưởng lợi trực tiếp và cuối cùng mới lựa chọn các cổ phiếu có nội tại tốt nhất trong ngành đó để giải ngân.**
 
-Khác biệt cơ bản giữa phương pháp Top-down và Bottom-up (phân tích từ dưới lên) nằm ở điểm xuất phát. Phương pháp Bottom-up thường được áp dụng trong chiến lược [đầu tư giá trị](content/blog/3-finalized/Final-dau-tu-gia-tri.md), nơi bạn bóc tách các chỉ số tài chính riêng lẻ của doanh nghiệp trước (như biên lợi nhuận gộp, tỷ lệ nợ, tốc độ doanh thu) mà không quan tâm nhiều đến vĩ mô hay ngành chung. Ngược lại, phương pháp từ trên xuống đặt giả định rằng doanh nghiệp khó đi ngược lại xu hướng suy thoái chung của nền kinh tế hoặc sự sụt giảm dòng tiền của cả ngành.
+Khác biệt cơ bản giữa phương pháp Top-down và Bottom-up (phân tích từ dưới lên) nằm ở điểm xuất phát. Phương pháp Bottom-up thường được áp dụng trong chiến lược [đầu tư giá trị](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-gia-tri), nơi bạn bóc tách các chỉ số tài chính riêng lẻ của doanh nghiệp trước (như biên lợi nhuận gộp, tỷ lệ nợ, tốc độ doanh thu) mà không quan tâm nhiều đến vĩ mô hay ngành chung. Ngược lại, phương pháp từ trên xuống đặt giả định rằng doanh nghiệp khó đi ngược lại xu hướng suy thoái chung của nền kinh tế hoặc sự sụt giảm dòng tiền của cả ngành.
 
 Ví dụ thực tế, trong giai đoạn nền kinh tế toàn cầu chịu ảnh hưởng tiêu cực của lạm phát phi mã, áp dụng phương pháp từ trên xuống giúp bạn nhận diện các rủi ro hệ thống từ sớm để phòng thủ. Bạn sẽ nhận ra các ngành có tính chu kỳ cao như xây dựng, bất động sản sẽ gặp khó khăn lớn và chủ động chuyển hướng sang các nhóm ngành thiết yếu. Cách tiếp cận này giúp nhà đầu tư cá nhân thiết lập một bộ lọc tư duy có hệ thống, đi từ bức tranh tổng thể rồi mới đi vào chi tiết, đảm bảo rằng mọi quyết định giải ngân đều được nâng đỡ bởi động lượng tích cực của nền kinh tế chung.
 
 ## Hai đặc điểm cốt lõi của chiến lược đầu tư Top-down
 
-Là một [chiến lược đầu tư chứng khoán](content/blog/3-finalized/Final-chien-luoc-dau-tu-chung-khoan.md) phổ biến, phương pháp từ trên xuống sở hữu hai đặc tính vận hành nổi bật mà mọi nhà giao dịch cần ghi nhớ:
+Là một [chiến lược đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chien-luoc-dau-tu-chung-khoan) phổ biến, phương pháp từ trên xuống sở hữu hai đặc tính vận hành nổi bật mà mọi nhà giao dịch cần ghi nhớ:
 
 Đặc điểm thứ nhất là **Sự tập trung chủ đạo vào các biến số vĩ mô**. Phân tích Top-down dành phần lớn nguồn lực để theo dõi các chỉ số kinh tế lớn như tăng trưởng GDP, cán cân thương mại, tỷ lệ lạm phát, chính sách tài khóa của Chính phủ và định hướng điều hành dòng tiền của Ngân hàng Nhà nước. Bằng cách định vị chính xác vị trí của nền kinh tế trong chu kỳ tăng trưởng hay suy thoái, nhà đầu tư đưa ra các quyết định phân bổ tỷ trọng tài sản lớn một cách an toàn, tránh đổ tiền vào thị trường chứng khoán trong các giai đoạn thắt chặt tiền tệ nghiêm trọng.
 

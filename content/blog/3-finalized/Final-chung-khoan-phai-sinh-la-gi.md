@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["chứng khoán phái sinh là gì"]
 Status: Finalized
@@ -19,7 +19,7 @@ Chứng khoán phái sinh là công cụ tài chính hai chiều giúp phòng ng
 
 ## Chứng khoán phái sinh là gì?
 
-Chứng khoán phái sinh là **công cụ tài chính dưới dạng hợp đồng mà giá trị của nó phụ thuộc vào sự biến động giá của một hoặc nhiều tài sản cơ sở**. Tài sản cơ sở này có thể là cổ phiếu (như VCB, HPG), chỉ số (như VN30-Index), hoặc hàng hóa (vàng, dầu thô) và trái phiếu. Khác với giao dịch [chứng khoán](content/blog/3-finalized/Final-chung-khoan-la-gi.md) thông thường, bạn mua bán dựa trên sự biến động giá của tài sản cơ sở trong tương lai mà không sở hữu chúng. Sự phụ thuộc này giải thích tên gọi phái sinh.
+Chứng khoán phái sinh là **công cụ tài chính dưới dạng hợp đồng mà giá trị của nó phụ thuộc vào sự biến động giá của một hoặc nhiều tài sản cơ sở**. Tài sản cơ sở này có thể là cổ phiếu (như VCB, HPG), chỉ số (như VN30-Index), hoặc hàng hóa (vàng, dầu thô) và trái phiếu. Khác với giao dịch [chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi) thông thường, bạn mua bán dựa trên sự biến động giá của tài sản cơ sở trong tương lai mà không sở hữu chúng. Sự phụ thuộc này giải thích tên gọi phái sinh.
 
 Hãy xem kịch bản bán khống (Short) cổ phiếu HPG dưới đây để hiểu rõ cơ chế vận hành:
 - **Mở vị thế:** Bạn dự báo giá HPG (đang ở mức 30.000 đồng/cổ phiếu) sẽ giảm. Bạn quyết định mở vị thế bán khống 10.000 HPG tại mức giá 30.000 đồng.
@@ -46,7 +46,7 @@ Thỏa thuận song phương ngoài sàn (OTC) về việc mua bán tài sản c
 Phiên bản chuẩn hóa của hợp đồng kỳ hạn, giao dịch tập trung trên sàn chứng khoán. Trung tâm Lưu ký Chứng khoán (VSD) bảo lãnh thanh toán và yêu cầu ký quỹ, loại bỏ rủi ro đối tác bùng nợ (liên kết đến [hợp đồng tương lai](content/blog/1-outlines/Outline-hop-dong-tuong-lai.md)).
 
 #### Hợp đồng quyền chọn (Options)
-Thỏa thuận cho phép người mua có quyền (không bắt buộc nghĩa vụ) mua bán tài sản cơ sở tại giá xác định. Người mua phải trả phí quyền chọn cho người bán để sở hữu quyền này (liên kết đến [quyền chọn là gì](content/blog/3-finalized/Final-quyen-chon-la-gi.md)).
+Thỏa thuận cho phép người mua có quyền (không bắt buộc nghĩa vụ) mua bán tài sản cơ sở tại giá xác định. Người mua phải trả phí quyền chọn cho người bán để sở hữu quyền này (liên kết đến [quyền chọn là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quyen-chon-la-gi)).
 
 #### Hợp đồng hoán đổi (Swaps)
 Thỏa thuận hoán đổi dòng tiền định kỳ (như lãi suất thả nổi và cố định). Các định chế tài chính (như ngân hàng, quỹ đầu tư) dùng sản phẩm này để ngừa rủi ro tỷ giá hoặc lãi suất.
@@ -90,7 +90,7 @@ Giao dịch phái sinh mang lại lợi nhuận nhanh chóng nhưng đi kèm r�
 Đòn bẩy cao giúp khuếch đại lợi nhuận nhưng cũng đẩy nhanh tốc độ thua lỗ khi thị trường đi ngược dự đoán. Tài khoản có thể sụt giảm 15% - 20% nếu giá tài sản cơ sở đi ngược chiều 2% - 3%. Điều này dễ dẫn đến việc gọi bổ sung ký quỹ (Call Margin) hoặc bị thanh lý cưỡng bức (Force Sell).
 
 #### Rủi ro biến động giá trong ngày (T+0 Price Volatility Risk)
-Với chu kỳ T+0, giá hợp đồng dao động liên tục trong phiên theo tâm lý đám đông và chênh lệch Basis so với chỉ số VN30-Index (liên kết đến [chỉ số vn30-index là gì](content/blog/3-finalized/Final-chi-so-vn30-index-la-gi.md)). Đặc biệt, biến động giá thường khó lường vào ngày đáo hạn phái sinh do hoạt động tất toán vị thế.
+Với chu kỳ T+0, giá hợp đồng dao động liên tục trong phiên theo tâm lý đám đông và chênh lệch Basis so với chỉ số VN30-Index (liên kết đến [chỉ số vn30-index là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-vn30-index-la-gi)). Đặc biệt, biến động giá thường khó lường vào ngày đáo hạn phái sinh do hoạt động tất toán vị thế.
 
 #### Rủi ro tâm lý và kỷ luật giao dịch (Psychological Risk)
 Khớp lệnh tức thì dễ khiến F0 sa đà vào các giao dịch trả thù (revenge trading) sau khi thua lỗ, hoặc không đặt lệnh dừng lỗ (stop-loss) vì hy vọng giá quay đầu. Việc thiếu kỷ luật này là nguyên nhân chính gây cháy tài khoản.
@@ -102,7 +102,7 @@ Khớp lệnh tức thì dễ khiến F0 sa đà vào các giao dịch trả th�
 Nhà đầu tư mới thường giao dịch phái sinh theo cảm tính hoặc dựa vào phím lệnh hội nhóm khi chưa có nền tảng phân tích kỹ thuật. Việc này dẫn đến thua lỗ nặng nề do đòn bẩy cao nhanh chóng quét qua điểm dừng lỗ tài khoản.
 
 Để phòng tránh các thiệt hại không đáng có, HVS cung cấp cho bạn giải pháp học tập và rèn luyện thực tế toàn diện:
-- Lộ trình Phân tích kỹ thuật (TA Level 1) trong chương trình **HVS Thực tập số** (thuộc nền tảng **HVS Tài chính số**) giúp bạn làm chủ công cụ vẽ đường xu hướng, xác định vùng hỗ trợ/kháng cự (liên kết đến [phân tích kỹ thuật là gì](content/blog/3-finalized/Final-phan-tich-ky-thuat-la-gi.md) và [hỗ trợ kháng cự là gì](content/blog/3-finalized/Final-ho-tro-khang-cu-la-gi.md)) để cắt lỗ tự động.
+- Lộ trình Phân tích kỹ thuật (TA Level 1) trong chương trình **HVS Thực tập số** (thuộc nền tảng **HVS Tài chính số**) giúp bạn làm chủ công cụ vẽ đường xu hướng, xác định vùng hỗ trợ/kháng cự (liên kết đến [phân tích kỹ thuật là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-ky-thuat-la-gi) và [hỗ trợ kháng cự là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ho-tro-khang-cu-la-gi)) để cắt lỗ tự động.
 - Đặt lệnh phái sinh không rủi ro trên giả lập **HVS Demo** để kiểm nghiệm phương pháp phân tích trước khi giao dịch tiền thật.
 - Thảo luận diễn biến thị trường và nhận hỗ trợ từ mentor giàu kinh nghiệm trên cộng đồng **HVS Forum**.
 

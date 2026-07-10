@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu VPB"]
 Status: Finalized
@@ -24,7 +24,7 @@ Quyết định có nên mua cổ phiếu VPB đòi hỏi bạn phải phân tí
 
 Cổ phiếu VPB là chứng chỉ sở hữu cổ phần của Ngân hàng TMCP Việt Nam Thịnh Vượng niêm yết trên sàn HOSE, đại diện cho tổ chức tín dụng có quy mô vốn chủ sở hữu hàng đầu hệ thống tư nhân.
 
-VPBank nổi tiếng với mô hình kinh doanh năng động, tập trung mạnh vào phân khúc cho vay khách hàng cá nhân, doanh nghiệp vừa và nhỏ (SME) và hoạt động tài chính tiêu dùng. Cổ phiếu VPB là một trong những đại diện tiêu biểu của nhóm [cổ phiếu ngân hàng](content/blog/3-finalized/Final-co-phieu-ngan-hang.md) trên sàn HOSE. Trước khi nghiên cứu các chỉ số tài chính chuyên sâu của ngân hàng, việc hiểu rõ các nguyên lý quản trị rủi ro nợ xấu là điều vô cùng cần thiết giúp bạn bảo toàn vốn đầu tư.
+VPBank nổi tiếng với mô hình kinh doanh năng động, tập trung mạnh vào phân khúc cho vay khách hàng cá nhân, doanh nghiệp vừa và nhỏ (SME) và hoạt động tài chính tiêu dùng. Cổ phiếu VPB là một trong những đại diện tiêu biểu của nhóm [cổ phiếu ngân hàng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-ngan-hang) trên sàn HOSE. Trước khi nghiên cứu các chỉ số tài chính chuyên sâu của ngân hàng, việc hiểu rõ các nguyên lý quản trị rủi ro nợ xấu là điều vô cùng cần thiết giúp bạn bảo toàn vốn đầu tư.
 
 * Quy mô hệ sinh thái: Sở hữu hệ sinh thái tài chính đa dạng bao gồm mảng chứng khoán (VPBankS), bảo hiểm (OPES) và tài chính tiêu dùng (FE Credit).
 * Vị thế nguồn vốn: Là ngân hàng tư nhân có quy mô vốn điều lệ và vốn chủ sở hữu thuộc nhóm lớn nhất Việt Nam sau các đợt phát hành cho đối tác ngoại.
@@ -61,7 +61,7 @@ Dù FE Credit đã đi qua giai đoạn khó khăn nhất, tỷ lệ nợ xấu 
 | Nợ xấu mảng bất động sản cá nhân tăng | Gây áp lực lên chất lượng tài sản của ngân hàng mẹ | Khá cao |
 | Áp lực pha loãng từ tăng vốn điều lệ | Làm giảm EPS ngắn hạn, kéo giảm chỉ số định giá P/E | Trung bình |
 
-Để đa dạng hóa danh mục đầu tư sang các nhóm ngành hạ tầng ít nhạy cảm với rủi ro tiêu dùng hơn, bạn có thể tham khảo thêm phân tích về [Có nên mua cổ phiếu POW](content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md).
+Để đa dạng hóa danh mục đầu tư sang các nhóm ngành hạ tầng ít nhạy cảm với rủi ro tiêu dùng hơn, bạn có thể tham khảo thêm phân tích về [Có nên mua cổ phiếu POW](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pow).
 
 ---
 

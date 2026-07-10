@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Mode: Detailed
@@ -105,7 +105,7 @@ Biên gộp của doanh nghiệp sẽ bị thu hẹp đáng kể về mức dư�
 Để bảo vệ lợi nhuận đầu tư thực chiến, bạn nên áp dụng hai quy tắc sau:
 
 *   **Tích lũy theo chu kỳ đơn hàng xuất khẩu:** Bạn hãy kiên nhẫn gom tích lũy cổ phiếu ở các tháng thấp điểm quý 1 và quý 2 khi giá cổ phiếu chiết khấu sâu. Đây là bước chuẩn bị đón đầu làn sóng tăng tốc đơn hàng phục vụ các kỳ nghỉ lễ hội lớn quý 3 và quý 4 hàng năm.
-*   **Quản trị tâm lý mua đuổi:** Cổ phiếu thủy sản có biên độ dao động giá rất lớn do nhạy cảm cao với tin tức tỷ giá hàng tháng. Việc loại bỏ hoàn toàn [lỗi tâm lý FOMO và hoảng loạn](content/blog/3-finalized/Final-tam-ly-dau-tu-chung-khoan.md) sẽ giúp bạn tránh được các đợt sụt giảm kỹ thuật bất ngờ của thị trường.
+*   **Quản trị tâm lý mua đuổi:** Cổ phiếu thủy sản có biên độ dao động giá rất lớn do nhạy cảm cao với tin tức tỷ giá hàng tháng. Việc loại bỏ hoàn toàn [lỗi tâm lý FOMO và hoảng loạn](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan) sẽ giúp bạn tránh được các đợt sụt giảm kỹ thuật bất ngờ của thị trường.
 
 ---
 

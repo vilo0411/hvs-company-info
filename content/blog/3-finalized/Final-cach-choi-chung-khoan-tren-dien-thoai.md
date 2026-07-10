@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["cách chơi chứng khoán trên điện thoại"]
 Status: Finalized
@@ -47,7 +47,7 @@ Dưới đây là lộ trình 4 bước thực hành chi tiết giúp bạn bắ
 
 ### Bước 1: Tải ứng dụng và mở tài khoản online (eKYC)
 
-Đầu tiên, bạn tải ứng dụng chính thức của công ty chứng khoán được cấp phép từ App Store hoặc Google Play. Hãy mở ứng dụng và chọn tính năng mở tài khoản. Hệ thống sẽ hướng dẫn bạn chụp ảnh hai mặt CCCD gắn chip và quét khuôn mặt qua camera bằng công nghệ định danh điện tử eKYC. Quá trình xác thực diễn ra tự động và an toàn. Bạn chỉ cần ký hợp đồng điện tử bằng mã OTP gửi về số điện thoại đăng ký để kích hoạt tài khoản thành công. Tài khoản sẽ được kích hoạt ngay. Nếu chưa biết cách thao tác cụ thể, bạn có thể tham khảo hướng dẫn [cách mở tài khoản chứng khoán](content/blog/3-finalized/Final-cach-mo-tai-khoan-chung-khoan.md) chi tiết từ HVS.
+Đầu tiên, bạn tải ứng dụng chính thức của công ty chứng khoán được cấp phép từ App Store hoặc Google Play. Hãy mở ứng dụng và chọn tính năng mở tài khoản. Hệ thống sẽ hướng dẫn bạn chụp ảnh hai mặt CCCD gắn chip và quét khuôn mặt qua camera bằng công nghệ định danh điện tử eKYC. Quá trình xác thực diễn ra tự động và an toàn. Bạn chỉ cần ký hợp đồng điện tử bằng mã OTP gửi về số điện thoại đăng ký để kích hoạt tài khoản thành công. Tài khoản sẽ được kích hoạt ngay. Nếu chưa biết cách thao tác cụ thể, bạn có thể tham khảo hướng dẫn [cách mở tài khoản chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mo-tai-khoan-chung-khoan) chi tiết từ HVS.
 
 ### Bước 2: Kích hoạt bảo mật tài khoản 2 lớp (Smart OTP)
 
@@ -55,7 +55,7 @@ Tài sản chứng khoán là tiền thật, vì vậy bạn cần đặt an to�
 
 ### Bước 3: Nạp tiền và quản lý dòng vốn ban đầu
 
-Để mua cổ phiếu, bạn chuyển tiền từ ngân hàng vào tài khoản chứng khoán qua số tài khoản định danh được cung cấp trên ứng dụng. Tiền sẽ được ghi nhận vào hệ thống chỉ sau 1 đến 2 phút. Trong bước này, bạn cần chú ý chu kỳ thanh toán T+2.5 tại Việt Nam. Khi bán cổ phiếu vào sáng thứ Hai (T+0), dòng tiền bán sẽ thực sự về tài khoản vào chiều thứ Tư (T+2). HVS khuyên nhà đầu tư F0 chỉ nên đi vốn ban đầu từ 2 đến 5 triệu đồng để thực hành và làm quen nhịp đập thị trường. Đừng vội nạp số vốn lớn. Để có cái nhìn toàn cảnh về chiến lược phân bổ tài sản dài hạn, bạn nên tìm hiểu thêm bài viết về [cách đầu tư chứng khoán](content/blog/3-finalized/Final-cach-dau-tu-chung-khoan.md) cho người mới.
+Để mua cổ phiếu, bạn chuyển tiền từ ngân hàng vào tài khoản chứng khoán qua số tài khoản định danh được cung cấp trên ứng dụng. Tiền sẽ được ghi nhận vào hệ thống chỉ sau 1 đến 2 phút. Trong bước này, bạn cần chú ý chu kỳ thanh toán T+2.5 tại Việt Nam. Khi bán cổ phiếu vào sáng thứ Hai (T+0), dòng tiền bán sẽ thực sự về tài khoản vào chiều thứ Tư (T+2). HVS khuyên nhà đầu tư F0 chỉ nên đi vốn ban đầu từ 2 đến 5 triệu đồng để thực hành và làm quen nhịp đập thị trường. Đừng vội nạp số vốn lớn. Để có cái nhìn toàn cảnh về chiến lược phân bổ tài sản dài hạn, bạn nên tìm hiểu thêm bài viết về [cách đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-khoan) cho người mới.
 
 ### Bước 4: Đọc hiểu bảng giá và đặt lệnh mua bán
 
@@ -69,7 +69,7 @@ Bảng giá di động hiển thị biến động giá của sàn HOSE và sàn
 | **Tím** | Giá trần | Giá tăng cao nhất ngày (+7% sàn HOSE), lực cầu cực mạnh |
 | **Xanh lơ** | Giá sàn | Giá giảm thấp nhất ngày (-7% sàn HOSE), lực cung áp đảo |
 
-Cách hiển thị này giúp bạn theo dõi sát sao biên độ dao động và phân biệt rõ [giá trần giá sàn](content/blog/3-finalized/Final-gia-tran-gia-san.md) của từng mã trong phiên.
+Cách hiển thị này giúp bạn theo dõi sát sao biên độ dao động và phân biệt rõ [giá trần giá sàn](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/gia-tran-gia-san) của từng mã trong phiên.
 
 Khi đặt lệnh giới hạn LO (chọn mã ví dụ VCB, nhập khối lượng tối thiểu 100 cổ phiếu và mức giá muốn mua), bạn hãy ứng phó linh hoạt theo 2 kịch bản:
 

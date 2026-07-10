@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Detailed
@@ -11,7 +11,7 @@ Meta_Description: Giải đáp quy định một người được mở bao nhi�
 
 # Một người được mở bao nhiêu tài khoản chứng khoán? Quy định mới
 
-Nhiều nhà đầu tư mới tham gia thị trường thường thắc mắc một người được mở bao nhiêu tài khoản chứng khoán để phân bổ dòng vốn. Trước khi tiến hành tìm hiểu [cách mở tài khoản chứng khoán](content/blog/3-finalized/Final-cach-mo-tai-khoan-chung-khoan.md), việc nắm vững quy định pháp lý giúp bạn xây dựng chiến lược giao dịch chủ động và đúng luật. Bài viết phân tích chi tiết quy chế mở tài khoản cùng lời khuyên thực chiến từ HVS.
+Nhiều nhà đầu tư mới tham gia thị trường thường thắc mắc một người được mở bao nhiêu tài khoản chứng khoán để phân bổ dòng vốn. Trước khi tiến hành tìm hiểu [cách mở tài khoản chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mo-tai-khoan-chung-khoan), việc nắm vững quy định pháp lý giúp bạn xây dựng chiến lược giao dịch chủ động và đúng luật. Bài viết phân tích chi tiết quy chế mở tài khoản cùng lời khuyên thực chiến từ HVS.
 
 ## Một người được mở bao nhiêu tài khoản chứng khoán?
 
@@ -99,7 +99,7 @@ Vấn đề bảo mật thông tin tài khoản cũng cần được đặt lên
 
 Để giải quyết triệt để tình trạng đầu tư FOMO và quản lý tài khoản kém hiệu quả, HVS mang đến giải pháp đào tạo thực chiến kết hợp thực hành trực quan.
 
-Hãy bắt đầu học sớm. Nhiều F0 vội vã [mở tài khoản chứng khoán online](content/blog/3-finalized/Final-mo-tai-khoan-chung-khoan-online-co-an-toan-khong.md) vì ưu đãi nhưng dễ đặt lệnh theo tin đồn và thua lỗ nếu thiếu năng lực tự phân tích.
+Hãy bắt đầu học sớm. Nhiều F0 vội vã [mở tài khoản chứng khoán online](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/mo-tai-khoan-chung-khoan-online-co-an-toan-khong) vì ưu đãi nhưng dễ đặt lệnh theo tin đồn và thua lỗ nếu thiếu năng lực tự phân tích.
 
 Giải pháp đào tạo của HVS giúp bạn xây dựng tư duy quản trị tài sản vững chắc:
 * **HVS Thực tập số:** Lộ trình học trên nền tảng **HVS Tài chính số**, trang bị kiến thức Phân tích cơ bản (FA Level 1) và Phân tích kỹ thuật (TA Level 1) giúp tự phân tích cổ phiếu.

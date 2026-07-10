@@ -1,4 +1,4 @@
----
+﻿---
 Author: HVS Senior Mentor
 Status: Finalized
 Pipeline_Mode: Express
@@ -20,7 +20,7 @@ Bạn đang phân tích có nên mua cổ phiếu IDJ thời điểm này? Cổ 
 
 Cổ phiếu IDJ là chứng chỉ sở hữu cổ phần của Đầu tư IDJ Việt Nam niêm yết trên sàn HNX, thuộc nhóm vốn hóa nhỏ (Penny), đặc trưng bởi tính đầu cơ và biên độ dao động lớn.
 
-Đầu tư IDJ Việt Nam thành lập năm 2007, niêm yết HNX năm 2010. Doanh nghiệp hoạt động trong lĩnh vực phát triển [cổ phiếu bất động sản](content/blog/3-finalized/Final-co-phieu-bat-dong-san.md) và dịch vụ khách sạn. Với vốn điều lệ nhỏ và cấu trúc tài sản tập trung vào dự án dở dang, giá cổ phiếu thường biến động mạnh theo dòng tiền đầu cơ.
+Đầu tư IDJ Việt Nam thành lập năm 2007, niêm yết HNX năm 2010. Doanh nghiệp hoạt động trong lĩnh vực phát triển [cổ phiếu bất động sản](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-bat-dong-san) và dịch vụ khách sạn. Với vốn điều lệ nhỏ và cấu trúc tài sản tập trung vào dự án dở dang, giá cổ phiếu thường biến động mạnh theo dòng tiền đầu cơ.
 
 Các thông tin giao dịch cơ bản của cổ phiếu IDJ gồm:
 * Sàn giao dịch niêm yết: HNX.
@@ -84,7 +84,7 @@ Kế hoạch hành động giả lập tham khảo cụ thể cho bạn:
 * Vùng giá quan sát phòng thủ (Kịch bản 2): Chờ đợi tích lũy tại 3.800 đồng/cổ phiếu.
 * Tỷ trọng phân bổ danh mục ảo: Giới hạn dưới 5% tổng tài sản mô phỏng.
 
-Kỷ luật giao dịch là yếu tố quyết định. Lập kịch bản giúp bạn loại bỏ yếu tố cảm xúc và kiểm soát lòng tham khi thấy giá tăng nóng. Giống như khi học phân tích [Có nên mua cổ phiếu POW](content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md), kịch bản giúp bạn chủ động. Tuyệt đối không áp dụng chiến thuật nắm giữ dài hạn hay thực hiện trung bình giá xuống đối với các mã penny rủi ro cao trong thực tế đầu tư của bạn.
+Kỷ luật giao dịch là yếu tố quyết định. Lập kịch bản giúp bạn loại bỏ yếu tố cảm xúc và kiểm soát lòng tham khi thấy giá tăng nóng. Giống như khi học phân tích [Có nên mua cổ phiếu POW](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pow), kịch bản giúp bạn chủ động. Tuyệt đối không áp dụng chiến thuật nắm giữ dài hạn hay thực hiện trung bình giá xuống đối với các mã penny rủi ro cao trong thực tế đầu tư của bạn.
 
 ---
 

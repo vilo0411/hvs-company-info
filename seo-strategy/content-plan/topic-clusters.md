@@ -1,6 +1,6 @@
 # Topic Clusters — HVS SEO Content Map
 > Cập nhật: 2026-06-18 | Nguồn: keyword-hvs.csv (491 articles)
-> ✅ Published: 247 | 🔄 In Progress: 0 | ⭕ Planned: 244
+> ✅ Published: 251 | 🔄 In Progress: 0 | ⭕ Planned: 240
 
 ---
 
@@ -186,7 +186,7 @@
 - ✅ cổ phiếu ngành hóa chất *(Published — Final-co-phieu-nganh-hoa-chat.md)*
 - ✅ cổ phiếu ngành nông nghiệp *(Published — Final-co-phieu-nganh-nong-nghiep.md)*
 
-### Cluster: Phân tích cơ bản (115 articles | ✅ 13 | 🔄 0 | ⭕ 102)
+### Cluster: Phân tích cơ bản (115 articles | ✅ 14 | 🔄 0 | ⭕ 101)
 
 **Pillar:** ✅ p/e là gì *(Published — Final-p-e-la-gi.md)*
 
@@ -231,7 +231,7 @@
 - ⭕ phân tích báo cáo tài chính vietcombank *(Planned)*
 - ⭕ Phân tích báo cáo tài chính Vingroup *(Planned)*
 - ⭕ Phân tích báo cáo tài chính PNJ *(Planned)*
-- ⭕ Phân tích báo cáo tài chính Công ty Bibica *(Planned)*
+- ✅ Phân tích báo cáo tài chính Công ty Bibica *(Published — Final-phan-tich-bao-cao-tai-chinh-cong-ty-bibica.md)*
 - ⭕ Phân tích báo cáo tài chính Công ty Kinh Đô *(Planned)*
 - ⭕ chuỗi giá trị ngành thép *(Planned)*
 - ⭕ chuỗi giá trị ngành dầu khí *(Planned)*
@@ -250,7 +250,7 @@
 - ⭕ capex là gì *(Planned)*
 - ⭕ Tín dụng doanh nghiệp là gì *(Planned)*
 - ⭕ M&A là gì *(Planned)*
-- ⭕ Phân tích Dupont là gì *(Planned)*
+- ✅ Phân tích Dupont là gì *(Published — Final-phan-tich-dupont-la-gi.md)*
 - ⭕ chỉ tiêu doanh thu *(Planned)*
 - ⭕ cách đọc báo cáo thường niên *(Planned)*
 - ✅ Chi phí biên là gì *(Published — Final-chi-phi-bien-la-gi.md)*
@@ -442,7 +442,7 @@
 - ✅ đầu tư thụ động *(Published — Final-dau-tu-thu-dong.md)*
 - ✅ đầu tư chủ động *(Published — Final-dau-tu-chu-dong.md)*
 
-### Cluster: Trái phiếu (7 articles | ✅ 5 | 🔄 0 | ⭕ 2)
+### Cluster: Trái phiếu (7 articles | ✅ 6 | 🔄 0 | ⭕ 1)
 
 **Pillar:** ✅ bond yield là gì *(Published — Final-bond-yield-la-gi.md)*
 
@@ -450,7 +450,7 @@
 - ⭕ có nên đầu tư trái phiếu *(Planned)*
 - ✅ Trái phiếu chính phủ là gì *(Published — Final-trai-phieu-chinh-phu-la-gi.md)*
 - ✅ trái phiếu là gì *(Published — Final-trai-phieu-la-gi.md)*
-- ⭕ Trái phiếu chuyển đổi là gì *(Planned)*
+- ✅ Trái phiếu chuyển đổi là gì *(Published — Final-trai-phieu-chuyen-doi-la-gi.md)*
 - ✅ Trái phiếu doanh nghiệp là gì *(Published — Final-trai-phieu-doanh-nghiep-la-gi.md)*
 - ✅ Trái phiếu ngân hàng là gì *(Published — Final-trai-phieu-ngan-hang-la-gi.md)*
 

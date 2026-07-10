@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["cổ phiếu ngành than"]
 Status: Finalized
@@ -53,7 +53,7 @@ Bạn cần nắm rõ cấu trúc chuỗi giá trị ngành khai khoáng Việt 
 
 Đặc thù tài chính của nhóm này là biên gộp rất mỏng và không có rủi ro bán hàng. Nhờ TKV bao tiêu 100%, nợ xấu hay tồn kho không tồn tại. Lợi nhuận doanh nghiệp hoàn toàn phụ thuộc đơn giá thu mua do TKV ấn định và tài năng tiết giảm chi phí. Doanh thu của nhóm rất lớn nhưng nợ ngắn hạn cao để tài trợ vốn lưu động.
 
-Trước khi đi sâu bóc tách các biến số tài chính đặc thù của ngành khai khoáng, việc trang bị hệ thống kiến thức nền tảng tại bài viết [cổ phiếu là gì](content/blog/3-finalized/Final-co-phieu-la-gi.md) của HVS sẽ hỗ trợ bạn đọc nắm vững cách đọc hiểu báo cáo tài sản của các công ty con vệ tinh.
+Trước khi đi sâu bóc tách các biến số tài chính đặc thù của ngành khai khoáng, việc trang bị hệ thống kiến thức nền tảng tại bài viết [cổ phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) của HVS sẽ hỗ trợ bạn đọc nắm vững cách đọc hiểu báo cáo tài sản của các công ty con vệ tinh.
 
 ---
 
@@ -65,7 +65,7 @@ Trước khi đi sâu bóc tách các biến số tài chính đặc thù của 
 
 Động lực vĩ mô thứ hai là sự phân hóa sinh tử về hiệu quả chi phí giữa hai mô hình khai thác mỏ. Phân khúc khai thác lộ thiên đối mặt với khó khăn lớn khi các mỏ cũ dần cạn kiệt, hệ số bóc đất đá tăng cao kỷ lục buộc doanh nghiệp phải bóc xúc hàng chục triệu mét khối đất đá để lấy được một tấn than nguyên khai. Ngược lại, phân khúc khai thác hầm lò chịu áp lực chi phí xây dựng hạ tầng sâu dưới mực nước biển rất lớn ở giai đoạn đầu, nhưng khi đã đi vào vận hành ổn định, biên lợi nhuận gộp sẽ được giữ vững nhờ sản lượng khai thác tập trung.
 
-Động lực vĩ mô thứ ba là cơ chế linh hoạt điều chỉnh đơn giá mua than nội địa của TKV. Khi chi phí nhiên liệu dầu diesel cho xe cuốc lộ thiên tăng cao hoặc phát sinh chi phí an toàn lò chợ hầm lò lớn, TKV sẽ xem xét tăng giá mua than thành phẩm để bù đắp thiệt hại, giữ mức lợi nhuận ròng định mức ổn định từ 2% đến 3% cho các công ty con. Bạn nên sử dụng [phương pháp phân tích ngành](content/blog/3-finalized/Final-phan-tich-nganh-la-gi.md) của HVS để định lượng chuẩn xác tác động vĩ mô này lên chu kỳ định giá tài sản.
+Động lực vĩ mô thứ ba là cơ chế linh hoạt điều chỉnh đơn giá mua than nội địa của TKV. Khi chi phí nhiên liệu dầu diesel cho xe cuốc lộ thiên tăng cao hoặc phát sinh chi phí an toàn lò chợ hầm lò lớn, TKV sẽ xem xét tăng giá mua than thành phẩm để bù đắp thiệt hại, giữ mức lợi nhuận ròng định mức ổn định từ 2% đến 3% cho các công ty con. Bạn nên sử dụng [phương pháp phân tích ngành](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-nganh-la-gi) của HVS để định lượng chuẩn xác tác động vĩ mô này lên chu kỳ định giá tài sản.
 
 ---
 
@@ -123,7 +123,7 @@ TC6 có bề dày lịch sử khai thác lâu đời của vùng mỏ Quảng Ni
 #### Rủi ro đầu tư
 Mỏ lộ thiên đã khai thác chạm đáy giới hạn kỹ thuật dẫn đến biên gộp sụt giảm nghiêm trọng, dòng tiền hoạt động liên tục chịu áp lực lớn.
 
-Để thực hành các bộ lọc chỉ số tài chính khắt khe nhằm tìm ra doanh nghiệp tốt nhất, bạn nên đối chiếu trực tiếp bài viết [chọn mã cổ phiếu tốt](content/blog/3-finalized/Final-nen-dau-tu-co-phieu-nao.md) để tự xây dựng danh mục tích sản an toàn.
+Để thực hành các bộ lọc chỉ số tài chính khắt khe nhằm tìm ra doanh nghiệp tốt nhất, bạn nên đối chiếu trực tiếp bài viết [chọn mã cổ phiếu tốt](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/nen-dau-tu-co-phieu-nao) để tự xây dựng danh mục tích sản an toàn.
 
 ---
 
@@ -135,11 +135,11 @@ Rủi ro thứ nhất là sự sụt giảm hiệu quả do hệ số bóc đấ
 
 Rủi ro thứ hai là hiểm họa ngập mỏ do biến đổi khí hậu trong mùa mưa. Quảng Ninh là địa bàn chịu lượng mưa cực lớn vào mùa hè. Khi bão lũ kéo dài, các mỏ lộ thiên sâu như lòng chảo và hệ thống đường lò hầm lò đứng trước nguy cơ bị ngập lụt nghiêm trọng. Quá trình khai thác buộc phải tạm dừng hoàn toàn để bơm hút nước, phát sinh chi phí khắc phục sự cố khổng lồ và làm đứt gãy tiến độ bao tiêu sản lượng kế hoạch.
 
-Rủi ro thứ ba là vị thế đòn bẩy tài chính ngắn hạn cao tài trợ vốn lưu động. Do cơ chế TKV thanh toán tiền mua than chậm theo đợt quyết toán kỹ thuật cuối năm, các công ty than phải liên tục vay nợ ngắn hạn ngân hàng để trả lương thợ lò và mua nhiên liệu. Bất kỳ biến động tăng nào của mặt bằng lãi suất cho vay ngắn hạn cũng trực tiếp ăn mòn toàn bộ lợi nhuận ròng của doanh nghiệp. Đặc thù phòng thủ thuần túy này hoàn toàn trái ngược với bản chất biến động điên cuồng của nhóm [cổ phiếu đầu cơ](content/blog/3-finalized/Final-co-phieu-dau-co.md) trên sàn chứng khoán.
+Rủi ro thứ ba là vị thế đòn bẩy tài chính ngắn hạn cao tài trợ vốn lưu động. Do cơ chế TKV thanh toán tiền mua than chậm theo đợt quyết toán kỹ thuật cuối năm, các công ty than phải liên tục vay nợ ngắn hạn ngân hàng để trả lương thợ lò và mua nhiên liệu. Bất kỳ biến động tăng nào của mặt bằng lãi suất cho vay ngắn hạn cũng trực tiếp ăn mòn toàn bộ lợi nhuận ròng của doanh nghiệp. Đặc thù phòng thủ thuần túy này hoàn toàn trái ngược với bản chất biến động điên cuồng của nhóm [cổ phiếu đầu cơ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-dau-co) trên sàn chứng khoán.
 
 Để tối ưu hóa hiệu quả sinh lời, bạn cần theo sát kịch bản giao dịch thực chiến vĩ mô dưới đây:
 *   **Kịch bản tích cực (Tăng đơn giá thu mua):** Khi TKV chính thức phê duyệt phương án tăng đơn giá mua than nội địa thêm từ 3% đến 5% nhằm chia sẻ khó khăn chi phí địa chất cho các công ty con. Cú hích này kích hoạt biên lợi nhuận gộp của TVD và TDN hồi phục mạnh mẽ, lợi nhuận ròng có thể bứt phá trên 40%. Bạn chủ động tích lũy gia tăng tỷ trọng cổ phiếu than ngay khi báo cáo tài chính quý ghi nhận dòng tiền hoạt động CFO chuyển trạng thái dương mạnh mẽ.
-*   **Kịch bản tiêu cực (Ngập mỏ kéo dài):** Khi xảy ra mưa lũ lịch sử kéo dài tại Quảng Ninh gây ngập sâu các diện sản xuất hầm lò chính của NBC hay TVD, buộc doanh nghiệp dừng khai thác trên 1 tháng. Chi phí xử lý bùn đất, thông lò làm phát sinh chi phí đột biến gây lỗ ròng quý. Bạn chủ động hạ tỷ trọng nắm giữ cổ phiếu về mức tối thiểu, kiên nhẫn đứng ngoài thị trường để tránh [tâm lý hoảng loạn đám đông](content/blog/3-finalized/Final-tam-ly-dau-tu-chung-khoan.md), chờ đợi doanh nghiệp hoàn tất khắc phục sự cố kỹ thuật mới xem xét giải ngân tích sản lại. Quy tắc cốt tử là kiên quyết áp dụng chiến lược gom mua vùng giá chiết khấu sâu để hưởng tỷ suất cổ tức tiền mặt trên 12%/năm, tuyệt đối không lướt sóng ngắn hạn theo giá than thế giới Newcastle.
+*   **Kịch bản tiêu cực (Ngập mỏ kéo dài):** Khi xảy ra mưa lũ lịch sử kéo dài tại Quảng Ninh gây ngập sâu các diện sản xuất hầm lò chính của NBC hay TVD, buộc doanh nghiệp dừng khai thác trên 1 tháng. Chi phí xử lý bùn đất, thông lò làm phát sinh chi phí đột biến gây lỗ ròng quý. Bạn chủ động hạ tỷ trọng nắm giữ cổ phiếu về mức tối thiểu, kiên nhẫn đứng ngoài thị trường để tránh [tâm lý hoảng loạn đám đông](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan), chờ đợi doanh nghiệp hoàn tất khắc phục sự cố kỹ thuật mới xem xét giải ngân tích sản lại. Quy tắc cốt tử là kiên quyết áp dụng chiến lược gom mua vùng giá chiết khấu sâu để hưởng tỷ suất cổ tức tiền mặt trên 12%/năm, tuyệt đối không lướt sóng ngắn hạn theo giá than thế giới Newcastle.
 
 ---
 

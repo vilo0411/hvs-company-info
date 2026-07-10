@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Detailed
@@ -22,7 +22,7 @@ Tập đoàn Vingroup (mã chứng khoán: VIC) là doanh nghiệp có vốn hó
 
 Mã chứng khoán đại diện duy nhất của Tập đoàn Vingroup là VIC. Bạn cần lưu ý phân biệt rõ mã VIC với các cổ phiếu khác thuộc "họ Vin" cũng đang niêm yết trên sàn chứng khoán Việt Nam như VHM (Công ty Cổ phần Vinhomes), VRE (Công ty Cổ phần Vincom Retail). Ngoài ra, cổ phiếu VFS (VinFast Auto) niêm yết tại sàn giao dịch Nasdaq tại Mỹ và hoàn toàn không giao dịch trực tiếp trên sàn chứng khoán Việt Nam.
 
-Với vị thế là cổ phiếu Blue-chip hàng đầu của nền kinh tế, VIC luôn nằm trong rổ chỉ số VN30 gồm những cổ phiếu có vốn hóa và thanh khoản lớn nhất thị trường. Do đó, biến động giá của mã VIC có tầm ảnh hưởng rất lớn đến tâm lý nhà đầu tư và chỉ số chung VN-Index. Nắm vững điều này sẽ giúp bạn có cái nhìn tổng quan khi phân tích [cổ phiếu là gì](content/blog/3-finalized/Final-co-phieu-la-gi.md) và đưa ra quyết định đầu tư an toàn, hợp lý.
+Với vị thế là cổ phiếu Blue-chip hàng đầu của nền kinh tế, VIC luôn nằm trong rổ chỉ số VN30 gồm những cổ phiếu có vốn hóa và thanh khoản lớn nhất thị trường. Do đó, biến động giá của mã VIC có tầm ảnh hưởng rất lớn đến tâm lý nhà đầu tư và chỉ số chung VN-Index. Nắm vững điều này sẽ giúp bạn có cái nhìn tổng quan khi phân tích [cổ phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) và đưa ra quyết định đầu tư an toàn, hợp lý.
 
 ---
 
@@ -75,9 +75,9 @@ Thứ ba là rủi ro biến động giá của nhóm cổ phiếu trụ cột. 
 
 Đầu tư vào một cổ phiếu vốn hóa lớn có cấu trúc đa ngành phức tạp như VIC đòi hỏi nhà đầu tư phải có tư duy phân tích doanh nghiệp bài bản thay vì chỉ giao dịch dựa trên cảm tính hay tin đồn. Hệ sinh thái HVS Tài Chính Số mang đến hệ thống công cụ hỗ trợ giao dịch đắc lực và lộ trình đào tạo chuyên sâu giúp bạn nâng cao năng lực thực chiến vững vàng trên thị trường.
 
-Tham gia lộ trình đào tạo Phân tích hỗn hợp chuyên sâu tại chương trình **HVS Thực tập số**, bạn sẽ được các chuyên gia giàu kinh nghiệm hướng dẫn chi tiết cách đọc hiểu báo cáo tài chính Vingroup, phân tích cơ cấu nợ phải trả phức tạp và tiến độ triển khai các dự án đại đô thị. Đồng thời, bạn sẽ được tham gia [khóa học chứng khoán](content/blog/3-finalized/Final-khoa-hoc-chung-khoan.md) bài bản từ cơ bản đến nâng cao để tự tin đưa ra các quyết định đầu tư độc lập, an toàn.
+Tham gia lộ trình đào tạo Phân tích hỗn hợp chuyên sâu tại chương trình **HVS Thực tập số**, bạn sẽ được các chuyên gia giàu kinh nghiệm hướng dẫn chi tiết cách đọc hiểu báo cáo tài chính Vingroup, phân tích cơ cấu nợ phải trả phức tạp và tiến độ triển khai các dự án đại đô thị. Đồng thời, bạn sẽ được tham gia [khóa học chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/khoa-hoc-chung-khoan) bài bản từ cơ bản đến nâng cao để tự tin đưa ra các quyết định đầu tư độc lập, an toàn.
 
-Bên cạnh lý thuyết, bạn có thể thực hành đặt các lệnh giao dịch LO, MP, ATC an toàn hoàn toàn không rủi ro tài chính trên hệ thống **HVS Demo** miễn phí, kết nối dữ liệu sàn HOSE theo thời gian thực. Hơn nữa, cộng đồng **HVS Forum** là không gian thảo luận vô cùng chất lượng, giúp bạn học hỏi kinh nghiệm kiểm soát tốt [tâm lý đầu tư chứng khoán](content/blog/3-finalized/Final-tam-ly-dau-tu-chung-khoan.md) và tối ưu hóa danh mục cá nhân trước những đợt rung lắc mạnh của [thị trường chứng khoán](content/blog/3-finalized/Final-chung-khoan-la-gi.md).
+Bên cạnh lý thuyết, bạn có thể thực hành đặt các lệnh giao dịch LO, MP, ATC an toàn hoàn toàn không rủi ro tài chính trên hệ thống **HVS Demo** miễn phí, kết nối dữ liệu sàn HOSE theo thời gian thực. Hơn nữa, cộng đồng **HVS Forum** là không gian thảo luận vô cùng chất lượng, giúp bạn học hỏi kinh nghiệm kiểm soát tốt [tâm lý đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan) và tối ưu hóa danh mục cá nhân trước những đợt rung lắc mạnh của [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi).
 
 ---
 

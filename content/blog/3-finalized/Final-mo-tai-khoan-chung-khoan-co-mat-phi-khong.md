@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Detailed
@@ -11,7 +11,7 @@ Meta_Description: Giải đáp mở tài khoản chứng khoán có mất phí k
 
 # Mở tài khoản chứng khoán có mất phí không? Chi tiết từ A-Z
 
-Nhiều nhà đầu tư mới thắc mắc mở tài khoản chứng khoán có mất phí không khi tham gia thị trường. Trước khi tìm hiểu [cách mở tài khoản chứng khoán](content/blog/3-finalized/Final-cach-mo-tai-khoan-chung-khoan.md), việc nắm rõ biểu phí giúp bạn đầu tư hiệu quả. Bài viết phân tích các loại thuế, phí phát sinh tại Việt Nam.
+Nhiều nhà đầu tư mới thắc mắc mở tài khoản chứng khoán có mất phí không khi tham gia thị trường. Trước khi tìm hiểu [cách mở tài khoản chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mo-tai-khoan-chung-khoan), việc nắm rõ biểu phí giúp bạn đầu tư hiệu quả. Bài viết phân tích các loại thuế, phí phát sinh tại Việt Nam.
 
 ## Mở tài khoản chứng khoán có mất phí không?
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Pipeline_Mode: Express
@@ -22,7 +22,7 @@ Cấu trúc nguồn vốn bền vững là nền tảng cho sự tăng trưởng
 
 Nợ dài hạn trên vốn chủ sở hữu là **chỉ số tài chính đo lường tỷ lệ giữa các nghĩa vụ nợ có kỳ hạn trên một năm của doanh nghiệp so với tổng vốn chủ sở hữu của cổ đông**. Chỉ số này phản ánh mức độ doanh nghiệp tài trợ cho hoạt động sản xuất bằng nguồn vốn vay dài hạn thay vì nguồn vốn tự có. Tỷ lệ này cao phản ánh doanh nghiệp đang dùng nhiều đòn bẩy tài chính nhằm tối ưu hóa hiệu quả kinh doanh, đồng thời cho thấy mức độ tự chủ tài chính dài hạn. Nhà phân tích sử dụng chỉ số này nhằm xác định xem cấu trúc tài chính của doanh nghiệp có an toàn hay không.
 
-Các doanh nghiệp sản xuất (như Tập đoàn Hòa Phát, mã HPG trên sàn HOSE) thường duy trì tỷ số nợ dài hạn cao do nhu cầu xây dựng nhà xưởng. Ngược lại, các công ty công nghệ (như FPT) giữ tỷ số này ở mức thấp. Khi phân tích chỉ số này, việc hiểu rõ bản chất [vốn cổ phần là gì](content/blog/3-finalized/Final-von-co-phan-la-gi.md) giúp bạn đánh giá đúng quy mô nguồn vốn tự có.
+Các doanh nghiệp sản xuất (như Tập đoàn Hòa Phát, mã HPG trên sàn HOSE) thường duy trì tỷ số nợ dài hạn cao do nhu cầu xây dựng nhà xưởng. Ngược lại, các công ty công nghệ (như FPT) giữ tỷ số này ở mức thấp. Khi phân tích chỉ số này, việc hiểu rõ bản chất [vốn cổ phần là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/von-co-phan-la-gi) giúp bạn đánh giá đúng quy mô nguồn vốn tự có.
 
 ## Công thức tính tỷ lệ nợ dài hạn trên vốn chủ sở hữu
 
@@ -64,7 +64,7 @@ Tỷ lệ D/E luôn lớn hơn hoặc bằng tỷ lệ nợ dài hạn. Doanh ng
 
 Nhiều nhà đầu tư mới (như Lan Newbie) thường bối rối khi phân tích các chỉ số tài chính trên Bảng cân đối kế toán. Bạn không biết liệu doanh nghiệp đi vay dài hạn để đầu tư mở rộng nhà máy mới có đem lại lợi nhuận hiệu quả hay chỉ đang đẩy doanh nghiệp vào tình trạng kiệt quệ tài chính. Việc giao dịch bằng tiền thật khi chưa có phương pháp phân tích bài bản sẽ dẫn đến những thua lỗ đáng tiếc.
 
-Để giải quyết rào cản này, **HVS Tài chính số** mang đến lộ trình đào tạo **HVS Thực tập số** (môn [phân tích cơ bản](content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md) FA Level 2) giúp bạn rèn luyện kỹ năng phân tích cấu trúc vốn và lập mô hình dòng tiền dự án. Song song đó, bạn có thể thực hành phân tích trực tiếp trên **HVS Demo** để tích lũy kinh nghiệm thực tế mà không sợ mất vốn. Sau cùng, bạn tham gia thảo luận cùng các Mentor giàu kinh nghiệm tại **HVS Forum** để giải đáp mọi thắc mắc và hoàn thiện tư duy đầu tư của bản thân. Nhờ vậy, bạn dễ dàng xây dựng bộ quy tắc đầu tư cá nhân an toàn.
+Để giải quyết rào cản này, **HVS Tài chính số** mang đến lộ trình đào tạo **HVS Thực tập số** (môn [phân tích cơ bản](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) FA Level 2) giúp bạn rèn luyện kỹ năng phân tích cấu trúc vốn và lập mô hình dòng tiền dự án. Song song đó, bạn có thể thực hành phân tích trực tiếp trên **HVS Demo** để tích lũy kinh nghiệm thực tế mà không sợ mất vốn. Sau cùng, bạn tham gia thảo luận cùng các Mentor giàu kinh nghiệm tại **HVS Forum** để giải đáp mọi thắc mắc và hoàn thiện tư duy đầu tư của bản thân. Nhờ vậy, bạn dễ dàng xây dựng bộ quy tắc đầu tư cá nhân an toàn.
 
 ## Kết luận: Quản lý rủi ro đòn bẩy dài hạn thông minh cùng HVS
 

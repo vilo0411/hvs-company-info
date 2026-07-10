@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -22,7 +22,7 @@ Sản phẩm tài chính này hoạt động dựa trên cơ chế gom nguồn t
 Điều này mang lại cơ hội đa dạng hóa danh mục đầu tư rất tốt cho các cá nhân.
 Thay vì phải mua lẻ tẻ từng mã trên sàn giao dịch với chi phí lớn và rủi ro cao, bạn nắm giữ một phần của chiếc giỏ tài sản khổng lồ. Mỗi phần vốn góp đó được chia nhỏ tương ứng thành các chứng chỉ quỹ. Bạn có quyền yêu cầu công ty quản lý mua lại các chứng chỉ quỹ này bất kỳ lúc nào để chuyển hóa thành tiền mặt.
 
-Bạn nên tham khảo thêm sản phẩm [ETF là gì](content/blog/3-finalized/Final-etf-la-gi.md) để so sánh khách quan với mô hình quỹ mở.
+Bạn nên tham khảo thêm sản phẩm [ETF là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/etf-la-gi) để so sánh khách quan với mô hình quỹ mở.
 Cả hai dòng quỹ này đều giúp nhà đầu tư phân tán rủi ro tập trung vốn hiệu quả trong dài hạn.
 
 ## Đặc điểm và cơ chế hoạt động của quỹ mở tại Việt Nam

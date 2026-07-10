@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["hợp đồng tương lai"]
 Status: Finalized
@@ -28,10 +28,10 @@ Hợp đồng tương lai là công cụ phái sinh phổ biến, mang lại cơ
 
 Hợp đồng tương lai là **chứng khoán phái sinh niêm yết chuẩn hóa ghi nhận cam kết giao dịch tài sản cơ sở ở mức giá xác định tại một thời điểm cụ thể trong tương lai**. Trong thị trường tài chính Việt Nam, sản phẩm này là công cụ phòng ngừa rủi ro hữu ích cho nhà đầu tư. Khi giao dịch, hai bên mua và bán không trao đổi tài sản ngay lập tức mà thỏa thuận trước mức giá cố định cho thời điểm đáo hạn.
 
-Để phân loại, bạn cần biết [chứng khoán là gì](content/blog/3-finalized/Final-chung-khoan-la-gi.md). Thị trường chia làm ba nhóm chính:
+Để phân loại, bạn cần biết [chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi). Thị trường chia làm ba nhóm chính:
 - **Chứng khoán vốn:** Cổ phiếu phổ thông.
 - **Chứng khoán nợ:** Trái phiếu doanh nghiệp.
-- **Chứng khoán phái sinh:** Gồm [chứng khoán phái sinh là gì](content/blog/3-finalized/Final-chung-khoan-phai-sinh-la-gi.md) (như hợp đồng tương lai) và [quyền chọn là gì](content/blog/3-finalized/Final-quyen-chon-la-gi.md).
+- **Chứng khoán phái sinh:** Gồm [chứng khoán phái sinh là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-phai-sinh-la-gi) (như hợp đồng tương lai) và [quyền chọn là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quyen-chon-la-gi).
 
 Tại Việt Nam, tài sản cơ sở của hợp đồng tương lai là chỉ số VN30. Chỉ số này đo lường biến động giá của 30 doanh nghiệp vốn hóa lớn và thanh khoản cao trên sàn HOSE như VCB, HPG, VNM. Nhà đầu tư không sở hữu trực tiếp chỉ số VN30 mà giao dịch sự biến động điểm số thông qua hợp đồng phái sinh. Cơ chế chuẩn hóa giúp bạn dễ dàng mua bán liên tục trên sàn giao dịch tương tự cổ phiếu cơ sở.
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["chia tách cổ phiếu là gì"]
 Status: Finalized
@@ -57,7 +57,7 @@ Các đặc trưng chính của hình thức này bao gồm:
 - Không phát sinh dòng tiền mới từ bên ngoài chảy vào doanh nghiệp.
 - Giữ nguyên quy mô vốn chủ sở hữu của công ty.
 - Điều chỉnh giảm giá tham chiếu cổ phiếu vào ngày giao dịch không hưởng quyền trên sàn HOSE và sàn HNX.
-Quy mô vốn chủ sở hữu giữ nguyên hoàn toàn sau đợt phát hành. Tỷ lệ sở hữu của cổ đông không bị thay đổi khi nhận [cổ tức là gì](content/blog/3-finalized/Final-co-tuc-la-gi.md) dưới dạng [trả cổ tức bằng cổ phiếu là gì](content/blog/3-finalized/Final-tra-co-tuc-bang-co-phieu-la-gi.md) đồng đều theo tỷ lệ nắm giữ.
+Quy mô vốn chủ sở hữu giữ nguyên hoàn toàn sau đợt phát hành. Tỷ lệ sở hữu của cổ đông không bị thay đổi khi nhận [cổ tức là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi) dưới dạng [trả cổ tức bằng cổ phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tra-co-tuc-bang-co-phieu-la-gi) đồng đều theo tỷ lệ nắm giữ.
 
 ### Hình thức 2: Phát hành cho cổ đông hiện hữu
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 Status: Finalized
 Mode: Detailed
@@ -22,7 +22,7 @@ Quyết định có nên đầu tư trái phiếu thời điểm này là mối 
 
 Đầu tư trái phiếu **phụ thuộc vào khẩu vị rủi ro và mục tiêu tài chính** của bạn; đây là kênh tối ưu nếu bạn muốn nhận thu nhập cố định và an toàn hơn cổ phiếu. Trái phiếu là chứng khoán nợ xác nhận nghĩa vụ thanh toán của tổ chức phát hành. Khi nắm giữ công cụ này, bạn trở thành chủ nợ và nhận lãi coupon định kỳ theo cam kết.
 
-Nhà đầu tư F0 thường bổ sung tài sản này để giảm biến động danh mục. Bạn có thể tham khảo thêm khái niệm nền tảng tại bài viết [trái phiếu là gì](content/blog/3-finalized/Final-trai-phieu-la-gi.md). Kênh này phù hợp nếu bạn có vốn nhàn rỗi từ 1 đến 3 năm và muốn tránh biến động mạnh của cổ phiếu.
+Nhà đầu tư F0 thường bổ sung tài sản này để giảm biến động danh mục. Bạn có thể tham khảo thêm khái niệm nền tảng tại bài viết [trái phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-la-gi). Kênh này phù hợp nếu bạn có vốn nhàn rỗi từ 1 đến 3 năm và muốn tránh biến động mạnh của cổ phiếu.
 
 Một trái phiếu tiêu chuẩn thường bao gồm ba yếu tố chính sau:
 - Mệnh giá: Số tiền gốc tổ chức phát hành cam kết hoàn trả khi đáo hạn.
@@ -45,7 +45,7 @@ Trái phiếu mang lại nhiều lợi thế cạnh tranh cho dòng vốn nhàn 
 
 Nhà đầu tư phải đối mặt với ba rủi ro chính sau đây khi tham gia thị trường:
 - Rủi ro tín dụng: Doanh nghiệp phát hành không thể thanh toán gốc và lãi đúng hạn.
-- Rủi ro lãi suất: Giá trái phiếu cũ giảm nếu lãi suất điều hành tăng. Bạn có thể tìm hiểu thêm mối quan hệ này tại bài [bond yield là gì](content/blog/3-finalized/Final-bond-yield-la-gi.md).
+- Rủi ro lãi suất: Giá trái phiếu cũ giảm nếu lãi suất điều hành tăng. Bạn có thể tìm hiểu thêm mối quan hệ này tại bài [bond yield là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/bond-yield-la-gi).
 - Rủi ro thanh khoản: Bạn khó bán lại trái phiếu trên thị trường thứ cấp trước hạn do thiếu người mua.
 Đừng bỏ qua chúng.
 

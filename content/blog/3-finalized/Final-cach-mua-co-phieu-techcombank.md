@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Detailed
@@ -69,7 +69,7 @@ Thứ ba là chủ động quản trị rủi ro thị trường và rủi ro ch
 
 Nền tảng học tập **HVS Demo** mang lại giải pháp thực hành giao dịch chứng khoán thông minh với mức độ rủi ro bằng 0. Hệ thống cung cấp cho bạn một tài khoản giả lập được cấp sẵn nguồn tiền ảo miễn phí, liên kết trực tiếp với dữ liệu bảng điện và biến động thị giá của mã TCB theo thời gian thực từ sàn HOSE. Nhờ đó, bạn được tự do trải nghiệm mọi tính năng đặt lệnh LO, lệnh MP hay lệnh ATC, theo dõi biến động lãi/lỗ và rèn luyện kỹ năng phân tích biểu đồ mà hoàn toàn không lo lắng bị tổn thất nguồn vốn cá nhân thật.
 
-Bên cạnh đó, việc kết hợp sử dụng giải pháp **HVS Tài chính số** giúp bạn xây dựng tư duy quản trị danh mục đầu tư khoa học. Hệ thống cung cấp các chỉ số định giá tài chính cơ bản, so sánh biên độ lợi nhuận của TCB với trung bình toàn ngành ngân hàng và cập nhật [lịch chia cổ tức](content/blog/3-finalized/Final-lich-chia-co-tuc.md) chi tiết. Đây là nền tảng kiến thức vững chắc để bạn xây dựng các kịch bản đầu tư scenario-based chuyên nghiệp, tự tin đưa ra nhận định đúng đắn trước khi quyết định giải ngân vốn thật trên thị trường chứng khoán thực tế.
+Bên cạnh đó, việc kết hợp sử dụng giải pháp **HVS Tài chính số** giúp bạn xây dựng tư duy quản trị danh mục đầu tư khoa học. Hệ thống cung cấp các chỉ số định giá tài chính cơ bản, so sánh biên độ lợi nhuận của TCB với trung bình toàn ngành ngân hàng và cập nhật [lịch chia cổ tức](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/lich-chia-co-tuc) chi tiết. Đây là nền tảng kiến thức vững chắc để bạn xây dựng các kịch bản đầu tư scenario-based chuyên nghiệp, tự tin đưa ra nhận định đúng đắn trước khi quyết định giải ngân vốn thật trên thị trường chứng khoán thực tế.
 
 ---
 

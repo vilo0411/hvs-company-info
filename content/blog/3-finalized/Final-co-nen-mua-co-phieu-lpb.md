@@ -1,4 +1,4 @@
----
+﻿---
 Author: HVS Senior Mentor
 Status: Finalized
 Pipeline_Mode: Express
@@ -38,7 +38,7 @@ Với quy mô vốn hóa trung bình lớn (Midcap), biến động giá LPB ch�
 
 Động lực tăng trưởng giá trị của ngân hàng chủ yếu đến từ **chính sách chi trả cổ tức tiền mặt đều đặn tỷ lệ cao và kết quả tích cực từ chiến dịch số hóa quy trình vận hành**.
 
-Kế hoạch chi trả cổ tức tiền mặt dự kiến tới 30% trong năm 2026 biến LPB thành một trong những [cổ phiếu ngân hàng](content/blog/3-finalized/Final-co-phieu-ngan-hang.md) có lợi suất hấp dẫn. Trong bối cảnh lãi suất huy động thấp, tỷ suất cổ tức của LPB tạo sức hút tích sản vượt trội.
+Kế hoạch chi trả cổ tức tiền mặt dự kiến tới 30% trong năm 2026 biến LPB thành một trong những [cổ phiếu ngân hàng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-ngan-hang) có lợi suất hấp dẫn. Trong bối cảnh lãi suất huy động thấp, tỷ suất cổ tức của LPB tạo sức hút tích sản vượt trội.
 
 Hãy xem xét bảng phân tích so sánh tỷ suất cổ tức thực tế dự kiến của LPB so với mặt bằng lãi suất tiền gửi tiết kiệm kỳ hạn 12 tháng tại các ngân hàng thương mại dưới đây:
 
@@ -83,7 +83,7 @@ Kế hoạch hành động giả lập chi tiết cho bạn:
 * Ngưỡng cắt lỗ giả lập: Giá đóng cửa dưới 16.500 đồng/cổ phiếu.
 * Tỷ trọng phân bổ danh mục ảo: Giới hạn dưới 10% tổng tài sản mô phỏng.
 
-Lập kịch bản giúp bạn loại bỏ yếu tố cảm xúc và kiểm soát lòng tham khi thấy giá tăng nóng. Giống như khi phân tích [Có nên mua cổ phiếu POW](content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md), kịch bản giúp bạn làm chủ kế hoạch giao dịch của mình. Tuyệt đối không áp dụng chiến thuật mua đuổi giá cao hay lạm dụng margin đối với các mã ngân hàng có tính chu kỳ cao.
+Lập kịch bản giúp bạn loại bỏ yếu tố cảm xúc và kiểm soát lòng tham khi thấy giá tăng nóng. Giống như khi phân tích [Có nên mua cổ phiếu POW](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pow), kịch bản giúp bạn làm chủ kế hoạch giao dịch của mình. Tuyệt đối không áp dụng chiến thuật mua đuổi giá cao hay lạm dụng margin đối với các mã ngân hàng có tính chu kỳ cao.
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Detailed
@@ -17,7 +17,7 @@ Meta_Description: Tìm hiểu hợp đồng mở tài khoản chứng khoán là
 
 ## Hợp đồng mở tài khoản chứng khoán là gì?
 
-**Hợp đồng mở tài khoản chứng khoán là văn bản pháp lý thỏa thuận giữa nhà đầu tư và công ty chứng khoán**, thiết lập quyền và nghĩa vụ của hai bên trong việc thực hiện giao dịch mua bán, thanh toán và lưu ký chứng khoán theo quy định của pháp luật Việt Nam. Đây là văn bản bắt buộc theo Luật Chứng khoán 2019 để bạn được cấp mã số giao dịch. Hãy đọc kỹ trước khi ký. Nếu bạn chưa biết cách bắt đầu, có thể tham khảo [cách mở tài khoản chứng khoán](content/blog/3-finalized/Final-cach-mo-tai-khoan-chung-khoan.md) chi tiết.
+**Hợp đồng mở tài khoản chứng khoán là văn bản pháp lý thỏa thuận giữa nhà đầu tư và công ty chứng khoán**, thiết lập quyền và nghĩa vụ của hai bên trong việc thực hiện giao dịch mua bán, thanh toán và lưu ký chứng khoán theo quy định của pháp luật Việt Nam. Đây là văn bản bắt buộc theo Luật Chứng khoán 2019 để bạn được cấp mã số giao dịch. Hãy đọc kỹ trước khi ký. Nếu bạn chưa biết cách bắt đầu, có thể tham khảo [cách mở tài khoản chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mo-tai-khoan-chung-khoan) chi tiết.
 
 Công ty chứng khoán (như VPS, SSI, VNDIRECT) chịu trách nhiệm quản lý tài sản, thực hiện lệnh giao dịch và thanh toán cho bạn. Bạn có toàn quyền sở hữu đối với số tiền và cổ phiếu trong tài khoản. Mọi hành vi tự ý giao dịch hoặc dịch chuyển tài sản của công ty chứng khoán mà không có chỉ thị từ bạn đều vi phạm pháp luật.
 
@@ -61,7 +61,7 @@ Nếu bạn không bổ sung tiền hoặc tự cơ cấu danh mục trước th
 
 ## Quy trình ký hợp đồng mở tài khoản chứng khoán online qua eKYC
 
-**Quy trình [mở tài khoản chứng khoán online](content/blog/3-finalized/Final-mo-tai-khoan-chung-khoan-online-co-an-toan-khong.md) qua định danh điện tử giúp bạn tiết kiệm thời gian đáng kể.** Quy trình eKYC rất nhanh chóng. Phương thức ký kết này tuân thủ các quy chuẩn của Thông tư 120/2020/TT-BTC do Bộ Tài chính ban hành nhằm đảm bảo tính minh bạch.
+**Quy trình [mở tài khoản chứng khoán online](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/mo-tai-khoan-chung-khoan-online-co-an-toan-khong) qua định danh điện tử giúp bạn tiết kiệm thời gian đáng kể.** Quy trình eKYC rất nhanh chóng. Phương thức ký kết này tuân thủ các quy chuẩn của Thông tư 120/2020/TT-BTC do Bộ Tài chính ban hành nhằm đảm bảo tính minh bạch.
 
 Công nghệ eKYC tự động trích xuất thông tin cá nhân và đối chiếu khuôn mặt để xác minh chính chủ. Quá trình này giúp ngăn chặn tình trạng mở tài khoản giả mạo.
 

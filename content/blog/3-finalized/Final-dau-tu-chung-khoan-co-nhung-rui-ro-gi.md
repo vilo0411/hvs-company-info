@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["đầu tư chứng khoán có những rủi ro gì"]
 Status: Finalized
@@ -72,7 +72,7 @@ Featured_Snippet: List
 
 **Đầu tư chứng khoán có thể mất tiền.** Tình trạng thua lỗ xảy ra khi bạn thiếu kiến thức phân tích, không lập kế hoạch cắt lỗ, hoặc sử dụng đòn bẩy margin sai cách.
 
-Số liệu thực tế từ Ủy ban Chứng khoán Nhà nước (UBCKNN) cho thấy tỷ lệ nhà đầu tư cá nhân thua lỗ thường dao động từ 80% đến 90%. Đây là thực tế qua nhiều chu kỳ biến động của chỉ số VN-Index trên sàn HOSE. Nhiều người mới (F0) coi đây là kênh kiếm tiền nhanh, do đó họ bỏ qua tìm hiểu [cách đầu tư chứng khoán](content/blog/3-finalized/Final-cach-dau-tu-chung-khoan.md) bài bản và đặt lệnh theo tin đồn.
+Số liệu thực tế từ Ủy ban Chứng khoán Nhà nước (UBCKNN) cho thấy tỷ lệ nhà đầu tư cá nhân thua lỗ thường dao động từ 80% đến 90%. Đây là thực tế qua nhiều chu kỳ biến động của chỉ số VN-Index trên sàn HOSE. Nhiều người mới (F0) coi đây là kênh kiếm tiền nhanh, do đó họ bỏ qua tìm hiểu [cách đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-khoan) bài bản và đặt lệnh theo tin đồn.
 
 Biến động giá cổ phiếu phản ánh sức khỏe doanh nghiệp dài hạn. Bạn sẽ mất tiền nếu mua cổ phiếu của công ty suy thoái hoặc nợ quá khả năng thanh toán. Do đó, hiểu rõ rủi ro là bắt buộc trước khi giao dịch. Thua lỗ hoàn toàn kiểm soát được nếu bạn tuân thủ quy tắc quản trị danh mục và tích lũy kiến thức nền tảng.
 
@@ -93,7 +93,7 @@ Rủi ro hệ thống ảnh hưởng đến toàn bộ thị trường và mọi
 
 Bạn phải có chiến lược phân bổ tài sản phòng thủ hợp lý. Điều này giúp bạn bảo vệ vốn hiệu quả.
 
-Rủi ro phi hệ thống chỉ tác động đến một doanh nghiệp cụ thể. Để nắm rõ cơ chế tác động, bạn hãy tìm hiểu [rủi ro doanh nghiệp trong đầu tư chứng khoán là gì](content/blog/3-finalized/Final-rui-ro-doanh-nghiep-trong-dau-tu-chung-khoan-la-gi.md) trước khi giải ngân vốn. Loại rủi ro này phát sinh từ các yếu tố nội tại của chính công ty như nhân sự, pháp lý, gian lận kế toán, hoặc sản phẩm lỗi thời mất khả năng cạnh tranh trên thị trường.
+Rủi ro phi hệ thống chỉ tác động đến một doanh nghiệp cụ thể. Để nắm rõ cơ chế tác động, bạn hãy tìm hiểu [rủi ro doanh nghiệp trong đầu tư chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/rui-ro-doanh-nghiep-trong-dau-tu-chung-khoan-la-gi) trước khi giải ngân vốn. Loại rủi ro này phát sinh từ các yếu tố nội tại của chính công ty như nhân sự, pháp lý, gian lận kế toán, hoặc sản phẩm lỗi thời mất khả năng cạnh tranh trên thị trường.
 
 Cổ phiếu FLC năm 2022 là minh chứng thực tế:
 - Ban lãnh đạo FLC bị khởi tố khiến cổ phiếu giảm sàn liên tục, mất thanh khoản.

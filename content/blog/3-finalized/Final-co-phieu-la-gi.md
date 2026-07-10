@@ -1,4 +1,4 @@
----
+﻿---
 Author: Claude Code
 aliases: ["cổ phiếu là gì"]
 Status: Finalized
@@ -45,7 +45,7 @@ Cổ phiếu là chứng chỉ xác nhận quyền sở hữu một phần vốn
 
 Đây là điểm khác biệt căn bản so với gửi ngân hàng hay mua trái phiếu: bạn không cho doanh nghiệp vay tiền, bạn **trở thành một phần chủ sở hữu** của doanh nghiệp đó.
 
-Tại Việt Nam, hầu hết [chứng khoán](content/blog/3-finalized/Final-chung-khoan-la-gi.md) giao dịch trên sàn HOSE (TP.HCM) và HNX (Hà Nội). Mỗi doanh nghiệp niêm yết có một mã giao dịch riêng — VCB là Vietcombank, VNM là Vinamilk, HPG là Hòa Phát.
+Tại Việt Nam, hầu hết [chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi) giao dịch trên sàn HOSE (TP.HCM) và HNX (Hà Nội). Mỗi doanh nghiệp niêm yết có một mã giao dịch riêng — VCB là Vietcombank, VNM là Vinamilk, HPG là Hòa Phát.
 
 Nếu bạn mua 100 cổ phiếu HPG ở mức giá 25.000đ/cp, bạn bỏ ra 2,5 triệu đồng và sở hữu 100 phần nhỏ trong tổng vốn của Tập đoàn Hòa Phát. Khi Hòa Phát kinh doanh tốt, giá cổ phiếu tăng và bạn hưởng lợi. Khi kết quả kinh doanh xấu đi, giá giảm và giá trị khoản đầu tư của bạn cũng giảm theo.
 
@@ -90,7 +90,7 @@ Lưu ý quan trọng: không phải doanh nghiệp nào cũng trả cổ tức �
 Ngoài ra, thị trường hay phân loại theo vốn hóa và thanh khoản:
 
 - **Bluechip:** VCB, VNM, FPT, MWG — vốn hóa lớn, thanh khoản cao, biến động ổn định hơn
-- **[Cổ phiếu penny](content/blog/3-finalized/Final-co-phieu-penny-la-gi.md):** Vốn hóa nhỏ, giá thấp, biến động rất mạnh — tiềm năng lớn nhưng rủi ro cũng lớn
+- **[Cổ phiếu penny](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-penny-la-gi):** Vốn hóa nhỏ, giá thấp, biến động rất mạnh — tiềm năng lớn nhưng rủi ro cũng lớn
 
 ---
 
@@ -100,7 +100,7 @@ Ngoài ra, thị trường hay phân loại theo vốn hóa và thanh khoản:
 
 Khi mua cổ phiếu, bạn **sở hữu một phần doanh nghiệp**. Lợi nhuận không giới hạn nhưng không có bảo đảm — nếu doanh nghiệp phá sản, cổ đông thường là nhóm cuối cùng được bồi hoàn.
 
-Khi mua [trái phiếu](content/blog/3-finalized/Final-trai-phieu-la-gi.md), bạn **cho doanh nghiệp vay tiền**. Họ cam kết trả lãi cố định và hoàn gốc đúng hạn. Rủi ro thấp hơn nhưng lợi nhuận cũng bị giới hạn theo lãi suất đã thỏa thuận.
+Khi mua [trái phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-la-gi), bạn **cho doanh nghiệp vay tiền**. Họ cam kết trả lãi cố định và hoàn gốc đúng hạn. Rủi ro thấp hơn nhưng lợi nhuận cũng bị giới hạn theo lãi suất đã thỏa thuận.
 
 Ví dụ cụ thể: một trái phiếu doanh nghiệp kỳ hạn 3 năm lãi suất 9%/năm — bạn biết chắc mỗi năm nhận bao nhiêu và đáo hạn nhận lại gốc. Cổ phiếu VNM không có cam kết nào như vậy, nhưng nếu Vinamilk tăng trưởng mạnh, lợi nhuận có thể vượt xa 9%/năm đó.
 
@@ -124,7 +124,7 @@ Khi gặp thuật ngữ lạ hoặc cần xác nhận một phân tích, HVS For
 
 Cổ phiếu không phức tạp khi bạn hiểu đúng bản chất: bạn đang mua **một phần doanh nghiệp**, không phải mua một con số trên màn hình. Giá lên hay xuống phản ánh kỳ vọng của thị trường về tương lai kinh doanh của doanh nghiệp đó.
 
-Trước khi [nên đầu tư cổ phiếu nào](content/blog/3-finalized/Final-nen-dau-tu-co-phieu-nao.md), hãy làm quen với cơ chế thị trường trước. Thử ngay HVS Demo — miễn phí, không cần nạp tiền thật. Đặt vài lệnh thử, quan sát một vài phiên giao dịch thực tế — bạn sẽ tự tin hơn nhiều khi bắt đầu bằng tiền thật.
+Trước khi [nên đầu tư cổ phiếu nào](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/nen-dau-tu-co-phieu-nao), hãy làm quen với cơ chế thị trường trước. Thử ngay HVS Demo — miễn phí, không cần nạp tiền thật. Đặt vài lệnh thử, quan sát một vài phiên giao dịch thực tế — bạn sẽ tự tin hơn nhiều khi bắt đầu bằng tiền thật.
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Pipeline_Mode: Express
@@ -22,7 +22,7 @@ Lựa chọn hình thức này mang lại nhiều lợi thế rõ rệt cho danh
 *   Phí quản lý năm rất thấp, chỉ từ 0,5% đến 0,9%, tiết kiệm hơn nhiều so với quỹ mở chủ động.
 *   Bạn dễ dàng mua bán chứng chỉ quỹ trên sàn HOSE tương tự cổ phiếu với khớp lệnh nhanh chóng.
 
-Bạn hãy tham khảo bài viết [chứng chỉ quỹ là gì](content/blog/3-finalized/Final-chung-chi-quy-la-gi.md) để hiểu sâu hơn về bản chất loại tài sản này.
+Bạn hãy tham khảo bài viết [chứng chỉ quỹ là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-quy-la-gi) để hiểu sâu hơn về bản chất loại tài sản này.
 
 Bên cạnh lợi thế, hình thức đầu tư này chứa đựng các rủi ro cụ thể:
 *   Biến động giá phụ thuộc vào chỉ số chung nên bạn sẽ chịu lỗ khi toàn thị trường điều chỉnh.
@@ -52,7 +52,7 @@ Các rổ chỉ số tăng trưởng cao như VN-Diamond sẽ mang lại lợi s
 
 ### Bước 3: Lọc và chọn mã chứng chỉ quỹ ETF uy tín
 
-Mỗi rổ chỉ số sẽ do các công ty quản lý quỹ khác nhau (Dragon Capital, SSIAM) vận hành. Để mô phỏng chỉ số VN30, bạn chọn mã E1VFVN30 do công ty Dragon Capital quản lý. Với chỉ số VN-Diamond, mã FUEVFVND là chứng chỉ quỹ tiêu biểu có hiệu suất tăng trưởng cao. Bạn hãy đọc thêm bài viết [etf là gì](content/blog/3-finalized/Final-etf-la-gi.md) và bài viết [cách đầu tư chứng chỉ quỹ](content/blog/3-finalized/Final-cach-dau-tu-chung-chi-quy.md) để hiểu rõ cách thức giao dịch loại chứng chỉ quỹ này.
+Mỗi rổ chỉ số sẽ do các công ty quản lý quỹ khác nhau (Dragon Capital, SSIAM) vận hành. Để mô phỏng chỉ số VN30, bạn chọn mã E1VFVN30 do công ty Dragon Capital quản lý. Với chỉ số VN-Diamond, mã FUEVFVND là chứng chỉ quỹ tiêu biểu có hiệu suất tăng trưởng cao. Bạn hãy đọc thêm bài viết [etf là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/etf-la-gi) và bài viết [cách đầu tư chứng chỉ quỹ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-chi-quy) để hiểu rõ cách thức giao dịch loại chứng chỉ quỹ này.
 
 Dưới đây là bảng so sánh thông số của ba quỹ ETF quy mô lớn tại Việt Nam để bạn tham khảo:
 

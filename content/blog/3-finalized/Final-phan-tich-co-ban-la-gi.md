@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -44,14 +44,14 @@ Tại thị trường Việt Nam, nơi tính minh bạch của một số doanh 
 
 1.  **Bảng cân đối kế toán:** Phản ánh doanh nghiệp đang có gì và nợ ai bao nhiêu. Bạn cần cảnh giác với các doanh nghiệp có khoản phải thu tăng đột biến (chiếm tỷ trọng lớn trong tài sản) vì đó có thể là dấu hiệu của việc ghi nhận doanh thu ảo hoặc bị đối tác chiếm dụng vốn quá lâu.
 2.  **Báo cáo kết quả kinh doanh:** Phản ánh doanh thức và lợi nhuận. Tuy nhiên, doanh thu cao không đồng nghĩa với việc doanh nghiệp có tiền. Nếu biên lợi nhuận gộp sụt giảm liên tục, đó là tín hiệu cho thấy sức mạnh cạnh tranh của doanh nghiệp đang suy yếu.
-3.  **[Báo cáo lưu chuyển tiền tệ](content/blog/3-finalized/Final-bao-cao-luu-chuyen-tien-te-la-gi.md):** Đây là bộ lọc quan trọng nhất. Nếu doanh nghiệp báo lãi lớn nhưng dòng tiền từ hoạt động kinh doanh (CFO) liên tục âm trong nhiều năm, nhà đầu tư nên đặt dấu hỏi lớn về chất lượng lợi nhuận.
+3.  **[Báo cáo lưu chuyển tiền tệ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/bao-cao-luu-chuyen-tien-te-la-gi):** Đây là bộ lọc quan trọng nhất. Nếu doanh nghiệp báo lãi lớn nhưng dòng tiền từ hoạt động kinh doanh (CFO) liên tục âm trong nhiều năm, nhà đầu tư nên đặt dấu hỏi lớn về chất lượng lợi nhuận.
 
 ## Các chỉ số tài chính quan trọng và cảnh báo rủi ro
 
 Trong phân tích cơ bản, các con số là ngôn ngữ nhưng cũng có thể là bẫy nếu không đặt trong bối cảnh:
-- **[ROE](content/blog/3-finalized/Final-chi-so-roe-la-gi.md) (Lợi nhuận trên vốn chủ sở hữu):** ROE cao (trên 20%) là tốt, nhưng cần kiểm tra xem doanh nghiệp có đang sử dụng đòn bẩy tài chính quá mức để đẩy ROE lên cao hay không. Đòn bẩy cao là con dao hai lưỡi khi lãi suất đảo chiều tăng.
-- **[EPS](content/blog/3-finalized/Final-chi-so-eps-la-gi.md) (Lợi nhuận trên mỗi cổ phiếu):** EPS tăng trưởng là động lực chính của giá cổ phiếu. Tuy nhiên, nếu doanh nghiệp liên tục phát hành thêm cổ phiếu (ESOP, chào bán riêng lẻ) làm pha loãng EPS, lợi ích của cổ đông nhỏ lẻ sẽ bị ảnh hưởng.
-- **[P/E](content/blog/3-finalized/Final-p-e-la-gi.md) (Price-to-Earnings):** P/E thấp có thể là rẻ, nhưng cũng có thể là bẫy giá trị nếu doanh nghiệp đang bước vào giai đoạn suy thoái ngành.
+- **[ROE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-roe-la-gi) (Lợi nhuận trên vốn chủ sở hữu):** ROE cao (trên 20%) là tốt, nhưng cần kiểm tra xem doanh nghiệp có đang sử dụng đòn bẩy tài chính quá mức để đẩy ROE lên cao hay không. Đòn bẩy cao là con dao hai lưỡi khi lãi suất đảo chiều tăng.
+- **[EPS](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-eps-la-gi) (Lợi nhuận trên mỗi cổ phiếu):** EPS tăng trưởng là động lực chính của giá cổ phiếu. Tuy nhiên, nếu doanh nghiệp liên tục phát hành thêm cổ phiếu (ESOP, chào bán riêng lẻ) làm pha loãng EPS, lợi ích của cổ đông nhỏ lẻ sẽ bị ảnh hưởng.
+- **[P/E](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/p-e-la-gi) (Price-to-Earnings):** P/E thấp có thể là rẻ, nhưng cũng có thể là bẫy giá trị nếu doanh nghiệp đang bước vào giai đoạn suy thoái ngành.
 
 ## Hai phương pháp định giá thực chiến tại Việt Nam
 

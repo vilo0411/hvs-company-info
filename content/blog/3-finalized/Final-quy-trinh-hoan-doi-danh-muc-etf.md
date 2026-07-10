@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -26,7 +26,7 @@ Quy trình hoán đổi danh mục ETF sơ cấp là **hoạt động hoán đ�
 Đây là nơi diễn ra các giao dịch hàng ngày của nhà đầu tư cá nhân nhỏ lẻ. Bạn mua bán các chứng chỉ quỹ này trên bảng điện của sàn HOSE tương tự như giao dịch một mã cổ phiếu của doanh nghiệp, khớp lệnh liên tục thông qua tài khoản chứng khoán cá nhân.
 
 Cơ chế hoán đổi sơ cấp liên kết trực tiếp hai thị trường này với nhau.
-Khi giá giao dịch trên sàn thứ cấp lệch xa so với giá trị tài sản thực tế của quỹ, cơ chế trao đổi sơ cấp lập tức được kích hoạt để đưa giá thị trường quay trở lại quỹ đạo cân bằng. Tham khảo thêm [ETF là gì](content/blog/3-finalized/Final-etf-la-gi.md) để hiểu sâu sắc hơn về định nghĩa căn bản của loại hình quỹ này.
+Khi giá giao dịch trên sàn thứ cấp lệch xa so với giá trị tài sản thực tế của quỹ, cơ chế trao đổi sơ cấp lập tức được kích hoạt để đưa giá thị trường quay trở lại quỹ đạo cân bằng. Tham khảo thêm [ETF là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/etf-la-gi) để hiểu sâu sắc hơn về định nghĩa căn bản của loại hình quỹ này.
 
 ## Các bên tham gia vào quy trình hoán đổi danh mục ETF
 
@@ -82,4 +82,4 @@ HVS hỗ trợ nhà đầu tư tiếp cận kiến thức quỹ chuyên sâu th�
 
 Hiểu sâu cơ chế hoán đổi sơ cấp và nghiệp vụ chênh lệch giá arbitrage đòi hỏi nền tảng kiến thức tài chính vững vàng, dễ làm nhà đầu tư mới bối rối. **HVS Tài chính số** mang đến chương trình đào tạo thực chiến **HVS Thực tập số** - giải pháp chuyên sâu giúp bạn bóc tách số liệu vĩ mô và nắm vững cơ chế vận hành của dòng tiền thụ động một cách dễ hiểu nhất.
 
-Đồng thời, bạn có thể sử dụng hệ thống giao dịch giả lập **HVS Demo** để thực hành đặt lệnh ảo các mã ETF lớn đang niêm yết tại [quỹ etf tại việt nam](content/blog/3-finalized/Final-quy-etf-tai-viet-nam.md) nhằm làm quen với bảng điện sàn HOSE và nhịp đập giao dịch mà không lo ngại rủi ro mất vốn thật. Cuối cùng, **HVS Forum** cung cấp diễn đàn kết nối chất lượng cao giúp bạn giao lưu và trao đổi nhận định cùng cộng đồng đầu tư chuyên nghiệp đi trước. Hãy bắt đầu nâng cao tư duy đầu tư cùng **HVS** ngay hôm nay!
+Đồng thời, bạn có thể sử dụng hệ thống giao dịch giả lập **HVS Demo** để thực hành đặt lệnh ảo các mã ETF lớn đang niêm yết tại [quỹ etf tại việt nam](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quy-etf-tai-viet-nam) nhằm làm quen với bảng điện sàn HOSE và nhịp đập giao dịch mà không lo ngại rủi ro mất vốn thật. Cuối cùng, **HVS Forum** cung cấp diễn đàn kết nối chất lượng cao giúp bạn giao lưu và trao đổi nhận định cùng cộng đồng đầu tư chuyên nghiệp đi trước. Hãy bắt đầu nâng cao tư duy đầu tư cùng **HVS** ngay hôm nay!

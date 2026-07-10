@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Detailed
@@ -30,7 +30,7 @@ Các thông số cơ bản về cổ phiếu BID bao gồm:
 
 Quy mô lớn mang lại lợi thế nhưng BIDV chịu ràng buộc chính trị và phải điều tiết dòng vốn theo chỉ đạo của Ngân hàng Nhà nước.
 
-Bạn có thể tìm hiểu thêm về quy trình và [cách mua cổ phiếu BID](content/blog/3-finalized/Final-cach-mua-co-phieu-bid.md) trực tuyến trước khi bắt đầu. Khối lượng khớp lệnh lớn giúp bảo đảm tính thanh khoản cho các vị thế giao dịch ngắn hạn. Bạn phải hiểu rõ vị thế xương sống này của BID trước khi phân tích các biến số tài chính sâu hơn.
+Bạn có thể tìm hiểu thêm về quy trình và [cách mua cổ phiếu BID](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-bid) trực tuyến trước khi bắt đầu. Khối lượng khớp lệnh lớn giúp bảo đảm tính thanh khoản cho các vị thế giao dịch ngắn hạn. Bạn phải hiểu rõ vị thế xương sống này của BID trước khi phân tích các biến số tài chính sâu hơn.
 
 ---
 
@@ -59,7 +59,7 @@ Bảng số liệu trên cho thấy BID vượt trội về quy mô tài sản. 
 
 Biên lãi thuần (NIM) thấp và áp lực trích lập dự phòng rủi ro tín dụng là hai rào cản lớn nhất đối với hiệu quả sinh lời của cổ phiếu BID.
 
-Rủi ro đầu tiên là biên lãi thuần NIM thấp, duy trì quanh 2,8% do phải hỗ trợ lãi suất cho doanh nghiệp nhà nước và đầu tư công. So với các mã [cổ phiếu ngân hàng](content/blog/3-finalized/Final-co-phieu-ngan-hang.md) tư nhân (như TCB, MBB), NIM của BIDV kém cạnh tranh hơn nhiều. Tỷ lệ CASA thấp khoảng 20% khiến chi phí vốn đầu vào của ngân hàng bị đội cao.
+Rủi ro đầu tiên là biên lãi thuần NIM thấp, duy trì quanh 2,8% do phải hỗ trợ lãi suất cho doanh nghiệp nhà nước và đầu tư công. So với các mã [cổ phiếu ngân hàng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-ngan-hang) tư nhân (như TCB, MBB), NIM của BIDV kém cạnh tranh hơn nhiều. Tỷ lệ CASA thấp khoảng 20% khiến chi phí vốn đầu vào của ngân hàng bị đội cao.
 
 So sánh sơ bộ cho thấy:
 * Biên lãi thuần NIM: BIDV đạt 2,8% vs Techcombank đạt trên 4,0%.
@@ -75,7 +75,7 @@ Lợi nhuận bị thu hẹp. Điều này trực tiếp cản trước đà tă
 
 Kịch bản giả lập giá BID dưới đây giúp bạn xây dựng kế hoạch thực hành giao dịch ảo và rèn luyện kỷ luật quản trị rủi ro.
 
-Kịch bản tích cực (Kịch bản 1): Kế hoạch tăng vốn thành công và lợi nhuận tăng trưởng trên 15%. Vùng hỗ trợ mạnh của BID sẽ ở ngưỡng 45.000 đồng/cổ phiếu. Giống như khi học phân tích [Có nên mua cổ phiếu POW](content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md), kịch bản giúp bạn chủ động hơn. Bạn thực hiện theo dõi mã này trên HVS Demo và thử mua ảo nếu giá lùi về hỗ trợ với thanh khoản thấp, mục tiêu chốt lời giả định tại 52.000 đồng/cổ phiếu.
+Kịch bản tích cực (Kịch bản 1): Kế hoạch tăng vốn thành công và lợi nhuận tăng trưởng trên 15%. Vùng hỗ trợ mạnh của BID sẽ ở ngưỡng 45.000 đồng/cổ phiếu. Giống như khi học phân tích [Có nên mua cổ phiếu POW](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pow), kịch bản giúp bạn chủ động hơn. Bạn thực hiện theo dõi mã này trên HVS Demo và thử mua ảo nếu giá lùi về hỗ trợ với thanh khoản thấp, mục tiêu chốt lời giả định tại 52.000 đồng/cổ phiếu.
 
 Kịch bản thận trọng (Kịch bản 2): Tăng vốn bị trì hoãn hoặc tín dụng tăng chậm dưới 10%. Áp lực bán có thể đẩy giá BID về vùng chiết khấu 38.000 đồng/cổ phiếu. Bạn chủ động phòng thủ bằng cách đứng ngoài quan sát, thực hành kiên nhẫn chờ đợi trên hệ thống Demo thay vì mua đuổi giá xanh.
 

@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Pipeline_Mode: Express
@@ -104,7 +104,7 @@ Nếu TTCK Việt Nam hiệu quả hoàn toàn, giá cổ phiếu đã phản á
 
 Nếu bạn có kỹ năng khai thác những kém hiệu quả đó, active management có cơ hội tạo alpha. Nếu không, passive ETF giảm thiểu rủi ro sai lầm cá nhân tốt hơn.
 
-Đây là lý do nhiều nhà đầu tư kỳ cựu vẫn đầu tư thời gian học [phân tích cơ bản cổ phiếu](content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md) thay vì chuyển hẳn sang passive. Thị trường không hoàn toàn hiệu quả, nhà đầu tư có kiến thức vẫn tạo được alpha. HVS Tài chính số, với lộ trình HVS Thực tập số, giúp bạn xây dựng đúng bộ kỹ năng phân tích đó, từ đọc báo cáo tài chính đến định giá cổ phiếu thực chiến.
+Đây là lý do nhiều nhà đầu tư kỳ cựu vẫn đầu tư thời gian học [phân tích cơ bản cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) thay vì chuyển hẳn sang passive. Thị trường không hoàn toàn hiệu quả, nhà đầu tư có kiến thức vẫn tạo được alpha. HVS Tài chính số, với lộ trình HVS Thực tập số, giúp bạn xây dựng đúng bộ kỹ năng phân tích đó, từ đọc báo cáo tài chính đến định giá cổ phiếu thực chiến.
 
 ---
 

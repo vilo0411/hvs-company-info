@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 Status: Finalized
 Mode: Express
@@ -79,7 +79,7 @@ Dưới đây là bảng định giá lịch sử và dự phóng của cổ phi
 Mức định giá P/B dưới 0.5 lần phản ánh sự thận trọng của dòng tiền đối với các doanh nghiệp bất động sản có tỷ lệ nợ vay cao.
 
 Việc phân tích các kịch bản hành động cụ thể bao gồm:
-- **Kịch bản 1:** Thực hiện giải ngân thăm dò cổ phiếu SCR khi thị giá giảm sâu dưới P/B 0.4 lần với kỳ vọng phục hồi dài hạn của ngành, tương tự cách đánh giá các [cổ phiếu bất động sản](content/blog/3-finalized/Final-co-phieu-bat-dong-san.md) midcap có tài sản đảm bảo tốt.
+- **Kịch bản 1:** Thực hiện giải ngân thăm dò cổ phiếu SCR khi thị giá giảm sâu dưới P/B 0.4 lần với kỳ vọng phục hồi dài hạn của ngành, tương tự cách đánh giá các [cổ phiếu bất động sản](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-bat-dong-san) midcap có tài sản đảm bảo tốt.
 - **Kịch bản 2:** Đứng ngoài quan sát nếu dòng tiền từ mảng cho thuê không đủ bù đắp chi phí lãi vay và kế hoạch phát hành cổ phiếu tăng vốn điều lệ bị kéo dài tiến độ thực hiện.
 
 ---

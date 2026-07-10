@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["cổ phiếu trụ là gì"]
 Status: Finalized
@@ -81,7 +81,7 @@ Do đó, biến động giá của nhóm cổ phiếu trụ cột hoạt động
 **Ưu điểm của cổ phiếu trụ:**
 *   **Tính an toàn cao:** Các doanh nghiệp này đều có mô hình kinh doanh bền vững, thị phần áp đảo và rủi ro phá sản cực thấp trong dài hạn.
 *   **Thanh khoản dồi dào:** Khối lượng giao dịch mỗi phiên lên đến hàng triệu cổ phiếu, cho phép bạn dễ dàng mua bán số lượng lớn mà không sợ bị kẹt thanh khoản.
-*   **Cổ tức đều đặn:** Hầu hết các doanh nghiệp trụ cột đều duy trì chính sách trả cổ tức ổn định bằng tiền mặt hoặc cổ phiếu nhờ dòng tiền kinh doanh lành mạnh. Bạn có thể tìm hiểu thêm về cách tối ưu hóa nguồn thu này qua bài viết [cổ tức là gì](content/blog/3-finalized/Final-co-tuc-la-gi.md).
+*   **Cổ tức đều đặn:** Hầu hết các doanh nghiệp trụ cột đều duy trì chính sách trả cổ tức ổn định bằng tiền mặt hoặc cổ phiếu nhờ dòng tiền kinh doanh lành mạnh. Bạn có thể tìm hiểu thêm về cách tối ưu hóa nguồn thu này qua bài viết [cổ tức là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi).
 
 **Hạn chế của cổ phiếu trụ:**
 *   **Tỷ suất sinh lời vừa phải:** Do quy mô vốn hóa quá lớn, doanh nghiệp cần nguồn lực khổng lồ để tăng trưởng doanh thu gấp đôi hay gấp ba. Do đó, cổ phiếu trụ khó mang lại tỷ suất sinh lời vượt trội (như nhân hai, nhân ba tài sản) trong thời gian ngắn giống các cổ phiếu midcap hay penny năng động khác.

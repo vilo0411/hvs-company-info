@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["có nên mua cổ phiếu pow"]
 Status: Finalized
@@ -93,7 +93,7 @@ Cuối cùng là rủi ro kỹ thuật từ các tổ máy vận hành lâu năm
 | **Biên an toàn & Định giá** | Giá mục tiêu kỳ vọng đạt 15.500 - 16.500 đồng/cổ phiếu. P/E trượt về mức 12.x hấp dẫn. | Giá cổ phiếu giằng co quanh vùng 10.500 - 11.500 đồng/cổ phiếu. P/E duy trì ở mức 15.x do EPS giảm. |
 | **Khuyến nghị hành động** | Giải ngân mua tích lũy khi giá cổ phiếu điều chỉnh về vùng hỗ trợ cứng 11.000 - 11.500 đồng/cổ phiếu. | Ưu tiên nắm giữ vị thế hiện tại, không mua đuổi trong các nhịp tăng nóng. |
 
-Nhìn chung, POW không phải là cổ phiếu dành cho những nhà đầu tư ưa thích lướt sóng nhanh hay tìm kiếm mức sinh lời 20-30% chỉ trong vài tuần. Biên an toàn của cổ phiếu POW chỉ thực sự xuất hiện khi giá thị trường chiết khấu sâu về sát giá trị sổ sách (P/B quanh mức 0.7 - 0.8 lần), tương đương vùng giá dưới 11.000 đồng/cổ phiếu. Trước khi quyết định giải ngân, bạn nên tìm hiểu quy trình giao dịch thực tế như [cách mua cổ phiếu SHB](content/blog/3-finalized/Final-cach-mua-co-phieu-shb.md) để nắm rõ cách đặt lệnh mua bán trên bảng điện tử.
+Nhìn chung, POW không phải là cổ phiếu dành cho những nhà đầu tư ưa thích lướt sóng nhanh hay tìm kiếm mức sinh lời 20-30% chỉ trong vài tuần. Biên an toàn của cổ phiếu POW chỉ thực sự xuất hiện khi giá thị trường chiết khấu sâu về sát giá trị sổ sách (P/B quanh mức 0.7 - 0.8 lần), tương đương vùng giá dưới 11.000 đồng/cổ phiếu. Trước khi quyết định giải ngân, bạn nên tìm hiểu quy trình giao dịch thực tế như [cách mua cổ phiếu SHB](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-shb) để nắm rõ cách đặt lệnh mua bán trên bảng điện tử.
 
 ## Quản trị danh mục và rèn luyện kỹ năng phân tích cùng HVS
 

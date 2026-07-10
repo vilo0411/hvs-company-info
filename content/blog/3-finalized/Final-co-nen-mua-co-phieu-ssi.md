@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu SSI"]
 Status: Finalized
@@ -24,7 +24,7 @@ Quyết định có nên mua cổ phiếu SSI đòi hỏi bạn phân tích kỹ
 
 Cổ phiếu SSI là chứng chỉ sở hữu cổ phần của Công ty Cổ phần Chứng khoán SSI được niêm yết trực tuyến trên sàn HOSE, đại diện cho định chế tài chính dẫn đầu ngành dịch vụ chứng khoán tại Việt Nam với quy mô vốn điều lệ hàng đầu.
 
-Công ty Cổ phần Chứng khoán SSI hiện đang sở hữu năng lực cung cấp các dịch vụ tài chính toàn diện bậc nhất thị trường chứng khoán Việt Nam. Sàn HOSE ghi nhận SSI là cổ phiếu đầu ngành dịch vụ tài chính có tính thanh khoản đặc biệt dồi dào và thu hút dòng tiền ngoại mạnh mẽ. Để có bước chuẩn bị giao dịch chu đáo, bạn nên xem qua hướng dẫn về [Cách mua cổ phiếu SSI](content/blog/3-finalized/Final-cach-mua-co-phieu-ssi.md) trước khi giải ngân.
+Công ty Cổ phần Chứng khoán SSI hiện đang sở hữu năng lực cung cấp các dịch vụ tài chính toàn diện bậc nhất thị trường chứng khoán Việt Nam. Sàn HOSE ghi nhận SSI là cổ phiếu đầu ngành dịch vụ tài chính có tính thanh khoản đặc biệt dồi dào và thu hút dòng tiền ngoại mạnh mẽ. Để có bước chuẩn bị giao dịch chu đáo, bạn nên xem qua hướng dẫn về [Cách mua cổ phiếu SSI](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-ssi) trước khi giải ngân.
 
 * Mảng môi giới chứng khoán: Phục vụ tệp khách hàng cá nhân rộng lớn và là đại diện hàng đầu phục vụ các tổ chức tài chính quốc tế.
 * Mảng cho vay ký quỹ (margin): Nguồn tạo lợi nhuận đều đặn nhờ năng lực tiếp cận các nguồn vốn vay giá rẻ trong và ngoài nước.
@@ -44,7 +44,7 @@ Triển vọng nâng hạng thị trường chứng khoán Việt Nam lên nhóm
 | Tỷ lệ Dư nợ margin/Vốn chủ sở hữu | 0.95x | 1.25x | 1.40x |
 | Lợi nhuận mảng tự doanh (Tỷ đồng) | ~450 tỷ VNĐ | ~210 tỷ VNĐ | ~180 tỷ VNĐ |
 
-Sự gia tăng thanh khoản giao dịch toàn thị trường là bệ phóng vững chắc giúp cải thiện doanh thu phí môi giới của doanh nghiệp. Việc triển khai hệ thống công nghệ KRX mới hứa hẹn mang lại nhiều nghiệp vụ giao dịch mới trong tương lai. Để có cái nhìn toàn diện hơn, bạn nên đối chiếu trực tiếp với biến động chung của các mã khác trong nhóm [cổ phiếu ngành chứng khoán](content/blog/3-finalized/Final-co-phieu-nganh-chung-khoan.md).
+Sự gia tăng thanh khoản giao dịch toàn thị trường là bệ phóng vững chắc giúp cải thiện doanh thu phí môi giới của doanh nghiệp. Việc triển khai hệ thống công nghệ KRX mới hứa hẹn mang lại nhiều nghiệp vụ giao dịch mới trong tương lai. Để có cái nhìn toàn diện hơn, bạn nên đối chiếu trực tiếp với biến động chung của các mã khác trong nhóm [cổ phiếu ngành chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-nganh-chung-khoan).
 
 ---
 

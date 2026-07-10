@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Trái phiếu ngân hàng là gì"]
 Status: Finalized
@@ -32,7 +32,7 @@ Writing_Method: PAS
 HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS Forum"]
 Cluster: Trái phiếu
 Internal_Links:
-  - "trái phiếu là gì": "content/blog/3-finalized/Final-trai-phieu-la-gi.md"
+  - "trái phiếu là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-la-gi"
 ---
 
 # Trái phiếu ngân hàng là gì? Hướng dẫn đầu tư an toàn cho F0
@@ -43,7 +43,7 @@ Trái phiếu ngân hàng là gì? Đây là câu hỏi được nhiều nhà đ
 
 Trái phiếu ngân hàng là **loại chứng khoán nợ do ngân hàng thương mại phát hành** nhằm huy động nguồn vốn trung và dài hạn từ các cá nhân hoặc tổ chức trên thị trường. Khi sở hữu sản phẩm tài chính này, bạn trở thành chủ nợ của tổ chức phát hành, còn ngân hàng có nghĩa vụ thanh toán lãi định kỳ và hoàn trả tiền gốc khi đến kỳ đáo hạn.
 
-Bản chất hình thức này tương tự việc [phát hành trái phiếu](content/blog/3-finalized/Final-trai-phieu-la-gi.md) của các doanh nghiệp sản xuất, nhưng tổ chức phát hành là các tổ chức tín dụng. Các ngân hàng thương mại tại Việt Nam như VCB, BID, hay CTG thường sử dụng nguồn tiền này để bổ sung vốn tự có cấp 2, từ đó tối ưu tỷ lệ an toàn vốn (CAR) và mở rộng quy mô tín dụng.
+Bản chất hình thức này tương tự việc [phát hành trái phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-la-gi) của các doanh nghiệp sản xuất, nhưng tổ chức phát hành là các tổ chức tín dụng. Các ngân hàng thương mại tại Việt Nam như VCB, BID, hay CTG thường sử dụng nguồn tiền này để bổ sung vốn tự có cấp 2, từ đó tối ưu tỷ lệ an toàn vốn (CAR) và mở rộng quy mô tín dụng.
 
 Mệnh giá trái phiếu ngân hàng khi chào bán ra công chúng thường là 100.000 VNĐ hoặc bội số của nó. Nhà đầu tư nhận lãi định kỳ thông qua lãi suất coupon cố định hoặc thả nổi cộng thêm biên độ. Đây là công cụ tích lũy trung hạn phù hợp cho những ai muốn đa dạng danh mục đầu tư bên cạnh tiền gửi tiết kiệm.
 

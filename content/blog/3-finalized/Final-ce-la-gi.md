@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: [\"ce là gì"]
 Status: Finalized
@@ -36,7 +36,7 @@ $$\text{Giá trần (CE)} = \text{Giá tham chiếu} \times (1 + \text{Biên đ�
 Mỗi sàn giao dịch áp dụng một biên độ dao động khác nhau, phản ánh mức độ kiểm soát biến động riêng biệt:
 *   **Sàn HOSE (Sở Giao dịch Chứng khoán TP.HCM):** Áp dụng biên độ dao động **±7%** so với giá tham chiếu. Ví dụ, một cổ phiếu niêm yết trên HOSE có giá tham chiếu đầu ngày là 50.000 VND. Giá trần CE tối đa của cổ phiếu đó trong phiên sẽ là: $50.000 \times (1 + 0.07) = 53.500$ VND.
 *   **Sàn HNX (Sở Giao dịch Chứng khoán Hà Nội):** Áp dụng biên độ dao động **±10%** so với giá tham chiếu.
-*   **Sàn UPCOM (Thị trường công ty đại chúng chưa niêm yết):** Áp dụng biên độ dao động **±15%** so với giá tham chiếu. Để hiểu rõ hơn về đặc thù vận hành của sàn này, bạn có thể tham khảo bài phân tích [upcom là gì](Final-upcom-la-gi.md) để củng cố kiến thức nền tảng.
+*   **Sàn UPCOM (Thị trường công ty đại chúng chưa niêm yết):** Áp dụng biên độ dao động **±15%** so với giá tham chiếu. Để hiểu rõ hơn về đặc thù vận hành của sàn này, bạn có thể tham khảo bài phân tích [upcom là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/upcom-la-gi) để củng cố kiến thức nền tảng.
 
 ### Quy tắc làm tròn giá theo bước nhảy (Tick size)
 Sau khi nhân biên độ dao động, giá trần tính toán thường xuất hiện các số lẻ thập phân. Lúc này, hệ thống sẽ thực hiện làm tròn xuống theo quy tắc bước nhảy giá (tick size) quy định của từng sàn giao dịch:
@@ -56,7 +56,7 @@ Nhiều thị trường tài chính lớn trên thế giới (như Mỹ hay Châ
 
 *   **Duy trì tính ổn định của thị trường:** Biên độ dao động hạn chế những biến động quá sốc xảy ra trong một phiên duy nhất. Quy định này ngăn chặn tình trạng bán tháo hoảng loạn lan truyền hoặc hiện tượng thao túng đẩy giá lên cao một cách phi lý của các đội nhóm đầu cơ lớn, bảo toàn tính cân bằng cho hệ thống tài chính.
 *   **Tạo sự nhất quán và minh bạch:** Cung cấp cho nhà đầu tư một giới hạn giá rõ ràng, công khai. Khi cổ phiếu chạm trần CE, dòng tiền và cung - cầu có một điểm dừng kỹ thuật để cân nhắc định giá lại doanh nghiệp trước khi bước sang phiên giao dịch tiếp theo.
-*   **Bảo vệ quyền lợi nhà đầu tư cá nhân:** Hạn chế các thiệt hại tài chính đột ngột cho F0 trước những biến động tin tức vĩ mô chưa được kiểm chứng. Khoảng dừng trần sàn giúp giảm áp lực tâm lý giao dịch, giúp bạn có thời gian bóc tách thông tin một cách lý trí hơn. Bạn nên đọc thêm bài viết [giá trần giá sàn](Final-gia-tran-gia-san.md) để nắm bắt sâu sắc hơn về cơ chế kiểm soát rủi ro kỹ thuật này.
+*   **Bảo vệ quyền lợi nhà đầu tư cá nhân:** Hạn chế các thiệt hại tài chính đột ngột cho F0 trước những biến động tin tức vĩ mô chưa được kiểm chứng. Khoảng dừng trần sàn giúp giảm áp lực tâm lý giao dịch, giúp bạn có thời gian bóc tách thông tin một cách lý trí hơn. Bạn nên đọc thêm bài viết [giá trần giá sàn](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/gia-tran-gia-san) để nắm bắt sâu sắc hơn về cơ chế kiểm soát rủi ro kỹ thuật này.
 
 ## Cách vận dụng CE trong giao dịch chứng khoán thực chiến
 

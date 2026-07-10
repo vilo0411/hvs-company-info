@@ -1,4 +1,4 @@
----
+﻿---
 Author: Antigravity
 aliases: ["Mô hình kinh doanh là gì"]
 Status: Finalized
@@ -44,9 +44,9 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS
 # Cluster info
 Cluster: Phân tích cơ bản
 Internal_Links:
-  - "phân tích cơ bản là gì": "content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md"
-  - "chỉ số roe là gì": "content/blog/3-finalized/Final-chi-so-roe-la-gi.md"
-  - "cách chọn cổ phiếu tốt": "content/blog/3-finalized/Final-cach-chon-co-phieu-tot.md"
+  - "phân tích cơ bản là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi"
+  - "chỉ số roe là gì": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-roe-la-gi"
+  - "cách chọn cổ phiếu tốt": "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-chon-co-phieu-tot"
 ---
 
 # Mô hình kinh doanh là gì? Các loại mô hình và cách đánh giá
@@ -59,7 +59,7 @@ Khi tham gia đầu tư chứng khoán, việc đọc hiểu số liệu tài ch
 
 Mô hình kinh doanh là **phương thức mà một doanh nghiệp sử dụng để tạo ra, phân phối và tích lũy giá trị thực tế, từ đó chuyển hóa sản phẩm hoặc dịch vụ thành dòng doanh thu và lợi nhuận bền vững**.
 
-Hiểu sâu sắc bản thiết kế này giúp bạn bóc tách cơ chế vận hành của doanh nghiệp. Khi bạn tiến hành [phân tích cơ bản là gì](content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md) cho một mã cổ phiếu cụ thể trên sàn HOSE, mô hình hoạt động luôn là điểm bắt đầu bắt buộc.
+Hiểu sâu sắc bản thiết kế này giúp bạn bóc tách cơ chế vận hành của doanh nghiệp. Khi bạn tiến hành [phân tích cơ bản là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) cho một mã cổ phiếu cụ thể trên sàn HOSE, mô hình hoạt động luôn là điểm bắt đầu bắt buộc.
 
 Phân tích cấu trúc hoạt động mang lại cho bạn ba giá trị dưới đây:
 *   **Nhìn rõ cơ cấu sinh lời:** Nhận diện dòng doanh thu chính.
@@ -92,7 +92,7 @@ Các loại mô hình kinh doanh phổ biến trên thị trường gồm bán h
 *   **Mô hình Subscription (Thu phí định kỳ):** Cung cấp dịch vụ và thu phí sử dụng định kỳ, mang lại dòng tiền ổn định.
 *   **Mô hình Franchise (Nhượng quyền):** Cho phép bên thứ ba dùng thương hiệu kinh doanh. Mô hình này giúp mở rộng nhanh chóng mà ít tốn vốn.
 
-Sự chênh lệch về biên lợi nhuận giữa các mô hình quyết định trực tiếp đến [chỉ số roe là gì](content/blog/3-finalized/Final-chi-so-roe-la-gi.md) trong phân tích tài chính. Bạn có thể tham khảo bảng so sánh chi tiết dưới đây:
+Sự chênh lệch về biên lợi nhuận giữa các mô hình quyết định trực tiếp đến [chỉ số roe là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-roe-la-gi) trong phân tích tài chính. Bạn có thể tham khảo bảng so sánh chi tiết dưới đây:
 
 | Mô hình kinh doanh | Biên lợi nhuận gộp đặc thù | Chu kỳ thu tiền | Khả năng mở rộng quy mô |
 | :--- | :--- | :--- | :--- |
@@ -113,7 +113,7 @@ Cách nhà đầu tư đánh giá mô hình kinh doanh của doanh nghiệp tậ
 *   **Lợi thế cạnh tranh bền vững (Economic Moat):** Hào kinh tế giúp bảo vệ doanh nghiệp trước đối thủ cạnh tranh. Doanh nghiệp sở hữu thương hiệu lớn hoặc công nghệ độc quyền sẽ dễ dàng giữ chân khách hàng.
 *   **Tính lành mạnh của dòng tiền:** Doanh nghiệp tạo ra lợi nhuận kế toán nhưng nếu dòng tiền từ hoạt động kinh doanh (CFO) bị âm liên tục do nợ đọng hoặc hàng tồn kho thì mô hình đó rất kém bền vững. Bạn nên ưu tiên các doanh nghiệp có dòng tiền mặt thực dương.
 
-Phân tích thấu đáo ba khía cạnh trên là [cách chọn cổ phiếu tốt](content/blog/3-finalized/Final-cach-chon-co-phieu-tot.md) giúp bạn bảo vệ vốn hiệu quả và tránh xa bẫy tăng trưởng ảo. Những mô hình kinh doanh thâm dụng vốn lớn và liên tục nợ đọng luôn tiềm ẩn rủi ro phá sản cao khi thị trường thắt chặt tiền tệ.
+Phân tích thấu đáo ba khía cạnh trên là [cách chọn cổ phiếu tốt](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-chon-co-phieu-tot) giúp bạn bảo vệ vốn hiệu quả và tránh xa bẫy tăng trưởng ảo. Những mô hình kinh doanh thâm dụng vốn lớn và liên tục nợ đọng luôn tiềm ẩn rủi ro phá sản cao khi thị trường thắt chặt tiền tệ.
 
 ---
 
