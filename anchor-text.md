@@ -76,7 +76,7 @@ Bài viết nhấn mạnh điều này: **từ xung quanh anchor cũng giúp Goo
 - [ ] Anchor text có mô tả đúng trang được link không?
 - [ ] Có đang dùng generic words như "xem thêm", "click here" không? → Sửa lại
 - [ ] Có link cùng 1 trang với cùng 1 anchor text quá nhiều lần không? → Đa dạng hóa
-- [ ] Anchor text có đọc tự nhiên trong câu không? → Đọc thành tiếng thử
+- [ ] Anchor text có đọc tự nhiên trong câu không? → Đọc thành tiếng thử (Tuyệt đối không ép từ khóa thô có hậu tố "là gì" vào câu như "lạm dụng [margin là gì]", thay bằng Partial Match như "[đòn bẩy margin]").
 - [ ] Các link có bị nhồi nhét cạnh nhau không? → Giãn ra
 
 ---

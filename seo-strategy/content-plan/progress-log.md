@@ -1,8 +1,8 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 256 bài
-- **Active Pipeline:** 4 items
+- **Published:** 279 bài
+- **Active Pipeline:** 1 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
@@ -11,10 +11,7 @@
 
 | Keyword | Persona | Mode | Status |
 | :--- | :--- | :--- | :--- |
-| sách về tài chính | Sơn Sinh Viên | Express | Outline-Pending |
-| sách về chứng khoán của warren buffett | Sơn Sinh Viên | Express | Outline-Pending |
-| giáo trình phân tích báo cáo tài chính | Sơn Sinh Viên | Express | Outline-Pending |
-| sách phân tích kỹ thuật chứng khoán | Sơn Sinh Viên | Express | Outline-Pending |
+| ROCE là gì | Sơn Sinh Viên | Guided | Draft |
 
 ---
 
@@ -22,6 +19,30 @@
 
 | Date | Keyword | Persona | Mode | File Path |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-08-05 | ngân sách nhà nước là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-ngan-sach-nha-nuoc-la-gi.md` |
+| 2026-08-05 | thuế là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-thue-la-gi.md` |
+| 2026-08-05 | chính sách tiền tệ là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-chinh-sach-tien-te-la-gi.md` |
+| 2026-08-05 | cung tiền là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-cung-tien-la-gi.md` |
+| 2026-08-05 | dự trữ ngoại hối là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-du-tru-ngoai-hoi-la-gi.md` |
+| 2026-08-05 | liên ngân hàng là gì | F0 Investor / Sinh viên | Optimized | `content/blog/3-finalized/Final-lien-ngan-hang-la-gi.md` |
+| 2026-08-05 | Vòng quay khoản phải trả là gì | F0 | Express | `content/blog/3-finalized/Final-vong-quay-khoan-phai-tra-la-gi.md` |
+| 2026-08-05 | Vòng quay hàng tồn kho là gì | F0 | Express | `content/blog/3-finalized/Final-vong-quay-hang-ton-kho-la-gi.md` |
+| 2026-08-05 | Tín dụng doanh nghiệp là gì | F0 | Express | `content/blog/3-finalized/Final-tin-dung-doanh-nghiep-la-gi.md` |
+| 2026-08-05 | Số ngày phải trả chưa thanh toán | F0 | Express | `content/blog/3-finalized/Final-so-ngay-phai-tra-chua-thanh-toan.md` |
+| 2026-08-05 | Thời gian thu hồi tiền hàng tồn đọng | F0 | Express | `content/blog/3-finalized/Final-thoi-gian-thu-hoi-tien-hang-ton-dong.md` |
+
+| 2026-08-04 | tín phiếu là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-tin-phieu-la-gi.md` |
+| 2026-08-04 | Phân tích báo cáo tài chính Công ty Kinh Đô | Sơn Sinh Viên | Guided | `content/blog/3-finalized/Final-phan-tich-bao-cao-tai-chinh-cong-ty-kinh-do.md` |
+| 2026-08-04 | Phân tích báo cáo tài chính FPT | Sơn Sinh Viên | Guided | `content/blog/3-finalized/Final-phan-tich-bao-cao-tai-chinh-fpt.md` |
+| 2026-08-04 | Phân tích báo cáo tài chính PNJ | Sơn Sinh Viên | Guided | `content/blog/3-finalized/Final-phan-tich-bao-cao-tai-chinh-pnj.md` |
+| 2026-08-04 | Phân tích báo cáo tài chính Vinamilk | Sơn Sinh Viên | Guided | `content/blog/3-finalized/Final-phan-tich-bao-cao-tai-chinh-vinamilk.md` |
+| 2026-08-04 | Phân tích báo cáo tài chính Vingroup | Sơn Sinh Viên | Guided | `content/blog/3-finalized/Final-phan-tich-bao-cao-tai-chinh-vingroup.md` |
+| 2026-08-04 | sách về tài chính | Sơn Sinh Viên | Express | `content/blog/3-finalized/Final-sach-ve-tai-chinh.md` |
+| 2026-08-04 | sách về chứng khoán của warren buffett | Sơn Sinh Viên | Express | `content/blog/3-finalized/Final-sach-ve-chung-khoan-cua-warren-buffett.md` |
+| 2026-08-04 | giáo trình phân tích báo cáo tài chính | Sơn Sinh Viên | Express | `content/blog/3-finalized/Final-giao-trinh-phan-tich-bao-cao-tai-chinh.md` |
+| 2026-08-04 | sách phân tích kỹ thuật chứng khoán | Sơn Sinh Viên | Express | `content/blog/3-finalized/Final-sach-phan-tich-ky-thuat-chung-khoan.md` |
+| 2026-07-23 | cách chọn cổ phiếu tốt | HVS Senior Mentor | Optimized | `content/blog/3-finalized/Final-cach-chon-co-phieu-tot.md` |
+| 2026-07-21 | lãi suất là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-lai-suat-la-gi.md` |
 | 2026-07-07 | Trái phiếu chuyển đổi là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-trai-phieu-chuyen-doi-la-gi.md` |
 | 2026-07-07 | Phân tích Dupont là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-phan-tich-dupont-la-gi.md` |
 | 2026-07-07 | Phân tích báo cáo tài chính Công ty Bibica | Lan Newbie | Express | `content/blog/3-finalized/Final-phan-tich-bao-cao-tai-chinh-cong-ty-bibica.md` |
@@ -78,7 +99,6 @@
 | 2026-06-12 | cổ phiếu esop là gì | Antigravity | Express | `content/blog/3-finalized/Final-co-phieu-esop-la-gi.md` |
 | 2026-06-11 | cổ phiếu bị hủy niêm yết | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-phieu-bi-huy-niem-yet.md` |
 | 2026-06-11 | chia tách cổ phiếu là gì | Antigravity | Express | `content/blog/3-finalized/Final-chia-tach-co-phieu-la-gi.md` |
-| 2026-06-11 | cách chọn cổ phiếu tốt | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-cach-chon-co-phieu-tot.md` |
 | 2026-06-11 | Có nên mua cổ phiếu TTF | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-ttf.md` |
 | 2026-06-11 | Có nên mua cổ phiếu VCB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-vcb.md` |
 | 2026-06-11 | Có nên mua cổ phiếu VIB | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-co-nen-mua-co-phieu-vib.md` |

@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Claude Code
 Status: Finalized
 Mode: Express
@@ -25,7 +25,7 @@ Bản chất của biến động này xuất phát từ mất cân đối cung 
 
 - Hoạt động kinh doanh tăng trưởng nóng thúc đẩy doanh nghiệp vay vốn mở rộng sản xuất.
 - Người dân tăng cường chi tiêu làm sức mua vượt khả năng cung ứng của thị trường.
-- Áp lực lạm phát xuất hiện buộc Ngân hàng Nhà nước (NHNN) tăng lãi suất điều hành để hạ nhiệt.
+- Áp lực lạm phát xuất hiện buộc Ngân hàng Nhà nước (NHNN) thắt chặt [cung tiền](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cung-tien-la-gi) và tăng lãi suất điều hành để hạ nhiệt.
 - Lãi suất cao làm tăng chi phí vốn, giảm đầu tư và tiêu dùng, khiến kinh tế rơi vào suy thoái.
 
 Nền kinh tế bước vào giai đoạn tái cấu trúc, giảm đòn bẩy tài chính để chuẩn bị cho chu kỳ mới. Bản chất chu kỳ là vậy.
@@ -130,7 +130,7 @@ Hệ quả từ khủng hoảng tài chính toàn cầu 2008 và chính sách k�
 
 #### Chu kỳ Covid-19 và biến động thanh khoản 2020 - 2022
 
-Đại dịch năm 2020 thúc đẩy NHNN hạ lãi suất để hỗ trợ sản xuất, tạo làn sóng tiền rẻ đẩy VN-Index lên đỉnh 1.500 điểm vào tháng 4/2022. Cuối năm 2022, lạm phát toàn cầu tăng cao và khủng hoảng trái phiếu doanh nghiệp trong nước làm đóng băng thanh khoản, đẩy chỉ số về vùng 900 điểm trước khi bước vào pha phục hồi ổn định hiện nay.
+Đại dịch năm 2020 thúc đẩy NHNN nới rộng [cung tiền](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cung-tien-la-gi) và hạ lãi suất để hỗ trợ sản xuất, tạo làn sóng tiền rẻ đẩy VN-Index lên đỉnh 1.500 điểm vào tháng 4/2022. Cuối năm 2022, lạm phát toàn cầu tăng cao và khủng hoảng trái phiếu doanh nghiệp trong nước làm đóng băng thanh khoản, đẩy chỉ số về vùng 900 điểm trước khi bước vào pha phục hồi ổn định hiện nay.
 
 Đặc điểm lịch sử của các chu kỳ này được tổng hợp chi tiết trong bảng sau:
 

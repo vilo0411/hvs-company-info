@@ -93,6 +93,7 @@ REQUIRED:
   - conclusion_h2: 'bắt buộc có H2 Kết luận ở cuối bài, viết tùy biến theo từ khóa và không dùng từ cấm "Tóm lại,", "Kết luận là,"'
   - brand_in_sapo: 'Sapo phải chứa brandname "HVS"'
   - brand_in_conclusion: 'Kết luận phải chứa brandname "HVS"'
+  - value_trap_criteria: 'khi trình bày tiêu chí định lượng (P/E, P/B...), bắt buộc phân tích bẫy giá trị (value trap) hoặc ngoại lệ thực tế đi kèm'
 ```
 
 ---
@@ -174,11 +175,13 @@ REQUIRED:
 3. **Nguồn pháp lý:** Chỉ `vanban.chinhphu.vn` hoặc `vbpl.vn`.
 4. **Cấm ngoặc kép nhấn mạnh:** Tuyệt đối không dùng dấu ngoặc kép để nhấn mạnh các từ ngữ, thuật ngữ (Ví dụ: ❌ "đúng giá", ❌ "quyền lực", ❌ "thần tốc"). Nếu cần nhấn mạnh, hãy dùng Bold hoặc viết lại câu để làm nổi bật ý nghĩa.
 5. **Ngoặc kép hợp lệ:** Chỉ dùng cho trích dẫn nguyên văn lời nói hoặc tên tài liệu pháp lý cụ thể.
+6. **Bẫy giá trị khi lọc cổ phiếu:** Khi trình bày các tiêu chí tài chính định lượng (P/E, P/B, cổ tức...), bắt buộc phải phân tích các trường hợp ngoại lệ hoặc "bẫy giá trị" (Value Trap) thực tế đi kèm (ví dụ: bẫy P/E thấp ở đỉnh chu kỳ kinh doanh của cổ phiếu thép/phân bón, bẫy P/B thấp của tài sản ảo/kém chất lượng trên sổ sách) để đảm bảo chiều sâu chuyên môn thực chiến và bảo vệ nhà đầu tư F0.
 
 ---
 
 ## 4. Nhật ký học hỏi (Feedback Learning Log)
 
+- [2026-07-23]: Cập nhật từ "cách chọn cổ phiếu tốt" feedback: Thêm quy tắc logic tài chính — bắt buộc phân tích bẫy giá trị (Value Trap) hoặc ngoại lệ thực tế đi kèm các tiêu chí định lượng (P/E < 9, P/B < 1.2) để đảm bảo chiều sâu thực chiến.
 - [2026-05-08]: Tối ưu toàn bộ rules dựa trên `avoid-ai-writing` framework. Thêm Tiered Vocabulary và Categorized Patterns (Content, Language, Structure, Communication).
 - [2026-05-07]: Thêm quy tắc hạn chế ngoặc kép và cá nhân hóa sản phẩm theo Persona.
 - [2026-05-07]: Bổ sung quy tắc về nguồn trích dẫn Chính phủ, cấm ẩn dụ hoa mỹ (đại dương, sóng dữ).

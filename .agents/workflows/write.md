@@ -38,7 +38,7 @@ Parse args: Keyword = text trước flags. Flags: `--step` / `--auto` / `--no-se
    - Lưu `content/blog/1-outlines/Outline-[slug].md`
    - Update sprint-backlog: `Planned` → `Outline-Pending`
    - Log: "✅ [N/Total] Outline-[slug].md"
-6. Summary + hướng dẫn review
+6. Summary + hướng dẫn review → **BẮT BUỘC DỪNG VÀ BÁO CÁO CHO USER.** (Tuyệt đối không tự động chuyển sang Phase 3/Draft hay Phase 5/Finalize).
 
 ---
 

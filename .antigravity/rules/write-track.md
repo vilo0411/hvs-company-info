@@ -13,6 +13,17 @@ description: Quy trình viết bài SEO 3 modes (Express/Guided/Auto). Kích ho�
 
 ---
 
+## Giới hạn Giai đoạn theo Lệnh (Execution Boundaries)
+
+Để tránh việc agent tự động viết tiếp (over-automation) vượt quá yêu cầu của lệnh, agent phải tuân thủ nghiêm ngặt các điểm dừng sau:
+- **Lệnh `/write --sprint` hoặc `/write --sprint --with-serp`:** Chỉ chạy đến hết **Phase 2 (Tạo Outline)**. Sau khi lưu các file Outline và cập nhật backlog sang `Outline-Pending`, **BẮT BUỘC PHẢI DỪNG LẠI** và báo cáo. KHÔNG được chạy tiếp sang Phase 3 (Draft) hay các phase sau.
+- **Lệnh `/write [keyword] --step` (Guided Mode):** Chỉ chạy đến hết **Phase 2 (Tạo Outline)** và dừng lại chờ lệnh `/approve` tiếp theo từ user. Sau khi user duyệt Outline bằng `/approve`, agent mới chuyển sang viết Draft và **BẮT BUỘC PHẢI DỪNG LẠI** ở cuối Phase 3 (Draft) để chờ duyệt lần 2.
+- **Lệnh `/write --sprint --flush`:** Chỉ chạy đối với các item có status `Outline-Approved`, bắt đầu từ **Phase 3 (Draft)** cho đến **Phase 5 (Finalize)**.
+- **Lệnh `/write [keyword]` (Express Mode):** Chạy từ Phase 0 đến Phase 2, dừng lại báo cáo Outline. Sau khi user chạy `/approve`, agent sẽ chạy một mạch từ Phase 3 đến Phase 5 (Auto-finalize).
+- **Lệnh `/write [keyword] --auto` (Auto Mode):** Chạy một mạch không dừng từ Phase 0 đến Phase 5.
+
+---
+
 ## Phase 0: Pre-flight
 
 1. Đọc `seo-strategy/content-plan/progress-log.md` → duplicate check (keyword đã có bài chưa?)

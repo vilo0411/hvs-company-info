@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
 Mode: Detailed
@@ -44,7 +44,7 @@ Phí lưu ký là khoản phí nộp cho Tổng Công ty Lưu ký và Bù trừ 
 
 ### Các khoản thuế theo quy định pháp luật
 
-Khi tham gia đầu tư chứng khoán, bạn thực hiện nghĩa vụ nộp thuế thu nhập cá nhân cho Nhà nước qua hai hoạt động chính (như bán cổ phiếu, nhận cổ tức):
+Khi tham gia đầu tư chứng khoán, bạn thực hiện nghĩa vụ nộp [thuế thu nhập cá nhân](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thue-la-gi) cho Nhà nước qua hai hoạt động chính (như bán cổ phiếu, nhận cổ tức):
 *   **Thuế khi bán cổ phiếu:** Bạn nộp thuế suất 0,1% trên giá trị bán. Dù đầu tư lãi hay lỗ, bạn vẫn nộp đủ 0,1% tiền thuế khi lệnh bán khớp thành công. Hệ thống tự động khấu trừ trước khi chuyển tiền về tài khoản của bạn.
 *   **Thuế thu nhập từ cổ tức:** Bạn nộp thuế suất 5% trên giá trị cổ tức nhận được (bao gồm tiền mặt và cổ phiếu). Công ty chứng khoán tự động khấu trừ tại nguồn trước khi chi trả cổ tức thực tế.
 

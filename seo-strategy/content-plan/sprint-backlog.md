@@ -5,25 +5,10 @@
 
 | # | Keyword | Cluster | Persona | Loại | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 224 | sách về tài chính | tài liệu | Sinh viên | Priority 1 | Outline-Pending |
-| 225 | sách về chứng khoán của warren buffett | tài liệu | Sinh viên | Priority 1 | Outline-Pending |
-| 226 | giáo trình phân tích báo cáo tài chính | tài liệu | Sinh viên | Priority 1 | Outline-Pending |
-| 227 | sách phân tích kỹ thuật chứng khoán | tài liệu | Sinh viên | Priority 1 | Outline-Pending |
 | 233 | giá trị sổ sách của cổ phiếu | Phân tích cơ bản | F0 | Priority 1 | Outline-Pending |
-
 | 240 | Sóng Elliott là gì | Phân tích kỹ thuật | F0 | Priority 1 | Outline-Pending |
 | 249 | Khi nào nên mua cổ phiếu | Phân tích cơ bản | F0 | Priority 1 | Outline-Pending |
-| 257 | Phân tích báo cáo tài chính Công ty Kinh Đô | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 258 | Phân tích báo cáo tài chính FPT | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 259 | Phân tích báo cáo tài chính PNJ | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 260 | Phân tích báo cáo tài chính Vinamilk | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 261 | Phân tích báo cáo tài chính Vingroup | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 262 | ROCE là gì | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 263 | Số ngày phải trả chưa thanh toán | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 264 | Thời gian thu hồi tiền hàng tồn đọng | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 265 | Tín dụng doanh nghiệp là gì | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 266 | Vòng quay hàng tồn kho là gì | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 267 | Vòng quay khoản phải trả là gì | Phân tích cơ bản | F0 | Priority 1 | Planned |
+| 262 | ROCE là gì | Phân tích cơ bản | F0 | Priority 1 | Draft-Pending |
 | 268 | Vốn cổ phần là gì | Phân tích cơ bản | F0 | Priority 1 | Planned |
 | 269 | Vốn lưu động là gì | Phân tích cơ bản | F0 | Priority 1 | Planned |
 | 270 | Vốn pháp định là gì | Phân tích cơ bản | F0 | Priority 1 | Planned |

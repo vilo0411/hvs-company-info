@@ -19,7 +19,10 @@ Mỗi bài viết mới khi publish phải tạo thành một "bánh xe":
 1. **Exact Match (Chính xác):** Trùng 100% từ khóa chính của bài đích. Tối đa 15% tổng số link trỏ về bài đó.
 2. **Partial Match (Bổ trợ/Semantic):** Dùng các cụm từ biến thể trong `anchor-index.md`. Ưu tiên hàng đầu (65%+).
 
-**Cấm:** Dùng anchor generic như "tại đây", "xem thêm", "đọc thêm".
+**Cấm:** 
+- Dùng anchor generic như "tại đây", "xem thêm", "đọc thêm".
+- Ép các từ khóa có đuôi câu hỏi như "là gì" vào ngữ cảnh chạy của câu làm mất tự nhiên (ví dụ: "lạm dụng [margin là gì]"). 
+- **Giải pháp:** Nếu liên kết chèn inline vào câu, bắt buộc phải dùng Partial Match tự nhiên (ví dụ: "lạm dụng [đòn bẩy margin]") hoặc viết lại câu rõ ràng (ví dụ: "tham khảo bài viết [margin là gì] để...").
 
 ---
 

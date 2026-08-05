@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["đầu tư ngắn hạn"]
 Status: Finalized
@@ -32,7 +32,7 @@ Bất kỳ phương pháp giao dịch nào cũng sở hữu hai mặt ưu điể
 
 Về ưu điểm, chiến lược này mang lại tính linh hoạt cực kỳ cao cho dòng vốn của bạn. Bạn có khả năng nhanh chóng thu hồi tiền mặt khi thị trường xuất hiện rủi ro vĩ mô hoặc dễ dàng dịch chuyển dòng vốn sang các nhóm ngành đang thu hút dòng tiền mạnh. Đồng thời, việc xoay vòng vốn liên tục giúp bạn tận dụng tối đa các nhịp tăng giá ngắn hạn của cổ phiếu mà không phải chịu rủi ro nắm giữ tài sản qua các chu kỳ suy thoái dài hạn.
 
-Về nhược điểm, việc giao dịch ngắn hạn liên tục khiến bạn phải chịu áp lực tâm lý rất lớn trước các đợt biến động giá thất thường hàng ngày của bảng điện. Đặc biệt, chi phí giao dịch chính là "kẻ thù thầm lặng" bào mòn tỷ suất sinh lời thực tế của bạn. Mỗi giao dịch mua và bán đều phải gánh chịu phí môi giới (thông thường khoảng 0.15% mỗi chiều) và thuế thu nhập cá nhân (0.1% trên giá trị mỗi chiều bán). Nếu bạn thực hiện mua bán liên tục với tần suất quá cao, tổng chi phí thuế phí tích lũy có thể dễ dàng ăn mòn toàn bộ phần lợi nhuận thu được, thậm chí biến một danh mục có lãi nhẹ thành thua lỗ thực tế. Ngoài ra, bạn còn phải đối mặt với rủi ro từ những thông tin nhiễu loạn trên thị trường chứng khoán. Việc phản ứng quá nhanh với các tin đồn chưa được kiểm chứng dễ khiến F0 đưa ra quyết định sai lầm, dẫn đến tình trạng thua lỗ kép. Do đó, việc kiểm soát tần suất giao dịch và biết cách chọn lọc thông tin chất lượng là hai yếu tố sống còn giúp bạn bảo toàn nguồn vốn của mình.
+Về nhược điểm, việc giao dịch ngắn hạn liên tục khiến bạn phải chịu áp lực tâm lý rất lớn trước các đợt biến động giá thất thường hàng ngày của bảng điện. Đặc biệt, chi phí giao dịch chính là "kẻ thù thầm lặng" bào mòn tỷ suất sinh lời thực tế của bạn. Mỗi giao dịch mua và bán đều phải gánh chịu phí môi giới (thông thường khoảng 0.15% mỗi chiều) và [thuế thu nhập cá nhân](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thue-la-gi) (0.1% trên giá trị mỗi chiều bán). Nếu bạn thực hiện mua bán liên tục với tần suất quá cao, tổng chi phí thuế phí tích lũy có thể dễ dàng ăn mòn toàn bộ phần lợi nhuận thu được, thậm chí biến một danh mục có lãi nhẹ thành thua lỗ thực tế. Ngoài ra, bạn còn phải đối mặt với rủi ro từ những thông tin nhiễu loạn trên thị trường chứng khoán. Việc phản ứng quá nhanh với các tin đồn chưa được kiểm chứng dễ khiến F0 đưa ra quyết định sai lầm, dẫn đến tình trạng thua lỗ kép. Do đó, việc kiểm soát tần suất giao dịch và biết cách chọn lọc thông tin chất lượng là hai yếu tố sống còn giúp bạn bảo toàn nguồn vốn của mình.
 
 ## 3 chiến lược đầu tư ngắn hạn phổ biến cho người mới
 

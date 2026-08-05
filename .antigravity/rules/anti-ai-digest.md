@@ -2,7 +2,7 @@
 name: Anti-AI Digest
 description: Bản rút gọn machine-readable của anti-ai-rules.md. Cập nhật file này ngay khi anti-ai-rules.md có thay đổi. Full rationale → anti-ai-rules.md.
 source: seo-strategy/resources/content-strategy/anti-ai-rules.md
-updated: 2026-06-29
+updated: 2026-07-23
 ---
 
 # Anti-AI Digest — Enforcement Patterns
@@ -98,6 +98,7 @@ REQUIRED:
   - conclusion_h2: 'bắt buộc có H2 Kết luận ở cuối bài, viết tùy biến theo từ khóa và không dùng từ cấm "Tóm lại,", "Kết luận là,"'
   - brand_in_sapo: 'Sapo phải chứa brandname "HVS"'
   - brand_in_conclusion: 'Kết luận phải chứa brandname "HVS"'
+  - value_trap_criteria: 'khi trình bày tiêu chí định lượng (P/E, P/B...), bắt buộc phân tích bẫy giá trị (value trap) hoặc ngoại lệ thực tế đi kèm'
 ```
 
 ---

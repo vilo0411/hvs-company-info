@@ -65,9 +65,11 @@
 | [Final-co-phieu-blue-chip-la-gi.md](content/blog/3-finalized/Final-co-phieu-blue-chip-la-gi.md) | blue chip là gì | cổ phiếu trụ, cổ phiếu đầu ngành, cổ phiếu vốn hóa lớn, bluechip Việt Nam |
 | [Final-nen-doji.md](content/blog/3-finalized/Final-nen-doji.md) | nến doji | mô hình nến Doji, nến lưỡng lự thị trường, Doji candlestick, tín hiệu đảo chiều Doji |
 | [Final-ty-so-thanh-toan-nhanh-la-gi.md](content/blog/3-finalized/Final-ty-so-thanh-toan-nhanh-la-gi.md) | tỷ số thanh toán nhanh là gì | quick ratio là gì, công thức tính tỷ số thanh toán nhanh, ý nghĩa tỷ số thanh toán nhanh, acid test ratio |
-
-
-
-
-
-
+| [Final-tin-phieu-la-gi.md](content/blog/3-finalized/Final-tin-phieu-la-gi.md) | tín phiếu là gì | tín phiếu, phát hành tín phiếu, hút ròng tín phiếu, tín phiếu ngân hàng nhà nước |
+| [Final-ngan-hang-nha-nuoc-la-gi.md](content/blog/3-finalized/Final-ngan-hang-nha-nuoc-la-gi.md) | ngân hàng nhà nước là gì | Ngân hàng Nhà nước, Ngân hàng Nhà nước Việt Nam, điều hành chính sách tiền tệ, SBV |
+| [Final-lien-ngan-hang-la-gi.md](content/blog/3-finalized/Final-lien-ngan-hang-la-gi.md) | liên ngân hàng là gì | lãi suất liên ngân hàng, thị trường liên ngân hàng là gì, thanh khoản liên ngân hàng, thị trường liên ngân hàng |
+| [Final-du-tru-ngoai-hoi-la-gi.md](content/blog/3-finalized/Final-du-tru-ngoai-hoi-la-gi.md) | dự trữ ngoại hối là gì | dự trữ ngoại hối, dự trữ ngoại tệ, quy mô dự trữ ngoại hối, cán cân thanh toán quốc tế |
+| [Final-cung-tien-la-gi.md](content/blog/3-finalized/Final-cung-tien-la-gi.md) | cung tiền là gì | cung tiền vĩ mô, tổng phương tiện thanh toán, khối tiền tệ, cung tiền M2, số nhân tiền |
+| [Final-chinh-sach-tien-te-la-gi.md](content/blog/3-finalized/Final-chinh-sach-tien-te-la-gi.md) | chính sách tiền tệ là gì | chính sách tiền tệ nới lỏng, chính sách tiền tệ thắt chặt, mục tiêu chính sách tiền tệ, công cụ chính sách tiền tệ |
+| [Final-thue-la-gi.md](content/blog/3-finalized/Final-thue-la-gi.md) | thuế là gì | các loại thuế ở Việt Nam, sắc thuế tại Việt Nam, luật thuế Việt Nam, phân loại thuế |
+| [Final-ngan-sach-nha-nuoc-la-gi.md](content/blog/3-finalized/Final-ngan-sach-nha-nuoc-la-gi.md) | ngân sách nhà nước là gì | thu chi ngân sách, bội chi ngân sách, đầu tư công, nợ công Việt Nam, thâm hụt ngân sách |

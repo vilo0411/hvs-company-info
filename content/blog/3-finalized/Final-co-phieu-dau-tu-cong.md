@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["cổ phiếu đầu tư công"]
 Status: Finalized
@@ -65,7 +65,7 @@ Làn sóng đầu tư công với các siêu dự án trọng điểm như Sân 
 
 ## Danh sách Top 4 cổ phiếu đầu tư công tiềm năng nhất năm 2026
 
-Danh sách cổ phiếu đầu tư công tiềm năng nhất năm 2026 bao gồm các doanh nghiệp đầu ngành như Đèo Cả (HHV), Khoáng sản Bình Dương (KSB), Vinaconex (VCG) và Hóa dầu Petrolimex (PLC), sở hữu năng lực thi công hàng đầu, quỹ đất mỏ đá độc quyền địa lý hoặc thị phần chi phối vượt trội. Đây là những doanh nghiệp trực tiếp hưởng lợi từ tiến độ phân bổ ngân sách nhà nước cho các đại dự án hạ tầng quốc gia.
+Danh sách cổ phiếu đầu tư công tiềm năng nhất năm 2026 bao gồm các doanh nghiệp đầu ngành như Đèo Cả (HHV), Khoáng sản Bình Dương (KSB), Vinaconex (VCG) và Hóa dầu Petrolimex (PLC), sở hữu năng lực thi công hàng đầu, quỹ đất mỏ đá độc quyền địa lý hoặc thị phần chi phối vượt trội. Đây là những doanh nghiệp trực tiếp hưởng lợi từ tiến độ phân bổ [ngân sách nhà nước](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ngan-sach-nha-nuoc-la-gi) cho các đại dự án hạ tầng quốc gia.
 
 Để có cái nhìn tổng quan về các doanh nghiệp hàng đầu trong chuỗi giá trị này, bạn hãy theo dõi bảng số liệu so sánh chi tiết dưới đây (dữ liệu cập nhật tại báo cáo tài chính gần nhất):
 

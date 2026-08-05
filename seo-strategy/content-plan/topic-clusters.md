@@ -1,6 +1,6 @@
 # Topic Clusters — HVS SEO Content Map
 > Cập nhật: 2026-06-18 | Nguồn: keyword-hvs.csv (491 articles)
-> ✅ Published: 251 | 🔄 In Progress: 0 | ⭕ Planned: 240
+> ✅ Published: 268 | 🔄 In Progress: 1 | ⭕ Planned: 224
 
 ---
 
@@ -186,7 +186,7 @@
 - ✅ cổ phiếu ngành hóa chất *(Published — Final-co-phieu-nganh-hoa-chat.md)*
 - ✅ cổ phiếu ngành nông nghiệp *(Published — Final-co-phieu-nganh-nong-nghiep.md)*
 
-### Cluster: Phân tích cơ bản (115 articles | ✅ 14 | 🔄 0 | ⭕ 101)
+### Cluster: Phân tích cơ bản (115 articles | ✅ 20 | 🔄 1 | ⭕ 94)
 
 **Pillar:** ✅ p/e là gì *(Published — Final-p-e-la-gi.md)*
 
@@ -201,12 +201,12 @@
 - ⭕ hệ số khả năng thanh toán lãi vay *(Planned)*
 - ⭕ nợ dài hạn trên vốn chủ sở hữu *(Planned)*
 - ⭕ Hệ số thanh toán là gì *(Planned)*
-- ⭕ Số ngày phải trả chưa thanh toán *(Planned)*
-- ⭕ Thời gian thu hồi tiền hàng tồn đọng *(Planned)*
+- ✅ Số ngày phải trả chưa thanh toán *(Published — Final-so-ngay-phai-tra-chua-thanh-toan.md)*
+- ✅ Thời gian thu hồi tiền hàng tồn đọng *(Published — Final-thoi-gian-thu-hoi-tien-hang-ton-dong.md)*
 - ⭕ vòng quay tổng tài sản *(Planned)*
 - ⭕ vòng quay tài sản cố định *(Planned)*
 - ⭕ vòng quay vốn lưu động *(Planned)*
-- ⭕ Vòng quay khoản phải trả là gì *(Planned)*
+- ✅ Vòng quay khoản phải trả là gì *(Published — Final-vong-quay-khoan-phai-tra-la-gi.md)*
 - ⭕ roic là gì *(Planned)*
 - ✅ chỉ số eps là gì *(Published — Final-chi-so-eps-la-gi.md)*
 - ⭕ tỷ suất cổ tức là gì *(Planned)*
@@ -224,15 +224,15 @@
 - ✅ giá trị nội tại của cổ phiếu *(Published — Final-gia-tri-noi-tai-cua-co-phieu.md)*
 - ⭕ Vốn lưu động là gì *(Planned)*
 - ⭕ thặng dư vốn cổ phần là gì *(Planned)*
-- ⭕ Phân tích báo cáo tài chính Vinamilk *(Planned)*
-- ⭕ Phân tích báo cáo tài chính FPT *(Planned)*
+- ✅ Phân tích báo cáo tài chính Vinamilk *(Published — Final-phan-tich-bao-cao-tai-chinh-vinamilk.md)*
+- ✅ Phân tích báo cáo tài chính FPT *(Published — Final-phan-tich-bao-cao-tai-chinh-fpt.md)*
 - ⭕ phân tích báo cáo tài chính mwg *(Planned)*
 - ⭕ phân tích báo cáo tài chính hòa phát *(Planned)*
 - ⭕ phân tích báo cáo tài chính vietcombank *(Planned)*
-- ⭕ Phân tích báo cáo tài chính Vingroup *(Planned)*
-- ⭕ Phân tích báo cáo tài chính PNJ *(Planned)*
+- ✅ Phân tích báo cáo tài chính Vingroup *(Published — Final-phan-tich-bao-cao-tai-chinh-vingroup.md)*
+- ✅ Phân tích báo cáo tài chính PNJ *(Published — Final-phan-tich-bao-cao-tai-chinh-pnj.md)*
 - ✅ Phân tích báo cáo tài chính Công ty Bibica *(Published — Final-phan-tich-bao-cao-tai-chinh-cong-ty-bibica.md)*
-- ⭕ Phân tích báo cáo tài chính Công ty Kinh Đô *(Planned)*
+- ✅ Phân tích báo cáo tài chính Công ty Kinh Đô *(Published — Final-phan-tich-bao-cao-tai-chinh-cong-ty-kinh-do.md)*
 - ⭕ chuỗi giá trị ngành thép *(Planned)*
 - ⭕ chuỗi giá trị ngành dầu khí *(Planned)*
 - ⭕ chuỗi giá trị ngành dệt may *(Planned)*
@@ -248,7 +248,7 @@
 - ⭕ dòng tiền từ hoạt động kinh doanh *(Planned)*
 - ⭕ vốn điều lệ là gì *(Planned)*
 - ⭕ capex là gì *(Planned)*
-- ⭕ Tín dụng doanh nghiệp là gì *(Planned)*
+- ✅ Tín dụng doanh nghiệp là gì *(Published — Final-tin-dung-doanh-nghiep-la-gi.md)*
 - ⭕ M&A là gì *(Planned)*
 - ✅ Phân tích Dupont là gì *(Published — Final-phan-tich-dupont-la-gi.md)*
 - ⭕ chỉ tiêu doanh thu *(Planned)*
@@ -257,12 +257,12 @@
 - ⭕ Vốn cổ phần là gì *(Planned)*
 - ⭕ chỉ tiêu lợi nhuận của doanh nghiệp *(Planned)*
 - ⭕ cách đọc báo cáo tài chính *(Planned)*
-- ⭕ ROCE là gì *(Planned)*
+- 🔄 ROCE là gì *(In Progress)*
 - ⭕ giá trị doanh nghiệp là gì *(Planned)*
 - ⭕ Vốn pháp định là gì *(Planned)*
 - ⭕ Điểm hòa vốn là gì *(Planned)*
 - ⭕ bảng cân đối kế toán nguồn vốn *(Planned)*
-- ⭕ Vòng quay hàng tồn kho là gì *(Planned)*
+- ✅ Vòng quay hàng tồn kho là gì *(Published — Final-vong-quay-hang-ton-kho-la-gi.md)*
 - ✅ Báo cáo lưu chuyển tiền tệ là gì `Final-bao-cao-luu-chuyen-tien-te-la-gi.md`
 - ⭕ quy luật giá trị *(Planned)*
 - ⭕ fed là gì *(Planned)*
@@ -289,7 +289,8 @@
 - ⭕ hệ số tương quan *(Planned)*
 - ⭕ cạnh tranh không hoàn hảo *(Planned)*
 - ✅ Chi phí cơ hội là gì *(Published — Final-chi-phi-co-hoi-la-gi.md)*
-- ⭕ chính sách tiền tệ nới lỏng *(Planned)*
+- ✅ chính sách tiền tệ nới lỏng *(Published — Final-chinh-sach-tien-te-la-gi.md)*
+- ✅ ngân sách nhà nước là gì *(Published — Final-ngan-sach-nha-nuoc-la-gi.md)*
 - ⭕ khủng hoảng tài chính là gì *(Planned)*
 - ⭕ cơ hội thị trường là gì *(Planned)*
 - ⭕ Mô hình kinh doanh là gì *(Planned)*
@@ -442,7 +443,7 @@
 - ✅ đầu tư thụ động *(Published — Final-dau-tu-thu-dong.md)*
 - ✅ đầu tư chủ động *(Published — Final-dau-tu-chu-dong.md)*
 
-### Cluster: Trái phiếu (7 articles | ✅ 6 | 🔄 0 | ⭕ 1)
+### Cluster: Trái phiếu (8 articles | ✅ 7 | 🔄 0 | ⭕ 1)
 
 **Pillar:** ✅ bond yield là gì *(Published — Final-bond-yield-la-gi.md)*
 
@@ -453,6 +454,7 @@
 - ✅ Trái phiếu chuyển đổi là gì *(Published — Final-trai-phieu-chuyen-doi-la-gi.md)*
 - ✅ Trái phiếu doanh nghiệp là gì *(Published — Final-trai-phieu-doanh-nghiep-la-gi.md)*
 - ✅ Trái phiếu ngân hàng là gì *(Published — Final-trai-phieu-ngan-hang-la-gi.md)*
+- ✅ Tín phiếu là gì *(Published — Final-tin-phieu-la-gi.md)*
 
 ### Cluster: Tài khoản chứng khoán (8 articles | ✅ 8 | 🔄 0 | ⭕ 0)
 
@@ -577,15 +579,15 @@
 - ✅ Đầu tư chứng khoán có những rủi ro gì *(Published — Final-dau-tu-chung-khoan-co-nhung-rui-ro-gi.md)*
 - ✅ quản trị rủi ro chứng khoán *(Published — Final-quan-tri-rui-ro-chung-khoan.md)*
 
-### Cluster: tài liệu (5 articles | ✅ 1 | 🔄 0 | ⭕ 4)
+### Cluster: tài liệu (5 articles | ✅ 5 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ sách chứng khoán *(Published — Final-sach-chung-khoan.md)*
 
 **Priority 1:**
-- ⭕ sách về tài chính *(Planned)*
-- ⭕ sách về chứng khoán của warren buffett *(Planned)*
-- ⭕ giáo trình phân tích báo cáo tài chính *(Planned)*
-- ⭕ sách phân tích kỹ thuật chứng khoán *(Planned)*
+- ✅ sách về tài chính *(Published — Final-sach-ve-tai-chinh.md)*
+- ✅ sách về chứng khoán của warren buffett *(Published — Final-sach-ve-chung-khoan-cua-warren-buffett.md)*
+- ✅ giáo trình phân tích báo cáo tài chính *(Published — Final-giao-trinh-phan-tich-bao-cao-tai-chinh.md)*
+- ✅ sách phân tích kỹ thuật chứng khoán *(Published — Final-sach-phan-tich-ky-thuat-chung-khoan.md)*
 
 ## Group: Chứng chỉ quỹ (2 articles)
 

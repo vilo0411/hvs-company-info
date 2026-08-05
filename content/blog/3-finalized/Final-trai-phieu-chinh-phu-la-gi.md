@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["Trái phiếu chính phủ là gì"]
 Status: Finalized
@@ -56,7 +56,7 @@ Trái phiếu chính phủ thuộc nhóm đầu tư an toàn nhất nhờ ngân 
 
 ## Trái phiếu chính phủ là gì?
 
-Trái phiếu chính phủ là **loại chứng khoán nợ do chính phủ hoặc bộ tài chính phát hành** nhằm huy động vốn phục vụ các dự án công cộng hoặc bù đắp bội chi ngân sách. Khi mua sản phẩm này, bạn trở thành chủ nợ của quốc gia phát hành. Kho bạc Nhà nước có trách nhiệm thanh toán gốc khi đáo hạn, kèm khoản lãi suất coupon định kỳ.
+Trái phiếu chính phủ là **loại chứng khoán nợ do chính phủ hoặc bộ tài chính phát hành** nhằm huy động vốn phục vụ các dự án công cộng hoặc bù đắp [bội chi ngân sách](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ngan-sach-nha-nuoc-la-gi). Khi mua sản phẩm này, bạn trở thành chủ nợ của quốc gia phát hành. Kho bạc Nhà nước có trách nhiệm thanh toán gốc khi đáo hạn, kèm khoản lãi suất coupon định kỳ.
 
 Khác với [trái phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-la-gi) của doanh nghiệp, trái phiếu chính phủ mang tính phòng thủ cao. Mệnh giá quy định tại thị trường Việt Nam thường là 100.000 đồng hoặc bội số của số tiền này. Bộ Tài chính chịu trách nhiệm quản lý dòng tiền huy động, phân bổ ngân sách thực thi.
 
