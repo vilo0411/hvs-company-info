@@ -73,3 +73,8 @@
 | [Final-chinh-sach-tien-te-la-gi.md](content/blog/3-finalized/Final-chinh-sach-tien-te-la-gi.md) | chính sách tiền tệ là gì | chính sách tiền tệ nới lỏng, chính sách tiền tệ thắt chặt, mục tiêu chính sách tiền tệ, công cụ chính sách tiền tệ |
 | [Final-thue-la-gi.md](content/blog/3-finalized/Final-thue-la-gi.md) | thuế là gì | các loại thuế ở Việt Nam, sắc thuế tại Việt Nam, luật thuế Việt Nam, phân loại thuế |
 | [Final-ngan-sach-nha-nuoc-la-gi.md](content/blog/3-finalized/Final-ngan-sach-nha-nuoc-la-gi.md) | ngân sách nhà nước là gì | thu chi ngân sách, bội chi ngân sách, đầu tư công, nợ công Việt Nam, thâm hụt ngân sách |
+| [Final-von-co-phan-la-gi.md](content/blog/3-finalized/Final-von-co-phan-la-gi.md) | vốn cổ phần là gì | vốn góp chủ sở hữu, thặng dư vốn cổ phần, cổ phiếu phổ thông, cổ phần ưu đãi, phát hành cổ phiếu |
+| [Final-von-luu-dong-la-gi.md](content/blog/3-finalized/Final-von-luu-dong-la-gi.md) | vốn lưu động là gì | vốn lưu động, Working Capital, cách tính vốn lưu động, vốn lưu động ròng, quản lý vốn lưu động |
+| [Final-von-phap-dinh-la-gi.md](content/blog/3-finalized/Final-von-phap-dinh-la-gi.md) | vốn pháp định là gì | vốn pháp định, legal capital, quy định vốn pháp định, vốn điều lệ, vốn pháp định tối thiểu |
+| [Final-yoy-la-gi.md](content/blog/3-finalized/Final-yoy-la-gi.md) | yoy là gì | yoy là gì, Year Over Year, tăng trưởng yoy, công thức tính yoy, so sánh yoy |
+| [Final-bien-loi-nhuan-gop-la-gi.md](content/blog/3-finalized/Final-bien-loi-nhuan-gop-la-gi.md) | biên lợi nhuận gộp là gì | biên lợi nhuận gộp là gì, Gross Profit Margin, công thức tính biên lợi nhuận gộp, lợi nhuận gộp, tỷ suất lợi nhuận gộp |

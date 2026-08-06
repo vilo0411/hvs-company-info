@@ -6,6 +6,7 @@
 | :--- | :---: | :---: | :--- | :--- |
 | `Final-ban-giai-chap-co-phieu-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-bao-cao-luu-chuyen-tien-te-la-gi.md` | 6 | 0 | 0/0/0 | ⭕ New |
+| `Final-bien-loi-nhuan-gop-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-bond-yield-la-gi.md` | 1 | 1 | 0%/0%/100% | 🔍 Needs more |
 | `Final-bong-bong-dotcom-la-gi.md` | 2 | 0 | 0/0/0 | ⭕ New |
 | `Final-breakout-trong-chung-khoan-la-gi.md` | 0 | 2 | 0%/0%/100% | 🔍 Needs more |
@@ -236,4 +237,8 @@
 | `Final-tra-co-tuc-bang-co-phieu-la-gi.md` | 2 | 1 | 0%/0%/100% | 🔍 Needs more |
 | `Final-trai-phieu-la-gi.md` | 2 | 3 | 67%/0%/33% | ⚠️ Over-opt |
 | `Final-upcom-la-gi.md` | 0 | 2 | 0%/0%/100% | 🔍 Needs more |
+| `Final-von-co-phan-la-gi.md` | 4 | 0 | 0/0/0 | ⭕ New |
 | `Final-von-hoa-thi-truong-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-von-luu-dong-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-von-phap-dinh-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-yoy-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |

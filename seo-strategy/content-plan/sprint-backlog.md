@@ -9,11 +9,6 @@
 | 240 | Sóng Elliott là gì | Phân tích kỹ thuật | F0 | Priority 1 | Outline-Pending |
 | 249 | Khi nào nên mua cổ phiếu | Phân tích cơ bản | F0 | Priority 1 | Outline-Pending |
 | 262 | ROCE là gì | Phân tích cơ bản | F0 | Priority 1 | Draft-Pending |
-| 268 | Vốn cổ phần là gì | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 269 | Vốn lưu động là gì | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 270 | Vốn pháp định là gì | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 271 | YOY là gì | Phân tích cơ bản | F0 | Priority 1 | Planned |
-| 272 | biên lợi nhuận gộp là gì | Phân tích cơ bản | F0 | Priority 1 | Planned |
 | 273 | biên lợi nhuận ròng | Phân tích cơ bản | F0 | Priority 1 | Planned |
 | 274 | brexit là gì | Phân tích cơ bản | F0 | Priority 1 | Planned |
 | 275 | bảng cân đối kế toán nguồn vốn | Phân tích cơ bản | F0 | Priority 1 | Planned |

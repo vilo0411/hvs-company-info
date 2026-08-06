@@ -1,6 +1,6 @@
 # Topic Clusters — HVS SEO Content Map
 > Cập nhật: 2026-06-18 | Nguồn: keyword-hvs.csv (491 articles)
-> ✅ Published: 268 | 🔄 In Progress: 1 | ⭕ Planned: 224
+> ✅ Published: 273 | 🔄 In Progress: 1 | ⭕ Planned: 219
 
 ---
 
@@ -186,7 +186,7 @@
 - ✅ cổ phiếu ngành hóa chất *(Published — Final-co-phieu-nganh-hoa-chat.md)*
 - ✅ cổ phiếu ngành nông nghiệp *(Published — Final-co-phieu-nganh-nong-nghiep.md)*
 
-### Cluster: Phân tích cơ bản (115 articles | ✅ 20 | 🔄 1 | ⭕ 94)
+### Cluster: Phân tích cơ bản (115 articles | ✅ 25 | 🔄 1 | ⭕ 89)
 
 **Pillar:** ✅ p/e là gì *(Published — Final-p-e-la-gi.md)*
 
@@ -214,7 +214,7 @@
 - ⭕ p/b là gì *(Planned)*
 - ⭕ cơ cấu vốn là gì *(Planned)*
 - ⭕ Nợ phải trả là gì *(Planned)*
-- ⭕ biên lợi nhuận gộp là gì *(Planned)*
+- ✅ biên lợi nhuận gộp là gì *(Published — Final-bien-loi-nhuan-gop-la-gi.md)*
 - ⭕ biên lợi nhuận ròng *(Planned)*
 - ⭕ EBITDA là gì *(Planned)*
 - ✅ roa là gì *(Published — Final-roa-la-gi.md)*
@@ -222,7 +222,7 @@
 - ⭕ vốn chủ sở là gì *(Planned)*
 - ✅ chỉ số roe là gì *(Published — Final-chi-so-roe-la-gi.md)*
 - ✅ giá trị nội tại của cổ phiếu *(Published — Final-gia-tri-noi-tai-cua-co-phieu.md)*
-- ⭕ Vốn lưu động là gì *(Planned)*
+- ✅ Vốn lưu động là gì *(Published — Final-von-luu-dong-la-gi.md)*
 - ⭕ thặng dư vốn cổ phần là gì *(Planned)*
 - ✅ Phân tích báo cáo tài chính Vinamilk *(Published — Final-phan-tich-bao-cao-tai-chinh-vinamilk.md)*
 - ✅ Phân tích báo cáo tài chính FPT *(Published — Final-phan-tich-bao-cao-tai-chinh-fpt.md)*
@@ -254,12 +254,12 @@
 - ⭕ chỉ tiêu doanh thu *(Planned)*
 - ⭕ cách đọc báo cáo thường niên *(Planned)*
 - ✅ Chi phí biên là gì *(Published — Final-chi-phi-bien-la-gi.md)*
-- ⭕ Vốn cổ phần là gì *(Planned)*
+- ✅ Vốn cổ phần là gì *(Published — Final-von-co-phan-la-gi.md)*
 - ⭕ chỉ tiêu lợi nhuận của doanh nghiệp *(Planned)*
 - ⭕ cách đọc báo cáo tài chính *(Planned)*
 - 🔄 ROCE là gì *(In Progress)*
 - ⭕ giá trị doanh nghiệp là gì *(Planned)*
-- ⭕ Vốn pháp định là gì *(Planned)*
+- ✅ Vốn pháp định là gì *(Published — Final-von-phap-dinh-la-gi.md)*
 - ⭕ Điểm hòa vốn là gì *(Planned)*
 - ⭕ bảng cân đối kế toán nguồn vốn *(Planned)*
 - ✅ Vòng quay hàng tồn kho là gì *(Published — Final-vong-quay-hang-ton-kho-la-gi.md)*
@@ -272,7 +272,7 @@
 - ⭕ brexit là gì *(Planned)*
 - ⭕ Cạnh tranh hoàn hảo là gì *(Planned)*
 - ⭕ cạnh tranh độc quyền *(Planned)*
-- ⭕ YOY là gì *(Planned)*
+- ✅ YOY là gì *(Published — Final-yoy-la-gi.md)*
 - ⭕ goodwill là gì *(Planned)*
 - ⭕ cách định giá cổ phiếu *(Planned)*
 - ⭕ nim là gì *(Planned)*

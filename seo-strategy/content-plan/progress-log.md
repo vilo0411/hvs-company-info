@@ -1,7 +1,7 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 279 bài
+- **Published:** 284 bài
 - **Active Pipeline:** 1 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
@@ -19,6 +19,11 @@
 
 | Date | Keyword | Persona | Mode | File Path |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-08-06 | vốn lưu động là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-von-luu-dong-la-gi.md` |
+| 2026-08-06 | vốn pháp định là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-von-phap-dinh-la-gi.md` |
+| 2026-08-06 | yoy là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-yoy-la-gi.md` |
+| 2026-08-06 | biên lợi nhuận gộp là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-bien-loi-nhuan-gop-la-gi.md` |
+| 2026-08-06 | vốn cổ phần là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-von-co-phan-la-gi.md` |
 | 2026-08-05 | ngân sách nhà nước là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-ngan-sach-nha-nuoc-la-gi.md` |
 | 2026-08-05 | thuế là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-thue-la-gi.md` |
 | 2026-08-05 | chính sách tiền tệ là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-chinh-sach-tien-te-la-gi.md` |
