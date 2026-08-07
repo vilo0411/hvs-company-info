@@ -1,6 +1,13 @@
 import os
+import sys
 import argparse
 from PIL import Image
+
+# Force UTF-8 encoding for standard output to avoid UnicodeEncodeErrors on Windows
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+if hasattr(sys.stderr, 'reconfigure'):
+    sys.stderr.reconfigure(encoding='utf-8')
 
 def convert_to_webp(input_path, output_path, quality=85):
     try:

@@ -67,6 +67,7 @@ Mục tiêu: PASS trong ≤2 vòng. Nếu cần >2 vòng → vấn đề ở Bri
 - [ ] **Risk-Reward:** Mọi claim lợi nhuận hoặc hành động đặt lệnh đều đi kèm cảnh báo rủi ro/điều kiện cụ thể?
 - [ ] Thuật ngữ đúng theo `glossary.md` & Tên sản phẩm HVS đúng?
 - [ ] YAML metadata đủ fields, HVS_Products là danh sách chuỗi phẳng & Anchor text khớp với Title bài đích? (Rule 11)
+- [ ] **Link Format (BẮT BUỘC):** Mọi internal link dùng URL tuyệt đối `https://taichinhso.hvsvn.com/...` tra từ `sitemap-cache.json` (không dùng `file://`, đường dẫn tương đối, hoặc `Final-*.md`)? Chạy `python .antigravity/scripts/link_audit.py` và kiểm tra bài không xuất hiện trong mục "Broken-format links".
 - [ ] Markdown format chuẩn & Không có typo?
 
 ### Word Count (NON-NEGOTIABLE)

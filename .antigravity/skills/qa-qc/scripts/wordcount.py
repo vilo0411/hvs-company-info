@@ -17,6 +17,12 @@ import sys
 import argparse
 from pathlib import Path
 
+# Force UTF-8 encoding for standard output to avoid UnicodeEncodeErrors on Windows
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+if hasattr(sys.stderr, 'reconfigure'):
+    sys.stderr.reconfigure(encoding='utf-8')
+
 TOLERANCE = 0.10  # ±10%
 SECTION_MARKER_MAIN = "MAIN"
 SECTION_MARKER_SUP = "SUPPLEMENTAL"

@@ -78,3 +78,12 @@
 | [Final-von-phap-dinh-la-gi.md](content/blog/3-finalized/Final-von-phap-dinh-la-gi.md) | vốn pháp định là gì | vốn pháp định, legal capital, quy định vốn pháp định, vốn điều lệ, vốn pháp định tối thiểu |
 | [Final-yoy-la-gi.md](content/blog/3-finalized/Final-yoy-la-gi.md) | yoy là gì | yoy là gì, Year Over Year, tăng trưởng yoy, công thức tính yoy, so sánh yoy |
 | [Final-bien-loi-nhuan-gop-la-gi.md](content/blog/3-finalized/Final-bien-loi-nhuan-gop-la-gi.md) | biên lợi nhuận gộp là gì | biên lợi nhuận gộp là gì, Gross Profit Margin, công thức tính biên lợi nhuận gộp, lợi nhuận gộp, tỷ suất lợi nhuận gộp |
+| [Final-bien-loi-nhuan-rong.md](content/blog/3-finalized/Final-bien-loi-nhuan-rong.md) | biên lợi nhuận ròng là gì | biên lợi nhuận ròng, Net Profit Margin, công thức tính biên lợi nhuận ròng, tỷ suất lợi nhuận ròng, biên ròng |
+| [Final-brexit-la-gi.md](content/blog/3-finalized/Final-brexit-la-gi.md) | brexit là gì | sự kiện Brexit, nước Anh rời EU, tác động Brexit, Brexit kinh tế |
+| [Final-bang-can-doi-ke-toan-nguon-von.md](content/blog/3-finalized/Final-bang-can-doi-ke-toan-nguon-von.md) | bảng cân đối kế toán nguồn vốn | nguồn vốn bảng cân đối kế toán, cơ cấu nguồn vốn, nợ phải trả, vốn chủ sở hữu |
+| [Final-bay-thanh-khoan.md](content/blog/3-finalized/Final-bay-thanh-khoan.md) | bẫy thanh khoản | bẫy thanh khoản là gì, Liquidity Trap, chính sách tiền tệ bất lực, bẫy thanh khoản nền kinh tế |
+| [Final-capex-la-gi.md](content/blog/3-finalized/Final-capex-la-gi.md) | capex là gì | CAPEX, chi phí vốn, Capital Expenditure, phân biệt capex và opex, cách tính capex |
+| [Final-chinh-sach-cong-la-gi.md](content/blog/3-finalized/Final-chinh-sach-cong-la-gi.md) | chính sách công là gì | chính sách công, vai trò chính sách công, đặc điểm chính sách công, phân loại chính sách công, kịch bản chính sách vĩ mô |
+| [Final-dau-tu-cong-la-gi.md](content/blog/3-finalized/Final-dau-tu-cong-la-gi.md) | đầu tư công là gì | đầu tư công, giải ngân đầu tư công, nguồn vốn đầu tư công, vai trò đầu tư công, tác động đầu tư công |
+| [Final-chinh-sach-tai-khoa-la-gi.md](content/blog/3-finalized/Final-chinh-sach-tai-khoa-la-gi.md) | chính sách tài khóa là gì | chính sách tài khóa, chính sách tài khóa mở rộng, chính sách tài khóa thắt chặt, công cụ tài khóa |
+

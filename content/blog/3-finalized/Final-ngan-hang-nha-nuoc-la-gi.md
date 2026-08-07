@@ -11,7 +11,7 @@ Meta_Description: Ngân hàng Nhà nước là gì? Phân biệt rõ SBV và cá
 
 # Ngân hàng Nhà nước là gì? Chức năng, công cụ điều hành và tác động vĩ mô
 
-Ngân hàng Nhà nước Việt Nam (NHNN) chịu trách nhiệm phát hành tiền, quản lý [dự trữ ngoại hối](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/du-tru-ngoai-hoi-la-gi) và điều hành [chính sách tiền tệ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chinh-sach-tien-te-la-gi) quốc gia. Đối với hoạt động [đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi), các quyết định của NHNN trực tiếp điều phối nguồn vốn vĩ mô trên thị trường. HVS Tài chính số sẽ giúp bạn làm rõ định nghĩa Ngân hàng Nhà nước, phân biệt rõ cơ quan này với các ngân hàng thương mại, chi tiết 6 công cụ chính sách và case study thực chiến hút ròng tín phiếu ảnh hưởng đến thị trường cổ phiếu ra sao.
+Ngân hàng Nhà nước Việt Nam (NHNN) chịu trách nhiệm phát hành tiền, quản lý [dự trữ ngoại hối](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/du-tru-ngoai-hoi-la-gi) và điều hành [chính sách tiền tệ](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/chinh-sach-tien-te-la-gi) quốc gia. Đối với hoạt động [đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi), các quyết định của NHNN trực tiếp điều phối nguồn vốn vĩ mô trên thị trường. HVS Tài chính số sẽ giúp bạn làm rõ định nghĩa Ngân hàng Nhà nước, phân biệt rõ cơ quan này với các ngân hàng thương mại, chi tiết 6 công cụ chính sách và case study thực chiến hút ròng tín phiếu ảnh hưởng đến thị trường cổ phiếu ra sao.
 
 ---
 
@@ -39,7 +39,7 @@ Như vậy, nhóm Big 4 như VCB hay BID thực chất vẫn là các tổ chứ
 ## 6 nhiệm vụ cốt yếu của Ngân hàng Nhà nước Việt Nam
 Để điều hành nền kinh tế vĩ mô, Ngân hàng Nhà nước Việt Nam chịu trách nhiệm thực thi 6 nhiệm vụ chính dưới đây:
 1. **Hoạch định và thực thi chính sách tiền tệ quốc gia:** NHNN điều hành cung tiền và điều chỉnh lãi suất nhằm kiềm giữ lạm phát, ổn định giá trị đồng Việt Nam.
-2. **Quản lý [dự trữ ngoại hối](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/du-tru-ngoai-hoi-la-gi) nhà nước:** Thực hiện mua bán ngoại tệ để tích lũy dự trữ quốc gia, bảo đảm cán cân thanh toán quốc tế và ổn định tỷ giá hối đoái.
+2. **Quản lý [dự trữ ngoại hối](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/du-tru-ngoai-hoi-la-gi) nhà nước:** Thực hiện mua bán ngoại tệ để tích lũy dự trữ quốc gia, bảo đảm cán cân thanh toán quốc tế và ổn định tỷ giá hối đoái.
 3. **Thanh tra, giám sát hệ thống ngân hàng:** Thiết lập các quy định an toàn vốn, tiến hành thanh tra các tổ chức tín dụng để giảm thiểu rủi ro đổ vỡ hệ thống tài chính.
 4. **Cấp phép và quản lý hoạt động tín dụng:** NHNN cấp hoặc thu hồi giấy phép hoạt động của các ngân hàng thương mại, tổ chức tài chính tiêu dùng.
 5. **Đại diện quốc gia tại các tổ chức tài chính quốc tế:** NHNN là đại diện chính thức của Việt Nam tại Quỹ Tiền tệ Quốc tế (IMF) và Ngân hàng Thế giới (WB).
@@ -54,8 +54,8 @@ Chính sách tiền tệ được NHNN vận hành linh hoạt thông qua hai nh
 
 #### 1. Nghiệp vụ thị trường mở (OMO)
 Nghiệp vụ thị trường mở (OMO) là việc Ngân hàng Nhà nước thực hiện giao dịch mua hoặc bán giấy tờ có giá ngắn hạn với các tổ chức tín dụng thành viên. Đây là công cụ có tần suất sử dụng lớn nhất và linh hoạt nhất để điều tiết thanh khoản ngắn hạn của hệ thống ngân hàng thương mại.
-- **Nghiệp vụ bơm tiền (Mua giấy tờ có giá):** Khi hệ thống ngân hàng thiếu hụt thanh khoản, NHNN sẽ mua vào tín phiếu Kho bạc hoặc các giấy tờ có giá khác từ các NHTM. Dòng tiền VND được bơm trực tiếp vào tài khoản ngân hàng, giúp nới lỏng thanh khoản và hạ [lãi suất liên ngân hàng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/lien-ngan-hang-la-gi).
-- **Nghiệp vụ hút tiền (Bán giấy tờ có giá):** Khi thanh khoản liên ngân hàng dư thừa quá mức, NHNN sẽ chủ động phát hành [tín phiếu ngân hàng nhà nước](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tin-phieu-la-gi) để bán cho các NHTM. NHTM chuyển tiền VND về tài khoản của NHNN, giúp rút bớt dòng tiền dư thừa ra khỏi nền kinh tế để giảm áp lực tỷ giá.
+- **Nghiệp vụ bơm tiền (Mua giấy tờ có giá):** Khi hệ thống ngân hàng thiếu hụt thanh khoản, NHNN sẽ mua vào tín phiếu Kho bạc hoặc các giấy tờ có giá khác từ các NHTM. Dòng tiền VND được bơm trực tiếp vào tài khoản ngân hàng, giúp nới lỏng thanh khoản và hạ [lãi suất liên ngân hàng](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/lien-ngan-hang-la-gi).
+- **Nghiệp vụ hút tiền (Bán giấy tờ có giá):** Khi thanh khoản liên ngân hàng dư thừa quá mức, NHNN sẽ chủ động phát hành [tín phiếu ngân hàng nhà nước](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/tin-phieu-la-gi) để bán cho các NHTM. NHTM chuyển tiền VND về tài khoản của NHNN, giúp rút bớt dòng tiền dư thừa ra khỏi nền kinh tế để giảm áp lực tỷ giá.
 
 #### 2. Hệ thống lãi suất điều hành
 NHNN định hướng mặt bằng lãi suất thị trường thông qua việc công bố và điều chỉnh các mức lãi suất điều hành:
@@ -63,12 +63,12 @@ NHNN định hướng mặt bằng lãi suất thị trường thông qua việc
 - **Lãi suất tái chiết khấu:** Mức lãi suất áp dụng khi NHNN thực hiện mua lại các công cụ chuyển nhượng, giấy tờ có giá ngắn hạn chưa đến hạn thanh toán của các NHTM.
 - **Lãi suất cho vay qua đêm:** Áp dụng cho các khoản vay rất ngắn hạn (1 ngày) giữa NHNN và NHTM để bù đắp thiếu hụt thanh toán cuối ngày.
 
-Khi kinh tế suy thoái, NHNN sẽ hạ [lãi suất điều hành](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/lai-suat-la-gi) để khuyến khích các NHTM hạ lãi suất cho vay thương mại, kích thích nhu cầu giải ngân sản xuất. Ngược lại, khi lạm phát vượt mục tiêu, lãi suất điều hành sẽ được tăng lên để thu hẹp tín dụng.
+Khi kinh tế suy thoái, NHNN sẽ hạ [lãi suất điều hành](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chi-tieu-kinh-te/lai-suat-la-gi) để khuyến khích các NHTM hạ lãi suất cho vay thương mại, kích thích nhu cầu giải ngân sản xuất. Ngược lại, khi lạm phát vượt mục tiêu, lãi suất điều hành sẽ được tăng lên để thu hẹp tín dụng.
 
 #### 3. Tỷ lệ dự trữ bắt buộc
 Tỷ lệ dự trữ bắt buộc là tỷ lệ phần trăm trên tổng tiền gửi huy động mà các ngân hàng thương mại bắt buộc phải gửi tại NHNN dưới dạng tài khoản không kỳ hạn không hưởng lãi. 
-- Nếu NHNN tăng tỷ lệ dự trữ bắt buộc, số vốn khả dụng dùng để cho vay của các ngân hàng thương mại lập tức bị co hẹp lại, làm giảm [cung tiền](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cung-tien-la-gi) trong nền kinh tế.
-- Nếu NHNN giảm tỷ lệ dự trữ bắt buộc, các NHTM có thêm nguồn tiền giá rẻ để cung ứng tín dụng cho doanh nghiệp, tăng [cung tiền](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cung-tien-la-gi) trên thị trường.
+- Nếu NHNN tăng tỷ lệ dự trữ bắt buộc, số vốn khả dụng dùng để cho vay của các ngân hàng thương mại lập tức bị co hẹp lại, làm giảm [cung tiền](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/cung-tien-la-gi) trong nền kinh tế.
+- Nếu NHNN giảm tỷ lệ dự trữ bắt buộc, các NHTM có thêm nguồn tiền giá rẻ để cung ứng tín dụng cho doanh nghiệp, tăng [cung tiền](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/cung-tien-la-gi) trên thị trường.
 
 #### 4. Can thiệp tỷ giá hối đoái
 Việt Nam áp dụng chế độ tỷ giá thả nổi có điều tiết. NHNN sử dụng nguồn lực dự trữ ngoại hối để mua vào hoặc bán ra ngoại tệ (chủ yếu là USD) trên thị trường nhằm ổn định tỷ giá hối đoái. Khi DXY tăng vọt gây áp lực giảm giá mạnh lên VND, NHNN sẽ chủ động bán USD từ kho dự trữ ngoại hối quốc gia để giảm bớt cầu ngoại tệ, kiềm chế đà tăng tỷ giá.
@@ -92,7 +92,7 @@ Một thực tế vĩ mô quan trọng bạn cần nắm rõ là: **Ngân hàng 
 NHNN là cơ quan ngang bộ trực thuộc Chính phủ. Mọi mục tiêu lớn về tiền tệ, lạm phát và hạn mức tín dụng đều phải được phê duyệt bởi Quốc hội và điều phối trực tiếp bởi Chính phủ thông qua Thủ tướng Chính phủ. Thống đốc NHNN là thành viên của Chính phủ. Sự phối hợp này giúp đồng bộ chính sách tiền tệ và chính sách tài khóa của Bộ Tài chính nhằm tối ưu hóa các mục tiêu phát triển kinh tế quốc gia.
 
 ### 2. Nguyên lý giữ ổn định giá trị tiền tệ
-Mục tiêu hàng đầu của NHNN là kiềm giữ lạm phát ở mức ổn định theo kế hoạch quốc hội giao (thường dưới 4% - 4,5% hằng năm). NHNN liên tục theo dõi [cung tiền](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cung-tien-la-gi) M2 và tốc độ tăng trưởng tín dụng để đảm bảo lượng phương tiện thanh toán trong nền kinh tế không tăng nhanh hơn năng lực sản xuất thực tế của doanh nghiệp, ngăn chặn lạm phát do tiền tệ.
+Mục tiêu hàng đầu của NHNN là kiềm giữ lạm phát ở mức ổn định theo kế hoạch quốc hội giao (thường dưới 4% - 4,5% hằng năm). NHNN liên tục theo dõi [cung tiền](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/cung-tien-la-gi) M2 và tốc độ tăng trưởng tín dụng để đảm bảo lượng phương tiện thanh toán trong nền kinh tế không tăng nhanh hơn năng lực sản xuất thực tế của doanh nghiệp, ngăn chặn lạm phát do tiền tệ.
 
 ### 3. Nguyên lý bảo đảm an toàn hệ thống thanh toán
 NHNN đóng vai trò là "người cho vay cứu cánh cuối cùng" đối với các ngân hàng thương mại gặp khó khăn thanh khoản tạm thời. Cơ quan quản lý liên tục kiểm tra tỷ lệ an toàn vốn (CAR), kiểm soát nợ xấu và vận hành hệ thống thanh toán điện tử liên ngân hàng thông suốt để đảm bảo không xảy ra hiện tượng rút tiền hàng loạt (bank run) gây sụp đổ dây chì cung ứng hệ thống tài chính.
@@ -169,7 +169,7 @@ Kinh tế vĩ mô duy trì trạng thái ổn định với GDP tăng trưởng 
 ---
 
 ## Nâng cao năng lực phân tích chính sách tiền tệ cùng HVS
-Hiểu rõ các quyết định điều hành chính sách tiền tệ của Ngân hàng Nhà nước là điều kiện cần để bạn định vị đúng [chu kỳ kinh tế](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chu-ky-kinh-te-la-gi) vĩ mô, từ đó đưa ra quyết định mua bán cổ phiếu hợp lý. Tuy nhiên, các kiến thức này thường khá trừu tượng nếu bạn chỉ dừng lại ở lý thuyết sách vở học thuật.
+Hiểu rõ các quyết định điều hành chính sách tiền tệ của Ngân hàng Nhà nước là điều kiện cần để bạn định vị đúng chu kỳ kinh tế vĩ mô, từ đó đưa ra quyết định mua bán cổ phiếu hợp lý. Tuy nhiên, các kiến thức này thường khá trừu tượng nếu bạn chỉ dừng lại ở lý thuyết sách vở học thuật.
 
 Chương trình đào tạo **HVS Thực tập số** (nằm trong hệ thống đào tạo trực tuyến của nền tảng **HVS Tài chính số**) cung cấp khóa học Phân tích cơ bản FA Level 1 thực chiến chuyên sâu. Khóa học giúp bạn nắm vững cơ chế vận hành chính sách tiền tệ, cách thức phân tích dòng tiền và đánh giá sức chống chịu nợ vay của các doanh nghiệp trước biến động chi phí tài chính.
 

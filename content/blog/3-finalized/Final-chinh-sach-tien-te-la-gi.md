@@ -18,7 +18,7 @@ Meta_Description: Chính sách tiền tệ là gì? Phân loại thắt chặt &
 
 # Chính sách tiền tệ là gì? Phân loại, công cụ và kịch bản đầu tư vĩ mô
 
-Hiểu rõ chính sách tiền tệ là gì giúp bạn chủ động nhận diện xu hướng dịch chuyển của dòng vốn vĩ mô điều hành bởi [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ngan-hang-nha-nuoc-la-gi). Dòng tiền vĩ mô quyết định tính thanh khoản của thị trường chứng khoán. Bài viết này của HVS phân tích khái niệm chính sách tiền tệ là gì, phân loại hai trạng thái điều hành chủ chốt, các công cụ can thiệp và kịch bản ứng dụng vào phân tích đầu tư chứng khoán thực chiến.
+Hiểu rõ chính sách tiền tệ là gì giúp bạn chủ động nhận diện xu hướng dịch chuyển của dòng vốn vĩ mô điều hành bởi [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/ngan-hang-nha-nuoc-la-gi). Dòng tiền vĩ mô quyết định tính thanh khoản của thị trường chứng khoán. Bài viết này của HVS phân tích khái niệm chính sách tiền tệ là gì, phân loại hai trạng thái điều hành chủ chốt, các công cụ can thiệp và kịch bản ứng dụng vào phân tích đầu tư chứng khoán thực chiến.
 
 ---
 
@@ -78,10 +78,10 @@ Ngân hàng Nhà nước hướng tới bốn mục tiêu vĩ mô then chốt kh
 Kiểm soát lạm phát là ưu tiên hàng đầu tại Việt Nam. Giá cả hàng hóa ổn định giúp bảo vệ sức mua của đồng VND. Doanh nghiệp dễ dàng dự phóng chi phí đầu vào và lên kế hoạch kinh doanh. Nhà đầu tư nước ngoài cũng yên tâm giải ngân dòng vốn đầu tư trực tiếp (FDI) và gián tiếp khi vĩ mô ổn định.
 
 ### Thúc đẩy tăng trưởng kinh tế
-NHNN điều tiết lượng [cung tiền](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cung-tien-la-gi) M2 phù hợp với tốc độ phát triển sản lượng thực tế. Nếu cung tiền thiếu hụt, doanh nghiệp đói vốn. Ngược lại, nếu bơm tiền quá nhiều, lạm phát sẽ bùng phát. NHNN phải cân đối dòng vốn để hỗ trợ tăng trưởng GDP bền vững.
+NHNN điều tiết lượng [cung tiền](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/cung-tien-la-gi) M2 phù hợp với tốc độ phát triển sản lượng thực tế. Nếu cung tiền thiếu hụt, doanh nghiệp đói vốn. Ngược lại, nếu bơm tiền quá nhiều, lạm phát sẽ bùng phát. NHNN phải cân đối dòng vốn để hỗ trợ tăng trưởng GDP bền vững.
 
 ### Ổn định thị trường ngoại hối và tỷ giá
-Tỷ giá USD/VND tác động trực tiếp đến hoạt động xuất nhập khẩu và nghĩa vụ nợ nước ngoài của quốc gia. NHNN sử dụng các công cụ như lãi suất [liên ngân hàng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/lien-ngan-hang-la-gi) và bán ngoại tệ để ổn định tỷ giá hối đoái trong biên độ cho phép, hạn chế tình trạng đô la hóa.
+Tỷ giá USD/VND tác động trực tiếp đến hoạt động xuất nhập khẩu và nghĩa vụ nợ nước ngoài của quốc gia. NHNN sử dụng các công cụ như lãi suất [liên ngân hàng](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/lien-ngan-hang-la-gi) và bán ngoại tệ để ổn định tỷ giá hối đoái trong biên độ cho phép, hạn chế tình trạng đô la hóa.
 
 ### Tạo việc làm và giảm thất nghiệp
 Cung tiền và tín dụng tăng giúp doanh nghiệp tiếp cận vốn sản xuất. Họ tuyển dụng thêm nhân công để chạy tối đa công suất nhà máy. Tỷ lệ thất nghiệp giảm xuống. Tuy nhiên, NHNN cần tránh việc bơm tiền quá đà gây ra lạm phát do cầu kéo.
@@ -98,7 +98,7 @@ Lãi suất điều hành gồm lãi suất tái cấp vốn và lãi suất tá
 ### Nghiệp vụ thị trường mở (OMO)
 Nghiệp vụ thị trường mở là hoạt động NHNN mua hoặc bán giấy tờ có giá (tín phiếu, trái phiếu chính phủ) với các tổ chức tín dụng thành viên. 
 *   NHNN mua kỳ hạn giấy tờ có giá → Bơm vốn VND trực tiếp vào hệ thống.
-*   NHNN phát hành [tín phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tin-phieu-la-gi) → Hút bớt tiền VND lưu thông trên thị trường liên ngân hàng để cân bằng tỷ giá.
+*   NHNN phát hành [tín phiếu](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/tin-phieu-la-gi) → Hút bớt tiền VND lưu thông trên thị trường liên ngân hàng để cân bằng tỷ giá.
 
 ### Tỷ lệ dự trữ bắt buộc
 Tỷ lệ dự trữ bắt buộc là tỷ lệ phần trăm tiền gửi các ngân hàng thương mại bắt buộc phải gửi tại NHNN. Các tổ chức tín dụng không được dùng số tiền này để cho vay. Công cụ này kiểm soát trực tiếp số nhân tiền.
@@ -109,7 +109,7 @@ Tỷ lệ dự trữ bắt buộc là tỷ lệ phần trăm tiền gửi các n
 Hạn mức tín dụng là mức dư nợ tối đa các ngân hàng thương mại được phép cấp cho nền kinh tế trong năm. Đây là công cụ hành chính trực tiếp hiệu quả của NHNN để kiểm soát rủi ro tăng trưởng tín dụng nóng, định hướng dòng vốn vào các lĩnh vực sản xuất ưu tiên thay vì các kênh đầu cơ.
 
 ### Quản lý tỷ giá và can thiệp ngoại hối
-NHNN thực hiện mua vào hoặc bán ra ngoại tệ từ quỹ [dự trữ ngoại hối](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/du-tru-ngoai-hoi-la-gi). Khi tỷ giá căng thẳng, việc bán ngoại tệ thu VND giúp hạ áp lực tỷ giá nhưng đồng thời cũng hút bớt tiền VND khả dụng ra khỏi hệ thống ngân hàng thương mại.
+NHNN thực hiện mua vào hoặc bán ra ngoại tệ từ quỹ [dự trữ ngoại hối](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/du-tru-ngoai-hoi-la-gi). Khi tỷ giá căng thẳng, việc bán ngoại tệ thu VND giúp hạ áp lực tỷ giá nhưng đồng thời cũng hút bớt tiền VND khả dụng ra khỏi hệ thống ngân hàng thương mại.
 
 ---
 

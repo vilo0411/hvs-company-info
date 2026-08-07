@@ -18,7 +18,7 @@ Meta_Description: Cung tiền là gì? Phân loại các khối tiền MB, M1, M
 
 # Cung tiền là gì? Phân loại, yếu tố tác động và ứng dụng đầu tư vĩ mô
 
-Cung tiền là chỉ báo vĩ mô quan trọng phản ánh tổng lượng tiền tệ lưu thông trong nền kinh tế nhằm đáp ứng nhu cầu giao dịch, thanh toán và đầu tư của cá nhân, doanh nghiệp. Hiểu rõ cung tiền giúp bạn chủ động nhận diện xu hướng dịch chuyển của dòng vốn lớn điều hành qua [chính sách tiền tệ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chinh-sach-tien-te-la-gi) của [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ngan-hang-nha-nuoc-la-gi). Bài viết này của HVS phân tích định nghĩa pháp lý, cách phân loại các khối tiền tệ, các công cụ tác động của ngân hàng trung ương và phương pháp ứng dụng số liệu cung tiền vào phân tích đầu tư chứng khoán thực chiến.
+Cung tiền là chỉ báo vĩ mô quan trọng phản ánh tổng lượng tiền tệ lưu thông trong nền kinh tế nhằm đáp ứng nhu cầu giao dịch, thanh toán và đầu tư của cá nhân, doanh nghiệp. Hiểu rõ cung tiền giúp bạn chủ động nhận diện xu hướng dịch chuyển của dòng vốn lớn điều hành qua [chính sách tiền tệ](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/chinh-sach-tien-te-la-gi) của [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/ngan-hang-nha-nuoc-la-gi). Bài viết này của HVS phân tích định nghĩa pháp lý, cách phân loại các khối tiền tệ, các công cụ tác động của ngân hàng trung ương và phương pháp ứng dụng số liệu cung tiền vào phân tích đầu tư chứng khoán thực chiến.
 
 ---
 
@@ -73,10 +73,10 @@ Quy mô cung tiền M2 không cố định mà thay đổi liên tục dưới t
 
 ### Công cụ điều tiết của Ngân hàng Nhà nước
 Ngân hàng Nhà nước sử dụng bốn công cụ chính dưới đây để kiểm soát cung tiền vĩ mô:
-*   **Nghiệp vụ thị trường mở (OMO):** NHNN thực hiện mua hoặc bán giấy tờ có giá (như [tín phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tin-phieu-la-gi)) với các ngân hàng thương mại. Khi NHNN mua giấy tờ có giá, cơ quan này bơm trực tiếp tiền VND vào hệ thống ngân hàng, làm tăng cung tiền. Ngược lại, khi phát hành tín phiếu để hút ròng tiền mặt, cung tiền ngoài thị trường sẽ co hẹp lại.
+*   **Nghiệp vụ thị trường mở (OMO):** NHNN thực hiện mua hoặc bán giấy tờ có giá (như [tín phiếu](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/tin-phieu-la-gi)) với các ngân hàng thương mại. Khi NHNN mua giấy tờ có giá, cơ quan này bơm trực tiếp tiền VND vào hệ thống ngân hàng, làm tăng cung tiền. Ngược lại, khi phát hành tín phiếu để hút ròng tiền mặt, cung tiền ngoài thị trường sẽ co hẹp lại.
 *   **Lãi suất điều hành:** Các mức lãi suất như lãi suất tái cấp vốn và lãi suất tái chiết khấu quy định chi phí mà các ngân hàng thương mại phải trả khi vay vốn từ NHNN. Khi NHNN hạ lãi suất điều hành, các ngân hàng thương mại dễ dàng tiếp cận nguồn vốn giá rẻ, thúc đẩy cho vay dân cư và làm tăng cung tiền.
 *   **Tỷ lệ dự trữ bắt buộc:** Là tỷ lệ tiền gửi mà các tổ chức tín dụng phải duy trì gửi tại NHNN, không được mang đi cho vay. Khi NHNN tăng tỷ lệ dự trữ bắt buộc, năng lực cho vay của các ngân hàng thương mại sụt giảm, dẫn đến cung tiền M2 co hẹp.
-*   **Can thiệp tỷ giá ngoại hối:** Khi tỷ giá USD/VND căng thẳng, NHNN có thể bán USD từ nguồn [dự trữ ngoại hối](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/du-tru-ngoai-hoi-la-gi) để ổn định thị trường. Biện pháp này hút một lượng lớn tiền VND đối ứng ra khỏi lưu thông, làm giảm cung tiền VND một cách nhanh chóng.
+*   **Can thiệp tỷ giá ngoại hối:** Khi tỷ giá USD/VND căng thẳng, NHNN có thể bán USD từ nguồn [dự trữ ngoại hối](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/du-tru-ngoai-hoi-la-gi) để ổn định thị trường. Biện pháp này hút một lượng lớn tiền VND đối ứng ra khỏi lưu thông, làm giảm cung tiền VND một cách nhanh chóng.
 
 ### Cơ chế tạo tiền của hệ thống ngân hàng thương mại và số nhân tiền
 Ngân hàng Trung ương là đơn vị duy nhất phát hành tiền cơ sở (MB), nhưng chính hệ thống ngân hàng thương mại mới là nơi nhân lượng tiền gốc đó lên nhiều lần thông qua hoạt động nhận tiền gửi và cấp tín dụng. Quá trình này được đo lường bằng số nhân tiền (Money Multiplier).
@@ -112,7 +112,7 @@ Biến động của cung tiền tác động sâu sắc đến lãi suất, chu
 Trong ngắn hạn, khi cầu tiền của nền kinh tế chưa kịp điều chỉnh, hành động Ngân hàng Nhà nước tăng cung tiền (bơm thanh khoản) sẽ tạo ra trạng thái dư thừa vốn. Để giải phóng lượng vốn này, các ngân hàng thương mại buộc phải hạ lãi suất cho vay và lãi suất huy động nhằm kích thích nhu cầu vay vốn. Đây gọi là hiệu ứng thanh khoản.
 
 Tuy nhiên, trong dài hạn, mối quan hệ này biến chuyển phức tạp hơn do chịu ảnh hưởng từ ba hiệu ứng ngược chiều:
-*   **Hiệu ứng thu nhập:** Cung tiền tăng thúc đẩy sản xuất và tiêu dùng, làm thu nhập quốc gia gia tăng. Khi thu nhập tăng, nhu cầu nắm giữ tiền để giao dịch của người dân cũng tăng lên, tạo áp lực đẩy [lãi suất](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/lai-suat-la-gi) tăng trở lại.
+*   **Hiệu ứng thu nhập:** Cung tiền tăng thúc đẩy sản xuất và tiêu dùng, làm thu nhập quốc gia gia tăng. Khi thu nhập tăng, nhu cầu nắm giữ tiền để giao dịch của người dân cũng tăng lên, tạo áp lực đẩy [lãi suất](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chi-tieu-kinh-te/lai-suat-la-gi) tăng trở lại.
 *   **Hiệu ứng mức giá:** Hành động bơm quá nhiều tiền khiến giá cả hàng hóa dịch vụ tăng lên một mặt bằng mới. Người dân phải chi nhiều tiền mặt hơn để mua cùng một lượng hàng hóa như trước, làm tăng cầu tiền và đẩy lãi suất lên cao.
 *   **Hiệu ứng kỳ vọng lạm phát:** Cung tiền tăng nhanh kéo dài khiến người dân lo ngại lạm phát sẽ bùng phát trong tương lai. Để bù đắp hao hụt giá trị của đồng tiền, người cho vay đòi hỏi mức lãi suất danh nghĩa cao hơn, đẩy mặt bằng lãi suất lên vùng giá mới.
 
@@ -163,7 +163,7 @@ Năm 2022 ghi nhận một diễn biến đặc biệt khi tăng trưởng tín 
 Nhà đầu tư chuyên nghiệp sử dụng số liệu biến động cung tiền M2 và tăng trưởng tín dụng như một bộ chỉ báo dẫn dắt để xác định chu kỳ dòng tiền vĩ mô. Từ đó, bạn thiết lập các kịch bản hành động cụ thể để tối ưu hóa lợi nhuận danh mục.
 
 ### Mối liên hệ giữa chênh lệch cung tiền - tín dụng và xu hướng VN-Index
-Để nhận diện dòng tiền đầu cơ trên thị trường chứng khoán, bạn phải so sánh tốc độ tăng trưởng cung tiền M2 với tốc độ [tăng trưởng tín dụng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tang-truong-tin-dung-la-gi) của toàn hệ thống ngân hàng.
+Để nhận diện dòng tiền đầu cơ trên thị trường chứng khoán, bạn phải so sánh tốc độ tăng trưởng cung tiền M2 với tốc độ tăng trưởng tín dụng của toàn hệ thống ngân hàng.
 
 *   **Kịch bản 1: Cung tiền M2 tăng trưởng nhanh hơn Tín dụng (M2 - Credit > 0)**
     *   **Trạng thái vĩ mô:** Hệ thống ngân hàng rơi vào trạng thái thừa thanh khoản (thừa tiền mặt). Người dân gửi tiền tiết kiệm nhiều nhưng ngân hàng không thể giải ngân cho vay ra nền kinh tế do sức hấp thụ vốn của doanh nghiệp yếu.
@@ -188,7 +188,7 @@ Hãy đối chiếu cụ thể hai kịch bản này qua bảng tổng hợp dư
 Kinh tế vĩ mô và dịch chuyển của các khối cung tiền (M2) luôn là bài toán trừu tượng đối với hầu hết nhà đầu tư cá nhân (F0). Do thiếu phương pháp phân tích bài bản, many người dễ rơi vào bẫy tâm lý đám đông, tiến hành mua đuổi cổ phiếu ở đỉnh chu kỳ tiền rẻ hoặc hoảng loạn bán tháo ở đáy chu kỳ thắt chặt thanh khoản, dẫn đến những tổn thất tài sản nghiêm trọng.
 
 Nền tảng đào tạo trực tuyến **HVS Tài chính số** cung cấp hệ thống học tập thực tế giúp bạn làm chủ các chỉ báo vĩ mô thiết yếu:
-*   **HVS Thực tập số:** Lộ trình đào tạo chuyên sâu nằm trong nền tảng HVS Tài chính số cung cấp khóa học Phân tích cơ bản FA Level 1. Giảng viên tại HVS trực tiếp hướng dẫn bạn chi tiết cách đọc hiểu số liệu cung tiền M2, phân tích tác động của các nghiệp vụ OMO của Ngân hàng Nhà nước và đánh giá sức chống chịu nợ vay của doanh nghiệp qua [hệ số thanh toán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/he-so-thanh-toan-la-gi) để chủ động đưa ra quyết định đầu tư an toàn.
+*   **HVS Thực tập số:** Lộ trình đào tạo chuyên sâu nằm trong nền tảng HVS Tài chính số cung cấp khóa học Phân tích cơ bản FA Level 1. Giảng viên tại HVS trực tiếp hướng dẫn bạn chi tiết cách đọc hiểu số liệu cung tiền M2, phân tích tác động của các nghiệp vụ OMO của Ngân hàng Nhà nước và đánh giá sức chống chịu nợ vay của doanh nghiệp qua hệ số thanh toán để chủ động đưa ra quyết định đầu tư an toàn.
 *   **HVS Demo:** Công cụ tài khoản giao dịch mô phỏng miễn phí giúp bạn thực hành áp dụng kiến thức vĩ mô vào thực tế. Bạn có thể tự thiết lập danh mục đầu tư thử nghiệm để theo dõi độ nhạy của các mã cổ phiếu ngân hàng (như VCB), chứng khoán (như SSI) trước các thông báo biến động cung tiền M2 thực tế mà không phải chịu rủi ro mất vốn thật.
 *   **HVS Forum:** Cộng đồng học viên sôi nổi, nơi bạn dễ dàng trao đổi kiến thức, thảo luận các biến động vĩ mô mới nhất và nhận phản hồi, chia sẻ kinh nghiệm thực chiến từ các Mentor chuyên nghiệp của HVS.
 

@@ -1,6 +1,13 @@
 import os
 import json
+import sys
 from PIL import Image
+
+# Force UTF-8 encoding for standard output to avoid UnicodeEncodeErrors on Windows
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+if hasattr(sys.stderr, 'reconfigure'):
+    sys.stderr.reconfigure(encoding='utf-8')
 
 def optimize_images(manifest_path):
     if not os.path.exists(manifest_path):

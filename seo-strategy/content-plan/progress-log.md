@@ -1,7 +1,7 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 284 bài
+- **Published:** 292 bài
 - **Active Pipeline:** 1 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
@@ -19,6 +19,14 @@
 
 | Date | Keyword | Persona | Mode | File Path |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-08-07 | chính sách tài khóa là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-chinh-sach-tai-khoa-la-gi.md` |
+| 2026-08-07 | đầu tư công là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-dau-tu-cong-la-gi.md` |
+| 2026-08-07 | chính sách công là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-chinh-sach-cong-la-gi.md` |
+| 2026-08-07 | biên lợi nhuận ròng | Lan Newbie | Guided | `content/blog/3-finalized/Final-bien-loi-nhuan-rong.md` |
+| 2026-08-07 | brexit là gì | Lan Newbie | Guided | `content/blog/3-finalized/Final-brexit-la-gi.md` |
+| 2026-08-07 | bảng cân đối kế toán nguồn vốn | Sơn Sinh Viên | Guided | `content/blog/3-finalized/Final-bang-can-doi-ke-toan-nguon-von.md` |
+| 2026-08-07 | bẫy thanh khoản | Lan Newbie | Guided | `content/blog/3-finalized/Final-bay-thanh-khoan.md` |
+| 2026-08-07 | capex là gì | Sơn Sinh Viên | Guided | `content/blog/3-finalized/Final-capex-la-gi.md` |
 | 2026-08-06 | vốn lưu động là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-von-luu-dong-la-gi.md` |
 | 2026-08-06 | vốn pháp định là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-von-phap-dinh-la-gi.md` |
 | 2026-08-06 | yoy là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-yoy-la-gi.md` |

@@ -11,9 +11,9 @@ Meta_Description: Tìm hiểu dự trữ ngoại hối là gì, các nguồn hì
 
 # Dự trữ ngoại hối là gì? Vai trò và mối liên hệ với VN-Index
 
-Hiểu rõ **dự trữ ngoại hối là gì** giúp bạn nhận diện sớm xu hướng dịch chuyển của dòng vốn vĩ mô điều hành bởi [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ngan-hang-nha-nuoc-la-gi). Công cụ tài chính chiến lược này là bộ đệm phòng vệ giúp bảo vệ tỷ giá hối đoái và thanh khoản hệ thống trước các cú sốc bên ngoài.
+Hiểu rõ **dự trữ ngoại hối là gì** giúp bạn nhận diện sớm xu hướng dịch chuyển của dòng vốn vĩ mô điều hành bởi [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/ngan-hang-nha-nuoc-la-gi). Công cụ tài chính chiến lược này là bộ đệm phòng vệ giúp bảo vệ tỷ giá hối đoái và thanh khoản hệ thống trước các cú sốc bên ngoài.
 
-Đối với hoạt động [đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi), biến động của quy mô dự trữ ngoại tệ tác động gián tiếp đến thanh khoản [thị trường liên ngân hàng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/lien-ngan-hang-la-gi) và lãi suất. Bài viết này từ HVS phân tích định nghĩa pháp lý, nguồn hình thành dự trữ và cách ứng dụng thực chiến.
+Đối với hoạt động [đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi), biến động của quy mô dự trữ ngoại tệ tác động gián tiếp đến thanh khoản [thị trường liên ngân hàng](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/lien-ngan-hang-la-gi) và lãi suất. Bài viết này từ HVS phân tích định nghĩa pháp lý, nguồn hình thành dự trữ và cách ứng dụng thực chiến.
 
 ---
 
@@ -50,7 +50,7 @@ Hệ thống văn bản pháp lý tại địa chỉ vbpl.vn quy định các ng
 **Ngân hàng Nhà nước sử dụng dự trữ ngoại hối như một công cụ cốt lõi để điều tiết tỷ giá hối đoái và kiểm soát thanh khoản hệ thống liên ngân hàng.**
 
 Nghiệp vụ điều hành vĩ mô của cơ quan quản lý tiền tệ quốc gia tập trung vào các vai trò thực tiễn sau:
-- **Can thiệp ổn định tỷ giá hối đoái:** Ngân hàng Nhà nước chủ động bán ngoại tệ từ kho dự trữ ra thị trường để đáp ứng nhu cầu thanh toán và giảm áp lực đầu cơ tỷ giá nếu áp lực tỷ giá tăng nóng. Lượng VND đối ứng sẽ bị hút về tài khoản của NHNN, trực tiếp thu hẹp [cung tiền](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cung-tien-la-gi) ngoài thị trường. Ngược lại, Ngân hàng Nhà nước mua ngoại tệ từ các ngân hàng thương mại để tích lũy nếu nguồn cung ngoại tệ dồi dào và tỷ giá ổn định. Dòng tiền VND tương ứng được bơm trực tiếp vào hệ thống ngân hàng, giúp nới lỏng thanh khoản vĩ mô.
+- **Can thiệp ổn định tỷ giá hối đoái:** Ngân hàng Nhà nước chủ động bán ngoại tệ từ kho dự trữ ra thị trường để đáp ứng nhu cầu thanh toán và giảm áp lực đầu cơ tỷ giá nếu áp lực tỷ giá tăng nóng. Lượng VND đối ứng sẽ bị hút về tài khoản của NHNN, trực tiếp thu hẹp [cung tiền](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/cung-tien-la-gi) ngoài thị trường. Ngược lại, Ngân hàng Nhà nước mua ngoại tệ từ các ngân hàng thương mại để tích lũy nếu nguồn cung ngoại tệ dồi dào và tỷ giá ổn định. Dòng tiền VND tương ứng được bơm trực tiếp vào hệ thống ngân hàng, giúp nới lỏng thanh khoản vĩ mô.
 - **Đảm bảo khả năng thanh toán quốc tế:** Quốc gia duy trữ ngoại tệ lớn giúp đảm bảo khả năng thanh toán các khoản nợ nước ngoài đến hạn của Chính phủ. Đồng thời, nguồn dự phòng này đáp ứng đầy đủ nhu cầu ngoại tệ để nhập khẩu các mặt hàng thiết yếu như xăng dầu, máy móc, nguyên vật liệu phục vụ sản xuất công nghiệp.
 - **Nâng cao vị thế tài chính và tín nhiệm quốc gia:** Quy mô dự trữ ngoại hối lớn chứng minh tiềm lực tài chính vững mạnh của Chính phủ. Việc này giúp cải thiện xếp hạng tín nhiệm của Việt Nam trên các tổ chức quốc tế, tạo điều kiện thuận lợi cho các doanh nghiệp trong nước tiếp cận dòng vốn ngoại với lãi suất ưu đãi.
 

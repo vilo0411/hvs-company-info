@@ -17,7 +17,7 @@ Word_Count_Target: 2600
 
 # Thị trường liên ngân hàng là gì? Lãi suất, OMO và kịch bản đầu tư vĩ mô
 
-Thị trường liên ngân hàng là nơi các tổ chức tín dụng giao dịch vốn ngắn hạn để đảm bảo khả năng thanh toán và thanh khoản hệ thống. Đối với hoạt động [đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi), các biến động lãi suất trên thị trường này trực tiếp dự báo hướng đi của dòng tiền lớn. HVS Tài chính số sẽ giúp bạn làm rõ khái niệm thị trường liên ngân hàng là gì, phân biệt cụ thể với thị trường dân cư, cơ chế điều tiết OMO của [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ngan-hang-nha-nuoc-la-gi) và kịch bản ứng dụng chỉ báo lãi suất liên ngân hàng vào thực chiến giao dịch.
+Thị trường liên ngân hàng là nơi các tổ chức tín dụng giao dịch vốn ngắn hạn để đảm bảo khả năng thanh toán và thanh khoản hệ thống. Đối với hoạt động [đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi), các biến động lãi suất trên thị trường này trực tiếp dự báo hướng đi của dòng tiền lớn. HVS Tài chính số sẽ giúp bạn làm rõ khái niệm thị trường liên ngân hàng là gì, phân biệt cụ thể với thị trường dân cư, cơ chế điều tiết OMO của [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/ngan-hang-nha-nuoc-la-gi) và kịch bản ứng dụng chỉ báo lãi suất liên ngân hàng vào thực chiến giao dịch.
 
 ---
 
@@ -58,10 +58,10 @@ Sự biến động của lãi suất qua đêm liên ngân hàng trực tiếp 
 
 ## Mối liên hệ giữa nghiệp vụ OMO, tín phiếu và thanh khoản liên ngân hàng
 
-Ngân hàng Nhà nước Việt Nam điều tiết mặt bằng lãi suất liên ngân hàng thông qua nghiệp vụ thị trường mở (OMO). Đây là công cụ gián tiếp thuộc [chính sách tiền tệ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chinh-sach-tien-te-la-gi) giúp NHNN kiểm soát [cung tiền](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cung-tien-la-gi) vĩ mô mà không cần can thiệp hành chính vào lãi suất dân cư. Hoạt động này được vận hành qua hai chiều cơ chế cụ thể dưới đây:
+Ngân hàng Nhà nước Việt Nam điều tiết mặt bằng lãi suất liên ngân hàng thông qua nghiệp vụ thị trường mở (OMO). Đây là công cụ gián tiếp thuộc [chính sách tiền tệ](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/chinh-sach-tien-te-la-gi) giúp NHNN kiểm soát [cung tiền](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/cung-tien-la-gi) vĩ mô mà không cần can thiệp hành chính vào lãi suất dân cư. Hoạt động này được vận hành qua hai chiều cơ chế cụ thể dưới đây:
 
 #### 1. Chiều hút tiền qua tín phiếu ngân hàng nhà nước
-Khi thanh khoản liên ngân hàng quá dồi dào, lãi suất qua đêm giảm sâu, gây áp lực lên tỷ giá USD/VND do chênh lệch lãi suất VND - USD ở trạng thái âm nặng. Lúc này, NHNN sẽ chủ động phát hành [tín phiếu ngân hàng nhà nước](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tin-phieu-la-gi) để thu hồi tiền đồng.
+Khi thanh khoản liên ngân hàng quá dồi dào, lãi suất qua đêm giảm sâu, gây áp lực lên tỷ giá USD/VND do chênh lệch lãi suất VND - USD ở trạng thái âm nặng. Lúc này, NHNN sẽ chủ động phát hành [tín phiếu ngân hàng nhà nước](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/tin-phieu-la-gi) để thu hồi tiền đồng.
 NHTM chuyển tiền VND về NHNN để mua tín phiếu, làm giảm lượng tiền khả dụng trong thị trường liên ngân hàng. Lượng cung vốn giảm kéo theo lãi suất liên ngân hàng tăng lên, gián tiếp thu hẹp chênh lệch tỷ giá ngoại hối.
 
 #### 2. Chiều bơm tiền hỗ trợ thanh khoản

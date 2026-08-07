@@ -11,7 +11,7 @@ Meta_Description: Tìm hiểu ngân sách nhà nước là gì, vai trò vĩ mô
 
 # Ngân sách Nhà nước là gì? Vai trò và thực trạng tại Việt Nam
 
-Ngân sách Nhà nước là công cụ vĩ mô cốt lõi giúp Chính phủ phân bổ nguồn lực và điều tiết nền kinh tế. Bài viết từ HVS làm rõ định nghĩa ngân sách nhà nước là gì, vai trò, thực trạng thu chi tại Việt Nam và các kịch bản đầu tư vĩ mô thực chiến.
+Ngân sách Nhà nước là công cụ vĩ mô cốt lõi thuộc hệ thống [chính sách công](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/chinh-sach-cong-la-gi) giúp Chính phủ phân bổ nguồn lực và điều tiết nền kinh tế. Bài viết từ HVS làm rõ định nghĩa ngân sách nhà nước là gì, vai trò, thực trạng thu chi tại Việt Nam và các kịch bản đầu tư vĩ mô thực chiến.
 
 ---
 
@@ -30,7 +30,7 @@ Dòng tiền của ngân sách quốc gia vận hành dựa trên hai hoạt đ�
 ### Các khoản thu ngân sách nhà nước
 
 Cơ quan quản lý tài chính công thực hiện thu ngân sách qua ba nguồn chính:
-- **Thuế, phí và lệ phí:** Đây là nguồn thu quan trọng nhất, chiếm tỷ trọng lớn trong tổng ngân sách. Các sắc thuế lớn bao gồm [thuế là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thue-la-gi) (thuế giá trị gia tăng VAT, thuế thu nhập doanh nghiệp, thuế thu nhập cá nhân).
+- **Thuế, phí và lệ phí:** Đây là nguồn thu quan trọng nhất, chiếm tỷ trọng lớn trong tổng ngân sách. Các sắc thuế lớn bao gồm [thuế là gì](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/thue-la-gi) (thuế giá trị gia tăng VAT, thuế thu nhập doanh nghiệp, thuế thu nhập cá nhân).
 - **Thu từ hoạt động kinh tế của Nhà nước:** Khoản thu từ lợi nhuận của doanh nghiệp nhà nước, chuyển nhượng vốn nhà nước và hoạt động khai thác dầu thô.
 - **Các khoản viện trợ không hoàn lại:** Nguồn tài trợ từ các chính phủ nước ngoài và tổ chức quốc tế cấp cho Việt Nam để thực hiện các chương trình phát triển kinh tế - xã hội.
 
@@ -50,11 +50,11 @@ Ngân sách Nhà nước không chỉ là một kế hoạch tài chính mà cò
 
 ### Công cụ phân bổ nguồn lực hiệu quả
 
-Chính phủ sử dụng ngân sách để tập trung dòng vốn vào các dự án hạ tầng công cộng quy mô lớn mà khu vực tư nhân không muốn hoặc không thể đầu tư. Đầu tư công vào các tuyến cao tốc như cao tốc Bắc - Nam hay sân bay Long Thành tạo điều kiện thúc đẩy thông thương và gia tăng năng suất toàn nền kinh tế.
+Chính phủ sử dụng ngân sách để tập trung dòng vốn vào các dự án hạ tầng công cộng quy mô lớn mà khu vực tư nhân không muốn hoặc không thể đầu tư. [Đầu tư công](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/dau-tu-cong-la-gi) vào các tuyến cao tốc như cao tốc Bắc - Nam hay sân bay Long Thành tạo điều kiện thúc đẩy thông thương và gia tăng năng suất toàn nền kinh tế.
 
 ### Công cụ điều tiết kinh tế vĩ mô chủ động
 
-Thông qua [chính sách tài khóa](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chinh-sach-tai-khoa-la-gi), Chính phủ điều chỉnh quy mô thu chi ngân sách để can thiệp vào tổng cầu. Trong thời kỳ kinh tế suy thoái, cơ quan quản lý áp dụng chính sách tài khóa mở rộng bằng cách tăng chi tiêu đầu tư công hoặc giảm thuế phí để thúc đẩy sản xuất. Ngược lại, khi lạm phát gia tăng, Chính phủ sẽ thắt chặt chi tiêu để hạ nhiệt nền kinh tế.
+Thông qua [chính sách tài khóa](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/chinh-sach-tai-khoa-la-gi), Chính phủ điều chỉnh quy mô thu chi ngân sách để can thiệp vào tổng cầu. Trong thời kỳ kinh tế suy thoái, cơ quan quản lý áp dụng chính sách tài khóa mở rộng bằng cách tăng chi tiêu đầu tư công hoặc giảm thuế phí để thúc đẩy sản xuất. Ngược lại, khi lạm phát gia tăng, Chính phủ sẽ thắt chặt chi tiêu để hạ nhiệt nền kinh tế.
 
 ### Công cụ tái phân phối thu nhập và bảo đảm an sinh
 
@@ -62,7 +62,7 @@ Nhà nước thực hiện điều tiết chênh lệch giàu nghèo thông qua 
 
 ### Đảm bảo ổn định tài chính quốc gia và kiểm soát nợ công
 
-Quản lý ngân sách bền vững giúp Việt Nam duy trì các chỉ số nợ công trong giới hạn an toàn, tránh nguy cơ vỡ nợ quốc gia. Khi có chênh lệch giữa thu và chi, Chính phủ thực hiện phát hành [trái phiếu Chính phủ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-chinh-phu-la-gi) để huy động vốn trong dân và các tổ chức tài chính nhằm bù đắp thâm hụt một cách an toàn.
+Quản lý ngân sách bền vững giúp Việt Nam duy trì các chỉ số nợ công trong giới hạn an toàn, tránh nguy cơ vỡ nợ quốc gia. Khi có chênh lệch giữa thu và chi, Chính phủ thực hiện phát hành trái phiếu Chính phủ để huy động vốn trong dân và các tổ chức tài chính nhằm bù đắp thâm hụt một cách an toàn.
 
 ## Thực trạng thu chi Ngân sách Nhà nước Việt Nam giai đoạn 2020-2024
 
@@ -130,7 +130,7 @@ Nhiều nhà đầu tư F0 thường gặp khó khăn khi phân tích các báo 
 
 Nền tảng đào tạo trực tuyến **HVS Tài chính số** được thiết kế để giúp bạn giải quyết triệt để vấn đề này. Thông qua chương trình **HVS Thực tập số**, bạn sẽ được hướng dẫn bóc tách tác động của ngân sách, nợ công và đầu tư công lên từng ngành cụ thể trong khóa học **Phân tích cơ bản Level 1 (FA LV1)**. 
 
-Bên cạnh đó, bạn có thể sử dụng ứng dụng giả lập **HVS Demo** để thực hành giao dịch theo các kịch bản vĩ mô mà không gặp rủi ro mất vốn thật. Cộng đồng **HVS Forum** với sự đồng hành của các mentor CFA giàu kinh nghiệm sẽ hỗ trợ giải đáp mọi thắc mắc của bạn về biến động lãi suất liên ngân hàng, [cung tiền là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cung-tien-la-gi) và mối liên kết giữa ngân sách với [chính sách tiền tệ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chinh-sach-tien-te-la-gi) của Ngân hàng Nhà nước.
+Bên cạnh đó, bạn có thể sử dụng ứng dụng giả lập **HVS Demo** để thực hành giao dịch theo các kịch bản vĩ mô mà không gặp rủi ro mất vốn thật. Cộng đồng **HVS Forum** với sự đồng hành của các mentor CFA giàu kinh nghiệm sẽ hỗ trợ giải đáp mọi thắc mắc của bạn về biến động lãi suất liên ngân hàng, [cung tiền là gì](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/cung-tien-la-gi) và mối liên kết giữa ngân sách với [chính sách tiền tệ](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/chinh-sach-tien-te-la-gi) của Ngân hàng Nhà nước.
 
 ## Kết luận
 
@@ -139,9 +139,13 @@ Ngân sách Nhà nước là chỉ báo vĩ mô quan trọng định hình hư�
 > **Tuyên bố miễn trừ trách nhiệm: Mọi phân tích vĩ mô và thông tin về các mã cổ phiếu được đề cập trong bài viết chỉ mang tính chất tham khảo cho hoạt động đào tạo tại HVS. Nội dung này không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán trên thị trường chứng khoán thực tế.**
 
 ## Revision Log
+- **07/08/2026 (v1.2 - Maintenance):**
+  - Chèn liên kết nội bộ ngược (backlink) tới bài viết [đầu tư công](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/dau-tu-cong-la-gi) ở phần vai trò vĩ mô.
+- **07/08/2026 (v1.1 - Maintenance):**
+  - Chèn liên kết nội bộ ngược (backlink) tới bài viết [chính sách công](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/chinh-sach-cong-la-gi) tại đoạn sapo.
 - **05/08/2026 (v1.0 - Optimized):**
   - Thực hiện SERP và bổ sung dữ liệu thực trạng ngân sách Việt Nam giai đoạn 2020-2024 cụ thể, trích dẫn chi tiết số liệu thu vượt dự toán năm 2024 và kiểm soát nợ công.
   - Phân tích chi tiết 3 kịch bản đầu tư vĩ mô thực chiến (Giải ngân đầu tư công, Hỗ trợ thuế VAT/trước bạ, Thắt chặt ngân sách) gắn với các mã cổ phiếu cụ thể (HPG, VCG, MWG, PNJ).
   - Loại bỏ hoàn toàn ngôn từ AI-vibe sáo rỗng, áp dụng cấu trúc đoạn văn ngắn và chèn bảng Markdown đối chiếu số liệu.
-  - Tích hợp liên kết nội bộ bi-directional với các bài [chính sách tài khóa](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chinh-sach-tai-khoa-la-gi), [thuế là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thue-la-gi), [trái phiếu Chính phủ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-chinh-phu-la-gi), [chính sách tiền tệ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chinh-sach-tien-te-la-gi), [cung tiền là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cung-tien-la-gi).
+  - Tích hợp liên kết nội bộ bi-directional với các bài [chính sách tài khóa](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/chinh-sach-tai-khoa-la-gi), [thuế là gì](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/thue-la-gi), trái phiếu Chính phủ, [chính sách tiền tệ](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/chinh-sach-tien-te-la-gi), [cung tiền là gì](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/cung-tien-la-gi).
   - Inbound backfill: gắn link từ [Final-co-phieu-dau-tu-cong.md] (anchor "ngân sách nhà nước") và [Final-trai-phieu-chinh-phu-la-gi.md] (anchor "bội chi ngân sách").

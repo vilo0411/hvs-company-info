@@ -2,6 +2,12 @@ import sys
 import json
 import re
 
+# Force UTF-8 encoding for standard output to avoid UnicodeEncodeErrors on Windows
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+if hasattr(sys.stderr, 'reconfigure'):
+    sys.stderr.reconfigure(encoding='utf-8')
+
 def extract_seo_data(html_content):
     """
     Script đơn giản để bóc tách H-tags và Meta Description từ nội dung HTML.

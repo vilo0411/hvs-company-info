@@ -11,7 +11,7 @@ Meta_Description: Tìm hiểu thuế là gì, phân loại các loại thuế ch
 
 # Thuế là gì? Các loại thuế và kịch bản đầu tư vĩ mô tại Việt Nam
 
-Thuế ảnh hưởng trực tiếp đến biên lợi nhuận của doanh nghiệp niêm yết và quyết định xu hướng của thị trường chứng khoán. Đây là công cụ cốt lõi trong [chính sách tài khóa](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chinh-sach-tai-khoa-la-gi) của Chính phủ nhằm điều tiết nền kinh tế vĩ mô. Bài viết từ HVS giúp bạn làm rõ bản chất của thuế, cách phân loại các sắc thuế chính tại Việt Nam và kịch bản ứng dụng vào phân tích cổ phiếu thực chiến.
+Thuế ảnh hưởng trực tiếp đến biên lợi nhuận của doanh nghiệp niêm yết và quyết định xu hướng của thị trường chứng khoán. Đây là công cụ cốt lõi trong chính sách tài khóa - một cấu phần quan trọng của [chính sách công](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/chinh-sach-cong-la-gi) - nhằm điều tiết nền kinh tế vĩ mô. Bài viết từ HVS giúp bạn làm rõ bản chất của thuế, cách phân loại các sắc thuế chính tại Việt Nam và kịch bản ứng dụng vào phân tích cổ phiếu thực chiến.
 
 ## Thuế là gì?
 
@@ -78,14 +78,14 @@ Chính sách điều chỉnh thuế của Chính phủ làm thay đổi biên l�
 Các đợt điều chỉnh thuế tạo ra các tác động không đồng đều giữa các nhóm ngành, mở ra cơ hội đầu tư hoặc cảnh báo rủi ro cho danh mục.
 
 #### Case Study 1: Giảm 2% thuế VAT kích cầu tiêu dùng nhóm cổ phiếu bán lẻ (2022-2024)
-Nghị định 44/2023/NĐ-CP giảm thuế giá trị gia tăng từ 10% xuống 8% đối với các nhóm hàng hóa thiết yếu nhằm kích thích tiêu dùng nội địa trong giai đoạn [chu kỳ kinh tế](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chu-ky-kinh-te-la-gi) suy thoái. Chính sách này hỗ trợ trực tiếp cho người tiêu dùng thông qua việc giảm giá bán thực tế trên hóa đơn. Sức mua hồi phục giúp các doanh nghiệp bán lẻ lớn cải thiện doanh thu bán hàng. 
+Nghị định 44/2023/NĐ-CP giảm thuế giá trị gia tăng từ 10% xuống 8% đối với các nhóm hàng hóa thiết yếu nhằm kích thích tiêu dùng nội địa trong giai đoạn chu kỳ kinh tế suy thoái. Chính sách này hỗ trợ trực tiếp cho người tiêu dùng thông qua việc giảm giá bán thực tế trên hóa đơn. Sức mua hồi phục giúp các doanh nghiệp bán lẻ lớn cải thiện doanh thu bán hàng. 
 
 Trên sàn HOSE, các cổ phiếu bán lẻ đầu ngành gồm **MWG** (Thế Giới Di Động), **FRT** (FPT Retail) và **PNJ** (Vàng bạc đá quý Phú Nhuận) ghi nhận doanh thu tăng trưởng ổn định trong các kỳ báo cáo tài chính cuối năm 2023. 
 
 Tuy nhiên, bạn cần chú ý bẫy giá trị khi phân tích doanh thu. Việc giảm thuế VAT chỉ có hiệu quả kích cầu ngắn hạn, nếu thu nhập thực tế của người dân không cải thiện, doanh nghiệp bán lẻ vẫn đối mặt với rủi ro tồn kho cao.
 
 #### Case Study 2: Giảm thuế bảo vệ môi trường xăng dầu hỗ trợ nhóm Vận tải và Phân phối (2022)
-Chính phủ ban hành Nghị quyết giảm thuế bảo vệ môi trường đối với xăng dầu về mức sàn 1.000 đồng/lít nhằm kiềm chế lạm phát CPI trong bối cảnh Ngân hàng Nhà nước điều hành [chính sách tiền tệ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chinh-sach-tien-te-la-gi) thắt chặt. Đồng thời, Nghị định 51/2022/NĐ-CP hạ thuế nhập khẩu ưu đãi xăng từ 20% xuống 10% để bình ổn giá nhiên liệu đầu vào. 
+Chính phủ ban hành Nghị quyết giảm thuế bảo vệ môi trường đối với xăng dầu về mức sàn 1.000 đồng/lít nhằm kiềm chế lạm phát CPI trong bối cảnh Ngân hàng Nhà nước điều hành [chính sách tiền tệ](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/chinh-sach-tien-te-la-gi) thắt chặt. Đồng thời, Nghị định 51/2022/NĐ-CP hạ thuế nhập khẩu ưu đãi xăng từ 20% xuống 10% để bình ổn giá nhiên liệu đầu vào. 
 
 Chính sách này giảm áp lực chi phí vận hành cho các doanh nghiệp logistics như **VSC** (Container Việt Nam) và **HAH** (Vận tải xếp dỡ Hải An). Đối với các doanh nghiệp đầu mối xăng dầu lớn như **PLX** (Petrolimex) và **OIL** (PV OIL), thuế bảo vệ môi trường giảm giúp bình ổn giá bán lẻ, giảm bớt chi phí trích lập dự phòng giảm giá hàng tồn kho khi giá dầu thế giới biến động mạnh.
 
@@ -122,7 +122,7 @@ Nhà đầu tư cá nhân thường chịu thua lỗ do không đánh giá đư�
 
 Để giải quyết vấn đề này, nền tảng đào tạo trực tuyến **HVS Tài chính số** cung cấp chương trình đào tạo **HVS Thực tập số** giúp bạn xây dựng nền tảng vững chắc. Khóa học **Phân tích cơ bản Level 1 (FA LV1)** trang bị cho bạn kỹ năng bóc tách tác động của các sắc thuế lên dòng tiền doanh nghiệp. Bạn sẽ hiểu cách tính thuế TNDN, đánh giá rủi ro truy thu thuế đầu vào và nhận diện bẫy giá trị khi đọc báo cáo kết quả kinh doanh.
 
-Đồng thời, bạn được cung cấp công cụ giả lập **HVS Demo** để thực hành đặt lệnh mua bán theo tin tức vĩ mô mà không gặp rủi ro mất vốn thật. Diễn đàn **HVS Forum** là không gian kết nối bạn với các mentor giàu kinh nghiệm để cùng thảo luận, phản biện các kịch bản đầu tư vĩ mô dựa trên các dự thảo luật thuế mới nhất tại Việt Nam. Bạn cũng có thể mở rộng kiến thức bằng cách tìm hiểu thêm về vai trò của [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ngan-hang-nha-nuoc-la-gi) trong việc phối hợp chính sách tiền tệ với chính sách tài khóa quốc gia.
+Đồng thời, bạn được cung cấp công cụ giả lập **HVS Demo** để thực hành đặt lệnh mua bán theo tin tức vĩ mô mà không gặp rủi ro mất vốn thật. Diễn đàn **HVS Forum** là không gian kết nối bạn với các mentor giàu kinh nghiệm để cùng thảo luận, phản biện các kịch bản đầu tư vĩ mô dựa trên các dự thảo luật thuế mới nhất tại Việt Nam. Bạn cũng có thể mở rộng kiến thức bằng cách tìm hiểu thêm về vai trò của [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/ngan-hang-nha-nuoc-la-gi) trong việc phối hợp chính sách tiền tệ với chính sách tài khóa quốc gia.
 
 ## Kết luận
 
@@ -131,7 +131,9 @@ Nắm vững bản chất thuế giúp bạn làm chủ các cơ hội đầu t�
 > **Tuyên bố miễn trừ trách nhiệm: Mọi thông tin phân tích vĩ mô và mã cổ phiếu được đề cập trong bài viết chỉ mang tính chất tham khảo giảng dạy tại nền tảng đào tạo HVS. Bài viết không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán trên thị trường chứng khoán thực tế.**
 
 ## Revision Log
+- **07/08/2026 (v1.1 - Maintenance):**
+  - Chèn liên kết nội bộ ngược (backlink) tới bài viết [chính sách công](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/chinh-sach-cong-la-gi) tại đoạn sapo.
 - **05/08/2026 (v1.0 - Optimized):**
   - Nghiên cứu SERP và khắc phục lỗi crawled but not indexed: Bổ sung Case Study thực tế về giảm thuế VAT kích cầu nhóm Bán lẻ (MWG, FRT, PNJ) và giảm thuế BVMT xăng dầu hỗ trợ PLX, OIL, HAH. Thêm bảng đối chiếu tác động thuế và 3 kịch bản đầu tư vĩ mô thực chiến.
-  - Tối ưu liên kết nội bộ: Cấu hình outbound link tới [chính sách tài khóa](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chinh-sach-tai-khoa-la-gi), đề xuất backfill link từ [mở tài khoản chứng khoán có mất phí không](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/mo-tai-khoan-chung-khoan-co-mat-phi-khong) và [đầu tư ngắn hạn](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-ngan-han).
+  - Tối ưu liên kết nội bộ: Cấu hình outbound link tới [chính sách tài khóa](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/chinh-sach-tai-khoa-la-gi), đề xuất backfill link từ [mở tài khoản chứng khoán có mất phí không](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/mo-tai-khoan-chung-khoan-co-mat-phi-khong) và [đầu tư ngắn hạn](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-ngan-han).
   - Loại bỏ AI-vibe: Xóa bỏ 100% từ cấm "mở khóa tiềm năng", "hành trình", "giải pháp toàn diện", sửa câu bị động và đa dạng hóa nhịp điệu câu.

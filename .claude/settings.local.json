@@ -4,7 +4,10 @@
       "PowerShell(Get-ChildItem \"E:\\\\project\\\\hvs-company-info\\\\.antigravity\\\\skills\\\\image-generation\\\\layouts\" -Recurse | ForEach-Object { $_.FullName })",
       "Bash(git rm *)",
       "PowerShell(python \"E:\\\\project\\\\hvs-company-info\\\\.antigravity\\\\skills\\\\image-generation\\\\scripts\\\\image_processor.py\" --input \"E:\\\\project\\\\hvs-company-info\\\\content\\\\blog\\\\assets\\\\raw-images\\\\nen-bua\\\\cach-giao-dich-nen-bua-quy-trinh.png\" --output \"E:\\\\project\\\\hvs-company-info\\\\content\\\\blog\\\\assets\\\\images\\\\nen-bua\\\\cach-giao-dich-nen-bua-quy-trinh.webp\")",
-      "WebSearch"
+      "WebSearch",
+      "Bash(python .antigravity/scripts/link_audit.py)",
+      "Bash(grep -c '^| `Final-' seo-strategy/content-plan/internal-link-dashboard.md)",
+      "Bash(python3 -c ' *)"
     ]
   }
 }

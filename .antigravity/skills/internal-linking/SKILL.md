@@ -31,6 +31,9 @@ Mỗi bài viết mới khi publish phải tạo thành một "bánh xe":
 1. **`seo-strategy/content-plan/topic-clusters.md`** — Xác định cluster, pillar, và toàn bộ bài Published trong cùng nhóm.
 2. **`seo-strategy/content-plan/anchor-index.md`** — Tra Exact/Partial anchor text được duyệt cho từng bài đích.
 3. **`seo-strategy/content-plan/internal-link-dashboard.md`** — Kiểm tra mật độ link hiện tại (tránh Over-opt).
+4. **Sitemap cache** (`.antigravity/scripts/sitemap-cache.json`) — Tra full URL chính xác theo slug. Tự động refresh mỗi 24h.
+
+> ⚠️ **Không được tự đoán URL.** Site có nhiều path khác nhau (`/kinh-te-vi-mo/chinh-sach-tai-khoa/`, `/dau-tu/danh-cho-nguoi-moi-bat-dau/`, v.v.). Phải tra sitemap để lấy URL đúng.
 
 ---
 
@@ -60,11 +63,31 @@ Với mỗi bài đích đã chọn, tra `anchor-index.md`:
 - Dùng Exact Match nếu không tìm được Partial Match tự nhiên
 - Kiểm tra Dashboard: bài đích đang `⚠️ Over-opt` → chỉ dùng Partial Match
 
-### Bước 4 — Gắn link vào bài (Contextual Optimization)
+### Bước 4 — Tra URL từ Sitemap Cache
+
+**BẮT BUỘC** tra URL chính xác từ sitemap trước khi gắn link:
+
+```powershell
+# Tra 1 slug cụ thể
+python .antigravity/scripts/fetch_sitemap.py --slug [slug-bai-dich]
+
+# Refresh cache nếu vừa publish bài mới
+python .antigravity/scripts/fetch_sitemap.py --refresh
+```
+
+Ví dụ tra URL:
+```
+# Input:
+python .antigravity/scripts/fetch_sitemap.py --slug chung-khoan-phai-sinh-la-gi
+
+# Output:
+Slug: chung-khoan-phai-sinh-la-gi
+URL:  https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-phai-sinh-la-gi
+```
+
+Sau khi có URL, mới thực hiện gắn link contextual. Nếu slug **KHÔNG TÌM THẤY** trong sitemap → bài chưa publish → **không được gắn link** (ghi chú lại cho backfill sau khi publish).
 
 Không chỉ tìm từ có sẵn. Nếu cần, chủ động **đề xuất sửa/thêm câu mới** để lồng anchor tự nhiên.
-
-Ví dụ: Bài "Hợp đồng tương lai" cần link đến "chứng khoán phái sinh là gì" → nếu trong bài có câu "Hợp đồng tương lai là công cụ tài chính phái sinh", sửa thành "Hợp đồng tương lai là một loại [chứng khoán phái sinh](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-phai-sinh-la-gi)".
 
 ### Bước 5 — Kiểm tra Ratio & Xung đột
 
@@ -102,6 +125,13 @@ Khi chạy `--backfill [slug]`:
 ## Ràng buộc
 
 - Mỗi bài đích chỉ xuất hiện **đúng 1 lần** trong toàn bài.
-- Đường dẫn link dùng **URL tuyệt đối**: `https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/[slug]` (không dùng relative path).
+- Đường dẫn link dùng **URL tuyệt đối** lấy từ sitemap cache — **không tự đoán path**. Các path thực tế:
+  - `/kinh-te-vi-mo/chinh-sach-tai-khoa/[slug]`
+  - `/kinh-te-vi-mo/chinh-sach-tien-te/[slug]`
+  - `/kinh-te-vi-mo/chi-tieu-kinh-te/[slug]`
+  - `/dau-tu/danh-cho-nguoi-moi-bat-dau/[slug]`
+  - (và các path khác — luôn tra `sitemap-cache.json` để xác nhận)
+- Chỉ link đến URL **có trong sitemap** (bài đã publish). Bài chưa có trong sitemap → bỏ qua, ghi chú backfill.
 - Không chiếm anchor text là keyword của bài Planned trong `topic-clusters.md`.
 - Tổng số internal link trong 1 bài: **3-6 link** (dưới 3 là thiếu, trên 6 là spam).
+- **Refresh cache** mỗi khi publish bài mới: `python .antigravity/scripts/fetch_sitemap.py --refresh`

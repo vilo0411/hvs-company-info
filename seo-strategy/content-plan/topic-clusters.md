@@ -1,6 +1,6 @@
 # Topic Clusters — HVS SEO Content Map
 > Cập nhật: 2026-06-18 | Nguồn: keyword-hvs.csv (491 articles)
-> ✅ Published: 273 | 🔄 In Progress: 1 | ⭕ Planned: 219
+> ✅ Published: 280 | 🔄 In Progress: 0 | ⭕ Planned: 219
 
 ---
 
@@ -186,7 +186,7 @@
 - ✅ cổ phiếu ngành hóa chất *(Published — Final-co-phieu-nganh-hoa-chat.md)*
 - ✅ cổ phiếu ngành nông nghiệp *(Published — Final-co-phieu-nganh-nong-nghiep.md)*
 
-### Cluster: Phân tích cơ bản (115 articles | ✅ 25 | 🔄 1 | ⭕ 89)
+### Cluster: Phân tích cơ bản (116 articles | ✅ 43 | 🔄 0 | ⭕ 74)
 
 **Pillar:** ✅ p/e là gì *(Published — Final-p-e-la-gi.md)*
 
@@ -215,7 +215,7 @@
 - ⭕ cơ cấu vốn là gì *(Planned)*
 - ⭕ Nợ phải trả là gì *(Planned)*
 - ✅ biên lợi nhuận gộp là gì *(Published — Final-bien-loi-nhuan-gop-la-gi.md)*
-- ⭕ biên lợi nhuận ròng *(Planned)*
+- ✅ biên lợi nhuận ròng *(Published — Final-bien-loi-nhuan-rong.md)*
 - ⭕ EBITDA là gì *(Planned)*
 - ✅ roa là gì *(Published — Final-roa-la-gi.md)*
 - ⭕ current ratio là gì *(Planned)*
@@ -247,7 +247,7 @@
 - ⭕ vòng quay khoản phải thu *(Planned)*
 - ⭕ dòng tiền từ hoạt động kinh doanh *(Planned)*
 - ⭕ vốn điều lệ là gì *(Planned)*
-- ⭕ capex là gì *(Planned)*
+- ✅ capex là gì *(Published — Final-capex-la-gi.md)*
 - ✅ Tín dụng doanh nghiệp là gì *(Published — Final-tin-dung-doanh-nghiep-la-gi.md)*
 - ⭕ M&A là gì *(Planned)*
 - ✅ Phân tích Dupont là gì *(Published — Final-phan-tich-dupont-la-gi.md)*
@@ -261,7 +261,7 @@
 - ⭕ giá trị doanh nghiệp là gì *(Planned)*
 - ✅ Vốn pháp định là gì *(Published — Final-von-phap-dinh-la-gi.md)*
 - ⭕ Điểm hòa vốn là gì *(Planned)*
-- ⭕ bảng cân đối kế toán nguồn vốn *(Planned)*
+- ✅ bảng cân đối kế toán nguồn vốn *(Published — Final-bang-can-doi-ke-toan-nguon-von.md)*
 - ✅ Vòng quay hàng tồn kho là gì *(Published — Final-vong-quay-hang-ton-kho-la-gi.md)*
 - ✅ Báo cáo lưu chuyển tiền tệ là gì `Final-bao-cao-luu-chuyen-tien-te-la-gi.md`
 - ⭕ quy luật giá trị *(Planned)*
@@ -269,7 +269,7 @@
 - ⭕ độ co giãn của cầu theo giá *(Planned)*
 - ⭕ npv và irr là gì *(Planned)*
 - ⭕ sự kiện thiên nga đen *(Planned)*
-- ⭕ brexit là gì *(Planned)*
+- ✅ brexit là gì *(Published — Final-brexit-la-gi.md)*
 - ⭕ Cạnh tranh hoàn hảo là gì *(Planned)*
 - ⭕ cạnh tranh độc quyền *(Planned)*
 - ✅ YOY là gì *(Published — Final-yoy-la-gi.md)*
@@ -291,6 +291,9 @@
 - ✅ Chi phí cơ hội là gì *(Published — Final-chi-phi-co-hoi-la-gi.md)*
 - ✅ chính sách tiền tệ nới lỏng *(Published — Final-chinh-sach-tien-te-la-gi.md)*
 - ✅ ngân sách nhà nước là gì *(Published — Final-ngan-sach-nha-nuoc-la-gi.md)*
+- ✅ chính sách công là gì *(Published — Final-chinh-sach-cong-la-gi.md)*
+- - ✅ chính sách tài khóa là gì *(Published — Final-chinh-sach-tai-khoa-la-gi.md)*
+- ✅ đầu tư công là gì *(Published — Final-dau-tu-cong-la-gi.md)*
 - ⭕ khủng hoảng tài chính là gì *(Planned)*
 - ⭕ cơ hội thị trường là gì *(Planned)*
 - ⭕ Mô hình kinh doanh là gì *(Planned)*
@@ -299,7 +302,7 @@
 - ⭕ lợi thế cạnh tranh là gì *(Planned)*
 - ⭕ chi phí cố định *(Planned)*
 - ⭕ chu kỳ có nghĩa là gì *(Planned)*
-- ⭕ bẫy thanh khoản *(Planned)*
+- ✅ bẫy thanh khoản *(Published — Final-bay-thanh-khoan.md)*
 - ✅ Bong bóng dotcom là gì *(Published — Final-bong-bong-dotcom-la-gi.md)*
 - ⭕ chiến lược thị trường là gì *(Planned)*
 - ⭕ Nợ xấu trong các cổ phiếu ngành ngân hàng *(Planned)*

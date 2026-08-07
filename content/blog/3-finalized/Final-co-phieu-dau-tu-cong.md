@@ -59,7 +59,7 @@ Internal_Links:
 
 # Top 4 cổ phiếu đầu tư công tiềm năng nhất năm 2026
 
-Làn sóng đầu tư công với các siêu dự án trọng điểm như Sân bay Long Thành và mạng lưới cao tốc Bắc - Nam đang mở ra cơ hội kinh doanh khổng lồ cho các doanh nghiệp hạ tầng. Trước khi bắt đầu giao dịch, việc thấu hiểu sâu sắc [cổ phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) sẽ là bước đệm lý thuyết quan trọng để bạn hiểu được cấu trúc sở hữu của các doanh nghiệp xây lắp trên sàn HOSE. Tuy nhiên, đầu tư cổ phiếu đầu tư công đòi hỏi bạn phải có khả năng phân biệt rõ rệt giữa câu chuyện trúng thầu danh nghĩa và dòng tiền thực tế thu về của doanh nghiệp. Dưới đây là bảng phân tích chi tiết về Top 4 mã cổ phiếu đầu tư công tiềm năng nhất năm 2026 cùng bộ tiêu chí sàng lọc thực chiến từ HVS.
+Làn sóng [đầu tư công](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-cong-la-gi) - một bộ phận trọng yếu của [chính sách công](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chinh-sach-cong-la-gi) - với các siêu dự án trọng điểm như Sân bay Long Thành và mạng lưới cao tốc Bắc - Nam đang mở ra cơ hội kinh doanh khổng lồ cho các doanh nghiệp hạ tầng. Trước khi bắt đầu giao dịch, việc thấu hiểu sâu sắc [cổ phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) sẽ là bước đệm lý thuyết quan trọng để bạn hiểu được cấu trúc sở hữu của các doanh nghiệp xây lắp trên sàn HOSE. Tuy nhiên, đầu tư cổ phiếu đầu tư công đòi hỏi bạn phải có khả năng phân biệt rõ rệt giữa câu chuyện trúng thầu danh nghĩa và dòng tiền thực tế thu về của doanh nghiệp. Dưới đây là bảng phân tích chi tiết về Top 4 mã cổ phiếu đầu tư công tiềm năng nhất năm 2026 cùng bộ tiêu chí sàng lọc thực chiến từ HVS.
 
 ---
 
@@ -154,3 +154,11 @@ Phần lớn các nhà đầu tư cá nhân trên thị trường thường quy�
 *   **HVS Forum:** Cộng đồng trao đổi thông tin đầu tư chất lượng cao. Nơi bạn kết nối trực tiếp với các nhà đầu tư kinh nghiệm để cùng phản biện thông tin tiến độ gói thầu, loại bỏ hoàn toàn các tin đồn thổi phồng trúng thầu danh nghĩa để đưa ra quyết định giao dịch khách quan nhất.
 
 Để hoàn thiện danh mục đầu tư dài hạn của mình, bạn hãy tiếp tục tìm hiểu cách thức [chọn mã cổ phiếu tiềm năng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/nen-dau-tu-co-phieu-nao) để phân bổ tỷ trọng dòng tiền tối ưu giữa các nhóm ngành có tính chu kỳ cao.
+
+---
+
+## Revision Log
+- **07/08/2026 (v1.2 - Maintenance):**
+  - Chèn liên kết nội bộ ngược (backlink) tới bài viết [đầu tư công](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-cong-la-gi) ở sapo.
+- **07/08/2026 (v1.1 - Maintenance):**
+  - Chèn liên kết nội bộ ngược (backlink) tới bài viết [chính sách công](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chinh-sach-cong-la-gi) tại đoạn sapo.
