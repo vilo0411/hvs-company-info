@@ -1,12 +1,31 @@
 ---
 Author: Antigravity
-Status: Draft
-Mode: Detailed
-Persona: HVS Senior Mentor
+aliases: ["roce-la-gi"]
+Status: Finalized
+Pipeline_Mode: Guided
+SERP_Research: true
+
+# SEO Technical & Holistic (Koray Gübür Standard)
 Target_Keyword: ROCE là gì
+Secondary_Keywords: Return on Capital Employed, công thức tính ROCE, vốn sử dụng, Capital Employed, so sánh ROCE và ROE
+LSI_Keywords: ROIC, ROE, EBIT, đòn bẩy tài chính, nợ dài hạn, Hòa Phát, HPG, FPT
+Niche_Context: Fundamental Analysis | Financial Ratios
+Entities: HVS Tài chính số, HVS Thực tập số, HVS Demo, HVS Forum, HPG, FPT, HOSE
+Entities_Gap_Analysis: Phân tích sâu 2 phương pháp tính Vốn sử dụng (Top-down và Bottom-up), so sánh chi tiết ROCE với ROE và ROIC, ví dụ thực tế tính toán số liệu của HPG (thâm dụng vốn) và FPT (ít nợ).
 Search_Intent: Informational
+Search_Intent_Deep: Người đọc muốn hiểu rõ bản chất ROCE, công thức và cách tính vốn sử dụng chuẩn xác, phân biệt sự khác nhau giữa ROCE và ROE để không bị đánh lừa bởi đòn bẩy tài chính, và biết cách áp dụng chỉ số này trong phân tích doanh nghiệp thực tế.
 Word_Count_Target: 2500
-Meta_Description: Tìm hiểu ROCE là gì, công thức tính vốn sử dụng (Capital Employed) chuẩn xác và phương pháp so sánh chỉ số ROCE với ROE, ROIC khi phân tích cổ phiếu cùng HVS.
+
+# Strategic Guardrails (Professionalism & Memory)
+Persona: HVS Senior Mentor
+Tone_Style: Direct, Data-driven, Objective
+Lexicon_Focus: Nhà đầu tư, vốn sử dụng, lợi nhuận trước lãi vay và thuế, nợ dài hạn, đòn bẩy tài chính, phân tích cơ bản
+Financial_Logic: Scenario-based, Risk-Reward, non-recommendation
+Avoid_Mistakes:
+  - Tránh dùng từ cấm: hành trình, giải pháp toàn diện, mở khóa tiềm năng, tóm lại, kết luận là.
+  - Tránh ngoặc kép nhấn mạnh.
+  - Tránh công thức LaTeX (dùng blockquote in đậm).
+  - Tránh dùng em-dash làm từ nối câu.
 ---
 
 # ROCE là gì? Cách tính và ứng dụng chỉ số trong đầu tư
@@ -21,7 +40,7 @@ Tuy nhiên, ROE có một nhược điểm lớn: doanh nghiệp dễ dàng làm
 
 Những hạn chế của chỉ số ROE gồm:
 - Dễ bị bóp méo khi doanh nghiệp tăng nợ dài hạn.
-- Không phản ánh rủi ro cấu trúc vốn gánh nợ lớn.
+- Phản ánh không đúng mức độ rủi ro cấu trúc vốn gánh nợ lớn.
 - Bỏ qua nguồn vốn dài hạn từ chủ nợ.
 
 Để khắc phục điều này, ROCE cung cấp thước đo khách quan hơn. Nó tính đến toàn bộ nguồn vốn dài hạn, gồm cả nợ vay từ ngân hàng hay trái chủ chứ không chỉ nhìn vào vốn chủ sở hữu.
@@ -134,7 +153,7 @@ FPT hoạt động dịch vụ công nghệ, không đòi hỏi nhà xưởng l�
     
     ROCE của FPT ở mức cao (28,57%), phản ánh hiệu quả sử dụng vốn rất tốt. Do nợ dài hạn thấp, khoảng cách giữa ROCE và ROE không đáng kể. FPT tăng trưởng bằng năng lực vận hành thực tế, không lạm dụng nợ vay.
 
-Qua đối chiếu hai cổ phiếu, bạn rút ra bài học thực chiến quan trọng. So sánh ROCE giữa các ngành khác nhau là vô lý. Doanh nghiệp thép như HPG không thể có ROCE cao bằng doanh nghiệp công nghệ như FPT. Bạn chỉ nên dùng chỉ số này để so sánh các doanh nghiệp cùng ngành hoặc so sánh với chính nó qua các năm.
+Qua đối chiếu hai cổ phiếu, bạn rút ra bài học thực chiến quan trọng. So sánh ROCE giữa các ngành khác nhau là không phù hợp. Doanh nghiệp thép như HPG không thể có ROCE cao bằng doanh nghiệp công nghệ như FPT. Bạn chỉ nên dùng chỉ số này để so sánh các doanh nghiệp cùng ngành hoặc so sánh với chính nó qua các năm.
 
 ## Khắc phục rào cản phân tích tài chính cùng HVS Tài chính số
 
@@ -148,7 +167,7 @@ Chương trình đào tạo **HVS Thực tập số** (nằm trong nền tảng 
 3.  **Thực hành không rủi ro:** Bạn áp dụng ngay kiến thức định giá và lọc cổ phiếu có ROCE cao để xây dựng và quản trị danh mục đầu tư mô phỏng trên nền tảng **HVS Demo**, giúp rèn luyện tâm lý giao dịch trước khi tham gia thị trường thật.
 4.  **Tương tác cộng đồng:** Học viên thảo luận, giải đáp các thắc mắc về phân tích tài chính doanh nghiệp cùng cộng đồng chuyên gia và bạn học trên diễn đàn **HVS Forum**.
 
-## Kết luận
+## Kết luận: Làm chủ ROCE để tránh bẫy đòn bẩy tài chính
 
 ROCE là thước đo hiệu quả sử dụng vốn dài hạn khách quan, giúp bạn nhìn thấu bức tranh tài chính thực chất của doanh nghiệp. Làm chủ chỉ số này giúp bạn không rơi vào bẫy ROE ảo tạo ra từ đòn bẩy tài chính nợ vay quá mức, từ đó bảo vệ nguồn vốn đầu tư cá nhân trên thị trường chứng khoán.
 

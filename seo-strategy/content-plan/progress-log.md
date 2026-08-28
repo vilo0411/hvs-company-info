@@ -1,8 +1,8 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 292 bài
-- **Active Pipeline:** 1 items
+- **Published:** 321 bài
+- **Active Pipeline:** 16 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
@@ -11,7 +11,10 @@
 
 | Keyword | Persona | Mode | Status |
 | :--- | :--- | :--- | :--- |
-| ROCE là gì | Sơn Sinh Viên | Guided | Draft |
+| chi phí cố định | Lan Newbie / Nhà đầu tư F0 | Fast | Draft |
+| Đầu tư chứng khoán cần bao nhiêu tiền | F0 | Express | Outline-Pending |
+| full margin là gì | F0 / F1 | Express | Outline-Pending |
+| Sàn OTC là gì | Lan Newbie / Nhà đầu tư F0 | Express | Outline-Pending |
 
 ---
 
@@ -19,6 +22,35 @@
 
 | Date | Keyword | Persona | Mode | File Path |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-08-28 | So sánh kênh đầu tư vàng và đầu tư chứng khoán | F0 | Express | `content/blog/3-finalized/Final-so-sanh-dau-tu-vang-va-chung-khoan.md` |
+| 2026-08-28 | ứng trước tiền bán chứng khoán là gì | F0 | Express | `content/blog/3-finalized/Final-ung-truoc-tien-ban-chung-khoan-la-gi.md` |
+| 2026-08-28 | sec là gì | F0 | Express | `content/blog/3-finalized/Final-sec-la-gi.md` |
+| 2026-08-28 | nyse là gì | F0 | Express | `content/blog/3-finalized/Final-nyse-la-gi.md` |
+| 2026-08-28 | giao dịch chứng khoán là gì | F0 | Express | `content/blog/3-finalized/Final-giao-dich-chung-khoan-la-gi.md` |
+| 2026-08-28 | Trading là gì | Lan Newbie / F0 | Express | `content/blog/3-finalized/Final-trading-la-gi.md` |
+| 2026-08-28 | diễn đàn chứng khoán | F0 / F1 | Express | `content/blog/3-finalized/Final-dien-dan-chung-khoan.md` |
+| 2026-08-27 | kinh nghiệm chơi chứng khoán | F0 / F1 | Express | `content/blog/3-finalized/Final-kinh-nghiem-choi-chung-khoan.md` |
+| 2026-08-27 | chơi chứng khoán có giàu không | F0 | Express | `content/blog/3-finalized/Final-choi-chung-khoan-co-giau-khong.md` |
+| 2026-08-26 | Dòng tiền trong chứng khoán | F0 / F1 | Express | `content/blog/3-finalized/Final-dong-tien-trong-chung-khoan.md` |
+| 2026-08-26 | nav là gì | F0 / F1 | Express | `content/blog/3-finalized/Final-nav-la-gi.md` |
+| 2026-08-26 | môi giới chứng khoán là gì | F0 | Express | `content/blog/3-finalized/Final-moi-gioi-chung-khoan-la-gi.md` |
+| 2026-08-26 | sàn giao dịch chứng khoán là gì | F0 | Express | `content/blog/3-finalized/Final-san-giao-dich-chung-khoan-la-gi.md` |
+| 2026-08-26 | tỷ suất cổ tức là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-ty-suat-co-tuc-la-gi.md` |
+| 2026-08-26 | quản lý danh mục đầu tư chứng khoán | F1+ | Express | `content/blog/3-finalized/Final-quan-ly-danh-muc-dau-tu-chung-khoan.md` |
+| 2026-08-26 | đòn bẩy tài chính trong đầu tư chứng khoán | F1+ | Express | `content/blog/3-finalized/Final-don-bay-tai-chinh-trong-dau-tu-chung-khoan.md` |
+| 2026-08-26 | dca là gì | F0 / F1 | Express | `content/blog/3-finalized/Final-dca-la-gi.md` |
+| 2026-08-26 | Có nên đầu tư chứng khoán không | F0 / Sinh viên | Express | `content/blog/3-finalized/Final-co-nen-dau-tu-chung-khoan-khong.md` |
+| 2026-08-26 | Cắt lỗ là gì | F0 / F1 | Express | `content/blog/3-finalized/Final-cat-lo-la-gi.md` |
+| 2026-08-26 | các thuật ngữ chứng khoán | F0 | Express | `content/blog/3-finalized/Final-cac-thuat-ngu-chung-khoan.md` |
+| 2026-08-26 | các màu trong chứng khoán | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-cac-mau-trong-chung-khoan.md` |
+| 2026-08-25 | chu kỳ cổ phiếu | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chu-ky-co-phieu.md` |
+| 2026-08-25 | chu kỳ có nghĩa là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chu-ky-co-nghia-la-gi.md` |
+| 2026-08-25 | chiến lược thị trường là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-chien-luoc-thi-truong-la-gi.md` |
+| 2026-08-25 | ROCE là gì | HVS Senior Mentor | Guided | `content/blog/3-finalized/Final-roce-la-gi.md` |
+| 2026-08-12 | PMI là gì | Lan Newbie / Nhà đầu tư F0 | Optimized | `content/blog/3-finalized/Final-pmi-la-gi.md` |
+| 2026-08-12 | tăng trưởng tín dụng là gì | Nhà đầu tư F0 / Chuyên viên | Optimized | `content/blog/3-finalized/Final-tang-truong-tin-dung-la-gi.md` |
+| 2026-08-12 | tỷ giá là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-ty-gia-la-gi.md` |
+| 2026-08-12 | tỷ lệ thất nghiệp là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-ty-le-that-nghiep-la-gi.md` |
 | 2026-08-07 | chính sách tài khóa là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-chinh-sach-tai-khoa-la-gi.md` |
 | 2026-08-07 | đầu tư công là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-dau-tu-cong-la-gi.md` |
 | 2026-08-07 | chính sách công là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-chinh-sach-cong-la-gi.md` |
@@ -43,7 +75,6 @@
 | 2026-08-05 | Tín dụng doanh nghiệp là gì | F0 | Express | `content/blog/3-finalized/Final-tin-dung-doanh-nghiep-la-gi.md` |
 | 2026-08-05 | Số ngày phải trả chưa thanh toán | F0 | Express | `content/blog/3-finalized/Final-so-ngay-phai-tra-chua-thanh-toan.md` |
 | 2026-08-05 | Thời gian thu hồi tiền hàng tồn đọng | F0 | Express | `content/blog/3-finalized/Final-thoi-gian-thu-hoi-tien-hang-ton-dong.md` |
-
 | 2026-08-04 | tín phiếu là gì | Lan Newbie | Optimized | `content/blog/3-finalized/Final-tin-phieu-la-gi.md` |
 | 2026-08-04 | Phân tích báo cáo tài chính Công ty Kinh Đô | Sơn Sinh Viên | Guided | `content/blog/3-finalized/Final-phan-tich-bao-cao-tai-chinh-cong-ty-kinh-do.md` |
 | 2026-08-04 | Phân tích báo cáo tài chính FPT | Sơn Sinh Viên | Guided | `content/blog/3-finalized/Final-phan-tich-bao-cao-tai-chinh-fpt.md` |
@@ -262,7 +293,6 @@
 | 2026-05-14 | upcom là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-upcom-la-gi.md` |
 
 | 2026-05-14 | vốn hóa thị trường là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-von-hoa-thi-truong-la-gi.md` |
-
 | 2026-05-14 | phân tích cơ bản là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-phan-tich-co-ban-la-gi.md` |
 | 2026-05-14 | p/e là gì | Lan Newbie | Express | `content/blog/3-finalized/Final-p-e-la-gi.md` |
 | 2026-05-14 | nên mở tài khoản chứng khoán ở đâu | Lan Newbie | Express | `content/blog/3-finalized/Final-nen-mo-tai-khoan-chung-khoan-o-dau.md` |

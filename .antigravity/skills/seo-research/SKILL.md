@@ -22,6 +22,7 @@ Mọi kết quả trả về phải tuân thủ cấu trúc sau để Main Agent
 ```json
 {
   "keyword": "từ khóa mục tiêu",
+  "word_count_target": 2000,
   "intent": {
     "primary": "Informational/Commercial/...",
     "secondary": ["intent 1", "intent 2"],
@@ -49,6 +50,12 @@ Mọi kết quả trả về phải tuân thủ cấu trúc sau để Main Agent
   ]
 }
 ```
+
+*Lưu ý xác định `word_count_target`:* Phải phân tích độ dài bài viết của top 5 đối thủ trên SERP để đưa ra con số cạnh tranh nhất. Định hướng phân loại: 
+- Chuỗi giá trị ngành sâu (Deep Industry Value Chain): 1.800 – 2.500 từ (Mục tiêu: 2.000 từ).
+- Hướng dẫn tỷ số tài chính (Financial Ratio Guides): 1.200 – 1.500 từ (Mục tiêu: 1.400 từ).
+- Khái niệm chiến lược / chu kỳ (Strategic & Market Concepts): 1.200 từ.
+- Định nghĩa thuật ngữ cơ bản (Basic Term Definitions): 1.100 – 1.200 từ (Mục tiêu: 1.200 từ để đảm bảo độ sâu chi tiết, Sapo dài 80-100 từ, HVS Bridge dài 250-300 từ, và Kết luận dài 150-200 từ).
 
 ---
 

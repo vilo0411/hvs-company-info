@@ -22,10 +22,12 @@ Google không index trang web nếu nội dung đó là một bản dịch hoặ
 ### 1. Phân tích Hiện trạng & Nghiên cứu SERP (Phase 1 — Audit & SERP Research)
 - **Hành động:** 
   - Đọc trường `Target_Keyword` trong YAML của bài viết hiện tại.
+  - **Bảo toàn hình ảnh (Image Audit):** Lập danh sách toàn bộ ảnh (`![alt](url)` hoặc `[![alt](img_url)](target_url)`) từ bài gốc. Nghiêm cấm xóa ảnh khi viết lại; chuẩn bị vị trí tái phân bổ và tối ưu hóa Alt-text/Caption chuẩn SEO.
   - Sử dụng `search_web` hoặc gọi `SEO Collector` để tìm kiếm thông tin Top 10 đối thủ đang hiển thị trên SERP cho từ khóa đó.
   - Trích xuất: Cấu trúc heading, các ý chính đối thủ khai thác, và xác định lỗ hổng nội dung (Content Gaps).
   - Đối soát bài viết hiện tại với `.antigravity/rules/anti-ai-digest.md` để liệt kê các từ cấm ("hành trình", "mở khóa tiềm năng", ngoặc kép nhấn mạnh...).
 - **Đầu ra:** Bản đánh giá hiện trạng gồm:
+  - Danh sách ảnh gốc cần bảo toàn.
   - Phân tích SERP đối thủ và các lỗ hổng nội dung được tìm thấy.
   - Danh sách lỗi AI-vibe hiện có trong bài viết cần tối ưu.
   - Đánh giá độ nông sâu: Xác định các đoạn lý thuyết chung chung thiếu số liệu hoặc thiếu ví dụ thực tế.
@@ -34,17 +36,20 @@ Google không index trang web nếu nội dung đó là một bản dịch hoặ
 - **Hành động:** 
   - Thiết kế **Section Độc quyền (Unique Value Block)**: Dựa trên lỗ hổng nội dung đối thủ, bổ sung 1 Case Study thực tế, kịch bản giao dịch (Nếu [Biến số A] -> [Kịch bản 1]...), hoặc 1 bảng phân tích dữ liệu thực tế tại thị trường Việt Nam mà đối thủ bỏ sót.
 
-### 3. Thực thi Nâng cấp (Phase 3 — Rewrite & Polish)
+### 3. Thực thi Nâng cấp & Bố trí Hình ảnh (Phase 3 — Rewrite & Polish)
 - **Hành động:** Main Agent thực hiện sửa đổi và viết lại bài viết:
+  - **Giữ trọn vẹn và tối ưu hình ảnh gốc:** Tái phân bổ ảnh vào đúng section phù hợp, bổ sung Alt-text và Caption chất lượng cao (chứa thực thể/từ khóa ngữ cảnh, không AI-vibe).
   - Loại bỏ hoàn toàn các lỗi AI-vibe, câu bị động, danh từ hóa ("việc thực hiện", "sự phát triển").
   - Đan xen nhịp điệu câu linh hoạt (xen kẽ câu ngắn ≤7 từ).
   - Lồng ghép tinh tế giải pháp sản phẩm HVS theo đúng phân tầng: **HVS Tài chính số** (chương trình **HVS Thực tập số**) làm trọng tâm chính giải quyết nỗi đau của nhà đầu tư; **HVS Demo** và **HVS Forum** đóng vai trò bổ trợ đắc lực.
   - Đảm bảo YAML metadata chính xác, đúng định dạng và có đầy đủ các thông tin SEO (Title, Meta Description, Target Keyword).
 
-### 4. Thiết lập Liên kết nội bộ 2 chiều (Phase 4 — Bi-directional Linking)
+### 4. Thiết lập Liên kết nội bộ chuẩn Sitemap (Phase 4 — Sitemap-verified Linking)
 - **Hành động:**
+  - **Nguồn chân lý URL:** Sử dụng `fetch_sitemap.py` (`python .antigravity/scripts/fetch_sitemap.py --suggest "[keyword]"`) tra cứu URL thực tế từ `https://taichinhso.hvsvn.com/sitemap.xml`.
   - **Outbound Links:** Đề xuất chèn 2-4 internal links từ bài đang tối ưu đến bài Pillar và các bài cluster khác đã published (sử dụng anchor text tự nhiên/partial match).
-  - **Inbound Links (Backfill):** Quét các bài viết cùng cluster đã published để tìm đoạn phù hợp chèn link trỏ ngược lại bài viết vừa tối ưu này, đảm bảo bài viết mới có ít nhất 2 liên kết trỏ tới từ các trang chất lượng khác.
+  - **Inbound Links (Backfill):** Quét các bài viết cùng cluster đã published trên sitemap để tìm đoạn phù hợp chèn link trỏ ngược lại bài viết vừa tối ưu này.
+  - **Validation:** Bắt buộc chạy `python .antigravity/scripts/fetch_sitemap.py --validate [filepath]` để xác nhận 100% link chuẩn xác.
 
 ### 5. Kiểm định Chất lượng & Báo cáo (Phase 5 — QA & Audit Table)
 - **Hành động:** 
@@ -55,9 +60,10 @@ Google không index trang web nếu nội dung đó là một bản dịch hoặ
 | Tiêu chuẩn Index | Hiện trạng trước tối ưu | Cải tiến sau tối ưu | Kết quả QA |
 | :--- | :--- | :--- | :--- |
 | **SERP & Information Gain** | Lý thuyết chung, thiếu ví dụ cụ thể | Phân tích lỗ hổng SERP; Bổ sung Case Study thực tế [Tên case] | `PASSED` |
+| **Image Retention & UX** | [Số lượng ảnh gốc] | Giữ nguyên 100% ảnh gốc, tối ưu Alt-text & Caption chuẩn SEO | `PASSED` |
 | **Anti-AI Rules** | Có từ cấm "..."; lạm dụng ngoặc kép | Loại bỏ 100% từ cấm; sửa câu bị động | `PASSED` |
-| **Internal Linking** | Không có liên kết nội bộ | Outbound: [X] link; Inbound (Backfill): [Y] bài | `PASSED` |
+| **Internal Linking (Sitemap)** | Không có liên kết nội bộ / sai URL | Outbound: [X] link (100% Khớp Sitemap); Inbound (Backfill): [Y] bài | `PASSED` |
 | **UX & Formatting** | Đoạn văn quá dài, thiếu bảng biểu | Chia nhỏ đoạn văn; thêm bảng so sánh | `PASSED` |
 
 ---
-*Lệnh kích hoạt: `/optimize [đường dẫn tệp]*
+*Lệnh kích hoạt: `/optimize [đường dẫn tệp]`*

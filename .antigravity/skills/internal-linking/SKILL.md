@@ -28,12 +28,12 @@ Mỗi bài viết mới khi publish phải tạo thành một "bánh xe":
 
 ## Nguồn dữ liệu (theo thứ tự ưu tiên)
 
-1. **`seo-strategy/content-plan/topic-clusters.md`** — Xác định cluster, pillar, và toàn bộ bài Published trong cùng nhóm.
-2. **`seo-strategy/content-plan/anchor-index.md`** — Tra Exact/Partial anchor text được duyệt cho từng bài đích.
-3. **`seo-strategy/content-plan/internal-link-dashboard.md`** — Kiểm tra mật độ link hiện tại (tránh Over-opt).
-4. **Sitemap cache** (`.antigravity/scripts/sitemap-cache.json`) — Tra full URL chính xác theo slug. Tự động refresh mỗi 24h.
+1. **Sitemap Live (`https://taichinhso.hvsvn.com/sitemap.xml`) / Sitemap Cache (`.antigravity/scripts/sitemap-cache.json`)** — **Nguồn chân lý duy nhất (Single Source of Truth)** cho toàn bộ URL đích. Đảm bảo mọi URL được gắn đều đang live 100% trên website.
+2. **`seo-strategy/content-plan/topic-clusters.md`** — Xác định cluster, pillar, và toàn bộ bài Published trong cùng nhóm.
+3. **`seo-strategy/content-plan/anchor-index.md`** — Tra Exact/Partial anchor text được duyệt cho từng bài đích.
+4. **`seo-strategy/content-plan/internal-link-dashboard.md`** — Kiểm tra mật độ link hiện tại (tránh Over-opt).
 
-> ⚠️ **Không được tự đoán URL.** Site có nhiều path khác nhau (`/kinh-te-vi-mo/chinh-sach-tai-khoa/`, `/dau-tu/danh-cho-nguoi-moi-bat-dau/`, v.v.). Phải tra sitemap để lấy URL đúng.
+> ⚠️ **TUYỆT ĐỐI KHÔNG TỰ ĐOÁN URL.** Site có nhiều path khác nhau (`/kinh-te-vi-mo/chinh-sach-tai-khoa/`, `/dau-tu/danh-cho-nguoi-moi-bat-dau/`, `/kinh-te-vi-mo/chinh-sach-tien-te/`, v.v.). Bắt buộc phải tra sitemap hoặc dùng công cụ tìm kiếm link để lấy URL chuẩn xác.
 
 ---
 
@@ -46,7 +46,7 @@ Mỗi bài viết mới khi publish phải tạo thành một "bánh xe":
 - **Pillar** của cluster đó (và file Final tương ứng)
 - **Danh sách bài Published (✅)** trong cùng cluster (loại bỏ bài hiện tại)
 
-### Bước 2 — Chọn target links
+### Bước 2 — Chọn target links & Gợi ý từ Sitemap
 
 | Loại link | Số lượng | Ưu tiên chọn |
 | :--- | :--- | :--- |
@@ -63,44 +63,54 @@ Với mỗi bài đích đã chọn, tra `anchor-index.md`:
 - Dùng Exact Match nếu không tìm được Partial Match tự nhiên
 - Kiểm tra Dashboard: bài đích đang `⚠️ Over-opt` → chỉ dùng Partial Match
 
-### Bước 4 — Tra URL từ Sitemap Cache
+### Bước 4 — Tra cứu & Gợi ý URL từ Sitemap (`fetch_sitemap.py`)
 
-**BẮT BUỘC** tra URL chính xác từ sitemap trước khi gắn link:
+**BẮT BUỘC** tra cứu URL chính xác từ sitemap trước khi gắn link. Dùng các lệnh sau:
 
 ```powershell
-# Tra 1 slug cụ thể
-python .antigravity/scripts/fetch_sitemap.py --slug [slug-bai-dich]
+# 1. Gợi ý link theo từ khóa hoặc chủ đề:
+python .antigravity/scripts/fetch_sitemap.py --suggest "dxy"
+python .antigravity/scripts/fetch_sitemap.py --search "chứng khoán phái sinh"
 
-# Refresh cache nếu vừa publish bài mới
+# 2. Tra cứu URL chính xác theo 1 slug cụ thể:
+python .antigravity/scripts/fetch_sitemap.py --slug chung-khoan-phai-sinh-la-gi
+
+# 3. Refresh cache sitemap từ live site (tự động tải https://taichinhso.hvsvn.com/sitemap.xml):
 python .antigravity/scripts/fetch_sitemap.py --refresh
 ```
 
-Ví dụ tra URL:
+Ví dụ tra cứu:
 ```
 # Input:
-python .antigravity/scripts/fetch_sitemap.py --slug chung-khoan-phai-sinh-la-gi
+python .antigravity/scripts/fetch_sitemap.py --slug chi-so-dxy-la-gi
 
 # Output:
-Slug: chung-khoan-phai-sinh-la-gi
-URL:  https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-phai-sinh-la-gi
+Slug: chi-so-dxy-la-gi
+URL:  https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-dxy-la-gi
 ```
 
-Sau khi có URL, mới thực hiện gắn link contextual. Nếu slug **KHÔNG TÌM THẤY** trong sitemap → bài chưa publish → **không được gắn link** (ghi chú lại cho backfill sau khi publish).
-
-Không chỉ tìm từ có sẵn. Nếu cần, chủ động **đề xuất sửa/thêm câu mới** để lồng anchor tự nhiên.
+Sau khi có URL, mới thực hiện gắn link contextual. Nếu slug hoặc từ khóa **KHÔNG TÌM THẤY** trong sitemap → bài chưa publish → **tuyệt đối không được gắn link markdown**, chỉ giữ dạng text thuần và ghi chú lại cho backfill sau khi publish.
 
 ### Bước 5 — Kiểm tra Ratio & Xung đột
 
 - Nếu bài đích đang `⚠️ Over-opt`: không dùng Exact Match.
 - **Pruning rule:** Nếu keyword của bài MỚI trùng với Partial Match đang dùng ở bài cũ → đề xuất xóa Partial Match đó ở bài cũ (để tránh keyword cannibalization).
 
-### Bước 6 — Trình bày kết quả
+### Bước 6 — Kiểm tra Hợp lệ Tự động (Validation)
+
+Chạy script validate để đảm bảo 100% internal links trong bài viết đều tồn tại trên sitemap:
+
+```powershell
+python .antigravity/scripts/fetch_sitemap.py --validate content/blog/2-user-review/Draft-[slug].md
+```
+
+### Bước 7 — Trình bày kết quả
 
 ```
 🔗 LINK WHEEL — BÀI: [Tên bài]
 📍 CLUSTER: [Tên cluster] | PILLAR: [Tên pillar]
 
-📝 ĐỀ XUẤT LINK:
+📝 ĐỀ XUẤT LINK (ĐÃ XÁC THỰC SITEMAP):
 
 1. [Pillar] → [Bài đích] ([Loại: Exact/Partial])
    - Đoạn gốc: "..."
@@ -122,15 +132,11 @@ Khi chạy `--backfill [slug]`:
 
 ---
 
-## Ràng buộc
+## Ràng buộc Bất biến
 
 - Mỗi bài đích chỉ xuất hiện **đúng 1 lần** trong toàn bài.
-- Đường dẫn link dùng **URL tuyệt đối** lấy từ sitemap cache — **không tự đoán path**. Các path thực tế:
-  - `/kinh-te-vi-mo/chinh-sach-tai-khoa/[slug]`
-  - `/kinh-te-vi-mo/chinh-sach-tien-te/[slug]`
-  - `/kinh-te-vi-mo/chi-tieu-kinh-te/[slug]`
-  - `/dau-tu/danh-cho-nguoi-moi-bat-dau/[slug]`
-  - (và các path khác — luôn tra `sitemap-cache.json` để xác nhận)
+- Đường dẫn link dùng **URL tuyệt đối** lấy từ sitemap — **không tự đoán path**.
+- **Tuyệt đối cấm** sử dụng link dạng `file://`, đường dẫn tương đối, hoặc `Final-*.md`.
 - Chỉ link đến URL **có trong sitemap** (bài đã publish). Bài chưa có trong sitemap → bỏ qua, ghi chú backfill.
 - Không chiếm anchor text là keyword của bài Planned trong `topic-clusters.md`.
 - Tổng số internal link trong 1 bài: **3-6 link** (dưới 3 là thiếu, trên 6 là spam).

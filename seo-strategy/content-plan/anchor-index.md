@@ -86,4 +86,6 @@
 | [Final-chinh-sach-cong-la-gi.md](content/blog/3-finalized/Final-chinh-sach-cong-la-gi.md) | chính sách công là gì | chính sách công, vai trò chính sách công, đặc điểm chính sách công, phân loại chính sách công, kịch bản chính sách vĩ mô |
 | [Final-dau-tu-cong-la-gi.md](content/blog/3-finalized/Final-dau-tu-cong-la-gi.md) | đầu tư công là gì | đầu tư công, giải ngân đầu tư công, nguồn vốn đầu tư công, vai trò đầu tư công, tác động đầu tư công |
 | [Final-chinh-sach-tai-khoa-la-gi.md](content/blog/3-finalized/Final-chinh-sach-tai-khoa-la-gi.md) | chính sách tài khóa là gì | chính sách tài khóa, chính sách tài khóa mở rộng, chính sách tài khóa thắt chặt, công cụ tài khóa |
+| [Final-ty-le-that-nghiep-la-gi.md](content/blog/3-finalized/Final-ty-le-that-nghiep-la-gi.md) | tỷ lệ thất nghiệp là gì | tỷ lệ thất nghiệp, thất nghiệp chu kỳ, thất nghiệp cơ cấu, thất nghiệp tự nhiên, thị trường lao động |
+| [Final-ty-gia-la-gi.md](content/blog/3-finalized/Final-ty-gia-la-gi.md) | tỷ giá là gì | tỷ giá hối đoái là gì, tỷ giá trung tâm, biến động tỷ giá, điều hành tỷ giá, tỷ giá usd vnd |
 

@@ -1,67 +1,66 @@
 # Internal Linking Dashboard
-> Tự động cập nhật bởi `link_audit.py` | 2026-08-07 11:29
+> Tự động cập nhật bởi `link_audit.py` | 2026-08-25 11:08
 > Dựa trên quy tắc tại `anchor-index.md` (Exact / Partial / Title)
 
 | Bài viết (File) | Out | In | Phân bổ In-links (E/P/T) | Tình trạng |
 | :--- | :---: | :---: | :--- | :--- |
 | `Final-ban-giai-chap-co-phieu-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-bang-can-doi-ke-toan-nguon-von.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-bao-cao-luu-chuyen-tien-te-la-gi.md` | 1 | 5 | 100%/0%/0% | ⚠️ Over-opt |
-| `Final-bay-thanh-khoan.md` | 3 | 0 | 0/0/0 | ⭕ New |
+| `Final-bao-cao-luu-chuyen-tien-te-la-gi.md` | 0 | 5 | 100%/0%/0% | ⚠️ Over-opt |
+| `Final-bay-thanh-khoan.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-bien-loi-nhuan-gop-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-bien-loi-nhuan-rong.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-bond-yield-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-bong-bong-dotcom-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-bong-bong-dotcom-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-breakout-trong-chung-khoan-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-brexit-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-brexit-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-cac-chi-so-chung-khoan-viet-nam-huong-dan-tu-a-z-cho-f0.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-cac-chi-so-chung-khoan-viet-nam.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
+| `Final-cac-chi-so-chung-khoan-viet-nam.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-cac-loai-tai-khoan-chung-khoan.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-choi-chung-khoan-tren-dien-thoai.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-chon-co-phieu-tot.md` | 1 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-cach-dau-tu-chung-chi-quy.md` | 0 | 2 | 50%/50%/0% | ⚠️ Over-opt |
-| `Final-cach-dau-tu-chung-khoan-phai-sinh.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-cach-dau-tu-chung-khoan.md` | 1 | 8 | 62%/25%/12% | ⚠️ Over-opt |
+| `Final-cach-choi-chung-khoan-tren-dien-thoai.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-chon-co-phieu-tot.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-dau-tu-chung-chi-quy.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-dau-tu-chung-khoan.md` | 0 | 2 | 50%/50%/0% | ⚠️ Over-opt |
 | `Final-cach-mo-tai-khoan-chung-khoan.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-mua-co-phieu-acb.md` | 1 | 1 | 100%/0%/0% | ⚠️ Over-opt |
-| `Final-cach-mua-co-phieu-bcm.md` | 2 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-acb.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-bcm.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-cach-mua-co-phieu-bid.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-mua-co-phieu-bvh.md` | 2 | 1 | 0%/100%/0% | 🔍 Needs more |
-| `Final-cach-mua-co-phieu-ctg.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-mua-co-phieu-flc.md` | 2 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-bvh.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-ctg.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-flc.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-cach-mua-co-phieu-fpt.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-cach-mua-co-phieu-gas.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-mua-co-phieu-gvr.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-mua-co-phieu-hdb.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-gas.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-gvr.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-hdb.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-cach-mua-co-phieu-hoa-phat.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-mua-co-phieu-ipo.md` | 3 | 1 | 100%/0%/0% | ⚠️ Over-opt |
+| `Final-cach-mua-co-phieu-ipo.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-cach-mua-co-phieu-mb-bank.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-cach-mua-co-phieu-msn.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-mua-co-phieu-mwg.md` | 2 | 2 | 100%/0%/0% | ⚠️ Over-opt |
-| `Final-cach-mua-co-phieu-nvl.md` | 2 | 1 | 0%/100%/0% | 🔍 Needs more |
-| `Final-cach-mua-co-phieu-pdr.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-mua-co-phieu-pow.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-mua-co-phieu-pvd.md` | 2 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-mwg.md` | 0 | 1 | 100%/0%/0% | ⚠️ Over-opt |
+| `Final-cach-mua-co-phieu-nvl.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-pdr.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-pow.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-pvd.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-cach-mua-co-phieu-sab.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-mua-co-phieu-shb.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-cach-mua-co-phieu-ssi.md` | 3 | 1 | 100%/0%/0% | ⚠️ Over-opt |
-| `Final-cach-mua-co-phieu-stb.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-cach-mua-co-phieu-techcombank.md` | 0 | 2 | 0%/50%/50% | 🔍 Needs more |
+| `Final-cach-mua-co-phieu-shb.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-ssi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-stb.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-techcombank.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-cach-mua-co-phieu-tpb.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-mua-co-phieu-tren-san-hose.md` | 2 | 5 | 60%/40%/0% | ⚠️ Over-opt |
+| `Final-cach-mua-co-phieu-tren-san-hose.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-cach-mua-co-phieu-vcb.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-cach-mua-co-phieu-vfs.md` | 0 | 1 | 100%/0%/0% | ⚠️ Over-opt |
-| `Final-cach-mua-co-phieu-vhm.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-cach-mua-co-phieu-vib.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
+| `Final-cach-mua-co-phieu-vhm.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-vib.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-cach-mua-co-phieu-vinamilk.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-cach-mua-co-phieu-vingroup.md` | 2 | 2 | 100%/0%/0% | ⚠️ Over-opt |
-| `Final-cach-mua-co-phieu-vjc.md` | 1 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-cach-mua-co-phieu-vre.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-vingroup.md` | 0 | 2 | 100%/0%/0% | ⚠️ Over-opt |
+| `Final-cach-mua-co-phieu-vjc.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-cach-mua-co-phieu-vre.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-cach-mua-co-phieu.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-call-margin-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-canh-tranh-hoan-hao-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-capex-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-casa-trong-nganh-ngan-hang-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-casa-trong-nganh-ngan-hang-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-ce-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-chay-tai-khoan-chung-khoan-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-chi-bao-bollinger-bands-width.md` | 0 | 0 | 0/0/0 | ⭕ New |
@@ -70,124 +69,126 @@
 | `Final-chi-phi-co-hoi-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-chi-so-chung-khoan-chau-a.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-chi-so-chung-khoan-the-gioi.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-chi-so-dax-la-gi.md` | 0 | 4 | 0%/0%/100% | ✅ Healthy |
+| `Final-chi-so-dax-la-gi.md` | 0 | 3 | 0%/0%/100% | ✅ Healthy |
 | `Final-chi-so-dow-jones.md` | 3 | 0 | 0/0/0 | ⭕ New |
 | `Final-chi-so-dxy-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-chi-so-eps-la-gi.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-chi-so-hang-seng-la-gi.md` | 2 | 2 | 0%/0%/100% | 🔍 Needs more |
-| `Final-chi-so-msci-la-gi.md` | 2 | 0 | 0/0/0 | ⭕ New |
+| `Final-chi-so-hang-seng-la-gi.md` | 0 | 2 | 0%/0%/100% | 🔍 Needs more |
+| `Final-chi-so-msci-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-chi-so-nasdaq-la-gi.md` | 5 | 0 | 0/0/0 | ⭕ New |
 | `Final-chi-so-nikkei-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
 | `Final-chi-so-roe-la-gi.md` | 1 | 4 | 25%/0%/75% | ⚠️ Over-opt |
-| `Final-chi-so-vn-index-la-gi.md` | 0 | 4 | 0%/0%/100% | ✅ Healthy |
+| `Final-chi-so-vn-index-la-gi.md` | 0 | 2 | 0%/0%/100% | 🔍 Needs more |
 | `Final-chi-so-vn30-index-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-chia-tach-co-phieu-la-gi.md` | 2 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-chien-luoc-dau-tu-chung-khoan.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-chinh-sach-cong-la-gi.md` | 12 | 0 | 0/0/0 | ⭕ New |
-| `Final-chinh-sach-tai-khoa-la-gi.md` | 12 | 7 | 0%/100%/0% | ✅ Healthy |
-| `Final-chinh-sach-tien-te-la-gi.md` | 5 | 14 | 14%/0%/86% | ✅ Healthy |
-| `Final-chu-ky-kinh-te-la-gi.md` | 3 | 0 | 0/0/0 | ⭕ New |
+| `Final-chia-tach-co-phieu-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-chien-luoc-dau-tu-chung-khoan.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-chien-luoc-thi-truong-la-gi.md` | 2 | 0 | 0/0/0 | ⭕ New |
+| `Final-chinh-sach-cong-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-chinh-sach-tai-khoa-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-chinh-sach-tien-te-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-chu-ky-kinh-te-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-chung-chi-cfa.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-chung-chi-cmt.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-chung-chi-cmt.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-chung-chi-cpa.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-chung-chi-hanh-nghe-chung-khoan.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-chung-chi-quy-la-gi.md` | 0 | 5 | 40%/0%/60% | ⚠️ Over-opt |
-| `Final-chung-chi-quy-tot-nhat-hien-nay.md` | 2 | 0 | 0/0/0 | ⭕ New |
+| `Final-chung-chi-quy-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-chung-chi-quy-tot-nhat-hien-nay.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-chung-chi-tai-chinh.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-chung-khoan-co-so-va-chung-khoan-phai-sinh.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-chung-khoan-la-gi.md` | 2 | 23 | 17%/65%/17% | ⚠️ Over-opt |
-| `Final-chung-khoan-phai-sinh-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-chung-khoan-co-so-va-chung-khoan-phai-sinh.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-chung-khoan-la-gi.md` | 0 | 1 | 0%/100%/0% | 🔍 Needs more |
+| `Final-chung-khoan-phai-sinh-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-co-nen-dau-tu-trai-phieu.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-acb.md` | 3 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-acv.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-bid.md` | 2 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-co-nen-mua-co-phieu-dbc.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-dig.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-acb.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-acv.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-bid.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-dbc.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-dig.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-co-nen-mua-co-phieu-frt.md` | 3 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-gas.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-hag.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-gas.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-hag.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-co-nen-mua-co-phieu-hpg.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-hvn.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-idj.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-lpb.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-msb.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-mwg.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-pet.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-plx.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-pnj.md` | 1 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-co-nen-mua-co-phieu-pow.md` | 1 | 14 | 0%/0%/100% | ✅ Healthy |
-| `Final-co-nen-mua-co-phieu-ree.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-sbt.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-scr.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-ssi.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-stb.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-tar.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-tcb.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-ttf.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-vcb.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-vib.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-vjc.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-nen-mua-co-phieu-vpb.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-bat-dong-san.md` | 1 | 2 | 0%/0%/100% | 🔍 Needs more |
-| `Final-co-phieu-bi-huy-niem-yet.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-blue-chip-la-gi.md` | 3 | 3 | 0%/33%/67% | ✅ Healthy |
-| `Final-co-phieu-cang-bien.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-dau-co.md` | 2 | 8 | 0%/0%/100% | ✅ Healthy |
-| `Final-co-phieu-dau-khi.md` | 2 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-co-phieu-dau-tu-cong.md` | 5 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-dien-luc.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-esop-la-gi.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-co-phieu-hang-khong.md` | 2 | 2 | 0%/0%/100% | 🔍 Needs more |
-| `Final-co-phieu-la-gi.md` | 3 | 8 | 88%/0%/12% | ⚠️ Over-opt |
-| `Final-co-phieu-lo-le-la-gi.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-ngan-hang.md` | 2 | 7 | 0%/0%/100% | ✅ Healthy |
-| `Final-co-phieu-nganh-ban-le.md` | 2 | 3 | 0%/0%/100% | ✅ Healthy |
+| `Final-co-nen-mua-co-phieu-hvn.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-idj.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-lpb.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-msb.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-mwg.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-pet.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-plx.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-pnj.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
+| `Final-co-nen-mua-co-phieu-pow.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
+| `Final-co-nen-mua-co-phieu-ree.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-sbt.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-scr.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-ssi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-stb.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-tar.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-tcb.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-ttf.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-vcb.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-vib.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-vjc.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-nen-mua-co-phieu-vpb.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-bat-dong-san.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-bi-huy-niem-yet.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-blue-chip-la-gi.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
+| `Final-co-phieu-cang-bien.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-dau-co.md` | 0 | 2 | 0%/0%/100% | 🔍 Needs more |
+| `Final-co-phieu-dau-khi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-dau-tu-cong.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-dien-luc.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-esop-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-hang-khong.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-la-gi.md` | 0 | 8 | 88%/0%/12% | ⚠️ Over-opt |
+| `Final-co-phieu-lo-le-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-ngan-hang.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-ban-le.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
 | `Final-co-phieu-nganh-bao-hiem.md` | 5 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-nganh-cao-su.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-nganh-chung-khoan.md` | 2 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-co-phieu-nganh-cong-nghe.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-nganh-det-may.md` | 2 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-cao-su.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-chung-khoan.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-cong-nghe.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-det-may.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-co-phieu-nganh-du-lich.md` | 5 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-nganh-duoc.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-nganh-hoa-chat.md` | 3 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-nganh-nang-luong.md` | 3 | 1 | 0%/0%/100% | 🔍 Needs more |
+| `Final-co-phieu-nganh-duoc.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-hoa-chat.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-nang-luong.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-co-phieu-nganh-nhua.md` | 4 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-nganh-nong-nghiep.md` | 0 | 4 | 0%/0%/100% | ✅ Healthy |
-| `Final-co-phieu-nganh-o-to.md` | 3 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-nganh-than.md` | 3 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-nganh-thep.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-nganh-thuc-pham.md` | 4 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-co-phieu-nganh-thuy-san.md` | 4 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-nganh-truyen-thong.md` | 3 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-nganh-xay-dung.md` | 4 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-co-phieu-nganh-y-te.md` | 3 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-otc-la-gi.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-penny-la-gi.md` | 0 | 7 | 71%/14%/14% | ⚠️ Over-opt |
+| `Final-co-phieu-nganh-nong-nghiep.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-o-to.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-than.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-thep.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-thuc-pham.md` | 4 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-thuy-san.md` | 3 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-truyen-thong.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-xay-dung.md` | 3 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-nganh-y-te.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-otc-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-penny-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-co-phieu-phong-thu.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-quy-la-gi.md` | 4 | 1 | 0%/0%/100% | 🔍 Needs more |
+| `Final-co-phieu-quy-la-gi.md` | 4 | 0 | 0/0/0 | ⭕ New |
 | `Final-co-phieu-thuong-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-trang-ben-mua-la-gi.md` | 2 | 1 | 0%/100%/0% | 🔍 Needs more |
-| `Final-co-phieu-tru-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-phieu-uu-dai-la-gi.md` | 2 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-co-phieu-xuat-nhap-khau.md` | 4 | 0 | 0/0/0 | ⭕ New |
-| `Final-co-tuc-la-gi.md` | 0 | 14 | 0%/0%/100% | ✅ Healthy |
-| `Final-cung-tien-la-gi.md` | 5 | 16 | 19%/0%/81% | ⚠️ Over-opt |
+| `Final-co-phieu-trang-ben-mua-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-tru-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-uu-dai-la-gi.md` | 2 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-phieu-xuat-nhap-khau.md` | 3 | 0 | 0/0/0 | ⭕ New |
+| `Final-co-tuc-la-gi.md` | 0 | 4 | 0%/0%/100% | ✅ Healthy |
+| `Final-cung-tien-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-dao-han-phai-sinh-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-dau-tu-chu-dong.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-dau-tu-chung-khoan-co-nhung-rui-ro-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-dau-tu-cong-la-gi.md` | 8 | 7 | 0%/100%/0% | ✅ Healthy |
-| `Final-dau-tu-etf.md` | 3 | 0 | 0/0/0 | ⭕ New |
+| `Final-dau-tu-chung-khoan-co-nhung-rui-ro-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-dau-tu-cong-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-dau-tu-etf.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-dau-tu-gia-tri.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-dau-tu-luot-song.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-dau-tu-ngan-han.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-dau-tu-tang-truong-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-dau-tu-luot-song.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-dau-tu-ngan-han.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-dau-tu-tang-truong-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-dau-tu-thu-dong.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-dau-tu-tich-san-co-phieu-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-doanh-nghiep-mua-lai-co-phieu-de-lam-gi.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-du-tru-ngoai-hoi-la-gi.md` | 4 | 5 | 0%/100%/0% | ✅ Healthy |
+| `Final-dau-tu.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
+| `Final-doanh-nghiep-mua-lai-co-phieu-de-lam-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-du-tru-ngoai-hoi-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-duong-ma-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-ebitda-la-gi.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-etf-la-gi.md` | 2 | 8 | 0%/0%/100% | ✅ Healthy |
+| `Final-etf-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-fibonacci-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
 | `Final-fibonacci-thoai-lui.md` | 4 | 0 | 0/0/0 | ⭕ New |
 | `Final-gia-tran-gia-san.md` | 0 | 0 | 0/0/0 | ⭕ New |
@@ -200,43 +201,44 @@
 | `Final-hnx-index-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-ho-tro-khang-cu-la-gi.md` | 0 | 1 | 100%/0%/0% | ⚠️ Over-opt |
 | `Final-hop-dong-mo-tai-khoan-chung-khoan.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-hop-dong-tuong-lai.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-hop-dong-tuong-lai.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-ipo-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-khau-vi-rui-ro.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-khi-nao-nen-ban-co-phieu.md` | 1 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-khi-nao-nen-mua-co-phieu.md` | 2 | 0 | 0/0/0 | ⭕ New |
+| `Final-khi-nao-nen-ban-co-phieu.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-khi-nao-nen-mua-co-phieu.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-khoa-hoc-chung-khoan.md` | 0 | 1 | 0%/100%/0% | 🔍 Needs more |
 | `Final-khoa-hoc-phan-tich-co-ban.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-khoa-hoc-phan-tich-ky-thuat.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-khoi-ngoai-la-gi.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-lai-suat-la-gi.md` | 2 | 9 | 0%/0%/100% | ✅ Healthy |
+| `Final-khoi-ngoai-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-kinh-te-vi-mo.md` | 0 | 3 | 0%/0%/100% | ✅ Healthy |
+| `Final-lai-suat-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-lenh-mtl-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-lien-ngan-hang-la-gi.md` | 5 | 6 | 0%/83%/17% | ✅ Healthy |
+| `Final-lien-ngan-hang-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-m-a-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-macd-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-margin-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-mid-cap-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-mo-hinh-capm-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
-| `Final-mo-hinh-kinh-doanh-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-mo-hinh-capm-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-mo-hinh-kinh-doanh-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-mo-hinh-nen.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-mo-tai-khoan-chung-khoan-co-mat-phi-khong.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-mo-tai-khoan-chung-khoan-co-mat-phi-khong.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-mo-tai-khoan-chung-khoan-online-co-an-toan-khong.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-mot-nguoi-duoc-mo-bao-nhieu-tai-khoan-chung-khoan.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-nen-bua.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-nen-dau-tu-co-phieu-nao.md` | 0 | 28 | 4%/64%/32% | ✅ Healthy |
-| `Final-nen-dau-tu-quy-etf-nao.md` | 3 | 0 | 0/0/0 | ⭕ New |
-| `Final-nen-dau-tu-quy-mo-hay-quy-etf.md` | 3 | 1 | 0%/0%/100% | 🔍 Needs more |
+| `Final-nen-dau-tu-co-phieu-nao.md` | 0 | 8 | 0%/62%/38% | ✅ Healthy |
+| `Final-nen-dau-tu-quy-etf-nao.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-nen-dau-tu-quy-mo-hay-quy-etf.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-nen-doji.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-nen-mo-tai-khoan-chung-khoan-o-dau.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-ngan-hang-nha-nuoc-la-gi.md` | 10 | 7 | 0%/100%/0% | ✅ Healthy |
-| `Final-ngan-sach-nha-nuoc-la-gi.md` | 10 | 6 | 17%/33%/50% | ⚠️ Over-opt |
+| `Final-ngan-hang-nha-nuoc-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-ngan-sach-nha-nuoc-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-no-dai-han-tren-von-chu-so-huu.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
 | `Final-no-phai-tra-la-gi.md` | 0 | 2 | 0%/0%/100% | 🔍 Needs more |
-| `Final-no-xau-trong-cac-co-phieu-nganh-ngan-hang.md` | 2 | 0 | 0/0/0 | ⭕ New |
+| `Final-no-xau-trong-cac-co-phieu-nganh-ngan-hang.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-p-e-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-pha-loang-co-phieu-la-gi.md` | 2 | 2 | 0%/0%/100% | 🔍 Needs more |
-| `Final-phan-biet-quy-etf-va-quy-tuong-ho.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-phan-tich-bao-cao-tai-chinh-cong-ty-bibica.md` | 1 | 1 | 0%/0%/100% | 🔍 Needs more |
+| `Final-pha-loang-co-phieu-la-gi.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
+| `Final-phan-biet-quy-etf-va-quy-tuong-ho.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-phan-tich-bao-cao-tai-chinh-cong-ty-bibica.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
 | `Final-phan-tich-bao-cao-tai-chinh-cong-ty-kinh-do.md` | 4 | 0 | 0/0/0 | ⭕ New |
 | `Final-phan-tich-bao-cao-tai-chinh-fpt.md` | 3 | 0 | 0/0/0 | ⭕ New |
 | `Final-phan-tich-bao-cao-tai-chinh-pnj.md` | 3 | 0 | 0/0/0 | ⭕ New |
@@ -245,18 +247,20 @@
 | `Final-phan-tich-co-ban-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-phan-tich-doanh-nghiep-la-gi.md` | 0 | 3 | 0%/0%/100% | ✅ Healthy |
 | `Final-phan-tich-dupont-la-gi.md` | 3 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-phan-tich-ky-thuat-la-gi.md` | 1 | 1 | 100%/0%/0% | ⚠️ Over-opt |
-| `Final-phan-tich-nganh-la-gi.md` | 3 | 7 | 0%/71%/29% | ✅ Healthy |
-| `Final-phuong-phap-canslim.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
+| `Final-phan-tich-ky-thuat-la-gi.md` | 0 | 1 | 100%/0%/0% | ⚠️ Over-opt |
+| `Final-phan-tich-nganh-la-gi.md` | 2 | 7 | 0%/71%/29% | ✅ Healthy |
+| `Final-phuong-phap-canslim.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-phuong-phap-dau-tu-gia-tri-cua-graham-benjamin.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-phuong-phap-richard-donchian.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-phuong-phap-top-down.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-phuong-phap-top-down.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-pmi-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
 | `Final-quan-tri-rui-ro-chung-khoan.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-quy-etf-tai-viet-nam.md` | 1 | 2 | 0%/0%/100% | 🔍 Needs more |
-| `Final-quy-mo-la-gi.md` | 1 | 3 | 67%/0%/33% | ⚠️ Over-opt |
-| `Final-quy-trinh-hoan-doi-danh-muc-etf.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-quyen-chon-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-quy-etf-tai-viet-nam.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-quy-mo-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-quy-trinh-hoan-doi-danh-muc-etf.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-quyen-chon-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-roa-la-gi.md` | 0 | 6 | 0%/0%/100% | ✅ Healthy |
+| `Final-roce-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-rsi-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-rui-ro-doanh-nghiep-trong-dau-tu-chung-khoan-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-sach-chung-khoan.md` | 0 | 2 | 0%/0%/100% | 🔍 Needs more |
@@ -265,23 +269,27 @@
 | `Final-sach-ve-dau-tu-gia-tri.md` | 0 | 2 | 0%/0%/100% | 🔍 Needs more |
 | `Final-sach-ve-tai-chinh.md` | 2 | 1 | 0%/0%/100% | 🔍 Needs more |
 | `Final-so-ngay-phai-tra-chua-thanh-toan.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-so-sanh-co-phieu-thuong-va-co-phieu-uu-dai.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-so-sanh-co-phieu-va-chung-chi-quy-dau-tu.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-so-sanh-forex-va-chung-khoan.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-so-sanh-forex-va-chung-khoan.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-song-elliott-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-tam-ly-dau-tu-chung-khoan.md` | 0 | 41 | 37%/49%/15% | ⚠️ Over-opt |
-| `Final-thi-gia-co-phieu-la-gi.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-thi-truong-chung-khoan-la-gi.md` | 2 | 10 | 10%/0%/90% | ✅ Healthy |
+| `Final-tam-ly-dau-tu-chung-khoan.md` | 0 | 5 | 60%/40%/0% | ⚠️ Over-opt |
+| `Final-tang-truong-tin-dung-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-thi-gia-co-phieu-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-thi-truong-chung-khoan-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-thoi-gian-thu-hoi-tien-hang-ton-dong.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-thue-la-gi.md` | 3 | 10 | 50%/10%/40% | ⚠️ Over-opt |
+| `Final-thuc-tap-so.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
+| `Final-thue-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-tin-dung-doanh-nghiep-la-gi.md` | 2 | 0 | 0/0/0 | ⭕ New |
-| `Final-tin-phieu-la-gi.md` | 8 | 6 | 0%/100%/0% | ✅ Healthy |
-| `Final-tra-co-tuc-bang-co-phieu-la-gi.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-trai-phieu-chinh-phu-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
+| `Final-tin-phieu-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-tra-co-tuc-bang-co-phieu-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-trai-phieu-chinh-phu-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-trai-phieu-chuyen-doi-la-gi.md` | 2 | 0 | 0/0/0 | ⭕ New |
 | `Final-trai-phieu-doanh-nghiep-la-gi.md` | 0 | 1 | 0%/0%/100% | 🔍 Needs more |
-| `Final-trai-phieu-la-gi.md` | 2 | 1 | 100%/0%/0% | ⚠️ Over-opt |
+| `Final-trai-phieu-la-gi.md` | 1 | 1 | 100%/0%/0% | ⚠️ Over-opt |
 | `Final-trai-phieu-ngan-hang-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-ty-gia-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
+| `Final-ty-le-that-nghiep-la-gi.md` | 1 | 0 | 0/0/0 | ⭕ New |
 | `Final-ty-so-no-tren-tong-tai-san.md` | 0 | 3 | 0%/0%/100% | ✅ Healthy |
 | `Final-ty-so-thanh-toan-bang-tien-mat.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-ty-so-thanh-toan-nhanh-la-gi.md` | 0 | 1 | 100%/0%/0% | ⚠️ Over-opt |
@@ -289,7 +297,7 @@
 | `Final-von-co-phan-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-von-hoa-thi-truong-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-von-luu-dong-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
-| `Final-von-phap-dinh-la-gi.md` | 2 | 0 | 0/0/0 | ⭕ New |
+| `Final-von-phap-dinh-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |
 | `Final-vong-quay-hang-ton-kho-la-gi.md` | 2 | 0 | 0/0/0 | ⭕ New |
 | `Final-vong-quay-khoan-phai-tra-la-gi.md` | 2 | 0 | 0/0/0 | ⭕ New |
 | `Final-yoy-la-gi.md` | 0 | 0 | 0/0/0 | ⭕ New |

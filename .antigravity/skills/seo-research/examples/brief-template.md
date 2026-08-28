@@ -58,7 +58,7 @@ Internal_Links: []
 ```
 
 - **Title:** [Tối đa 59 ký tự, chứa từ khóa chính]
-- **Sapo:** [Chứa từ khóa chính, ưu tiên thực thể ở đầu câu, BẮT BUỘC chứa brandname "HVS"]
+- **Sapo:** [Chứa từ khóa chính, ưu tiên thực thể ở đầu câu, BẮT BUỘC chứa brandname "HVS". Độ dài 80-100 từ, chia làm 2 đoạn ngắn để dẫn dắt mạch lạc và nêu bật vấn đề trước khi đi vào định nghĩa chính.]
 - **Meta description:** [~155 ký tự, chứa keyword]
 
 ---
@@ -84,10 +84,10 @@ Internal_Links: []
 ---
 
 #### H2: Kết luận: [Tiêu đề kết luận tùy biến theo từ khóa]
-- **Nhiệm vụ/Trọng tâm:** Tóm tắt ngắn gọn các bài học, framework hoặc giải pháp cốt lõi đã đề cập trong bài viết. Cung cấp thông điệp chốt hạ định hướng hành động (actionable advice) cho người đọc. Bắt buộc KHÔNG dùng các từ cấm như "Tóm lại,", "Kết luận là," và BẮT BUỘC chứa brandname "HVS".
+- **Nhiệm vụ/Trọng tâm:** Tóm tắt sâu sắc các bài học, framework hoặc giải pháp cốt lõi đã đề cập trong bài viết. Cung cấp checklist định hướng hành động (actionable advice) cho người đọc. Bắt buộc KHÔNG dùng các từ cấm như "Tóm lại,", "Kết luận là," và BẮT BUỘC chứa brandname "HVS".
 - **HVS Bridge:** Không
 - **Entities & Keywords:** [Các thực thể tóm tắt của bài]
-- **Word_Count:** [100-150 từ]
+- **Word_Count:** [150-200 từ]
 
 ---
 

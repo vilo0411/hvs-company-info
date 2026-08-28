@@ -54,15 +54,21 @@ Main Agent đọc trực tiếp: `resources/audience/personas-deep.md` (fallback
 Main Agent thực hiện vai trò "Bộ não":
 
 1.  **Synthesis (Tổng hợp):** Kết hợp dữ liệu từ Collector (Thị trường) + Brand Guardian (Bản sắc) + ICP/Audience.
-2.  **Thiết kế Outline:** Tạo Content Brief theo @.antigravity/skills/seo-research/examples/brief-template.md.
+2.  **Định lượng & Phân loại bài viết (Word Count Target):**
+    Tuyệt đối KHÔNG sử dụng một độ dài mặc định (ví dụ: 1.200 từ) cho tất cả bài viết. Độ dài mục tiêu (`Word_Count_Target`) phải được xác định dựa trên phân tích đối thủ thực tế từ SERP (hoặc theo phân loại nội dung dưới đây nếu ở chế độ `--no-serp`):
+    - **Bài phân tích chuỗi giá trị ngành sâu (Deep Industry Value Chain):** 1.800 – 2.500 từ (Mục tiêu tối thiểu: 2.000 từ để bao quát toàn bộ các mắt xích, doanh nghiệp niêm yết lớn và yếu tố vĩ mô).
+    - **Bài hướng dẫn tỷ số tài chính / định lượng (Financial Ratio Guides):** 1.200 – 1.500 từ (Mục tiêu: 1.400 từ để có đủ không gian cho công thức toán học, ví dụ tính toán số liệu cụ thể và lọc cổ phiếu).
+    - **Bài khái niệm tài chính chiến lược / chu kỳ (Strategic & Market Concepts):** 1.200 từ (Mục tiêu: 1.200 từ để phân tích chi tiết các giai đoạn thị trường, ma trận chiến lược).
+    - **Bài định nghĩa thuật ngữ cơ bản (Basic Term Definitions):** 1.100 – 1.200 từ (Mục tiêu: 1.200 từ để đảm bảo độ sâu chi tiết, Sapo dài 80-100 từ, HVS Bridge dài 250-300 từ, và Kết luận dài 150-200 từ).
+3.  **Thiết kế Outline:** Tạo Content Brief theo @.antigravity/skills/seo-research/examples/brief-template.md.
     - **Cấu trúc bắt buộc:** Outline BẮT BUỘC phải có tiêu đề Kết luận ở cuối (H2: Kết luận...). Tiêu đề kết luận phải tùy biến theo từ khóa (Ví dụ: "Kết luận rủi ro doanh nghiệp...").
     - **Word Count per Heading (BẮT BUỘC):** Mỗi H2 (bao gồm cả H2 Kết luận) phải có trường `Word_Count` riêng.
-      - MAIN sections (phần xương sống): chiếm 60-70% tổng từ — viết đầy đủ ví dụ, số liệu, kịch bản thực tế.
-      - SUPPLEMENTAL sections (giải pháp HVS/CTA) & Conclusion (Kết luận): chiếm 30-40% tổng từ — ngắn gọn, focus CTA.
+      - MAIN sections (phần xương sống): chiếm 55-65% tổng từ — viết đầy đủ ví dụ, số liệu, kịch bản thực tế.
+      - SUPPLEMENTAL sections (giải pháp HVS/CTA) & Conclusion (Kết luận): chiếm 35-45% tổng từ — phải được viết chi tiết, sâu sắc, tránh viết chung chung hay quá ngắn. Section giải pháp HVS phải đạt tối thiểu 250-300 từ để nêu bật đầy đủ nỗi đau/bẫy tâm lý và cách HVS giải quyết. Section Kết luận phải đạt tối thiểu 150-200 từ để tóm tắt trọn vẹn bài học và checklist hành động.
       - Tổng cộng các section phải ≥ `Word_Count_Target` trong YAML.
     - **Kiểm tra trước khi lưu:** Σ Word_Count các H2 ≥ Word_Count_Target?
-3.  **Lưu file & Review:** Lưu `content/blog/1-outlines/Outline-[slug].md`.
-4.  **User Loop:** Main Agent đọc nhận xét trực tiếp trong file Outline (nếu có) -> Tự điều chỉnh dàn ý -> Duyệt qua `/approve`.
+4.  **Lưu file & Review:** Lưu `content/blog/1-outlines/Outline-[slug].md`.
+5.  **User Loop:** Main Agent đọc nhận xét trực tiếp trong file Outline (nếu có) -> Tự điều chỉnh dàn ý -> Duyệt qua `/approve`.
 
 ---
 
@@ -77,7 +83,7 @@ Main Agent thực hiện vai trò "Bộ não":
     > - **Conclusion (Kết luận):** Bắt buộc phải viết phần Kết luận (H2) ở cuối bài theo đúng Outline. Tuyệt đối không dùng các từ khóa cấm trong TIER 1 như "Tóm lại,", "Kết luận là,".
     > - **Formatting Diversity (Lists & Tables):** Bắt buộc chèn danh sách liệt kê (bullet/numbered lists) cho các bước quy trình và ít nhất một bảng Markdown so sánh/đối chiếu để tránh các mảng chữ dài (walls of text).
     > - **Financial Logic (Scenarios & Risk-Reward):** Bắt buộc tích hợp công thức kịch bản "Nếu [Biến số A] -> [Kịch bản 1]. Nếu [Biến số B] -> [Kịch bản 2]" và ghi nhận cảnh báo rủi ro thực tế đi kèm mọi khuyến nghị.
-    > - **HVS Product Hierarchy:** Khi lồng ghép thương hiệu HVS, luôn đặt **HVS Tài Chính Số** (với chương trình đào tạo **HVS Thực tập số**) làm giải pháp cốt lõi, các công cụ **HVS Demo** và **HVS Forum** làm bổ trợ phía dưới.
+    > - **HVS Product Hierarchy:** Khi lồng ghép thương hiệu HVS, luôn đặt **HVS Thực tập số** (chương trình đào tạo thực chiến trọng tâm của **HVS Tài chính số**) làm phễu chuyển đổi chính cho tất cả các đối tượng (kể cả F0, F1 hay Sinh viên). Các sản phẩm **HVS Demo** (giao dịch mô phỏng) và **HVS Forum** (cộng đồng) chỉ đóng vai trò là công cụ bổ trợ thực hành và thảo luận nằm trong hệ sinh thái hỗ trợ cho chương trình **HVS Thực tập số**.
     > - **Word Count:** Sau khi hoàn thành Draft, chạy `python .antigravity/skills/qa-qc/scripts/wordcount.py [draft_path]` để xác nhận từng section đạt target ±10%.
 
 2.  **Audit Nội bộ (BLOCKING):** Main Agent gửi Draft cho **Quality Guardian**.
