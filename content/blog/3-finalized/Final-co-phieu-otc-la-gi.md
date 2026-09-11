@@ -43,7 +43,7 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số"]
 
 # Cluster info
 Cluster: Cổ phiếu
-Internal_Links: ["https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-khoan", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-ipo", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/upcom-la-gi", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi"]
+Internal_Links: ["https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-khoan", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-co-phieu-ipo", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/upcom-la-gi", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi"]
 ---
 
 # Cổ phiếu OTC là gì? Quy trình giao dịch an toàn hiệu quả
@@ -96,7 +96,7 @@ Với nhóm cổ phiếu tự do, quyền sở hữu của bạn được quản
 
 ## Rèn luyện tư duy phân tích và quản trị danh mục cùng HVS
 
-Đầu tư cổ phiếu OTC tự do theo cảm tính rất dễ dẫn đến thua lỗ. Trước khi tìm hiểu [cách mua cổ phiếu IPO](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-ipo) hay thực hiện giao dịch thỏa thuận phức tạp, bạn cần trang bị nền tảng kiến thức và tư duy quản trị rủi ro chuyên nghiệp.
+Đầu tư cổ phiếu OTC tự do theo cảm tính rất dễ dẫn đến thua lỗ. Trước khi tìm hiểu [cách mua cổ phiếu IPO](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-co-phieu-ipo) hay thực hiện giao dịch thỏa thuận phức tạp, bạn cần trang bị nền tảng kiến thức và tư duy quản trị rủi ro chuyên nghiệp.
 
 Hệ sinh thái HVS hỗ trợ bạn từng bước làm chủ kỹ năng này thông qua:
 *   **Học kiến thức chuẩn xác:** Nền tảng **HVS Tài chính số** cung cấp hệ thống bài giảng chuyên sâu về phương pháp phân tích top-down (từ vĩ mô, ngành đến doanh nghiệp), giúp bạn xây dựng tư duy đầu tư bài bản và chuyên nghiệp.

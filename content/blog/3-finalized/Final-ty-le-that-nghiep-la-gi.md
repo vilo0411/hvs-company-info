@@ -197,7 +197,7 @@ Bên cạnh lý thuyết, bạn có thể sử dụng tài khoản thực hành 
 
 Tỷ lệ thất nghiệp không chỉ là một chỉ số phản ánh tình hình việc làm xã hội mà còn là công cụ định vị chu kỳ vĩ mô quan trọng đối với mọi nhà đầu tư chứng khoán. Việc thấu hiểu công thức tính, các dạng phân loại thất nghiệp và mối liên hệ với chính sách tiền tệ sẽ giúp bạn chủ động nhận diện các điểm đảo chiều của thị trường để cơ cấu tài sản hiệu quả. Hãy tiếp tục trau dồi tư duy phân tích vĩ mô chuẩn mực cùng HVS để tự tin đưa ra các quyết định đầu tư an toàn và bền vững trên sàn chứng khoán.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Các phân tích số liệu thất nghiệp và nhận định thị trường trong bài viết chỉ mang tính chất tham khảo học tập, không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán cổ phiếu trực tiếp. Bạn cần tự chịu trách nhiệm đối với các quyết định giao dịch tài chính của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Các phân tích số liệu thất nghiệp và nhận định thị trường trong bài viết chỉ mang tính chất tham khảo học tập, không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán cổ phiếu trực tiếp. Bạn cần tự chịu trách nhiệm đối với các quyết định giao dịch tài chính của bản thân.
 
 ---
 

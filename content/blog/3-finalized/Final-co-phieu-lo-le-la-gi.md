@@ -43,7 +43,7 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số"]
 
 # Cluster info
 Cluster: Cổ phiếu
-Internal_Links: ["https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-tren-san-hose"]
+Internal_Links: ["https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-co-phieu-tren-san-hose"]
 ---
 
 # cổ phiếu lô lẻ là gì? Quy định và cách giao dịch mới nhất
@@ -72,7 +72,7 @@ Trong quá trình đầu tư thực chiến, tài khoản của bạn sẽ xuấ
 
 Để xử lý hiệu quả lượng cổ phiếu lẻ phát sinh trong tài khoản, nhà đầu tư cần nắm rõ quy định kỹ thuật hiện hành trên hai sàn giao dịch chính tại Việt Nam là HOSE và HNX. Quy chế giao dịch lô lẻ có những điểm khác biệt cốt lõi so với giao dịch lô chẵn thông thường.
 
-Thời gian giao dịch lô lẻ đồng bộ với lô chẵn (từ 9h00 đến 14h30). Tuy nhiên, quy chế cấm hoàn toàn lệnh lô lẻ trong phiên định kỳ mở cửa (ATO) và đóng cửa (ATC). Lệnh sau giờ PLO cũng không áp dụng. Lệnh giới hạn (LO) là loại lệnh duy nhất được chấp nhận; mọi lệnh thị trường hay điều kiện đều bị hệ thống tự động từ chối khi [giao dịch trên sàn HOSE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-tren-san-hose) và HNX.
+Thời gian giao dịch lô lẻ đồng bộ với lô chẵn (từ 9h00 đến 14h30). Tuy nhiên, quy chế cấm hoàn toàn lệnh lô lẻ trong phiên định kỳ mở cửa (ATO) và đóng cửa (ATC). Lệnh sau giờ PLO cũng không áp dụng. Lệnh giới hạn (LO) là loại lệnh duy nhất được chấp nhận; mọi lệnh thị trường hay điều kiện đều bị hệ thống tự động từ chối khi [giao dịch trên sàn HOSE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-co-phieu-tren-san-hose) và HNX.
 
 Về phương thức đặt lệnh, các công ty chứng khoán đã tích hợp bảng giao dịch lô lẻ trên ứng dụng. Bạn chỉ cần truy cập bảng điện lẻ chuyên biệt, nhập mã chứng khoán (như HPG, VNM) với khối lượng từ 1 đến 99 và chọn mức giá LO phù hợp.
 

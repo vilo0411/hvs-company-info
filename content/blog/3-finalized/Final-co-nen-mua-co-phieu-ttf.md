@@ -93,7 +93,7 @@ Nhiều nhà đầu tư cá nhân F0 thường mua cổ phiếu theo các tin đ
 
 ---
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi thông tin phân tích và nhận định trong bài viết này chỉ nhằm mục đích cung cấp tài liệu nghiên cứu học tập tại HVS. Nội dung bài viết không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào trên thị trường. Nhà đầu tư cần tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi thông tin phân tích và nhận định trong bài viết này chỉ nhằm mục đích cung cấp tài liệu nghiên cứu học tập tại HVS. Nội dung bài viết không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào trên thị trường. Nhà đầu tư cần tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
 ---
 

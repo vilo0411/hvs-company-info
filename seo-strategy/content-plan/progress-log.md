@@ -1,8 +1,8 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 321 bài
-- **Active Pipeline:** 16 items
+- **Published:** 349 bài
+- **Active Pipeline:** 9 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
@@ -11,10 +11,8 @@
 
 | Keyword | Persona | Mode | Status |
 | :--- | :--- | :--- | :--- |
-| chi phí cố định | Lan Newbie / Nhà đầu tư F0 | Fast | Draft |
-| Đầu tư chứng khoán cần bao nhiêu tiền | F0 | Express | Outline-Pending |
-| full margin là gì | F0 / F1 | Express | Outline-Pending |
 | Sàn OTC là gì | Lan Newbie / Nhà đầu tư F0 | Express | Outline-Pending |
+| Chỉ số P/S | Lan Newbie / Nhà đầu tư F0 | Express | Outline-Pending |
 
 ---
 
@@ -22,6 +20,35 @@
 
 | Date | Keyword | Persona | Mode | File Path |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-10 | Optimization: HVS Bridge & Internal Links (Macro to Beginner F0) | Lan Newbie / F0 / F1 | Optimized | `content/blog/3-finalized/Final-chinh-sach-tien-te-la-gi.md` (+ 15 macro files) |
+| 2026-09-04 | giao dịch nội gián | F1+ & Nhà đầu tư cá nhân | Optimized | `content/blog/3-finalized/Final-giao-dich-noi-gian-la-gi.md` |
+| 2026-09-04 | full margin là gì | Active Trader & Investor (F0, F1) | Optimized | `content/blog/3-finalized/Final-full-margin-la-gi.md` |
+| 2026-09-04 | dư mua dư bán là gì | Mentoring Senior Advisor | Optimized | `content/blog/3-finalized/Final-du-mua-du-ban-la-gi.md` |
+| 2026-09-04 | đội lái chứng khoán là gì | F0 Investor | Optimized | `content/blog/3-finalized/Final-doi-lai-chung-khoan-la-gi.md` |
+| 2026-09-04 | điểm trong chứng khoán là gì | F0 Investor | Optimized | `content/blog/3-finalized/Final-diem-trong-chung-khoan-la-gi.md` |
+| 2026-09-04 | Đầu tư chứng khoán cần bao nhiêu tiền | F0 / Sinh viên / Người mới bắt đầu | Optimized | `content/blog/3-finalized/Final-dau-tu-chung-khoan-can-bao-nhieu-tien.md` |
+| 2026-09-04 | đầu cơ chứng khoán là gì | F0 Investor | Optimized | `content/blog/3-finalized/Final-dau-co-chung-khoan-la-gi.md` |
+| 2026-09-04 | chiến lược giao dịch | Active Trader & F0 Investor | Optimized | `content/blog/3-finalized/Final-chien-luoc-giao-dich.md` |
+| 2026-09-04 | cắt margin là gì | Active Trader (F0, F1) | Optimized | `content/blog/3-finalized/Final-cat-margin-la-gi.md` |
+| 2026-09-04 | các loại lệnh trong chứng khoán | Senior Mentor | Optimized | `content/blog/3-finalized/Final-cac-loai-lenh-trong-chung-khoan.md` |
+| 2026-09-04 | bullish là gì | Active Trader (F0, F1) | Optimized | `content/blog/3-finalized/Final-bullish-la-gi.md` |
+| 2026-09-04 | biên độ dao động giá | Mentoring Senior Advisor | Optimized | `content/blog/3-finalized/Final-bien-do-dao-dong-gia.md` |
+| 2026-09-04 | bán khống là gì | Nhà đầu tư F0 & F1 | Optimized | `content/blog/3-finalized/Final-ban-khong-la-gi.md` |
+| 2026-09-04 | app theo dõi chứng khoán | HVS Senior Mentor | Optimized | `content/blog/3-finalized/Final-app-theo-doi-chung-khoan.md` |
+| 2026-09-04 | app đầu tư chứng khoán | HVS Senior Mentor | Optimized | `content/blog/3-finalized/Final-app-dau-tu-chung-khoan.md` |
+| 2026-09-03 | chi phí cố định | Lan Newbie / Nhà đầu tư F0 | Fast | `content/blog/3-finalized/Final-chi-phi-co-dinh.md` |
+| 2026-09-03 | quy định giao dịch chứng khoán | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-quy-dinh-giao-dich-chung-khoan.md` |
+| 2026-09-03 | Lưu ký chứng khoán là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-luu-ky-chung-khoan-la-gi.md` |
+| 2026-09-03 | hệ số beta trong đầu tư chứng khoán là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-he-so-beta-trong-dau-tu-chung-khoan-la-gi.md` |
+| 2026-09-03 | Sell in may and go away là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-sell-in-may-and-go-away-la-gi.md` |
+| 2026-09-03 | thị trường phân hóa là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-thi-truong-phan-hoa-la-gi.md` |
+| 2026-09-03 | thao túng thị trường chứng khoán là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-thao-tung-thi-truong-chung-khoan-la-gi.md` |
+| 2026-09-03 | ủy thác đầu tư chứng khoán | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-uy-thac-dau-tu-chung-khoan.md` |
+| 2026-09-03 | Tư vấn chứng khoán là gì | F0 / F1 | Express | `content/blog/3-finalized/Final-tu-van-chung-khoan-la-gi.md` |
+| 2026-09-03 | tự doanh chứng khoán là gì | F0 / F1 | Express | `content/blog/3-finalized/Final-tu-doanh-chung-khoan-la-gi.md` |
+| 2026-09-03 | thị trường sơ cấp | F0 / Sinh viên | Express | `content/blog/3-finalized/Final-thi-truong-so-cap.md` |
+| 2026-09-03 | target trong chứng khoán là gì | F0 / F1 | Express | `content/blog/3-finalized/Final-target-trong-chung-khoan-la-gi.md` |
+| 2026-09-03 | đầu tư chủ động | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-dau-tu-chu-dong.md` |
 | 2026-08-28 | So sánh kênh đầu tư vàng và đầu tư chứng khoán | F0 | Express | `content/blog/3-finalized/Final-so-sanh-dau-tu-vang-va-chung-khoan.md` |
 | 2026-08-28 | ứng trước tiền bán chứng khoán là gì | F0 | Express | `content/blog/3-finalized/Final-ung-truoc-tien-ban-chung-khoan-la-gi.md` |
 | 2026-08-28 | sec là gì | F0 | Express | `content/blog/3-finalized/Final-sec-la-gi.md` |

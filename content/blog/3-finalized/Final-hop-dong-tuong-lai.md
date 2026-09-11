@@ -90,7 +90,7 @@ Kiểm soát rủi ro cháy tài khoản phái sinh đòi hỏi nhà đầu tư 
 
 Hợp đồng tương lai là công cụ sinh lời hiệu quả nhưng đòi hỏi chuẩn bị kỹ về quản trị rủi ro. Bạn không nên dùng vốn thật giao dịch phái sinh khi chưa hiểu rõ cơ chế ký quỹ. Việc tập luyện trên công cụ mô phỏng **HVS Demo** là bước đi cần thiết cho F0. **HVS** luôn cung cấp các công cụ thực hành giúp bạn tích lũy kinh nghiệm đầu tư an toàn.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Nội dung bài viết mang tính tham khảo học tập, không cấu thành khuyến nghị giao dịch phái sinh.
+**Tuyên bố miễn trừ trách nhiệm:** Nội dung bài viết mang tính tham khảo học tập, không cấu thành khuyến nghị giao dịch phái sinh.
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-23):** Khởi tạo outline "hợp đồng tương lai".

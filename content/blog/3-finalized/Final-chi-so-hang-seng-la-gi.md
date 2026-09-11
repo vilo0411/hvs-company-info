@@ -99,7 +99,7 @@ Hãy ghi nhớ giao dịch theo liên thị trường luôn có độ trễ. Bá
 
 ## Đào tạo phân tích vĩ mô thị trường chứng khoán Việt Nam tại HVS Tài chính số
 
-Nhận diện tác động HSI tới HOSE là kỹ năng sinh tồn của nhà đầu tư. Tuy nhiên, nhiều F0 vội vã tìm [cách mua cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu) bằng tiền thật và giao dịch theo cảm tính. Thiếu hệ thống quan sát liên thị trường khiến họ gánh chịu thua lỗ khi dòng ngoại rút ròng.
+Nhận diện tác động HSI tới HOSE là kỹ năng sinh tồn của nhà đầu tư. Tuy nhiên, nhiều F0 vội vã tìm [cách mua cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-co-phieu) bằng tiền thật và giao dịch theo cảm tính. Thiếu hệ thống quan sát liên thị trường khiến họ gánh chịu thua lỗ khi dòng ngoại rút ròng.
 
 > **Cảnh báo từ Senior Mentor:** Hơn 85% F0 thua lỗ trong năm đầu vì giao dịch theo cảm tính và bỏ qua biến động dòng vốn ngoại liên thị trường.
 

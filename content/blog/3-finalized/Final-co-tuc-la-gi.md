@@ -48,7 +48,7 @@ Thay vì trả tiền, doanh nghiệp sẽ phát hành thêm cổ phiếu mới 
 Để biến cổ tức thành nguồn thu nhập ổn định, bạn nên áp dụng các chiến thuật sau:
 - **Chọn doanh nghiệp đầu ngành:** Những công ty có vị thế vững chắc, dòng tiền ổn định như VNM, VCB thường có lịch sử trả cổ tức cực kỳ đều đặn qua nhiều thập kỷ.
 - **Theo dõi tỷ lệ chi trả:** Đừng ham những công ty chia cổ tức quá cao (vượt quá lợi nhuận làm ra) vì điều đó cho thấy doanh nghiệp không còn động lực tái đầu tư để tăng trưởng.
-- **Đầu tư dài hạn:** Cổ tức chỉ thực sự phát huy sức mạnh lãi kép khi bạn nắm giữ cổ phiếu trong nhiều năm và dùng chính tiền cổ tức đó để [tiếp tục mua thêm cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu).
+- **Đầu tư dài hạn:** Cổ tức chỉ thực sự phát huy sức mạnh lãi kép khi bạn nắm giữ cổ phiếu trong nhiều năm và dùng chính tiền cổ tức đó để [tiếp tục mua thêm cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-co-phieu).
 
 ## Xây dựng chiến lược đầu tư nhận cổ tức cùng HVS Tài Chính Số
 

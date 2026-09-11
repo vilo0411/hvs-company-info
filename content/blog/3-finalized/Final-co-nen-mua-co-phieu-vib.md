@@ -93,7 +93,7 @@ Nhiều nhà đầu tư cá nhân F0 chỉ nhìn vào lợi nhuận ròng tăng 
 
 ---
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ nhằm phục vụ mục đích cung cấp tài liệu nghiên cứu học tập tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ nhằm phục vụ mục đích cung cấp tài liệu nghiên cứu học tập tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
 ---
 

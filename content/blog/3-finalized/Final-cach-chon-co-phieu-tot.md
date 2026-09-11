@@ -140,7 +140,7 @@ Nhiều nhà đầu tư F0 thường bối rối trước lượng thông tin kh
 - **Thực hành không rủi ro:** Bạn sử dụng công cụ giao dịch mô phỏng **HVS Demo** để tập đặt lệnh và kiểm nghiệm bộ tiêu chí chọn cổ phiếu mà không lo mất tiền thật.
 - **Thảo luận và học hỏi:** Bạn tham gia cộng đồng **HVS Forum** để trao đổi nhận định, học hỏi kinh nghiệm thực chiến từ các nhà đầu tư đi trước.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
 ---
 

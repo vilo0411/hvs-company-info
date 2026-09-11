@@ -97,7 +97,7 @@ Nhà đầu tư cá nhân hoàn toàn có thể phòng tránh rủi ro từ các
 ## Kết luận
 Tỷ số nợ trên tổng tài sản giúp bạn nhanh chóng đánh giá sức khỏe tài chính doanh nghiệp. Thấu hiểu chỉ số này giúp bạn chủ động tránh bẫy nợ vay từ công ty lạm dụng đòn bẩy. Bạn chủ động rèn luyện phân tích cơ cấu vốn cùng HVS để tự tin đầu tư trong mọi chu kỳ kinh tế.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi thông tin trong bài viết chỉ nhằm mục đích học tập tại HVS, không cấu thành lời khuyên hay khuyến nghị đầu tư. Nhà đầu tư tự chịu trách nhiệm về quyết định của mình.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi thông tin trong bài viết chỉ nhằm mục đích học tập tại HVS, không cấu thành lời khuyên hay khuyến nghị đầu tư. Nhà đầu tư tự chịu trách nhiệm về quyết định của mình.
 
 ---
 

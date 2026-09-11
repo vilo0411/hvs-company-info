@@ -30,7 +30,7 @@ Mô hình hoạt động của ACB tập trung bán lẻ với dư nợ cá nhâ
 - Hạn chế tối đa dự án bất động sản rủi ro.
 - Kiểm soát chặt chẽ chất lượng tín dụng hệ thống.
 
-Nhà đầu tư cá nhân thường lựa chọn mã này để làm bệ đỡ vững chắc cho danh mục dài hạn. ACB duy trì tỷ lệ nợ xấu ở mức thấp, thường dưới 1.3% ngay cả trong những giai đoạn thị trường tài chính gặp nhiều khó khăn. Khả năng phòng thủ cao giúp cổ phiếu ACB giữ giá tốt hơn toàn ngành khi thị trường chung chịu áp lực điều chỉnh mạnh. Bạn dễ dàng giao dịch mã này qua [cách mua cổ phiếu acb](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-acb) trực tuyến.
+Nhà đầu tư cá nhân thường lựa chọn mã này để làm bệ đỡ vững chắc cho danh mục dài hạn. ACB duy trì tỷ lệ nợ xấu ở mức thấp, thường dưới 1.3% ngay cả trong những giai đoạn thị trường tài chính gặp nhiều khó khăn. Khả năng phòng thủ cao giúp cổ phiếu ACB giữ giá tốt hơn toàn ngành khi thị trường chung chịu áp lực điều chỉnh mạnh. Bạn dễ dàng giao dịch mã này qua [cách mua cổ phiếu acb](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-co-phieu-acb) trực tuyến.
 
 ## Phân tích tiềm năng tăng trưởng của cổ phiếu ACB
 

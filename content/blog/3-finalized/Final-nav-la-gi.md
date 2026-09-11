@@ -169,7 +169,7 @@ Bạn có thể thực hành trên công cụ **HVS Demo** để kiểm chứng 
 
 NAV là chỉ số cốt lõi giúp bạn đo lường tài sản thực tế của doanh nghiệp, quỹ đầu tư và tài khoản cá nhân. Theo dõi biến động chỉ số giúp bạn phân bổ vốn hiệu quả. Hãy học tập cùng HVS để làm chủ tài sản.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích trong bài viết này chỉ nhằm mục đích học tập và thực hành tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích trong bài viết này chỉ nhằm mục đích học tập và thực hành tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính.
 
 ---
 

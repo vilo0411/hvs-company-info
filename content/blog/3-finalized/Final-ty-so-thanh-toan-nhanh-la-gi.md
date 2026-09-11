@@ -132,7 +132,7 @@ Bên cạnh đó, bạn được hỗ trợ thực hành qua các công cụ b�
 
 Phân tích tỷ số thanh toán nhanh trước khi giải ngân là bước bắt buộc để bạn bảo vệ dòng vốn. Chỉ số giúp đánh giá khả năng phòng thủ của doanh nghiệp mà không bị nhầm lẫn bởi hàng tồn kho. Bạn nên kết hợp chỉ số này cùng [hệ số P/E](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/p-e-la-gi) để đầu tư an toàn. Sự đồng hành cùng **HVS** hỗ trợ bạn nâng cao tư duy tài chính.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Nội dung chỉ phục vụ học tập tại HVS, không cấu thành lời khuyên đầu tư. Bạn tự chịu trách nhiệm trước mọi quyết định tài chính.
+**Tuyên bố miễn trừ trách nhiệm:** Nội dung chỉ phục vụ học tập tại HVS, không cấu thành lời khuyên đầu tư. Bạn tự chịu trách nhiệm trước mọi quyết định tài chính.
 
 ---
 

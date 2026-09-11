@@ -67,7 +67,7 @@ Tích sản cổ phiếu đòi hỏi tính kỷ luật cao và khả năng chọ
 - **Thực hành không rủi ro:** Bạn sử dụng công cụ giao dịch mô phỏng **HVS Demo** để tập mua định kỳ bình quân giá (DCA) trên dữ liệu thực tế, giúp rèn luyện tâm lý vững vàng trước khi giải ngân vốn thật.
 - **Đồng hành kỷ luật:** Bạn tham gia cộng đồng **HVS Forum** để trao đổi nhận định cùng các mentor và những nhà đầu tư có cùng mục tiêu tích sản, giữ vững kỷ luật trong các nhịp điều chỉnh của thị trường.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
 ---
 

@@ -136,7 +136,7 @@ Bên cạnh đó, bạn có thể sử dụng các công cụ hỗ trợ:
 
 Phân tích cơ cấu tài chính và chuỗi giá trị dệt may là bước bắt buộc để bạn bảo vệ dòng vốn khi đầu tư cổ phiếu ngành dệt may. Bạn chủ động tích lũy kiến thức cùng HVS để nhận diện đúng thời điểm giao dịch của nhóm ngành xuất khẩu này.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích tài chính và đánh giá luận điểm đầu tư liên quan đến các mã cổ phiếu ngành dệt may (TCM, TNG, MSH) trong bài viết này chỉ nhằm phục vụ mục đích chia sẻ kiến thức giáo dục và nâng cao năng lực phân tích cá nhân. HVS hoàn toàn không đưa ra bất kỳ lời khuyên đầu tư, khuyến nghị đặt lệnh mua bán hay cam kết hiệu quả sinh lời tài chính nào đối với người đọc. Bạn cần tự thực hiện nghiên cứu độc lập và chịu trách nhiệm toàn bộ đối với các quyết định sử dụng vốn của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích tài chính và đánh giá luận điểm đầu tư liên quan đến các mã cổ phiếu ngành dệt may (TCM, TNG, MSH) trong bài viết này chỉ nhằm phục vụ mục đích chia sẻ kiến thức giáo dục và nâng cao năng lực phân tích cá nhân. HVS hoàn toàn không đưa ra bất kỳ lời khuyên đầu tư, khuyến nghị đặt lệnh mua bán hay cam kết hiệu quả sinh lời tài chính nào đối với người đọc. Bạn cần tự thực hiện nghiên cứu độc lập và chịu trách nhiệm toàn bộ đối với các quyết định sử dụng vốn của bản thân.
 
 ---
 

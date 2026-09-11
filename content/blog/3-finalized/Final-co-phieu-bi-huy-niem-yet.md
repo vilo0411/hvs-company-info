@@ -170,7 +170,7 @@ Nền tảng **HVS Tài chính số** cung cấp chương trình **HVS Thực t�
 
 ---
 
-> **Tuyên bố miễn trừ trách nhiệm: Các thông tin pháp lý và ví dụ thực tế trong bài viết chỉ mang tính chất tham khảo kiến thức đầu tư. HVS không chịu trách nhiệm cho các quyết định mua bán hay thiệt hại tài chính phát sinh của nhà đầu tư trên thị trường chứng khoán.**
+**Tuyên bố miễn trừ trách nhiệm: Các thông tin pháp lý và ví dụ thực tế trong bài viết chỉ mang tính chất tham khảo kiến thức đầu tư. HVS không chịu trách nhiệm cho các quyết định mua bán hay thiệt hại tài chính phát sinh của nhà đầu tư trên thị trường chứng khoán.**
 
 ---
 

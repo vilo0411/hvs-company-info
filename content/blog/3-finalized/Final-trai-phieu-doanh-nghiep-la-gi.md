@@ -76,7 +76,7 @@ Dưới đây là bảng tóm tắt các tiêu chí kỹ thuật giúp thẩm đ
 
 HVS nhận định đầu tư trái phiếu doanh nghiệp đòi hỏi bạn cân bằng giữa lợi nhuận coupon và rủi ro tín dụng. Bạn không nên xem đây là kênh đầu tư an toàn tuyệt đối. Tích lũy kiến thức tự phân tích cùng HVS là giải pháp giúp bạn bảo vệ dòng vốn tối ưu.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi thông tin trong bài viết chỉ nhằm mục đích học tập tại HVS, không cấu thành lời khuyên hay khuyến nghị đầu tư. Nhà đầu tư tự chịu trách nhiệm về quyết định của mình.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi thông tin trong bài viết chỉ nhằm mục đích học tập tại HVS, không cấu thành lời khuyên hay khuyến nghị đầu tư. Nhà đầu tư tự chịu trách nhiệm về quyết định của mình.
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-23):** Khởi tạo outline.

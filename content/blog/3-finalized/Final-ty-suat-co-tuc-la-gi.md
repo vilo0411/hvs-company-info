@@ -125,7 +125,7 @@ Nhiều nhà đầu tư F0 gặp rủi ro do lỗi đọc báo cáo tài chính 
 
 Bạn tham gia [HVS Thực tập số](https://taichinhso.hvsvn.com/thuc-tap-so) trên **HVS Tài chính số** VÀ dùng **HVS Demo** để thực hành.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Nội dung bài viết chỉ mang tính chất tham khảo học tập tại HVS, không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào.
+**Tuyên bố miễn trừ trách nhiệm:** Nội dung bài viết chỉ mang tính chất tham khảo học tập tại HVS, không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào.
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.1 (2026-08-25):** Tái tạo outline tự động dựa trên phân tích SERP và Search Intent thực tế của đối thủ.

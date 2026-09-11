@@ -18,7 +18,7 @@ Cổ phiếu VHM (Công ty Cổ phần Vinhomes) là mã chứng khoán bất đ
 
 ## 4 Bước đặt lệnh cách mua cổ phiếu vhm trên sàn chứng khoán
 
-Để thực hiện [cách mua cổ phiếu trên sàn HOSE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-tren-san-hose) nói chung và sở hữu mã cổ phiếu VHM nói riêng, bạn không cần phải trực tiếp đến sở giao dịch. Quy trình đặt lệnh hiện nay diễn ra trực tuyến 100% qua điện thoại thông minh vô cùng tiện lợi. Dưới đây là bốn bước hướng dẫn chi tiết giúp bạn tự tin thực hiện giao dịch khớp lệnh thành công:
+Để thực hiện [cách mua cổ phiếu trên sàn HOSE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-co-phieu-tren-san-hose) nói chung và sở hữu mã cổ phiếu VHM nói riêng, bạn không cần phải trực tiếp đến sở giao dịch. Quy trình đặt lệnh hiện nay diễn ra trực tuyến 100% qua điện thoại thông minh vô cùng tiện lợi. Dưới đây là bốn bước hướng dẫn chi tiết giúp bạn tự tin thực hiện giao dịch khớp lệnh thành công:
 
 ### Bước 1: Mở tài khoản chứng khoán trực tuyến eKYC miễn phí
 

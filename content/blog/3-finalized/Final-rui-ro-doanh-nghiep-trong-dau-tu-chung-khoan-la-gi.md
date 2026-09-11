@@ -154,7 +154,7 @@ Lộ trình đào tạo trang bị các giá trị cốt lõi bao gồm:
 
 Nhận diện rủi ro phi hệ thống giúp bạn bảo vệ danh mục trước biến cố nội tại. Qua checklist đầu tư 8 điểm, bạn chủ động kiểm soát rủi ro gian lận kế toán hay pháp lý. HVS khuyến nghị rèn luyện năng lực phân tích tài chính tự chủ giúp bạn đưa ra quyết định độc lập, tránh phụ thuộc hội nhóm.
 
-> **Tuyên bố miễn trừ trách nhiệm: Mọi thông tin phân tích và nhận định trong bài viết chỉ mang tính chất tham khảo học thuật. HVS không chịu trách nhiệm cho các quyết định đầu tư hay giao dịch thực tế của người đọc trên thị trường chứng khoán.**
+**Tuyên bố miễn trừ trách nhiệm: Mọi thông tin phân tích và nhận định trong bài viết chỉ mang tính chất tham khảo học thuật. HVS không chịu trách nhiệm cho các quyết định đầu tư hay giao dịch thực tế của người đọc trên thị trường chứng khoán.**
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-18):** Tạo outline — gap chính: checklist 8 điểm và rủi ro quản trị doanh nghiệp.

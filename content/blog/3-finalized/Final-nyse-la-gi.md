@@ -89,7 +89,7 @@ Checklist hành động dành cho bạn:
 - Luyện kỹ năng biểu đồ trên **HVS Demo**.
 - Thảo luận kịch bản tại **HVS Forum**.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Nội dung chỉ nhằm mục đích học tập tại HVS, không cấu thành lời khuyên đầu tư. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính.
+**Tuyên bố miễn trừ trách nhiệm:** Nội dung chỉ nhằm mục đích học tập tại HVS, không cấu thành lời khuyên đầu tư. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính.
 
 ---
 

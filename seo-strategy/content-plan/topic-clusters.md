@@ -1,6 +1,6 @@
 # Topic Clusters — HVS SEO Content Map
-> Cập nhật: 2026-08-28 | Nguồn: sitemap taichinhso.hvsvn.com (quét thực tế)
-> ✅ Published: 315 | 🔄 In Progress: 0 | ⭕ Planned: 184
+> Cập nhật: 2026-09-04 | Nguồn: sitemap taichinhso.hvsvn.com (quét thực tế)
+> ✅ Published: 322 | 🔄 In Progress: 0 | ⭕ Planned: 177
 
 ---
 
@@ -186,7 +186,7 @@
 - ✅ cổ phiếu ngành hóa chất *(Published — Final-co-phieu-nganh-hoa-chat.md)*
 - ✅ cổ phiếu ngành nông nghiệp *(Published — Final-co-phieu-nganh-nong-nghiep.md)*
 
-### Cluster: Phân tích cơ bản (116 articles | ✅ 47 | 🔄 0 | ⭕ 71)
+### Cluster: Phân tích cơ bản (116 articles | ✅ 48 | 🔄 0 | ⭕ 70)
 
 **Pillar:** ✅ p/e là gì *(Published — Final-p-e-la-gi.md)*
 
@@ -300,7 +300,7 @@
 - ✅ Chu kỳ kinh tế là gì *(Published — Final-chu-ky-kinh-te-la-gi.md)*
 - ⭕ lý thuyết trò chơi *(Planned)*
 - ⭕ lợi thế cạnh tranh là gì *(Planned)*
-- ⭕ chi phí cố định *(Planned)*
+- ✅ chi phí cố định *(Published — Final-chi-phi-co-dinh.md)*
 - ✅ chu kỳ có nghĩa là gì *(Published — Final-chu-ky-co-nghia-la-gi.md)*
 - ✅ bẫy thanh khoản *(Published — Final-bay-thanh-khoan.md)*
 - ✅ Bong bóng dotcom là gì *(Published — Final-bong-bong-dotcom-la-gi.md)*
@@ -482,19 +482,19 @@
 - ✅ chứng chỉ hành nghề chứng khoán *(Published — Final-chung-chi-hanh-nghe-chung-khoan.md)*
 - ✅ chứng chỉ tài chính *(Published — Final-chung-chi-tai-chinh.md)*
 
-### Cluster: chứng khoán (69 articles | ✅ 40 | 🔄 0 | ⭕ 29)
+### Cluster: chứng khoán (69 articles | ✅ 48 | 🔄 0 | ⭕ 21)
 
 **Pillar:** ✅ ce là gì *(Published — Final-ce-la-gi.md)*
 
 **Priority 1:**
 - ✅ so sánh forex và chứng khoán *(Published — Final-so-sanh-forex-va-chung-khoan.md)*
-- ✅ app theo dõi chứng khoán *(Published — External)*
-- ✅ app đầu tư chứng khoán *(Published — External)*
+- ✅ app theo dõi chứng khoán *(Published — Final-app-theo-doi-chung-khoan.md)*
+- ✅ app đầu tư chứng khoán *(Published — Final-app-dau-tu-chung-khoan.md)*
 - ✅ quản lý danh mục đầu tư chứng khoán *(Published — Final-quan-ly-danh-muc-dau-tu-chung-khoan.md)*
 - ✅ Call margin là gì *(Published — Final-call-margin-la-gi.md)*
 - ⭕ cắt margin là gì *(Planned)*
 - ✅ Margin là gì *(Published — Final-margin-la-gi.md)*
-- ⭕ full margin là gì *(Planned)*
+- ✅ full margin là gì *(Published — Final-full-margin-la-gi.md)*
 - ✅ bán khống là gì *(Published — External)*
 - ✅ sàn giao dịch chứng khoán là gì *(Published — Final-san-giao-dich-chung-khoan-la-gi.md)*
 - ✅ Trading là gì *(Published — Final-trading-la-gi.md)*
@@ -517,31 +517,31 @@
 - ✅ kinh nghiệm chơi chứng khoán *(Published — Final-kinh-nghiem-choi-chung-khoan.md)*
 - ✅ chơi chứng khoán có giàu không *(Published — Final-choi-chung-khoan-co-giau-khong.md)*
 - ✅ đòn bẩy tài chính trong đầu tư chứng khoán *(Published — Final-don-bay-tai-chinh-trong-dau-tu-chung-khoan.md)*
-- ⭕ Tư vấn chứng khoán là gì *(Planned)*
+- ✅ Tư vấn chứng khoán là gì *(Published — Final-tu-van-chung-khoan-la-gi.md)*
 - ⭕ người giàu nhất sàn chứng khoán việt nam *(Planned)*
 - ✅ ipo là gì *(Published — Final-ipo-la-gi.md)*
 - ⭕ Nhà đầu tư chứng khoán chuyên nghiệp là gì *(Planned)*
 - 🔄 Sàn OTC là gì *(In Progress)*
 - ✅ nav là gì *(Published — Final-nav-la-gi.md)*
-- ⭕ tự doanh chứng khoán là gì *(Planned)*
+- ✅ tự doanh chứng khoán là gì *(Published — Final-tu-doanh-chung-khoan-la-gi.md)*
 - ⭕ thao túng chứng khoán là gì *(Planned)*
-- ⭕ target trong chứng khoán là gì *(Planned)*
-- ⭕ Đội lái chứng khoán là gì *(Planned)*
+- ✅ target trong chứng khoán là gì *(Published — Final-target-trong-chung-khoan-la-gi.md)*
+- ✅ Đội lái chứng khoán là gì *(Published — Final-doi-lai-chung-khoan-la-gi.md)*
 - ✅ Dòng tiền trong chứng khoán *(Published — Final-dong-tien-trong-chung-khoan.md)*
-- ⭕ hệ số beta là gì *(Planned)*
+- ✅ hệ số beta là gì *(Published — Final-he-so-beta-trong-dau-tu-chung-khoan-la-gi.md)*
 - ✅ giao dịch chứng khoán là gì *(Published — Final-giao-dich-chung-khoan-la-gi.md)*
 - ✅ bullish là gì *(Published — External)*
 - ⭕ uỷ thác đầu tư chứng khoán *(Planned)*
 - ✅ Vốn hóa thị trường là gì *(Published — Final-von-hoa-thi-truong-la-gi.md)*
 - ⭕ Đầu cơ chứng khoán là gì *(Planned)*
-- ⭕ giao dịch nội gián *(Planned)*
+- ✅ giao dịch nội gián *(Published — Final-giao-dich-noi-gian-la-gi.md)*
 - ⭕ Sell in may and go away là gì *(Planned)*
 - ⭕ Lợi nhuận trong đầu tư chứng khoán *(Planned)*
 - ⭕ Đầu tư chứng khoán cần bao nhiêu tiền *(Planned)*
 - ⭕ biên độ giao dịch chứng khoán *(Planned)*
-- ⭕ quy định giao dịch chứng khoán *(Planned)*
-- ⭕ Lưu ký chứng khoán *(Planned)*
-- ⭕ thị trường sơ cấp *(Planned)*
+- ✅ quy định giao dịch chứng khoán *(Published — Final-quy-dinh-giao-dich-chung-khoan.md)*
+- ✅ Lưu ký chứng khoán là gì *(Published — Final-luu-ky-chung-khoan-la-gi.md)*
+- ✅ thị trường sơ cấp *(Published — Final-thi-truong-so-cap.md)*
 - ✅ Cắt lỗ là gì *(Published — Final-cat-lo-la-gi.md)*
 - ⭕ Thị trường phân hóa *(Planned)*
 - ⭕ Các sai lầm dẫn tới phá sản trong đầu tư chứng khoán *(Planned)*

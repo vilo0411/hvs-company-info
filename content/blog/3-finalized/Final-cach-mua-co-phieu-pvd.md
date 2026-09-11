@@ -18,7 +18,7 @@ Cổ phiếu PVD là một trong những mã giao dịch sôi động nhất nh�
 
 ## 4 Bước đặt lệnh cách mua cổ phiếu pvd trên sàn chứng khoán
 
-Để thực hiện [cách mua cổ phiếu trên sàn HOSE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-tren-san-hose) nói chung và sở hữu mã cổ phiếu PVD nói riêng, bạn không cần phải trực tiếp đến quầy giao dịch. Quy trình mua bán hiện nay được thực hiện hoàn toàn trực tuyến 100% thông qua các thiết bị di động kết nối mạng. Dưới đây là bốn bước hướng dẫn chi tiết giúp nhà đầu tư F0 thực hiện giao dịch an toàn và khớp lệnh nhanh chóng:
+Để thực hiện [cách mua cổ phiếu trên sàn HOSE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-co-phieu-tren-san-hose) nói chung và sở hữu mã cổ phiếu PVD nói riêng, bạn không cần phải trực tiếp đến quầy giao dịch. Quy trình mua bán hiện nay được thực hiện hoàn toàn trực tuyến 100% thông qua các thiết bị di động kết nối mạng. Dưới đây là bốn bước hướng dẫn chi tiết giúp nhà đầu tư F0 thực hiện giao dịch an toàn và khớp lệnh nhanh chóng:
 
 ### Bước 1: Mở tài khoản chứng khoán trực tuyến eKYC miễn phí
 

@@ -97,7 +97,7 @@ Thực hành thử nghiệm quyết định hiệu quả học tập. Bạn sử
 1. **Giao dịch giả lập trên HVS Demo:** Bạn thiết lập danh mục mô phỏng có tỷ trọng 30% cổ phiếu phòng thủ (REE, BWE) để kiểm chứng drawdown thực tế mà không lo mất tiền thật.
 2. **Thảo luận trên HVS Forum:** Bạn tham gia cộng đồng để nhận tư vấn (tỷ lệ phân bổ, thời điểm mua) từ các Mentor giàu kinh nghiệm.
 
-> **Tuyên bố miễn trừ trách nhiệm: Thông tin trong bài viết chỉ mang tính chất tham khảo học thuật tại HVS. Bạn chịu trách nhiệm hoàn toàn đối với các quyết định giao dịch và phân bổ vốn cá nhân trên thị trường chứng khoán.**
+**Tuyên bố miễn trừ trách nhiệm: Thông tin trong bài viết chỉ mang tính chất tham khảo học thuật tại HVS. Bạn chịu trách nhiệm hoàn toàn đối với các quyết định giao dịch và phân bổ vốn cá nhân trên thị trường chứng khoán.**
 
 ---
 

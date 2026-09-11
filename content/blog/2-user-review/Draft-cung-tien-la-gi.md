@@ -197,7 +197,7 @@ Nền tảng đào tạo trực tuyến **HVS Tài chính số** cung cấp hệ
 
 Cung tiền là chỉ báo vĩ mô quan trọng phản ánh quy mô dòng tiền luân chuyển trong nền kinh tế. Phân tích sâu sắc các yếu tố ảnh hưởng đến cung tiền M2 và chênh lệch với tăng trưởng tín dụng giúp bạn chủ động dự báo thời điểm đảo chiều của chu kỳ tiền tệ để bảo vệ tài sản hiệu quả. Hãy xây dựng cho bản thân một tư duy phân tích vĩ mô vững chắc cùng các chương trình đào tạo thực chiến tại HVS để nâng cao hiệu quả đầu tư một cách bền vững nhất.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi số liệu thống kê vĩ mô và phân tích kịch bản dòng tiền trong bài viết chỉ phục vụ mục đích tham khảo kiến thức học tập tại HVS, không cấu thành khuyến nghị mua bán cổ phiếu trực tiếp trên thị trường. Nhà đầu tư tự chịu trách nhiệm đối với mọi quyết định giao dịch tài chính cá nhân của mình.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi số liệu thống kê vĩ mô và phân tích kịch bản dòng tiền trong bài viết chỉ phục vụ mục đích tham khảo kiến thức học tập tại HVS, không cấu thành khuyến nghị mua bán cổ phiếu trực tiếp trên thị trường. Nhà đầu tư tự chịu trách nhiệm đối với mọi quyết định giao dịch tài chính cá nhân của mình.
 
 ---
 

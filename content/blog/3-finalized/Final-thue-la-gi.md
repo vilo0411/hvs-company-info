@@ -128,7 +128,7 @@ Nhà đầu tư cá nhân thường chịu thua lỗ do không đánh giá đư�
 
 Nắm vững bản chất thuế giúp bạn làm chủ các cơ hội đầu tư vĩ mô hiệu quả. Chính sách thuế không chỉ là công cụ thu ngân sách mà còn là đòn bẩy điều tiết sản xuất và tiêu dùng của nền kinh tế. Bằng cách theo dõi sát sao các đợt điều chỉnh thuế VAT, thuế bảo vệ môi trường hay thuế nhập khẩu, bạn có thể chủ động dự báo kết quả kinh doanh của các doanh nghiệp niêm yết. Hãy đồng hành cùng **HVS** để trang bị tư duy phân tích vĩ mô thực chiến và xây dựng danh mục đầu tư an toàn, bền vững.
 
-> **Tuyên bố miễn trừ trách nhiệm: Mọi thông tin phân tích vĩ mô và mã cổ phiếu được đề cập trong bài viết chỉ mang tính chất tham khảo giảng dạy tại nền tảng đào tạo HVS. Bài viết không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán trên thị trường chứng khoán thực tế.**
+**Tuyên bố miễn trừ trách nhiệm: Mọi thông tin phân tích vĩ mô và mã cổ phiếu được đề cập trong bài viết chỉ mang tính chất tham khảo giảng dạy tại nền tảng đào tạo HVS. Bài viết không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán trên thị trường chứng khoán thực tế.**
 
 ## Revision Log
 - **07/08/2026 (v1.1 - Maintenance):**

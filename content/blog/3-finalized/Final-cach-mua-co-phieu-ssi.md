@@ -18,7 +18,7 @@ Cổ phiếu SSI (Công ty Cổ phần Chứng khoán SSI) có quy mô vốn hó
 
 ## 4 Bước đặt lệnh Cách Mua Cổ Phiếu SSI trên sàn chứng khoán
 
-Để thực hiện [cách mua cổ phiếu trên sàn HOSE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-tren-san-hose) nói chung và sở hữu mã SSI nói riêng, nhà đầu tư không cần đến trực tiếp sở giao dịch. Toàn bộ quy trình giao dịch được thực hiện trực tuyến thông qua ứng dụng di động của các công ty chứng khoán được cấp phép. Dưới đây là bốn bước hướng dẫn cụ thể giúp bạn thực hiện mua cổ phiếu SSI dễ dàng:
+Để thực hiện [cách mua cổ phiếu trên sàn HOSE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-co-phieu-tren-san-hose) nói chung và sở hữu mã SSI nói riêng, nhà đầu tư không cần đến trực tiếp sở giao dịch. Toàn bộ quy trình giao dịch được thực hiện trực tuyến thông qua ứng dụng di động của các công ty chứng khoán được cấp phép. Dưới đây là bốn bước hướng dẫn cụ thể giúp bạn thực hiện mua cổ phiếu SSI dễ dàng:
 
 ### Bước 1: Mở tài khoản chứng khoán trực tuyến eKYC miễn phí
 

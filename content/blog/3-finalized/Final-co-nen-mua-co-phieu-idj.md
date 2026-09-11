@@ -98,7 +98,7 @@ Hãy bắt đầu rèn luyện thực tế ngay hôm nay. Bạn có thể sử d
 
 ---
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và kịch bản giả lập trong bài viết này chỉ phục vụ mục đích học tập và thực hành phân tích chứng khoán tại HVS, không cấu thành khuyến nghị đầu tư. Bạn tự chịu trách nhiệm trước các quyết định tài chính của mình.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và kịch bản giả lập trong bài viết này chỉ phục vụ mục đích học tập và thực hành phân tích chứng khoán tại HVS, không cấu thành khuyến nghị đầu tư. Bạn tự chịu trách nhiệm trước các quyết định tài chính của mình.
 
 ---
 

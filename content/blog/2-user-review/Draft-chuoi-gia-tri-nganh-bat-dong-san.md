@@ -110,7 +110,7 @@ Nhìn chung, hiểu rõ chuỗi giá trị ngành bất động sản là chìa 
 
 Việc đánh giá chính xác từng mắt xích từ pháp lý, xây dựng đến bán hàng giúp bạn tránh được bẫy tài sản đóng băng của các doanh nghiệp yếu kém. Bạn hãy kiên nhẫn tích lũy kiến thức thực chiến và tuân thủ kỷ luật quản trị rủi ro để bảo vệ dòng vốn [đầu tư cổ phiếu](https://taichinhso.hvsvn.com/dau-tu) hiệu quả cùng HVS.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.1 (2026-08-25):** Tái tạo outline tự động dựa trên phân tích SERP và Search Intent thực tế của đối thủ.

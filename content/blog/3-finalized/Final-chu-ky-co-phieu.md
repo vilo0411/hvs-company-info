@@ -68,7 +68,7 @@ Nhà đầu tư cá nhân dễ ra quyết định sai lầm theo cảm xúc vùn
 
 Hãy tham khảo HVS Tài chính số với [chương trình HVS Thực tập số](https://taichinhso.hvsvn.com/thuc-tap-so) để [đầu tư cổ phiếu](https://taichinhso.hvsvn.com/dau-tu) hiệu quả.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích trong bài viết chỉ mang tính chất tham khảo thông tin và hỗ trợ thực hành tại HVS. Nội dung không cấu thành lời khuyên đầu tư. Nhà đầu tư chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích trong bài viết chỉ mang tính chất tham khảo thông tin và hỗ trợ thực hành tại HVS. Nội dung không cấu thành lời khuyên đầu tư. Nhà đầu tư chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.1 (2026-08-25):** Tái tạo outline tự động dựa trên phân tích SERP và Search Intent thực tế của đối thủ.

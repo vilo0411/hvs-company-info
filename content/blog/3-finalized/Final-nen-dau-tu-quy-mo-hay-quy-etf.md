@@ -96,7 +96,7 @@ Nếu muốn thử nghiệm thực tế trước khi dùng tiền thật, bạn 
 
 Quyết định nên đầu tư quỹ mở hay quỹ ETF phụ thuộc vào nhu cầu tích lũy, quy mô vốn và trải nghiệm giao dịch của riêng bạn. Quỹ mở phù hợp với định hướng tích lũy kỷ luật định kỳ từ số vốn nhỏ, trong khi quỹ ETF là lựa chọn tối ưu để tối giản chi phí và sử dụng tính thanh khoản cao trên sàn chứng khoán. Việc trang bị kiến thức tự phân tích tại **HVS** sẽ giúp bạn chủ động đưa ra lựa chọn đầu tư phù hợp nhất.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ chứng chỉ quỹ hay mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ chứng chỉ quỹ hay mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
 ---
 

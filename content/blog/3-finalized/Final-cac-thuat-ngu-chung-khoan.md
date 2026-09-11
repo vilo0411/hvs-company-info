@@ -112,7 +112,7 @@ Bạn áp dụng trực tiếp các thuật ngữ bằng cách thực hành giao
 
 Hiểu rõ ngôn ngữ thị trường giúp bạn tự tin đầu tư. Hãy học [HVS Thực tập số](https://taichinhso.hvsvn.com/thuc-tap-so) trên **HVS Tài chính số** và thực hành trên **HVS Demo** để kiểm chứng phương pháp [đầu tư](https://taichinhso.hvsvn.com/dau-tu) cùng HVS.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Nội dung chỉ mang tính tham khảo học tập tại HVS, không cấu thành khuyến nghị đầu tư. Bạn tự chịu trách nhiệm cho quyết định tài chính của mình.
+**Tuyên bố miễn trừ trách nhiệm:** Nội dung chỉ mang tính tham khảo học tập tại HVS, không cấu thành khuyến nghị đầu tư. Bạn tự chịu trách nhiệm cho quyết định tài chính của mình.
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-08-26):** Khởi tạo outline tự động chuẩn SEO 3S Anti-AI và E-E-A-T phục vụ content sprint.

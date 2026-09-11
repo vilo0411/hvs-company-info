@@ -70,7 +70,7 @@ Bạn có thể đặt lệnh ảo trên công cụ **HVS Demo** để rèn luy�
 
 Sàn giao dịch chứng khoán giúp bạn tối ưu hóa dòng tiền nhàn rỗi hiệu quả khi trang bị đầy đủ kiến thức. Hiểu rõ luật chơi của từng sàn giúp bạn đầu tư an toàn. Hãy học tập bài bản cùng HVS để làm chủ danh mục ngay hôm nay.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích trong bài viết này chỉ nhằm mục đích học tập và thực hành tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích trong bài viết này chỉ nhằm mục đích học tập và thực hành tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
 ---
 

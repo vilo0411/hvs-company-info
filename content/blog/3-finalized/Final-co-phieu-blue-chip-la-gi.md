@@ -120,7 +120,7 @@ Trong quá trình học, bạn có thể sử dụng công cụ hỗ trợ **HVS
 
 Đầu tư cổ phiếu blue chip là giải pháp tích lũy tài sản an toàn cho người mới bắt đầu nhờ ưu thế về vốn hóa, thanh khoản và cổ tức ổn định. Tuy nhiên, việc lựa chọn thời điểm giải ngân và định giá chính xác doanh nghiệp vẫn là yếu tố quyết định hiệu quả đầu tư. Việc trang bị kiến thức phân tích bài bản tại **HVS** sẽ giúp bạn tự tin đưa ra quyết định độc lập và quản trị rủi ro danh mục hiệu quả.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
 ## Revision Log
 - **v1.0 (2026-06-29):** Khởi tạo nội dung bài viết về cổ phiếu blue chip theo chế độ Guided.

@@ -90,7 +90,7 @@ Song song với việc học lý thuyết, bạn có thể ứng dụng ngay cá
 
 Mô hình CAPM giúp liên kết rủi ro hệ thống với tỷ suất sinh lời yêu cầu để hỗ trợ định giá doanh nghiệp. Thấu hiểu mô hình này giúp bạn xây dựng tư duy đầu tư thực chiến bài bản cùng các Mentor chuyên nghiệp tại HVS.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định chỉ mang tính chất tham khảo học tập tại HVS, không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Bạn tự chịu trách nhiệm trước các quyết định đầu tư của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định chỉ mang tính chất tham khảo học tập tại HVS, không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Bạn tự chịu trách nhiệm trước các quyết định đầu tư của bản thân.
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-25):** Khởi tạo outline cho từ khóa "Mô hình CAPM là gì" thuộc Cluster Phân tích cơ bản theo yêu cầu viết bài mới.

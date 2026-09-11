@@ -121,7 +121,7 @@ Học viên được cấp quyền truy cập hệ thống **HVS Demo** để th
 
 Hãy tham gia [HVS Thực tập số](https://taichinhso.hvsvn.com/thuc-tap-so) trên **HVS Tài chính số** và thực hành giao dịch tại **HVS Demo** để rèn luyện phân bổ vốn trước khi đầu tư thực tế.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Nội dung bài viết chỉ mang tính chất tham khảo và học tập tại HVS, không cấu thành khuyến nghị đầu tư. Bạn tự chịu trách nhiệm cho các quyết định tài chính của mình.
+**Tuyên bố miễn trừ trách nhiệm:** Nội dung bài viết chỉ mang tính chất tham khảo và học tập tại HVS, không cấu thành khuyến nghị đầu tư. Bạn tự chịu trách nhiệm cho các quyết định tài chính của mình.
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.1 (2026-08-26):** Tái cơ cấu outline theo chuẩn SERP thực tế về quy trình đa dạng hóa danh mục của các quỹ lớn tại Việt Nam.

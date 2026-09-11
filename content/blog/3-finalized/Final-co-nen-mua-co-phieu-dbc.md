@@ -92,7 +92,7 @@ Nền tảng **HVS Tài chính số** mở chương trình đào tạo **HVS Th�
 
 Học đi đôi với hành. Bạn thực hành giao dịch mô phỏng trên **HVS Demo** để kiểm chứng kịch bản và thảo luận kinh nghiệm phân tích chu kỳ cùng chuyên gia trên **HVS Forum**.
 
-> **Tuyên bố miễn trừ trách nhiệm (Không tạo heading riêng, trình bày dạng blockquote ở cuối bài):** Mọi phân tích và kịch bản giả lập trong bài viết này chỉ phục vụ mục đích học tập và thực hành phân tích chứng khoán tại HVS, không cấu thành khuyến nghị đầu tư. Bạn tự chịu trách nhiệm trước các quyết định tài chính của mình.
+**Tuyên bố miễn trừ trách nhiệm (Không tạo heading riêng, trình bày dạng blockquote ở cuối bài):** Mọi phân tích và kịch bản giả lập trong bài viết này chỉ phục vụ mục đích học tập và thực hành phân tích chứng khoán tại HVS, không cấu thành khuyến nghị đầu tư. Bạn tự chịu trách nhiệm trước các quyết định tài chính của mình.
 
 ---
 

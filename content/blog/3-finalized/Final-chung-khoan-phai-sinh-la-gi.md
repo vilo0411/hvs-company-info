@@ -112,7 +112,7 @@ Nhà đầu tư mới thường giao dịch phái sinh theo cảm tính hoặc d
 
 Chứng khoán phái sinh là công cụ phòng vệ và tối ưu vốn nhờ đòn bẩy và giao dịch hai chiều. Để tồn tại lâu dài, việc học phân tích kỹ thuật và quản trị vốn là bắt buộc. Đào tạo tại HVS giúp bạn làm chủ kỹ năng tự phân tích và bảo vệ tài sản.
 
-> **Tuyên bố miễn trừ trách nhiệm: Các thông tin phân tích và ví dụ trong bài viết chỉ nhằm mục đích cung cấp kiến thức đào tạo đầu tư, không cấu thành lời khuyên hay khuyến nghị mua bán chứng khoán trên thị trường.**
+**Tuyên bố miễn trừ trách nhiệm: Các thông tin phân tích và ví dụ trong bài viết chỉ nhằm mục đích cung cấp kiến thức đào tạo đầu tư, không cấu thành lời khuyên hay khuyến nghị mua bán chứng khoán trên thị trường.**
 
 ---
 

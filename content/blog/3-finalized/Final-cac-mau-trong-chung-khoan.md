@@ -69,7 +69,7 @@ Theo dõi tương quan cung cầu ở hai bên dư mua và dư bán giúp bạn 
 
 Để tích lũy kỹ năng này, bạn hãy tham gia chương trình [HVS Thực tập số](https://taichinhso.hvsvn.com/thuc-tap-so) thuộc **HVS Tài chính số** và giao dịch thử nghiệm trên **HVS Demo** để kiểm chứng phương pháp [đầu tư](https://taichinhso.hvsvn.com/dau-tu) an toàn cùng HVS.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích chỉ mang tính chất tham khảo học tập tại HVS, không cấu thành khuyến nghị đầu tư. Bạn tự chịu trách nhiệm cho quyết định tài chính của mình.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích chỉ mang tính chất tham khảo học tập tại HVS, không cấu thành khuyến nghị đầu tư. Bạn tự chịu trách nhiệm cho quyết định tài chính của mình.
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-08-26):** Khởi tạo outline tự động chuẩn SEO 3S Anti-AI và E-E-A-T phục vụ content sprint.

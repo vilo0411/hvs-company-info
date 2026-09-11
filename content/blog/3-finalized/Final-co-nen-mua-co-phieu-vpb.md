@@ -93,7 +93,7 @@ Hầu hết nhà đầu tư F0 chỉ nhìn vào doanh thu và lợi nhuận danh
 
 ---
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ nhằm mục đích cung cấp tài liệu nghiên cứu học tập tại HVS. Nội dung không cấu thành khuyến nghị mua bán hay lời khuyên đầu tư bất kỳ mã cổ phiếu nào trên thị trường. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ nhằm mục đích cung cấp tài liệu nghiên cứu học tập tại HVS. Nội dung không cấu thành khuyến nghị mua bán hay lời khuyên đầu tư bất kỳ mã cổ phiếu nào trên thị trường. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
 ---
 

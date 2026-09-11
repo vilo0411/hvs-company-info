@@ -93,7 +93,7 @@ Hầu hết nhà đầu tư cá nhân F0 thường mua cổ phiếu VCB chỉ d�
 
 ---
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ phục vụ mục đích cung cấp tài liệu học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành khuyến nghị mua bán hay lời khuyên đầu tư bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định giao dịch của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ phục vụ mục đích cung cấp tài liệu học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành khuyến nghị mua bán hay lời khuyên đầu tư bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định giao dịch của bản thân.
 
 ---
 

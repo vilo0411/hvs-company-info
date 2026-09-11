@@ -113,7 +113,7 @@ Song song đó, bạn có thể thực hành đặt lệnh giả lập bằng c�
 
 Đầu tư chứng khoán đòi hỏi kỷ luật phân bổ vốn và kiên nhẫn. Hệ sinh thái HVS luôn sẵn sàng đồng hành hỗ trợ bạn giao dịch độc lập.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.2 (2026-08-27):** Điều chỉnh thuật ngữ "Mentor CFA" thành "các Mentor sở hữu chứng chỉ CFA" theo phản hồi của người dùng.

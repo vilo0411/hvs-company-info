@@ -43,7 +43,7 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số"]
 
 # Cluster info
 Cluster: Chỉ số chứng khoán
-Internal_Links: ["https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-chi-quy", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-tren-san-hose", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cac-chi-so-chung-khoan-viet-nam-huong-dan-tu-a-z-cho-f0"]
+Internal_Links: ["https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-chi-quy", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-co-phieu-tren-san-hose", "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cac-chi-so-chung-khoan-viet-nam-huong-dan-tu-a-z-cho-f0"]
 ---
 
 # Chỉ số MSCI là gì? Hướng dẫn phân tích vĩ mô từ A-Z
@@ -94,7 +94,7 @@ Tổ chức MSCI tiến hành rà soát định kỳ danh mục 4 lần mỗi n�
 
 Quy chế sàng lọc liquidity và foreign room limit của MSCI đối với cổ phiếu Việt rất khắt khe. Cổ phiếu bắt buộc đạt giá trị giao dịch trung bình phiên tối thiểu 5 triệu USD. Đồng thời, tỷ lệ room ngoại khả dụng phải lớn hơn 15% mới đủ điều kiện duy trì trong danh mục.
 
-Các quỹ ETF thụ động (như iShares MSCI Frontier and Select EM ETF) bắt buộc phải tái cơ cấu danh mục khớp lệnh vào đợt ATC của ngày giao dịch cuối cùng trước khi danh mục mới có hiệu lực. Hành động này thường kích hoạt dòng tiền khổng lồ, tạo biến động mạnh khi [giao dịch trên sàn HOSE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-tren-san-hose) đối với các cổ phiếu trụ cột (như VCB, HPG, VNM).
+Các quỹ ETF thụ động (như iShares MSCI Frontier and Select EM ETF) bắt buộc phải tái cơ cấu danh mục khớp lệnh vào đợt ATC của ngày giao dịch cuối cùng trước khi danh mục mới có hiệu lực. Hành động này thường kích hoạt dòng tiền khổng lồ, tạo biến động mạnh khi [giao dịch trên sàn HOSE](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-co-phieu-tren-san-hose) đối với các cổ phiếu trụ cột (như VCB, HPG, VNM).
 
 Nhà đầu tư sẽ nắm bắt cơ hội sinh lời lớn nếu hiểu rõ quy luật dòng tiền này. Các quỹ ngoại sẽ mua ròng mạnh mẽ đẩy giá tăng cao nếu cổ phiếu Việt Nam được nâng tỷ trọng trong kỳ review bán niên. Trái lại, áp lực bán ròng từ khối ngoại sẽ kích hoạt đà giảm điểm ngắn hạn nếu một cổ phiếu (như HPG hoặc VNM) bị giảm tỷ trọng hoặc bị loại ra khỏi rổ MSCI do vi phạm room ngoại.
 

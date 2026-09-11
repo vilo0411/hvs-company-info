@@ -72,7 +72,7 @@ Tích lũy kiến thức đầu tư có hệ thống giúp bạn tự bảo vệ
 
 HVS nhận định so sánh Forex và chứng khoán cho thấy đầu tư cổ phiếu an toàn hơn nhờ pháp luật bảo hộ. Hãy học tập bài bản cùng HVS.
 
-> **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu hay tài sản tài chính nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
+**Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu hay tài sản tài chính nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
 ## Revision Log
 - **v1.0 (2026-06-25):** Khởi tạo outline cho từ khóa "so sánh forex và chứng khoán" thuộc Cluster chứng khoán theo yêu cầu viết bài mới.
