@@ -37,7 +37,8 @@ Mọi bài viết phải vượt qua bộ lọc tư duy tài chính tại `seo-s
   - **Giới hạn đoạn văn liên tục:** Không có quá 2 đoạn văn bản thông thường nằm liền kề nhau mà không có danh sách (bullet/numbered list), bảng biểu (Markdown Table), hoặc công thức toán học ngắt quãng.
   - **Quy trình dạng danh sách:** Toàn bộ các hướng dẫn dạng quy trình hoặc từng bước hành động bắt buộc phải viết dưới dạng danh sách liệt kê có đánh số hoặc dấu đầu dòng.
   - **Mật độ bảng biểu:** Bắt buộc chèn ít nhất một bảng so sánh, đối chiếu hoặc tóm tắt dữ liệu (Markdown Table) cho mỗi 1000 từ viết ra.
-  - **Trình bày công thức:** Mọi công thức tính toán hoặc minh họa số liệu (ví dụ: tính vốn tối thiểu, chi phí giao dịch) bắt buộc phải viết bằng ký hiệu toán học cụ thể ($...$ hoặc $$...$$) thay vì mô tả bằng chữ thuần túy.
+  - **Trình bày công thức (CẤM LATEX):** Nền tảng web HVS không hỗ trợ hiển thị LaTeX (`$...$` hoặc `$$...$$`). Mọi công thức toán học và minh họa số liệu bắt buộc phải viết bằng định dạng văn bản / Unicode thuần (dùng các ký hiệu: `×`, `÷`, `-`, `+`, `=`, `|...|`, `... / ...`).
+- **Tiêu đề H1 (Anti-AI Suffixes):** Tiêu đề H1 phải cô đọng, tự nhiên, đánh đúng vào Search Intent của từ khóa. CẤM sử dụng các cụm từ giật tít sáo rỗng / AI-vibe ở cuối H1 như: "từ A-Z", "từ A đến Z", "tất tần tật", "chi tiết nhất", "mới nhất 2026", "toàn tập".
 - **Bold Strategy:** Chỉ bôi đậm câu trả lời trực tiếp hoặc thông số quan trọng. Không bôi đậm từ khóa SEO một cách máy móc.
 - **Lists:** Sử dụng bullet points đồng nhất về từ loại (toàn bộ là động từ hoặc toàn bộ là danh từ).
 - **Ngoặc kép:** Không dùng ngoặc kép để nhấn mạnh. Chỉ dùng cho trích dẫn nguyên văn.

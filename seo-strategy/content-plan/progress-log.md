@@ -1,8 +1,8 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 349 bài
-- **Active Pipeline:** 9 items
+- **Published:** 384 bài
+- **Active Pipeline:** 2 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
@@ -20,6 +20,44 @@
 
 | Date | Keyword | Persona | Mode | File Path |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-09-15 | Đường WMA là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-duong-wma-la-gi.md` |
+| 2026-09-15 | Đường Trendline là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-duong-trendline-la-gi.md` |
+| 2026-09-15 | đường ma200 là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-duong-ma200-la-gi.md` |
+| 2026-09-15 | đường ema là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-duong-ema-la-gi.md` |
+| 2026-09-15 | đường a/d là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-duong-ad-la-gi.md` |
+| 2026-09-15 | day trading là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-day-trading-la-gi.md` |
+| 2026-09-15 | đầu tư giá trị là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-dau-tu-gia-tri-la-gi.md` |
+| 2026-09-15 | đầu tư chứng khoán ngắn hạn | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-dau-tu-chung-khoan-ngan-han.md` |
+| 2026-09-15 | Đầu tư chứng khoán dài hạn | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-dau-tu-chung-khoan-dai-han.md` |
+| 2026-09-15 | đảo chiều xu hướng là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-dao-chieu-xu-huong-la-gi.md` |
+| 2026-09-15 | copy trade là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-copy-trade-la-gi.md` |
+| 2026-09-15 | chỉ số vix là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-so-vix-la-gi.md` |
+| 2026-09-15 | chỉ báo xác định xu hướng | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-xac-dinh-xu-huong.md` |
+| 2026-09-15 | chỉ báo ultimate oscillator uo là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-ultimate-oscillator-uo-la-gi.md` |
+| 2026-09-15 | chỉ báo supertrend là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-supertrend-la-gi.md` |
+| 2026-09-14 | chỉ báo stochastic rsi là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-stochastic-rsi-la-gi.md` |
+| 2026-09-14 | chỉ báo roc là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-roc-la-gi.md` |
+| 2026-09-14 | chỉ báo parabolic sar | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-parabolic-sar.md` |
+| 2026-09-14 | chỉ báo obv là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-obv-la-gi.md` |
+| 2026-09-14 | chỉ báo mcdx | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-mcdx.md` |
+| 2026-09-14 | chỉ báo macd histogram là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-macd-histogram-la-gi.md` |
+| 2026-09-14 | chỉ báo know sure thing | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-know-sure-thing.md` |
+| 2026-09-14 | chỉ báo keltner channel | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-keltner-channel.md` |
+| 2026-09-14 | chỉ báo dòng tiền | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-dong-tien-la-gi.md` |
+| 2026-09-14 | chỉ báo dmi | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-dmi-la-gi.md` |
+| 2026-09-14 | chỉ báo connor rsi | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-connor-rsi-la-gi.md` |
+| 2026-09-14 | chỉ báo cci là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-cci-la-gi.md` |
+| 2026-09-14 | chỉ báo bollinger bands b | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-bollinger-bands-b.md` |
+| 2026-09-14 | Chỉ báo Bollinger Band Squeeze là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-bollinger-band-squeeze-la-gi.md` |
+| 2026-09-14 | chỉ báo atr là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-atr-la-gi.md` |
+| 2026-09-14 | chỉ báo aroon | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-aroon-la-gi.md` |
+| 2026-09-14 | chỉ báo adx | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-chi-bao-adx.md` |
+| 2026-09-14 | các phương pháp phân tích kỹ thuật | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-cac-phuong-phap-phan-tich-ky-thuat.md` |
+| 2026-09-14 | Bull trap là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-bull-trap-la-gi.md` |
+| 2026-09-14 | Bear Trap là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-bear-trap-la-gi.md` |
+| 2026-09-14 | Sideway là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-sideway-la-gi.md` |
+| 2026-09-14 | chỉ báo bollinger bands width | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-chi-bao-bollinger-bands-width.md` |
+| 2026-09-14 | breakout trong chứng khoán là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-breakout-trong-chung-khoan-la-gi.md` |
 | 2026-09-10 | Optimization: HVS Bridge & Internal Links (Macro to Beginner F0) | Lan Newbie / F0 / F1 | Optimized | `content/blog/3-finalized/Final-chinh-sach-tien-te-la-gi.md` (+ 15 macro files) |
 | 2026-09-04 | giao dịch nội gián | F1+ & Nhà đầu tư cá nhân | Optimized | `content/blog/3-finalized/Final-giao-dich-noi-gian-la-gi.md` |
 | 2026-09-04 | full margin là gì | Active Trader & Investor (F0, F1) | Optimized | `content/blog/3-finalized/Final-full-margin-la-gi.md` |

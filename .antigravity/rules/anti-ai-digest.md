@@ -69,6 +69,7 @@ FORBIDDEN_PATTERNS:
   - hvs_tai_chinh_so_sai_lech: 'mô tả HVS Tài chính số là công cụ theo dõi số liệu/bộ lọc tài chính tự động (thực tế: HVS Tài chính số là nền tảng đào tạo trực tuyến với các lộ trình thực chiến toàn diện)'
   - hvs_product_hierarchy_sai: 'giới thiệu HVS Thực tập số như sản phẩm riêng biệt ngang hàng HVS Tài chính số — thực tế HVS Thực tập số là chương trình/lộ trình đào tạo NẰM TRONG nền tảng HVS Tài chính số; HVS Demo và HVS Forum là công cụ hỗ trợ/bổ trợ, không phải sản phẩm đào tạo chính'
   - hvs_dao_tao_sai_lech: 'trình bày HVS Tài chính số / HVS Thực tập số dạy các thủ tục hành chính, biểu mẫu, cách tính thuế phí cụ thể hoặc quản trị danh mục nâng cao cho người mới bắt đầu (thực tế: tập trung đào tạo kiến thức đầu tư cốt lõi FA LV1 và TA LV1 giúp tự phân tích)'
+  - checklist_4_buc_mac_dinh: 'cấm mặc định lạm dụng mẫu "Checklist 4 bước..." cho phần Kết luận H2. Bắt buộc luân phiên đa dạng hóa cấu trúc trình bày.'
 ```
 
 ---
@@ -95,7 +96,7 @@ REQUIRED:
   - rhythm_break: 'có ít nhất 1 câu cực ngắn (≤7 từ) mỗi 3-4 câu dài'
   - product_bridge: 'nêu nỗi đau/vấn đề TRƯỚC khi giới thiệu sản phẩm HVS'
   - source_legal: 'nguồn pháp lý chỉ dùng vanban.chinhphu.vn hoặc vbpl.vn'
-  - conclusion_h2: 'bắt buộc có H2 Kết luận ở cuối bài, viết tùy biến theo từ khóa và không dùng từ cấm "Tóm lại,", "Kết luận là,"'
+  - conclusion_h2: 'bắt buộc có H2 Kết luận ở cuối bài, viết tùy biến theo từ khóa, đa dạng cấu trúc trình bày (không rập khuôn 4-step checklist) và không dùng từ cấm "Tóm lại,", "Kết luận là,"'
   - brand_in_sapo: 'Sapo phải chứa brandname "HVS"'
   - brand_in_conclusion: 'Kết luận phải chứa brandname "HVS"'
   - value_trap_criteria: 'khi trình bày tiêu chí định lượng (P/E, P/B...), bắt buộc phân tích bẫy giá trị (value trap) hoặc ngoại lệ thực tế đi kèm'

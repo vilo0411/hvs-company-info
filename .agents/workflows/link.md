@@ -61,8 +61,8 @@ Trình bày theo format sau (chờ user xác nhận trước khi chèn):
 ```
 
 **Bước 5 — Chờ user xác nhận → Chèn link**
-- Chèn inline với anchor text tự nhiên (ưu tiên Partial Match nếu Exact Match không khớp ngữ cảnh)
-- Không dùng anchor text "AI-vibe" (xem `anti-ai-rules.md`)
+- Chèn inline với anchor text ngữ nghĩa tự nhiên (BẮT BUỘC dùng Partial Match / Semantic từ `anchor-index.md`; TUYỆT ĐỐI KHÔNG dùng gượng ép đuôi "là gì" trong câu văn prose).
+- Không dùng anchor text "AI-vibe" (xem `anti-ai-rules.md`).
 
 **Bước 6 — Validate sau khi chèn**
 ```

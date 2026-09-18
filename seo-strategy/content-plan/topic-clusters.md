@@ -1,6 +1,6 @@
 # Topic Clusters — HVS SEO Content Map
 > Cập nhật: 2026-09-04 | Nguồn: sitemap taichinhso.hvsvn.com (quét thực tế)
-> ✅ Published: 322 | 🔄 In Progress: 0 | ⭕ Planned: 177
+> ✅ Published: 327 | 🔄 In Progress: 0 | ⭕ Planned: 172
 
 ---
 
@@ -310,7 +310,7 @@
 - ✅ Mô hình CAPM là gì *(Published — Final-mo-hinh-capm-la-gi.md)*
 - ⭕ các chỉ số phân tích báo cáo tài chính *(Planned)*
 
-### Cluster: Phân tích kỹ thuật (113 articles | ✅ 9 | 🔄 0 | ⭕ 104)
+### Cluster: Phân tích kỹ thuật (113 articles | ✅ 20 | 🔄 0 | ⭕ 93)
 
 **Pillar:** ✅ nến búa *(Published — Final-nen-bua.md)*
 
@@ -321,22 +321,22 @@
 - ✅ chỉ báo Bollinger Bands *(Published — Final-chi-bao-bollinger-bands.md)*
 - ⭕ chỉ báo bollinger bands b *(Planned)*
 - ⭕ Chỉ báo Bollinger Band Squeeze là gì *(Planned)*
-- ⭕ chỉ báo cci là gì *(Planned)*
+- ✅ chỉ báo cci là gì *(Published — Final-chi-bao-cci-la-gi.md)*
 - ⭕ chỉ báo keltner channel *(Planned)*
-- ⭕ Đường Trendline là gì *(Planned)*
+- ✅ Đường Trendline là gì *(Published — Final-duong-trendline-la-gi.md)*
 - ⭕ Đường ZigZag *(Planned)*
-- ⭕ đường a/d là gì *(Planned)*
+- ✅ đường a/d là gì *(Published — Final-duong-ad-la-gi.md)*
 - ✅ Sóng Elliott là gì *(Published — Final-song-elliott-la-gi.md)*
 - ✅ fibonacci thoái lui *(Published — Final-fibonacci-thoai-lui.md)*
 - ⭕ Sóng Elliott và Fibonacci là gì *(Planned)*
 - ✅ Fibonacci là gì *(Published — Final-fibonacci-la-gi.md)*
-- ⭕ chỉ báo dòng tiền *(Planned)*
+- ✅ chỉ báo dòng tiền *(Published — Final-chi-bao-dong-tien-la-gi.md)*
 - ⭕ giá tăng khối lượng giảm *(Planned)*
 - ⭕ chỉ báo cmf *(Planned)*
-- ⭕ chỉ báo obv là gì *(Planned)*
+- ✅ chỉ báo obv là gì *(Published — Final-chi-bao-obv-la-gi.md)*
 - ⭕ Cách sử dụng 4 đường MA *(Planned)*
 - ⭕ phân tích kỹ thuật kết hợp Bollinger Bands và đường MA *(Planned)*
-- ⭕ đường ma200 *(Planned)*
+- ✅ đường ma200 là gì *(Published — Final-duong-ma200-la-gi.md)*
 - ✅ đường ma là gì *(Published — Final-duong-ma-la-gi.md)*
 - ⭕ đường ema *(Planned)*
 - ⭕ kết hợp 3 đường MA *(Planned)*
@@ -367,7 +367,7 @@
 - ⭕ trend following là gì *(Planned)*
 - ⭕ phân kỳ rsi *(Planned)*
 - ✅ rsi là gì *(Published — Final-rsi-la-gi.md)*
-- ⭕ chỉ báo stochastic rsi là gì *(Planned)*
+- ✅ chỉ báo stochastic rsi là gì *(Published — Final-chi-bao-stochastic-rsi-la-gi.md)*
 - ⭕ phân kỳ ẩn *(Planned)*
 - ⭕ chiến lược giao dịch rsi *(Planned)*
 - ⭕ chỉ báo connor rsi *(Planned)*
@@ -401,12 +401,12 @@
 - ⭕ pullback trading là gì *(Planned)*
 - ⭕ pivot point là gì *(Planned)*
 - ⭕ golden cross là gì *(Planned)*
-- ⭕ chỉ báo dmi *(Planned)*
+- ✅ chỉ báo dmi *(Published — Final-chi-bao-dmi-la-gi.md)*
 - ⭕ Phân biệt phân tích cơ bản và phân tích kỹ thuật *(Planned)*
-- ⭕ Sideway là gì *(Planned)*
+- ✅ Sideway là gì *(Published — Final-sideway-la-gi.md)*
 - ⭕ vùng quá mua là gì *(Planned)*
 - ⭕ chỉ báo parabolic sar *(Planned)*
-- ⭕ chỉ báo adx *(Planned)*
+- ✅ chỉ báo adx *(Published — Final-chi-bao-adx.md)*
 - ⭕ lý thuyết dow *(Planned)*
 - ✅ breakout trong chứng khoán là gì *(Published — Final-breakout-trong-chung-khoan-la-gi.md)*
 - ⭕ giao dịch theo xu hướng *(Planned)*
@@ -418,15 +418,15 @@
 - ⭕ zero sum game *(Planned)*
 - ⭕ Sự kiện bong bóng hoa tulip *(Planned)*
 - ⭕ cách nhìn dòng tiền trong chứng khoán *(Planned)*
-- ⭕ Đầu tư chứng khoán dài hạn *(Planned)*
-- ⭕ đầu tư chứng khoán ngắn hạn *(Planned)*
+- ✅ Đầu tư chứng khoán dài hạn *(Published — Final-dau-tu-chung-khoan-dai-han.md)*
+- ✅ đầu tư chứng khoán ngắn hạn *(Published — Final-dau-tu-chung-khoan-ngan-han.md)*
 - ⭕ đầu tư chứng khoán của Warren Buffett *(Planned)*
-- ⭕ day trading là gì *(Planned)*
+- ✅ day trading là gì *(Published — Final-day-trading-la-gi.md)*
 - ⭕ buy the dip là gì *(Planned)*
 - ⭕ Đầu tư giá trị là gì *(Planned)*
 - ⭕ quy tắc của Richard Rhodes *(Planned)*
 - ✅ Đầu tư tăng trưởng là gì *(Published — Final-dau-tu-tang-truong-la-gi.md)*
-- ⭕ copy trade là gì *(Planned)*
+- ✅ copy trade là gì *(Published — Final-copy-trade-la-gi.md)*
 
 ### Cluster: Phương pháp đầu tư (13 articles | ✅ 13 | 🔄 0 | ⭕ 0)
 
