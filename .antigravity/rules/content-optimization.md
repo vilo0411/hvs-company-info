@@ -46,10 +46,10 @@ Google không index trang web nếu nội dung đó là một bản dịch hoặ
 
 ### 4. Thiết lập Liên kết nội bộ chuẩn Sitemap (Phase 4 — Sitemap-verified Linking)
 - **Hành động:**
-  - **Nguồn chân lý URL:** Sử dụng `fetch_sitemap.py` (`python .antigravity/scripts/fetch_sitemap.py --suggest "[keyword]"`) tra cứu URL thực tế từ `https://taichinhso.hvsvn.com/sitemap.xml`.
+  - **Nguồn chân lý URL:** Sử dụng `fetch_sitemap.py` (`python scripts/fetch_sitemap.py --suggest "[keyword]"`) tra cứu URL thực tế từ `https://taichinhso.hvsvn.com/sitemap.xml`.
   - **Outbound Links:** Đề xuất chèn 2-4 internal links từ bài đang tối ưu đến bài Pillar và các bài cluster khác đã published (sử dụng anchor text tự nhiên/partial match).
   - **Inbound Links (Backfill):** Quét các bài viết cùng cluster đã published trên sitemap để tìm đoạn phù hợp chèn link trỏ ngược lại bài viết vừa tối ưu này.
-  - **Validation:** Bắt buộc chạy `python .antigravity/scripts/fetch_sitemap.py --validate [filepath]` để xác nhận 100% link chuẩn xác.
+  - **Validation:** Bắt buộc chạy `python scripts/fetch_sitemap.py --validate [filepath]` để xác nhận 100% link chuẩn xác.
 
 ### 5. Kiểm định Chất lượng & Báo cáo (Phase 5 — QA & Audit Table)
 - **Hành động:** 

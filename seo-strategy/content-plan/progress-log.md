@@ -1,8 +1,8 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 384 bài
-- **Active Pipeline:** 2 items
+- **Published:** 381 bài
+- **Active Pipeline:** 14 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
@@ -11,8 +11,20 @@
 
 | Keyword | Persona | Mode | Status |
 | :--- | :--- | :--- | :--- |
-| Sàn OTC là gì | Lan Newbie / Nhà đầu tư F0 | Express | Outline-Pending |
-| Chỉ số P/S | Lan Newbie / Nhà đầu tư F0 | Express | Outline-Pending |
+| chuỗi giá trị ngành bất động sản | F0 | Express | Outline-Pending |
+| chuỗi giá trị ngành cao su | F0 | Express | Outline-Pending |
+| chuỗi giá trị ngành dầu khí | F0 | Express | Outline-Pending |
+| chuỗi giá trị ngành dệt may | F0 | Express | Outline-Pending |
+| chuỗi giá trị ngành ngân hàng | F0 | Express | Outline-Pending |
+| vòng quay tổng tài sản | F0 | Express | Outline-Pending |
+| vòng quay tài sản cố định | F0 | Express | Outline-Pending |
+| vòng quay vốn lưu động | F0 | Express | Outline-Pending |
+| roic là gì | F0 | Express | Outline-Pending |
+| tỷ lệ đòn bẩy tài chính | F0 | Express | Outline-Pending |
+| Đầu tư chứng khoán cần bao nhiêu tiền | F0 | Express | Outline-Pending |
+| dư mua dư bán là gì | F0 | Express | Planned |
+| điểm trong chứng khoán là gì | F0 | Express | Planned |
+| Sàn OTC là gì | F0 | Express | Outline-Pending |
 
 ---
 

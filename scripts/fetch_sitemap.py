@@ -2,15 +2,15 @@
 fetch_sitemap.py — Tải sitemap và build slug→URL map cho internal linking HVS Tài chính số
 
 Usage:
-    python .antigravity/scripts/fetch_sitemap.py
-    python .antigravity/scripts/fetch_sitemap.py --refresh
-    python .antigravity/scripts/fetch_sitemap.py --slug ty-gia-la-gi
-    python .antigravity/scripts/fetch_sitemap.py --search "chứng khoán"
-    python .antigravity/scripts/fetch_sitemap.py --suggest "dxy"
-    python .antigravity/scripts/fetch_sitemap.py --validate content/blog/3-finalized/Final-ty-gia-la-gi.md
+    python scripts/fetch_sitemap.py
+    python scripts/fetch_sitemap.py --refresh
+    python scripts/fetch_sitemap.py --slug ty-gia-la-gi
+    python scripts/fetch_sitemap.py --search "chứng khoán"
+    python scripts/fetch_sitemap.py --suggest "dxy"
+    python scripts/fetch_sitemap.py --validate content/blog/3-finalized/Final-ty-gia-la-gi.md
 
 Output:
-    .antigravity/scripts/sitemap-cache.json  (được cập nhật tự động)
+    scripts/sitemap-cache.json  (được cập nhật tự động)
 """
 
 import json

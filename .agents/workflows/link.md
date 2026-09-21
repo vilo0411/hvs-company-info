@@ -37,7 +37,7 @@ Nếu không chỉ định, mặc định dùng `--cluster`.
 
 Nếu bài cần link chưa có trong anchor-index, chạy lệnh tra cứu:
 ```
-python .antigravity/scripts/fetch_sitemap.py --suggest "[từ khóa]"
+python scripts/fetch_sitemap.py --suggest "[từ khóa]"
 ```
 
 **Bước 4 — Đề xuất links theo Mode**
@@ -66,7 +66,7 @@ Trình bày theo format sau (chờ user xác nhận trước khi chèn):
 
 **Bước 6 — Validate sau khi chèn**
 ```
-python .antigravity/scripts/fetch_sitemap.py --validate [đường_dẫn_file]
+python scripts/fetch_sitemap.py --validate [đường_dẫn_file]
 ```
 Xác nhận output: `0 broken links | 0 URL not in sitemap`.
 
@@ -78,7 +78,7 @@ Khi đăng bài mới lên site và cần cập nhật anchor-index:
 
 1. Crawl sitemap để lấy URL mới:
    ```
-   python .antigravity/scripts/fetch_sitemap.py --suggest "[slug bài mới]"
+   python scripts/fetch_sitemap.py --suggest "[slug bài mới]"
    ```
 2. Xác nhận URL thực trả về, map với file `Final-xxx.md` tương ứng
 3. Trong `anchor-index.md`, tìm dòng `⚠️ Final-xxx.md` và thay bằng `✅ https://taichinhso.hvsvn.com/...`

@@ -11,9 +11,10 @@ if hasattr(sys.stderr, 'reconfigure'):
     sys.stderr.reconfigure(encoding='utf-8')
 
 # Configuration
-CONTENT_DIR = Path("content/blog/3-finalized")
-OUTPUT_FILE = Path("seo-strategy/content-plan/internal-link-dashboard.md")
-INDEX_FILE = Path("seo-strategy/content-plan/anchor-index.md")
+ROOT = Path(__file__).resolve().parents[1]
+CONTENT_DIR = ROOT / "content/blog/3-finalized"
+OUTPUT_FILE = ROOT / "seo-strategy/content-plan/internal-link-dashboard.md"
+INDEX_FILE = ROOT / "seo-strategy/content-plan/anchor-index.md"
 SITEMAP_CACHE_FILE = Path(__file__).parent / "sitemap-cache.json"
 
 # Regex

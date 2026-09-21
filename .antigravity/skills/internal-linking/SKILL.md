@@ -28,7 +28,7 @@ Mỗi bài viết mới khi publish phải tạo thành một "bánh xe":
 
 ## Nguồn dữ liệu (theo thứ tự ưu tiên)
 
-1. **Sitemap Live (`https://taichinhso.hvsvn.com/sitemap.xml`) / Sitemap Cache (`.antigravity/scripts/sitemap-cache.json`)** — **Nguồn chân lý duy nhất (Single Source of Truth)** cho toàn bộ URL đích. Đảm bảo mọi URL được gắn đều đang live 100% trên website.
+1. **Sitemap Live (`https://taichinhso.hvsvn.com/sitemap.xml`) / Sitemap Cache (`scripts/sitemap-cache.json`)** — **Nguồn chân lý duy nhất (Single Source of Truth)** cho toàn bộ URL đích. Đảm bảo mọi URL được gắn đều đang live 100% trên website.
 2. **`seo-strategy/content-plan/topic-clusters.md`** — Xác định cluster, pillar, và toàn bộ bài Published trong cùng nhóm.
 3. **`seo-strategy/content-plan/anchor-index.md`** — Tra Exact/Partial anchor text được duyệt cho từng bài đích.
 4. **`seo-strategy/content-plan/internal-link-dashboard.md`** — Kiểm tra mật độ link hiện tại (tránh Over-opt).
@@ -69,20 +69,20 @@ Với mỗi bài đích đã chọn, tra `anchor-index.md`:
 
 ```powershell
 # 1. Gợi ý link theo từ khóa hoặc chủ đề:
-python .antigravity/scripts/fetch_sitemap.py --suggest "dxy"
-python .antigravity/scripts/fetch_sitemap.py --search "chứng khoán phái sinh"
+python scripts/fetch_sitemap.py --suggest "dxy"
+python scripts/fetch_sitemap.py --search "chứng khoán phái sinh"
 
 # 2. Tra cứu URL chính xác theo 1 slug cụ thể:
-python .antigravity/scripts/fetch_sitemap.py --slug chung-khoan-phai-sinh-la-gi
+python scripts/fetch_sitemap.py --slug chung-khoan-phai-sinh-la-gi
 
 # 3. Refresh cache sitemap từ live site (tự động tải https://taichinhso.hvsvn.com/sitemap.xml):
-python .antigravity/scripts/fetch_sitemap.py --refresh
+python scripts/fetch_sitemap.py --refresh
 ```
 
 Ví dụ tra cứu:
 ```
 # Input:
-python .antigravity/scripts/fetch_sitemap.py --slug chi-so-dxy-la-gi
+python scripts/fetch_sitemap.py --slug chi-so-dxy-la-gi
 
 # Output:
 Slug: chi-so-dxy-la-gi
@@ -101,7 +101,7 @@ Sau khi có URL, mới thực hiện gắn link contextual. Nếu slug hoặc t�
 Chạy script validate để đảm bảo 100% internal links trong bài viết đều tồn tại trên sitemap:
 
 ```powershell
-python .antigravity/scripts/fetch_sitemap.py --validate content/blog/2-user-review/Draft-[slug].md
+python scripts/fetch_sitemap.py --validate content/blog/2-user-review/Draft-[slug].md
 ```
 
 ### Bước 7 — Trình bày kết quả
@@ -140,4 +140,4 @@ Khi chạy `--backfill [slug]`:
 - Chỉ link đến URL **có trong sitemap** (bài đã publish). Bài chưa có trong sitemap → bỏ qua, ghi chú backfill.
 - Không chiếm anchor text là keyword của bài Planned trong `topic-clusters.md`.
 - Tổng số internal link trong 1 bài: **3-6 link** (dưới 3 là thiếu, trên 6 là spam).
-- **Refresh cache** mỗi khi publish bài mới: `python .antigravity/scripts/fetch_sitemap.py --refresh`
+- **Refresh cache** mỗi khi publish bài mới: `python scripts/fetch_sitemap.py --refresh`

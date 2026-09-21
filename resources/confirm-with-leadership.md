@@ -24,11 +24,32 @@ Tài liệu này tổng hợp các thông tin cốt lõi đã được nghiên c
 - **Xử lý truyền thông:** **KHÔNG** nhắc đến các vấn đề đình chỉ/khắc phục trong quá khứ trong các bài blog/SEO. [Resolved ✅]
 
 ## 3. Danh sách Knowledge Base đã hoàn thiện (Verified ✅)
-- [x] [HVS Profile](file:///e:/project/hvs-company-info/resources/company/hvs-profile.md)
-- [x] [Brand Identity](file:///e:/project/hvs-company-info/resources/company/identity.md)
-- [x] [Market Landscape](file:///e:/project/hvs-company-info/resources/market/market-landscape.md)
-- [x] [Deep Personas](file:///e:/project/hvs-company-info/resources/audience/personas-deep.md)
-- [x] [ICP (Ideal Customer Profile)](file:///e:/project/hvs-company-info/resources/audience/icp.md)
+- [x] [HVS Profile](resources/company/hvs-profile.md)
+- [x] [Brand Identity](resources/company/identity.md)
+- [x] [Market Landscape](resources/market/market-landscape.md)
+- [x] [Deep Personas](resources/audience/personas-deep.md)
+- [x] [ICP (Ideal Customer Profile)](resources/audience/icp.md)
+
+## 4. LINT_BLOCK — từ khóa máy chặn (qa_lint.py đọc block này)
+
+> Bất kỳ câu nào nhắc tới "HVS" mà chứa một trong các cụm dưới đây → `BRAND-regulatory` CRITICAL.
+> Câu nhắc "HVS" kèm `%` + phí/hoa hồng → `BRAND-fee` CRITICAL.
+
+```
+LINT_BLOCK:
+  - "đình chỉ"
+  - "tước giấy phép"
+  - "xử phạt"
+  - "vi phạm"
+  - "khắc phục hậu quả"
+  - "bị phạt"
+  - "án phạt"
+FEE_TERMS:
+  - "phí giao dịch"
+  - "phí môi giới"
+  - "hoa hồng"
+  - "phí ứng trước"
+```
 
 ---
 **Trạng thái hiện tại:** Knowledge Base đã chuyển sang `Verified ✅`.

@@ -74,7 +74,7 @@ Mục tiêu: PASS trong ≤2 vòng. Nếu cần >2 vòng → vấn đề ở Bri
 - [ ] **Link Format & Sitemap Validation (BẮT BUỘC):** 
   - [ ] Mọi internal link dùng URL tuyệt đối `https://taichinhso.hvsvn.com/...` tra từ sitemap (không dùng `file://`, đường dẫn tương đối, hoặc `Final-*.md`)?
   - [ ] Không tự bịa hoặc đoán URL các bài chưa có trong sitemap?
-  - [ ] Chạy `python .antigravity/scripts/fetch_sitemap.py --validate [draft_path]` đạt 100% VALID (0 broken link)?
+  - [ ] Chạy `python scripts/fetch_sitemap.py --validate [draft_path]` đạt 100% VALID (0 broken link)?
 - [ ] Markdown format chuẩn & Không có typo?
 
 ### Word Count (NON-NEGOTIABLE)

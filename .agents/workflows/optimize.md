@@ -36,7 +36,7 @@ Workflow này giúp tối ưu hóa bài viết cũ hoặc bài nháp thô lên t
 - Sử dụng `.antigravity/skills/internal-linking/SKILL.md` và `fetch_sitemap.py`:
   - **Single Source of Truth:** Quét trực tiếp `https://taichinhso.hvsvn.com/sitemap.xml` hoặc chạy:
     ```powershell
-    python .antigravity/scripts/fetch_sitemap.py --suggest "[từ khóa/chủ đề]"
+    python scripts/fetch_sitemap.py --suggest "[từ khóa/chủ đề]"
     ```
   - **CẤM TỰ BỊA URL:** Tuyệt đối không tự suy diễn đường dẫn category (như `/kinh-te-vi-mo/` hay `/dau-tu/`), không dùng link tương đối hoặc `file:///`.
   - **CHỈ LINK BÀI ĐÃ PUBLISHED:** Chỉ chèn markdown link đến các URL thật sự tồn tại trong `sitemap.xml`. Bài chưa có trong sitemap thì viết text thông thường và ghi chú lại cho backfill.
@@ -44,7 +44,7 @@ Workflow này giúp tối ưu hóa bài viết cũ hoặc bài nháp thô lên t
   - **Inbound Link (Backfill):** Quét các bài viết khác trong cùng cluster có trong sitemap, đề xuất cụ thể ít nhất 2 bài viết cũ để chèn link trỏ ngược về bài này.
   - **Validation:** BẮT BUỘC chạy script kiểm tra link trước khi hoàn tất:
     ```powershell
-    python .antigravity/scripts/fetch_sitemap.py --validate [đường_dẫn_file]
+    python scripts/fetch_sitemap.py --validate [đường_dẫn_file]
     ```
 
 ### 4. Tinh chỉnh văn phong, Bố trí ảnh & QA/QC (Phase 4)

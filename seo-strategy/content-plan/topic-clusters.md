@@ -1,10 +1,10 @@
 # Topic Clusters — HVS SEO Content Map
 > Cập nhật: 2026-09-04 | Nguồn: sitemap taichinhso.hvsvn.com (quét thực tế)
-> ✅ Published: 327 | 🔄 In Progress: 0 | ⭕ Planned: 172
+> ✅ Published: 341 | 🔄 In Progress: 1 | ⭕ Planned: 157
 
 ---
 
-## Group: Cho người mới (489 articles)
+## Group: Cho người mới (497 articles)
 
 ### Cluster: Chỉ số chứng khoán (13 articles | ✅ 13 | 🔄 0 | ⭕ 0)
 
@@ -24,7 +24,7 @@
 - ✅ chỉ số chứng khoán thế giới *(Published — Final-chi-so-chung-khoan-the-gioi.md)*
 - ✅ chỉ số hang seng là gì *(Published — Final-chi-so-hang-seng-la-gi.md)*
 
-### Cluster: Chứng chỉ quỹ (8 articles | ✅ 7 | 🔄 0 | ⭕ 1)
+### Cluster: Chứng chỉ quỹ (8 articles | ✅ 8 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ etf là gì *(Published — Final-etf-la-gi.md)*
 
@@ -104,7 +104,7 @@
 - ✅ Có nên mua cổ phiếu SSI *(Published — Final-co-nen-mua-co-phieu-ssi.md)*
 - ✅ Có nên mua cổ phiếu VPB *(Published — Final-co-nen-mua-co-phieu-vpb.md)*
 - ✅ Có nên mua cổ phiếu ACB *(Published — Final-co-nen-mua-co-phieu-acb.md)*
-- ✅ Có nên mua cổ phiếu VJC *(Published — final-co-nen-mua-co-phieu-vjc.md)*
+- ✅ Có nên mua cổ phiếu VJC *(Published — Final-co-nen-mua-co-phieu-vjc.md)*
 - ✅ Có nên mua cổ phiếu TTF *(Published — Final-co-nen-mua-co-phieu-ttf.md)*
 - ✅ Có nên mua cổ phiếu LPB *(Published — Final-co-nen-mua-co-phieu-lpb.md)*
 - ✅ Có nên mua cổ phiếu BID *(Published — Final-co-nen-mua-co-phieu-bid.md)*
@@ -186,7 +186,7 @@
 - ✅ cổ phiếu ngành hóa chất *(Published — Final-co-phieu-nganh-hoa-chat.md)*
 - ✅ cổ phiếu ngành nông nghiệp *(Published — Final-co-phieu-nganh-nong-nghiep.md)*
 
-### Cluster: Phân tích cơ bản (116 articles | ✅ 48 | 🔄 0 | ⭕ 70)
+### Cluster: Phân tích cơ bản (119 articles | ✅ 63 | 🔄 0 | ⭕ 56)
 
 **Pillar:** ✅ p/e là gì *(Published — Final-p-e-la-gi.md)*
 
@@ -263,7 +263,7 @@
 - ⭕ Điểm hòa vốn là gì *(Planned)*
 - ✅ bảng cân đối kế toán nguồn vốn *(Published — Final-bang-can-doi-ke-toan-nguon-von.md)*
 - ✅ Vòng quay hàng tồn kho là gì *(Published — Final-vong-quay-hang-ton-kho-la-gi.md)*
-- ✅ Báo cáo lưu chuyển tiền tệ là gì `Final-bao-cao-luu-chuyen-tien-te-la-gi.md`
+- ✅ Báo cáo lưu chuyển tiền tệ là gì *(Published — Final-bao-cao-luu-chuyen-tien-te-la-gi.md)*
 - ⭕ quy luật giá trị *(Planned)*
 - ⭕ fed là gì *(Planned)*
 - ⭕ độ co giãn của cầu theo giá *(Planned)*
@@ -279,7 +279,7 @@
 - ✅ chu kỳ cổ phiếu là gì *(Published — Final-chu-ky-co-phieu.md)*
 - ✅ Doanh nghiệp mua lại cổ phiếu để làm gì *(Published — Final-doanh-nghiep-mua-lai-co-phieu-de-lam-gi.md)*
 - ⭕ cạnh tranh là gì *(Planned)*
-- ✅ CASA trong ngành ngân hàng là gì `Final-casa-trong-nganh-ngan-hang-la-gi.md`
+- ✅ CASA trong ngành ngân hàng là gì *(Published — Final-casa-trong-nganh-ngan-hang-la-gi.md)*
 - ✅ Khi nào nên mua cổ phiếu *(Published — Final-khi-nao-nen-mua-co-phieu.md)*
 - ⭕ các chỉ số đánh giá cổ phiếu tốt *(Planned)*
 - ⭕ cán cân vãng lai là gì *(Planned)*
@@ -292,7 +292,7 @@
 - ✅ chính sách tiền tệ nới lỏng *(Published — Final-chinh-sach-tien-te-la-gi.md)*
 - ✅ ngân sách nhà nước là gì *(Published — Final-ngan-sach-nha-nuoc-la-gi.md)*
 - ✅ chính sách công là gì *(Published — Final-chinh-sach-cong-la-gi.md)*
-- - ✅ chính sách tài khóa là gì *(Published — Final-chinh-sach-tai-khoa-la-gi.md)*
+- ✅ chính sách tài khóa là gì *(Published — Final-chinh-sach-tai-khoa-la-gi.md)*
 - ✅ đầu tư công là gì *(Published — Final-dau-tu-cong-la-gi.md)*
 - ⭕ khủng hoảng tài chính là gì *(Planned)*
 - ⭕ cơ hội thị trường là gì *(Planned)*
@@ -310,7 +310,7 @@
 - ✅ Mô hình CAPM là gì *(Published — Final-mo-hinh-capm-la-gi.md)*
 - ⭕ các chỉ số phân tích báo cáo tài chính *(Planned)*
 
-### Cluster: Phân tích kỹ thuật (113 articles | ✅ 20 | 🔄 0 | ⭕ 93)
+### Cluster: Phân tích kỹ thuật (113 articles | ✅ 29 | 🔄 0 | ⭕ 84)
 
 **Pillar:** ✅ nến búa *(Published — Final-nen-bua.md)*
 
@@ -446,7 +446,7 @@
 - ✅ đầu tư thụ động *(Published — Final-dau-tu-thu-dong.md)*
 - ✅ đầu tư chủ động *(Published — Final-dau-tu-chu-dong.md)*
 
-### Cluster: Trái phiếu (8 articles | ✅ 7 | 🔄 0 | ⭕ 1)
+### Cluster: Trái phiếu (8 articles | ✅ 8 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ bond yield là gì *(Published — Final-bond-yield-la-gi.md)*
 
@@ -472,7 +472,7 @@
 - ✅ Một người được mở bao nhiêu tài khoản chứng khoán *(Published — Final-mot-nguoi-duoc-mo-bao-nhieu-tai-khoan-chung-khoan.md)*
 - ✅ cháy tài khoản chứng khoán là gì *(Published — Final-chay-tai-khoan-chung-khoan-la-gi.md)*
 
-### Cluster: chứng chỉ (5 articles | ✅ 1 | 🔄 0 | ⭕ 4)
+### Cluster: chứng chỉ (5 articles | ✅ 5 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ chứng chỉ cfa *(Published — Final-chung-chi-cfa.md)*
 
@@ -482,7 +482,7 @@
 - ✅ chứng chỉ hành nghề chứng khoán *(Published — Final-chung-chi-hanh-nghe-chung-khoan.md)*
 - ✅ chứng chỉ tài chính *(Published — Final-chung-chi-tai-chinh.md)*
 
-### Cluster: chứng khoán (69 articles | ✅ 48 | 🔄 0 | ⭕ 21)
+### Cluster: chứng khoán (69 articles | ✅ 51 | 🔄 1 | ⭕ 17)
 
 **Pillar:** ✅ ce là gì *(Published — Final-ce-la-gi.md)*
 
@@ -564,7 +564,7 @@
 - ✅ Khóa học phân tích cơ bản *(Published — Final-khoa-hoc-phan-tich-co-ban.md)*
 - ✅ Khóa học phân tích kỹ thuật *(Published — Final-khoa-hoc-phan-tich-ky-thuat.md)*
 
-### Cluster: phái sinh (5 articles | ✅ 1 | 🔄 0 | ⭕ 4)
+### Cluster: phái sinh (5 articles | ✅ 5 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ quyền chọn là gì *(Published — Final-quyen-chon-la-gi.md)*
 
@@ -574,7 +574,7 @@
 - ✅ chứng khoán phái sinh là gì *(Published — Final-chung-khoan-phai-sinh-la-gi.md)*
 - ✅ chứng khoán cơ sở và chứng khoán phái sinh *(Published — Final-chung-khoan-co-so-va-chung-khoan-phai-sinh.md)*
 
-### Cluster: rủi ro (4 articles | ✅ 3 | 🔄 0 | ⭕ 1)
+### Cluster: rủi ro (4 articles | ✅ 4 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ khẩu vị rủi ro *(Published — Final-khau-vi-rui-ro.md)*
 

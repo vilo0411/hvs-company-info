@@ -10,7 +10,7 @@ const path = require('path');
 async function main() {
   try {
     // 1. Locate project root relative to this script (.antigravity/scripts/mcp-launcher.js)
-    const projectRoot = path.resolve(__dirname, '../../');
+    const projectRoot = path.resolve(__dirname, '../');
     const envPath = path.join(projectRoot, '.env');
 
     if (!fs.existsSync(envPath)) {

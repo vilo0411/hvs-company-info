@@ -80,6 +80,17 @@ RESTRICTED_STRINGS:
   - "Nhịp đập thị trường" → "Biến động" / "Diễn biến"
 ```
 
+### HEDGE — Từ đệm giảm sức nặng (tối đa 3 lần/bài, ngoài bảng & FAQ)
+
+```
+HEDGE_WORDS:
+  - "nên"
+  - "cần"
+  - "có lẽ"
+  - "có thể nói"
+  - "phần nào"
+```
+
 ### REQUIRED — Thiếu = FAIL
 
 ```

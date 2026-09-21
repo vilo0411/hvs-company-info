@@ -452,7 +452,7 @@
 4. **Mỗi bài: 3–6 internal links** (1 conversion + 2–3 cùng cluster + 1–2 cross-cluster)
 
 ### Khi có bài mới lên sitemap
-1. Chạy: `python .antigravity/scripts/fetch_sitemap.py --suggest "[slug bài mới]"`
+1. Chạy: `python scripts/fetch_sitemap.py --suggest "[slug bài mới]"`
 2. Xác nhận URL trả về, map với file `Final-xxx.md` nếu có
 3. Append dòng mới vào đúng Cluster trong file này
 4. Nếu bài `⚠️` đã live: thay bằng ✅ + URL đầy đủ

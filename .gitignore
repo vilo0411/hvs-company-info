@@ -2,3 +2,12 @@
 # Credentials and Secrets
 .antigravity/secrets/
 .env
+
+# IDE session caches
+brain/
+.antigravity/brain/
+.antigravity/artifacts/
+
+# API keys / SERP cache
+.antigravity/config/api-keys.md
+seo-strategy/raw/serp/
