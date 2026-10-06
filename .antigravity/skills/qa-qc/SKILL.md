@@ -1,83 +1,63 @@
 ---
 name: qa-qc
-description: Verify checklist bài viết SEO HVS. Brief đã có writing spec — QA chỉ confirm, không phát hiện lại từ đầu.
+description: Quy trình QA 2 tầng — lint tất định (qa_lint.py) rồi Quality Guardian kiểm tra ngữ nghĩa. Máy đếm được thì máy làm.
 ---
 
-# Skill: QA/QC — Verify Checklist
+# Skill: QA/QC — Lint → Quality Guardian
 
-Brief/Outline đã embed đủ writing spec (persona, tone, anti-AI flags, HVS products, linking obligations). QA chỉ cần verify từng item Yes/No và fix targeted nếu có Fail.
+> **Việc gì máy bắt được → `python scripts/qa_lint.py` làm.** Người/LLM chỉ làm việc cần suy luận.
+> Danh sách rule ↔ lint ID: `.antigravity/rules/seo-formatting.md §1`.
 
-## Workflow
+## Bước 0 — Lint (BLOCKING)
 
-1. **[OPTIONAL] Word Count Script:** Chạy `python .antigravity/skills/qa-qc/scripts/wordcount.py [draft_path]`
-   - Script tự parse section, đếm từ, so sánh Outline target ±10%
-   - Nếu có section FAIL: **chỉ sửa/bổ sung nội dung tại đúng section bị FAIL đó** (Targeted Fix), tuyệt đối không sửa đổi hay viết lại toàn bộ bài viết.
-2. **Verify** từng item trong checklist bên dưới — đánh Yes/No
-3. **Fix targeted**: item nào Fail → sửa đúng chỗ đó, không rewrite toàn bài
-4. **Re-verify** item vừa fix
-5. **PASS** khi tất cả Yes → trình bày cho user
+```
+python scripts/qa_lint.py content/blog/2-user-review/Draft-<slug>.md --fix
+# optimize: thêm --original content/blog/3-finalized/Final-<slug>.md
+```
 
-Mục tiêu: PASS trong ≤2 vòng. Nếu cần >2 vòng → vấn đề ở Brief, không phải QA.
+| Exit | Ý nghĩa | Làm gì |
+|---|---|---|
+| 0 | PASS (0 CRITICAL, 0 MAJOR) | sang Bước 1 |
+| 1 | FAIL | sửa **đúng dòng** trong bảng CRITICAL/MAJOR → chạy lại. Tối đa 2 vòng. Không audit ngữ nghĩa khi lint FAIL. |
+| 2 | lỗi IO/usage | báo user |
 
-> **⛔ Word Count là NON-NEGOTIABLE:** Đếm số từ từng section, so sánh với `Word_Count` trong Outline. Nếu thiếu: bổ sung ví dụ/kịch bản trước khi vào bước QA khác.
+Lint đã bao phủ (KHÔNG kiểm tra lại bằng mắt): YAML, H1/meta/sapo/kết luận, từ cấm Tier 1/2, hedge, từ nghiệp dư, xưng hô, ngoặc kép, em-dash, LaTeX, code block, `---`, độ dài câu/đoạn, mật độ bảng, link (file:///, .md, sitemap, CTA, số lượng), % phí / lịch sử xử phạt cạnh "HVS", word count từng H2 (`wordcount.py`), PAA coverage, bảo toàn ảnh (`--original`).
 
----
+## Bước 1 — Quality Guardian (ngữ nghĩa)
 
-## Checklist
+Gọi `.antigravity/agents/quality-guardian.md` với Draft + Outline. Chỉ các checklist sau:
 
-### SEO Structure & Holistic (Koray Gübür)
-- [ ] H1 chứa keyword chính xác & ≤65 ký tự?
-- [ ] Sapo: keyword xuất hiện trong 100 từ đầu, ≤150 từ & BẮT BUỘC chứa brandname "HVS"?
-- [ ] **Formatting Diversity (BẮT BUỘC):**
-  - [ ] Không có đoạn văn nào dài >4 câu hoặc >80 từ?
-  - [ ] Không có quá 2 đoạn văn bản thông thường nằm liền kề nhau mà không có danh sách hoặc bảng ngắt quãng?
-  - [ ] Toàn bộ các quy trình, bước thực hiện bắt buộc phải viết dưới dạng danh sách (bullet/numbered lists)?
-  - [ ] Có ít nhất một bảng so sánh hoặc đối chiếu dữ liệu (Markdown Table) cho mỗi 1000 từ?
-  - [ ] Tránh dùng công thức dạng LaTeX ($$ hoặc $) gây lỗi định dạng khi chuyển sang Google Docs, thay bằng blockquote in đậm?
-- [ ] **Word Sequence:** Thực thể quan trọng nằm ở 5-7 từ đầu câu? (Rule 1)
-- [ ] **Direct Answers:** Câu đầu tiên dưới mỗi H2 trả lời trực tiếp cho Heading? (Rule 9/12)
-- [ ] **Bolding:** Chỉ bôi đậm câu trả lời/giá trị cốt lõi (không bold keyword)? (Rule 13)
-- [ ] **Entity Enrichment:** Sử dụng các thực thể từ `Entities_Gap_Analysis` trong Outline? (Rule 14)
-- [ ] **Bảo chứng SERP:** Outline có liệt kê các Entities/Ý tưởng từ Top 10 đối thủ? (YAML `SERP_Research: true`)?
-- [ ] **Content Gap:** Có điểm khác biệt/nâng cấp rõ rệt so với đối thủ?
-- [ ] **Kết luận:** Có tiêu đề Kết luận (H2) tùy biến theo từ khóa chính ở cuối bài (không trùng tiêu đề mẫu), nội dung không sử dụng từ cấm ("Tóm lại,", "Kết luận là,") & BẮT BUỘC chứa brandname "HVS"?
+| CL | Nội dung | Mức khi vi phạm |
+|---|---|---|
+| **CL1 SEO-semantic** | Answer First dưới mỗi H2; thực thể trong 5–7 từ đầu; entities từ `Entities_Gap_Analysis`; Content Gap rõ so với đối thủ | MAJOR |
+| **CL2 Anti-AI cấu trúc** | FORBIDDEN_PATTERNS cần suy luận: bị động dồn dập, danh từ hóa, số mơ hồ, câu đều nhau, synonym cycling, inline header, generic source, bảng thừa; mở bài không dẫn dắt sáo | CRITICAL |
+| **CL3 Glossary & Brand** | Tên sản phẩm đúng; phân tầng Thực tập số chính / Demo-Forum hỗ trợ; không mô tả Tài chính số là tool; không dạy thủ tục hành chính; ràng buộc `confirm-with-leadership.md` (ngoài 2 regex đã lint) | CRITICAL |
+| **CL4 Persona** | Đúng nỗi đau/tone của persona đã chọn; xưng "bạn"/"HVS"; CTA hợp persona | MAJOR |
+| **CL5 Facts** | Số liệu có nguồn + mốc thời gian; đúng thực tế sàn VN (T+2, biên độ HOSE ±7%, lô 100); nguồn pháp lý vanban.chinhphu.vn / vbpl.vn | CRITICAL |
+| **CL6 So-What / Prove-It** | Mỗi claim có bằng chứng (mã CP, %, sàn); kịch bản "Nếu A → … Nếu B → …"; cảnh báo rủi ro kèm mọi khuyến nghị; value trap khi nêu P/E, P/B | MAJOR |
+| **CL7 Holistic SEO** | 14 rule Koray (`holistic-seo-rules.md`): If-logic, plural examples, niche verbs, bold đúng chỗ, anchor khớp title bài đích | MAJOR |
+| **CL8 Ảnh** | Alt/caption mô tả thực thể; vị trí hợp section; không text trong ảnh | MINOR |
+| **CL9 HVS Bridge & CTA** | Nỗi đau TRƯỚC sản phẩm; 250–300 từ; benefit không feature-list; Kết luận đa dạng (không rập khuôn) | MAJOR |
 
-### Anti-AI & Syntax
-- [ ] **Anti-AI scan:** Đọc `.antigravity/rules/anti-ai-digest.md` → loop qua FORBIDDEN_STRINGS, FORBIDDEN_PATTERNS → flag mọi match; verify tất cả REQUIRED items
-- [ ] **Certainty:** Không sử dụng các từ "nên", "có lẽ", "cần"? (Rule 2)
-- [ ] **If-Logic:** Mệnh đề chính đứng trước mệnh đề "Nếu"? (Rule 10)
-- [ ] Câu chủ động là chính (không quá 2 câu bị động/đoạn)?
-- [ ] Không có >3 câu liên tiếp cùng cấu trúc S+V+O?
-- [ ] Không có danh từ hóa kiểu Anh ("việc thực hiện" → "thực hiện")?
+**PASS** = 0 CRITICAL, 0 MAJOR. MINOR → ghi chú, không chặn.
 
-### Specificity & Context
-- [ ] **Plural Examples:** Có ví dụ cụ thể ngay sau các danh từ số nhiều? (Rule 7)
-- [ ] **Niche Verbs:** Sử dụng đúng hệ động từ của ngành tài chính (giải ngân, tất toán...)? (Rule 6)
-- [ ] **Numeric Values:** Sử dụng con số chính xác (%, phí, mã cổ phiếu) thay vì từ mơ hồ? (Rule 4)
+## Bước 2 — Fix targeted
 
-### Brand & Persona
-- [ ] Persona chuẩn "HVS Senior Mentor" (theo `tone-and-voice.md`)?
-- [ ] **Product Hierarchy (BẮT BUỘC):** Lồng ghép HVS tuân thủ đúng phân tầng: **HVS Tài Chính Số** (lộ trình **HVS Thực tập số**) làm trọng tâm chính, các công cụ **HVS Demo** và **HVS Forum** làm bổ trợ phía dưới?
-- [ ] Product mentions theo dạng benefit, không phải feature list (theo `financial-logic.md`)?
-- [ ] CTA phù hợp Persona & Xưng hô đúng chuẩn: "bạn", "HVS"?
+- Sửa đúng section/dòng được nêu. Không viết lại section đã PASS. Thiếu từ → thêm ví dụ/kịch bản/bảng MỚI (không chuyển list thành văn xuôi).
+- Sau khi sửa: chạy lại lint (Bước 0) → QG re-audit chỉ các item đã FAIL.
+- Vẫn FAIL sau 2 vòng → trình bày kèm `⚠️ Remaining issues`. >2 vòng = vấn đề ở Outline, không phải QA.
 
-### Terminology & Technical
-- [ ] **Professional Lexicon:** Tuyệt đối không dùng từ Amateur (dựa dẫm, chơi chứng...) theo `glossary.md`?
-- [ ] **Scenario-based (BẮT BUỘC):** Có kịch bản thực tế đúng công thức "Nếu [Biến số A] -> [Kịch bản 1]. Nếu [Biến số B] -> [Kịch bản 2]" cho các nhận định/giao dịch?
-- [ ] **Risk-Reward:** Mọi claim lợi nhuận hoặc hành động đặt lệnh đều đi kèm cảnh báo rủi ro/điều kiện cụ thể?
-- [ ] Thuật ngữ đúng theo `glossary.md` & Tên sản phẩm HVS đúng?
-- [ ] YAML metadata đủ fields, HVS_Products là danh sách chuỗi phẳng & Anchor text khớp với Title bài đích? (Rule 11)
-- [ ] **Image Retention & Quality (BẮT BUỘC):**
-  - [ ] Bảo toàn trọn vẹn 100% các hình ảnh có sẵn từ bài viết gốc/bài thô (không tự ý xóa ảnh khi optimize)?
-  - [ ] Mỗi ảnh đều có thẻ Markdown chuẩn `![Alt text](url)` và dòng chú thích `*Hình X: Caption chi tiết*` ngay phía dưới?
-  - [ ] Alt-text và Caption mô tả chính xác thực thể/nội dung ảnh, tự nhiên, chuẩn SEO?
-- [ ] **Link Format & Sitemap Validation (BẮT BUỘC):** 
-  - [ ] Mọi internal link dùng URL tuyệt đối `https://taichinhso.hvsvn.com/...` tra từ sitemap (không dùng `file://`, đường dẫn tương đối, hoặc `Final-*.md`)?
-  - [ ] Không tự bịa hoặc đoán URL các bài chưa có trong sitemap?
-  - [ ] Chạy `python scripts/fetch_sitemap.py --validate [draft_path]` đạt 100% VALID (0 broken link)?
-- [ ] Markdown format chuẩn & Không có typo?
+## Report template
 
-### Word Count (NON-NEGOTIABLE)
-- [ ] Tổng số từ toàn bài ≥ `Word_Count_Target` trong YAML?
-- [ ] Từng MAIN section đạt `Word_Count` đã ghi trong Outline? (đếm thực tế, không ước lượng)
-- [ ] Nếu bất kỳ section nào thiếu từ: bổ sung ví dụ, kịch bản, bảng so sánh TRƯỚC khi PASS?
+```
+**Lint:** PASS · Score 87/100 (anti_ai 90, seo 85, readability 80, link 100, brand 100)
+**Quality Guardian:** PASSED | FAILED
+- [CL5 CRITICAL] Dòng 42: "biên độ HOSE ±10%" sai — HOSE ±7%. Sửa: …
+- [CL9 MAJOR] HVS Bridge 140 từ (<250) — thêm kịch bản F0 mua đuổi + cách Thực tập số giải quyết.
+```
+
+## Gotchas
+
+- `wordcount.py` tách khối theo `^##`/`^###` — tiêu đề con bổ trợ dùng `####`.
+- `## Revision Log` cuối Draft không tính vào word count và không bị lint; giữ lại để `/learn`.
+- Bài vừa publish nhưng sitemap chưa cập nhật → `LINK-sitemap` CRITICAL: chạy `python scripts/fetch_sitemap.py --refresh` trước, hoặc `--no-sitemap` khi user xác nhận URL.

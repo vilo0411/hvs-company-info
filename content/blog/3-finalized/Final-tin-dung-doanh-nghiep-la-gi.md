@@ -118,13 +118,9 @@ Nhiều nhà đầu tư mới tham gia thị trường (F0) thường gặp bố
 
 Tín dụng doanh nghiệp là con dao hai lưỡi trong hoạt động kinh doanh và đầu tư chứng khoán. Kiểm soát tốt cơ cấu nợ vay sẽ giúp bạn bảo vệ tài sản và tối ưu hóa lợi nhuận đầu tư. Hãy đồng hành cùng HVS để trang bị tư duy tài chính nhạy bén và nâng cao hiệu quả giao dịch thực chiến. Tránh xa các doanh nghiệp nợ vay mất kiểm soát là nguyên tắc sống còn.
 
----
-
 ## 3. Chiến lược liên kết & Tối ưu hóa
-- **Internal Links:** [Trái phiếu doanh nghiệp là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-trai-phieu-doanh-nghiep-la-gi.md), [tỷ số nợ trên tổng tài sản](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-ty-so-no-tren-tong-tai-san.md)
+- **Internal Links:** [Trái phiếu doanh nghiệp là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-doanh-nghiep-la-gi), [tỷ số nợ trên tổng tài sản](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-ty-so-no-tren-tong-tai-san.md)
 - **Yếu tố cạnh tranh:** Bảng phân tích cấu trúc nợ vay ngắn hạn vs dài hạn và tác động của nó tới dòng tiền lưu động.
-
----
 
 ## 4. Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-08-05):** Khởi tạo outline chuẩn SEO, áp dụng nghiêm ngặt quy tắc chống AI của HVS.

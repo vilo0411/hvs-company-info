@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: môi giới chứng khoán là gì
 Search_Intent: Informational

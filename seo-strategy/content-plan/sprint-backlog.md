@@ -15,7 +15,4 @@
 | 289 | vòng quay vốn lưu động | Phân tích cơ bản | F0 | Priority 1 | Outline-Pending |
 | 290 | roic là gì | Phân tích cơ bản | F0 | Priority 1 | Outline-Pending |
 | 292 | tỷ lệ đòn bẩy tài chính | Phân tích cơ bản | F0 | Priority 1 | Outline-Pending |
-| 294 | Đầu tư chứng khoán cần bao nhiêu tiền | chứng khoán | F0 | Priority 1 | Outline-Pending |
-| 301 | dư mua dư bán là gì | chứng khoán | F0 | Priority 1 | Planned |
-| 302 | điểm trong chứng khoán là gì | chứng khoán | F0 | Priority 1 | Planned |
 | 303 | Sàn OTC là gì | chứng khoán | F0 | Priority 1 | Outline-Pending |

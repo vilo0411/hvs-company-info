@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["trả cổ tức bằng cổ phiếu là gì"]
 Status: Finalized
@@ -23,8 +23,6 @@ Meta_Description: Trả cổ tức bằng cổ phiếu là gì? Tại sao giá c
 # Trả cổ tức bằng cổ phiếu là gì? Cơ chế vận hành và tính toán thực tế
 
 Nhận cổ tức bằng cổ phiếu giúp gia tăng số lượng cổ phiếu sở hữu nhưng cũng đi kèm việc điều chỉnh giảm thị giá tương ứng trên sàn. Bài viết này giải thích bản chất việc trả cổ tức bằng cổ phiếu, quy trình thực hiện, công thức tính giá điều chỉnh và quy định thuế thu nhập cá nhân liên quan.
-
----
 
 ## Trả cổ tức bằng cổ phiếu là gì? Định nghĩa bản chất
 
@@ -128,8 +126,6 @@ Nhiều người mua đuổi cổ phiếu sát ngày chia tách để rồi bị
 Để tránh bẫy pha loãng này, bạn cần trang bị kiến thức [phân tích cơ bản là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) để tự đánh giá sức khỏe tài chính doanh nghiệp. Chương trình **HVS Thực tập số** (nằm trong nền tảng **HVS Tài chính số**) cung cấp lộ trình từ Phân tích cơ bản Level 1 đến Level 2 giúp bạn biết cách bóc tách báo cáo tài chính và thẩm định triển vọng doanh nghiệp.
 
 Đồng thời, bạn có thể thực hành quan sát ngày giao dịch không hưởng quyền và biến động của thị giá điều chỉnh trên sàn giao dịch mô phỏng **HVS Demo** để có kinh nghiệm thực tế. Những thắc mắc về ngày đăng ký cuối cùng, tỷ lệ thực hiện hay tác động của việc chia tách của từng mã cụ thể luôn được giải đáp từ Mentor và cộng đồng tại **HVS Forum**.
-
----
 
 ## Revision Log
 - **v1.0 (2026-06-04):** Khởi tạo outline bởi Antigravity dựa trên cấu trúc chuẩn E-E-A-T và thông tin tài chính chính thống từ các nguồn tin như VPBank, DSC.

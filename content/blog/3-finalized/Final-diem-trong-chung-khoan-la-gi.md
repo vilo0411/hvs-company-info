@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: F0 Investor
 Target_Keyword: điểm trong chứng khoán là gì
 Search_Intent: Informational
@@ -26,7 +26,6 @@ Ví dụ tiêu biểu nhất tại Việt Nam là chỉ số VN-Index. Đây là
 
 Khi tổng vốn hóa của các doanh nghiệp trên sàn HOSE tăng lên, VN-Index sẽ tăng điểm. Ngược lại, khi mặt bằng giá cổ phiếu suy giảm, điểm chỉ số sẽ điều chỉnh hạ xuống.
 
-
 ## Công thức tính điểm chỉ số chứng khoán
 
 Phương pháp phổ biến nhất để tính toán điểm chứng khoán tại Việt Nam là bình quân gia quyền theo giá trị vốn hóa thị trường.
@@ -36,7 +35,7 @@ Công thức tổng quát được xác định như sau:
 $$\text{Điểm chỉ số} = \left( \frac{\text{Tổng giá trị vốn hóa thị trường hiện tại}}{\text{Tổng giá trị vốn hóa thị trường kỳ gốc}} \right) \times \text{Điểm số kỳ gốc}$$
 
 Trong đó:
-*   **Giá trị vốn hóa một cổ phiếu** = Thị giá khớp lệnh $\times$ Số lượng cổ phiếu đang lưu hành.
+*   **Giá trị vốn hóa một cổ phiếu** = Thị giá khớp lệnh `\times` Số lượng cổ phiếu đang lưu hành.
 *   **Tổng vốn hóa hiện tại** = Tổng giá trị vốn hóa của tất cả các mã thành phần trong rổ chỉ số.
 
 Do tính toán theo tỷ lệ vốn hóa, những doanh nghiệp có quy mô vốn hóa lớn (cổ phiếu trụ) sở hữu trọng số cao trong chỉ số. Biến động giá của các mã này sẽ tác động mạnh mẽ đến điểm số chung hơn hẳn các doanh nghiệp vừa và nhỏ.
@@ -72,7 +71,6 @@ Màu sắc giúp bạn nhận diện nhanh trạng thái thị trường:
 
 ### 4. Khối lượng và giá trị giao dịch đi kèm
 Điểm số tăng cần đi kèm với thanh khoản mở rộng (khối lượng và giá trị giao dịch cao) để xác nhận đà tăng bền vững. Nếu điểm số tăng mạnh nhưng thanh khoản thấp, đó có thể là tín hiệu tăng ảo do kéo một vài mã cổ phiếu riêng lẻ.
-
 
 ## Yếu tố quyết định sự biến động điểm chứng khoán
 

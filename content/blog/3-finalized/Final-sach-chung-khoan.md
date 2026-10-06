@@ -1,8 +1,8 @@
-﻿---
+---
 Author: Antigravity
 aliases: [\"sách chứng khoán"]
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: sách chứng khoán
 Search_Intent: Informational

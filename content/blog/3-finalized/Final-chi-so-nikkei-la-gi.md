@@ -99,7 +99,7 @@ Nhật Bản nằm trên vành đai lửa Thái Bình Dương, thường xuyên 
 
 ## Case study: Ảnh hưởng tâm lý của chỉ số Nikkei 225 đầu ngày đến thị trường Việt Nam
 
-Các biến động của thị trường tài chính quốc tế như chỉ số Dow Jones ở Mỹ hay [chỉ số DAX](file:///content/blog/3-finalized/Final-chi-so-dax-la-gi.md) của Đức thường diễn ra vào đêm muộn theo múi giờ Việt Nam. Do đó, chỉ số Nikkei 225 đóng vai trò là một trong những chỉ báo sớm nhất phản ánh tâm lý dòng tiền châu Á vào đầu ngày mới nhờ chênh lệch múi giờ đặc thù.
+Các biến động của thị trường tài chính quốc tế như chỉ số Dow Jones ở Mỹ hay [chỉ số DAX](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-dax-la-gi) của Đức thường diễn ra vào đêm muộn theo múi giờ Việt Nam. Do đó, chỉ số Nikkei 225 đóng vai trò là một trong những chỉ báo sớm nhất phản ánh tâm lý dòng tiền châu Á vào đầu ngày mới nhờ chênh lệch múi giờ đặc thù.
 
 ### Chênh lệch múi giờ đặc thù
 
@@ -125,8 +125,6 @@ Hệ sinh thái HVS được thiết kế để đồng hành cùng bạn xây d
 *   **Tương tác cùng cộng đồng:** Mọi kịch bản phân tích tỷ giá, đánh giá chỉ số quốc tế hay thẩm định dòng tiền của bạn đều có thể chia sẻ, thảo luận trực tiếp cùng đội ngũ chuyên gia và các học viên khác tại cộng đồng **HVS Forum**.
 
 Sự chuẩn bị bài bản về tư duy và thực hành liên tục giúp bạn nâng cao năng lực chủ động và xây dựng một kế hoạch đầu tư bền vững trước mọi biến động toàn cầu.
-
----
 
 ## Revision Log
 

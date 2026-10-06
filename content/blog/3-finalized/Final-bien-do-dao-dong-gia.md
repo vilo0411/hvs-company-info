@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Mentoring Senior Advisor
 Target_Keyword: biên độ dao động giá
 Search_Intent: Informational
@@ -142,8 +142,6 @@ Như một công cụ bổ trợ trong hệ sinh thái đào tạo, tính năng 
 Biên độ dao động giá chứng khoán là công cụ quản lý của cơ quan nhà nước nhằm đảm bảo sự ổn định cho thị trường tài chính. Việc nắm rõ biên độ ±7% của HOSE, ±10% của HNX và ±15% của UPCOM, cùng quy tắc làm tròn bước giá giúp nhà đầu tư F0 chủ động trong mọi thao tác đặt lệnh.
 
 Hãy luôn tính toán trước khoảng giá trần, giá sàn và xác định ngưỡng chịu rủi ro tối đa cho tài khoản trước khi đưa ra quyết định giải ngân.
-
----
 
 ## Revision Log
 - **04/09/2026 (v1.0 - Optimized):**

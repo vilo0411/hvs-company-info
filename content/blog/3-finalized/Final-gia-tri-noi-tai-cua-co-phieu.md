@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Lan Newbie
 Target_Keyword: giá trị nội tại của cổ phiếu
 Search_Intent: Informational

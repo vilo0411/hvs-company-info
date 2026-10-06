@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: cổ phiếu đầu cơ
 Search_Intent: Informational

@@ -56,13 +56,13 @@ Internal_Links:
 
 # Thị trường sơ cấp là gì? Bản chất và cách phân biệt đúng
 
-Thị trường sơ cấp đóng vai trò là điểm khởi đầu cho toàn bộ luồng luân chuyển vốn trên [thị trường chứng khoán](Final-thi-truong-chung-khoan-la-gi.md). Tuy nhiên, nhiều nhà đầu tư F0 thường nhầm lẫn giữa thị trường sơ cấp với các sàn giao dịch niêm yết hàng ngày.
+Thị trường sơ cấp đóng vai trò là điểm khởi đầu cho toàn bộ luồng luân chuyển vốn trên [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thi-truong-chung-khoan-la-gi). Tuy nhiên, nhiều nhà đầu tư F0 thường nhầm lẫn giữa thị trường sơ cấp với các sàn giao dịch niêm yết hàng ngày.
 
 Trong bài viết này, HVS sẽ cùng bạn bóc tách bản chất vận hành của thị trường sơ cấp, cơ chế dòng tiền và các tiêu chí phân biệt rõ ràng với thị trường thứ cấp để xây dựng tư duy đầu tư chuẩn xác.
 
 ## Thị trường sơ cấp là gì? Bản chất vận hành của thị trường cấp một
 
-**Thị trường sơ cấp (Primary Market) là nơi diễn ra hoạt động phát hành và mua bán các loại chứng khoán mới tạo ra lần đầu**, giúp tổ chức phát hành huy động nguồn vốn trực tiếp từ nhà đầu tư. Trên thị trường này, tài sản tài chính như cổ phiếu, [trái phiếu doanh nghiệp](Final-trai-phieu-doanh-nghiep-la-gi.md) hay chứng chỉ quỹ lần đầu tiên xuất hiện và được chuyển giao sang chủ sở hữu đầu tiên.
+**Thị trường sơ cấp (Primary Market) là nơi diễn ra hoạt động phát hành và mua bán các loại chứng khoán mới tạo ra lần đầu**, giúp tổ chức phát hành huy động nguồn vốn trực tiếp từ nhà đầu tư. Trên thị trường này, tài sản tài chính như cổ phiếu, [trái phiếu doanh nghiệp](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-doanh-nghiep-la-gi) hay chứng chỉ quỹ lần đầu tiên xuất hiện và được chuyển giao sang chủ sở hữu đầu tiên.
 
 #### Cấu trúc các chủ thể tham gia thị trường sơ cấp
 
@@ -86,7 +86,7 @@ Thị trường sơ cấp đóng vai trò là cầu nối trực tiếp chuyển
 
 #### Tiền đề tạo ra nguồn hàng hóa chứng khoán cho thị trường thứ cấp
 
-Thị trường sơ cấp là nơi sản sinh ra toàn bộ hàng hóa tài chính trên thị trường. Nếu không có các đợt phát hành cổ phiếu IPO hay trái phiếu ban đầu trên thị trường sơ cấp, các [sàn giao dịch chứng khoán](Final-san-giao-dich-chung-khoan-la-gi.md) niêm yết như HOSE hay HNX sẽ không có chứng khoán để giao dịch. Sự hình thành của chứng khoán mới ở thị trường cấp một chính là điều kiện tiên quyết để tạo lập một thị trường thứ cấp sôi động và thanh khoản.
+Thị trường sơ cấp là nơi sản sinh ra toàn bộ hàng hóa tài chính trên thị trường. Nếu không có các đợt phát hành cổ phiếu IPO hay trái phiếu ban đầu trên thị trường sơ cấp, các [sàn giao dịch chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/san-giao-dich-chung-khoan-la-gi) niêm yết như HOSE hay HNX sẽ không có chứng khoán để giao dịch. Sự hình thành của chứng khoán mới ở thị trường cấp một chính là điều kiện tiên quyết để tạo lập một thị trường thứ cấp sôi động và thanh khoản.
 
 ## So sánh thị trường sơ cấp và thị trường thứ cấp trong chứng khoán
 

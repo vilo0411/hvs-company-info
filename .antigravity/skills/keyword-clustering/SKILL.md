@@ -28,8 +28,8 @@ Keyword là Cluster khi:
 ## ⚙️ Quy trình thực hiện
 
 ### Bước 1: Đọc dữ liệu đầu vào
-- Đọc `seo-strategy/keywords/Nghiên cứu từ khóa - HVS Tư vấn số.csv`
-- Đọc `seo-strategy/content-plan/progress-log.md` để biết keyword nào đã có bài
+- Đọc `seo-strategy/keywords/keyword-hvs.csv` (cột: Main Topic 1, Subtopic 2-4, Keyword, Search Volume, Tiêu đề, Đối tượng)
+- `python scripts/topic_status.py --list Finalized` để biết keyword nào đã có bài (không đọc progress-log)
 
 ### Bước 2: Nhóm theo chủ đề (Semantic Grouping)
 Gom các keywords có cùng chủ đề lõi. Ví dụ:

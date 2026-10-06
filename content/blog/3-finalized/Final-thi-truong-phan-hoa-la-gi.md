@@ -22,12 +22,12 @@ Trong giai đoạn thị trường tăng trưởng đồng thuận (up-trend di�
 
 Ngược lại, khi bước vào nhịp phân hóa, bức tranh giao dịch thay đổi hoàn toàn. Dòng tiền trên thị trường trở nên kỹ tính hơn. Nhà đầu tư tổ chức và dòng vốn thông minh sẽ chủ động rút khỏi các doanh nghiệp có nền tảng yếu kém hoặc thiếu động lực tăng trưởng ngắn hạn. Số tiền này chuyển dịch tập trung vào nhóm cổ phiếu hưởng lợi trực tiếp từ yếu tố vĩ mô hoặc sở hữu kết quả kinh doanh đột phá.
 
-Sự tách biệt này khiến việc theo dõi [chỉ số VN-Index](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-chi-so-vn-index-la-gi.md) đơn thuần không còn phản ánh chính xác sức khỏe danh mục của bạn. Thấu hiểu bản chất thị trường phân hóa giúp nhà đầu tư thay đổi góc nhìn từ quản trị chỉ số sang phân tích nội tại từng mã cổ phiếu.
+Sự tách biệt này khiến việc theo dõi [chỉ số VN-Index](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-vn-index-la-gi) đơn thuần không còn phản ánh chính xác sức khỏe danh mục của bạn. Thấu hiểu bản chất thị trường phân hóa giúp nhà đầu tư thay đổi góc nhìn từ quản trị chỉ số sang phân tích nội tại từng mã cổ phiếu.
 
 ## 3 dấu hiệu nhận biết thị trường phân hóa trên bảng điện
 Để chủ động ứng phó, bạn cần nắm rõ các tín hiệu nhận diện đà phân hóa diễn ra trực tiếp trên bảng điện giao dịch hằng ngày.
 
-1. **Nghịch lý chỉ số tăng danh mục giảm:** Chỉ số VN-Index tăng 5 đến 10 điểm nhờ lực kéo từ vài [cổ phiếu trụ là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-phieu-tru-la-gi.md) vốn hóa lớn như VCB, HPG hay VHM. Tuy nhiên, số mã giảm trên sàn lại áp đảo số mã tăng. Tài khoản nắm giữ mã Mid-cap vẫn chịu thua lỗ nặng.
+1. **Nghịch lý chỉ số tăng danh mục giảm:** Chỉ số VN-Index tăng 5 đến 10 điểm nhờ lực kéo từ vài [cổ phiếu trụ là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-tru-la-gi) vốn hóa lớn như VCB, HPG hay VHM. Tuy nhiên, số mã giảm trên sàn lại áp đảo số mã tăng. Tài khoản nắm giữ mã Mid-cap vẫn chịu thua lỗ nặng.
 2. **Dòng tiền chọn lọc thu hẹp:** [Dòng tiền trong chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-dong-tien-trong-chung-khoan.md) không xoay vòng đều mà chỉ co hẹp vào 1 đến 2 nhóm ngành có tin tức hỗ trợ như xuất khẩu hay năng lượng. Các nhóm ngành khác bị dòng tiền bỏ rơi.
 3. **Độ rộng thị trường suy giảm:** Sự tham gia của các nhóm cổ phiếu vừa và nhỏ ([mid-cap là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-mid-cap-la-gi.md) và small-cap) suy yếu. Áp lực bán chốt lời làm gia tăng chênh lệch thanh khoản giữa cổ phiếu dẫn dắt và phần còn lại của thị trường.
 
@@ -68,8 +68,6 @@ Thị trường phân hóa là cơ hội để sàng lọc doanh nghiệp tốt 
 1. Rà soát lại toàn bộ danh mục và kiên quyết loại bỏ các mã cổ phiếu thiếu dòng tiền hỗ trợ.
 2. Đánh giá lại triển vọng tăng trưởng lợi nhuận của doanh nghiệp dựa trên báo cáo tài chính gần nhất.
 3. Đồng hành cùng chương trình HVS Thực tập số để nâng cao tư duy phân tích và xây dựng hệ thống giao dịch chuẩn xác.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-09-03):** Tạo Outline cho bài viết "Thị trường phân hóa là gì" theo Express Mode, tích hợp đầy đủ SERP research về nghịch lý chỉ số tăng danh mục giảm, dòng tiền phân hóa và chiến lược cơ cấu danh mục HVS. Thay thế cụm từ xanh vỏ đỏ lòng bằng cụm từ chuyên môn hơn: nghịch lý chỉ số tăng danh mục giảm / chỉ số tăng danh mục giảm.

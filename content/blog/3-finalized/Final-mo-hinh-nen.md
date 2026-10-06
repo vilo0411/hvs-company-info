@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie
 Target_Keyword: mô hình nến
 Search_Intent: Informational

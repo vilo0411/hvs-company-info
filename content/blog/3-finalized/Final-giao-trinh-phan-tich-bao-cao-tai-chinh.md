@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: giáo trình phân tích báo cáo tài chính
 Search_Intent: Informational

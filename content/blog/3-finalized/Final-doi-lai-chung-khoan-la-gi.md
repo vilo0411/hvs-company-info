@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: F0 Investor
 Target_Keyword: đội lái chứng khoán là gì
 Search_Intent: Informational

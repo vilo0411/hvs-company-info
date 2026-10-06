@@ -1,8 +1,8 @@
-﻿---
+---
 Author: Antigravity
 aliases: [\"quyền chọn là gì"]
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: quyền chọn là gì
 Search_Intent: Informational

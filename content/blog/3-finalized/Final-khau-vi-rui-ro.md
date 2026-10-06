@@ -1,8 +1,8 @@
-﻿---
+---
 Author: Antigravity
 aliases: [\"khẩu vị rủi ro"]
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: khẩu vị rủi ro
 Search_Intent: Informational | Commercial

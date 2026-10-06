@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Claude Code
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: so sánh cổ phiếu thường và cổ phiếu ưu đãi
 Secondary_Keywords: phân biệt cổ phiếu thường và cổ phiếu ưu đãi, so sánh cổ phiếu phổ thông và cổ phiếu ưu đãi, cổ phiếu thường và cổ phiếu ưu đãi khác nhau như thế nào, cổ phiếu ưu đãi là gì
@@ -18,8 +18,6 @@ Meta_Description: Phân biệt cổ phiếu thường và cổ phiếu ưu đãi
 # So sánh cổ phiếu thường và cổ phiếu ưu đãi theo Luật Doanh nghiệp
 
 Hiểu rõ sự khác biệt khi so sánh cổ phiếu thường và cổ phiếu ưu đãi giúp nhà đầu tư bảo vệ quyền lợi của mình trong công ty cổ phần. Bài viết này phân tích chi tiết cơ chế vận hành, cổ tức, quyền biểu quyết và kịch bản đầu tư phù hợp của từng loại.
-
----
 
 ## Khái niệm cổ phiếu thường và cổ phiếu ưu đãi là gì?
 
@@ -100,8 +98,6 @@ Nhà đầu tư F0 thường gặp khó khăn khi phát hiện rủi ro pha loã
 Để kiểm soát rủi ro, nền tảng **HVS Tài chính số** cung cấp chương trình **HVS Thực tập số** (gồm môn Phân tích cơ bản FA Level 1 và Level 2). Lộ trình này giúp bạn tự đọc báo cáo tài chính và thẩm định cơ cấu sở hữu doanh nghiệp.
 
 Bạn có thể dùng sàn giả lập **HVS Demo** để thực hành tính toán tỷ lệ pha loãng mà không sợ mất vốn. Nếu có vướng mắc về mã cổ phiếu cụ thể, hãy trao đổi cùng Mentor trên **HVS Forum** để nhận lời khuyên thực chiến.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-04):** Khởi tạo outline bởi Antigravity dựa trên đối chiếu cấu trúc Luật Doanh nghiệp và dữ liệu SERP hàng đầu.

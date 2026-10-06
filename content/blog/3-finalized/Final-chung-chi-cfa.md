@@ -1,8 +1,8 @@
-﻿---
+---
 Author: Antigravity
 aliases: [\"chứng chỉ cfa"]
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: chứng chỉ cfa
 Search_Intent: Informational | Commercial

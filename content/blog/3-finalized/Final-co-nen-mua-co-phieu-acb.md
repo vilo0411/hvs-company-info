@@ -1,8 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
 Pipeline_Mode: Express
-Mode: Detailed
 Persona: HVS Senior Mentor
 Target_Keyword: Có nên mua cổ phiếu ACB
 Secondary_Keywords: định giá cổ phiếu ACB, tiềm năng cổ phiếu ACB, rủi ro cổ phiếu ACB, cách mua cổ phiếu ACB, cổ phiếu ACB là gì

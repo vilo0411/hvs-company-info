@@ -1,8 +1,8 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["đầu tư tăng trưởng là gì"]
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 SERP_Research: true
 Target_Keyword: đầu tư tăng trưởng là gì
 Secondary_Keywords: cổ phiếu tăng trưởng là gì, đầu tư tăng trưởng, chiến lược đầu tư tăng trưởng, định nghĩa đầu tư tăng trưởng

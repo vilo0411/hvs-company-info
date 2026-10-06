@@ -1,37 +1,22 @@
 ---
-name: Export to Google Docs (Antigravity)
-description: Xuất bài viết Finalized lên Google Docs.
+name: Export to Google Docs
+description: Xuất bài Finalized lên Google Docs qua Google Drive connector. Kích hoạt bởi /gdocs.
 ---
 
-# Skill: `/gdocs` — Export to Google Docs
+# Skill: `/gdocs [slug]` — Export to Google Docs
 
-Skill này cho phép Antigravity xuất nội dung từ `content/blog/3-finalized/` lên Google Docs thông qua Google Drive MCP.
+## Tool
+- Claude Code: `mcp__claude_ai_Google_Drive__create_file` (connector claude.ai — không cần mcp_config).
+- Antigravity: MCP server `google-drive` chạy qua `node scripts/mcp-launcher.js` (đọc `GOOGLE_DRIVE_CREDENTIALS_FILE` trong `.env`); tool tương đương `create_file`.
 
-## Hướng dẫn sử dụng
+## Luồng
 
-Gõ `/gdocs [slug]` hoặc chỉ cần `/gdocs` để lấy bài mới nhất.
-
-## Luồng xử lý
-
-1. **Kiểm tra MCP**: Đảm bảo tools `mcp__google_drive__...` đã xuất hiện. Nếu chưa, yêu cầu user restart Antigravity sau khi đã config `mcp_config.json`.
-2. **Đọc file**: Lấy file `Final-[slug].md`.
-3. **Xử lý nội dung**:
-   - Loại bỏ YAML frontmatter (phần giữa `---`).
-   - Lấy `Target_Keyword` từ YAML làm tiêu đề Doc.
-4. **Export**:
-   - Sử dụng tool `mcp__google_drive__create_file` hoặc tương đương để tạo Google Doc.
-   - Nội dung là Markdown thuần.
-5. **Phản hồi**: Trả về link Google Doc cho user.
-
-## Cấu hình (Đã thực hiện)
-File cấu hình tại: `C:\Users\loc.nv\.gemini\antigravity\mcp_config.json`
-```json
-{
-  "mcpServers": {
-    "google-drive": {
-      "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-google-drive"]
-    }
-  }
-}
-```
+1. Xác định file: `content/blog/3-finalized/Final-<slug>.md` (không có slug → file mới nhất theo mtime).
+2. `python scripts/qa_lint.py <file> --no-sitemap` → nếu có CRITICAL, báo user trước khi export.
+3. Xử lý nội dung:
+   - Bỏ YAML frontmatter.
+   - Bỏ section `## Revision Log` / `## Nhật ký chỉnh sửa` (nội bộ, không xuất).
+   - Ảnh: giữ dòng `![alt](content/blog/assets/images/…)` nguyên (người đăng upload tay) — hoặc bỏ nếu user yêu cầu.
+   - Tiêu đề Doc = H1 của bài.
+4. Tạo Doc trong folder **"HVS Blog"** (tạo folder nếu chưa có); nội dung Markdown thuần.
+5. Trả link Doc + nhắc: cập nhật cột `Google Doc` trong `keyword-hvs.csv` nếu cần.

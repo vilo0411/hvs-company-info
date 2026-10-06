@@ -14,13 +14,7 @@ Content_Type: Guide
 Featured_Snippet: Paragraph
 Word_Count_Target: 1750
 Meta_Description: Chỉ báo DMI (Directional Movement Index) là gì? Hướng dẫn cấu tạo bộ 3 đường +DI, -DI, ADX, công thức tính và 3 chiến lược giao dịch thực chiến hiệu quả nhất.
-HVS_Products:
-  - product: HVS Demo
-    benefit: Luyện tập theo dõi đường +DI, -DI và ADX không rủi ro
-  - product: HVS Forum
-    benefit: Trao đổi tín hiệu DMI thực chiến cùng cộng đồng F0, F1
-  - product: HVS Thực tập số
-    benefit: Rèn luyện kỹ năng phân tích kỹ thuật và quản trị danh mục chuyên nghiệp
+HVS_Products: ["HVS Demo", "HVS Forum", "HVS Thực tập số"]
 Anti_AI_Flags:
   - Không dùng "Trong thế giới không ngừng phát triển", "Mở khóa tiềm năng", "Tóm lại,", "Hành trình"
   - Không dùng "giải pháp toàn diện", "nâng tầm", "đáng chú ý là", "sóng dữ"
@@ -56,7 +50,7 @@ Chỉ báo DMI (Directional Movement Index - Chỉ số Chuyển động Định
 
 Công cụ này do nhà phân tích kỹ thuật lừng danh J. Welles Wilder Jr. phát triển và công bố vào năm 1978 trong cuốn sách kinh điển "New Concepts in Technical Trading Systems". Ông cũng chính là cha đẻ của các chỉ báo nổi tiếng khác như RSI hay Parabolic SAR.
 
-Trong [phương pháp phân tích kỹ thuật](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-phan-tich-ky-thuat-la-gi.md), DMI giữ vai trò như một bộ lọc tín hiệu hai chiều. Nếu các chỉ báo động lượng thông thường chỉ đo lường tốc độ thay đổi giá, DMI tách biệt rõ ràng giữa lực mua (áp lực đẩy giá lên) và lực bán (áp lực đè giá xuống), sau đó hợp nhất với chỉ số sức mạnh chung để đưa ra góc nhìn toàn diện.
+Trong [phương pháp phân tích kỹ thuật](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-ky-thuat-la-gi), DMI giữ vai trò như một bộ lọc tín hiệu hai chiều. Nếu các chỉ báo động lượng thông thường chỉ đo lường tốc độ thay đổi giá, DMI tách biệt rõ ràng giữa lực mua (áp lực đẩy giá lên) và lực bán (áp lực đè giá xuống), sau đó hợp nhất với chỉ số sức mạnh chung để đưa ra góc nhìn toàn diện.
 
 ### Cảnh báo phân biệt quan trọng cho người mới
 Khi cài đặt công cụ trên các nền tảng đồ thị như TradingView hay Amibroker, bạn cần phân biệt hai chỉ báo có cùng tên viết tắt DMI:
@@ -168,7 +162,7 @@ Trong giai đoạn thị trường đi ngang tích lũy, đường +DI và -DI l
 Không nên sử dụng DMI một cách độc lập. Chiến lược thực chiến tối ưu nhất là kết hợp DMI với:
 - [Chỉ báo RSI](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-rsi-la-gi.md) để đánh giá vùng quá mua/quá bán.
 - [Vùng hỗ trợ và kháng cự](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-ho-tro-khang-cu-la-gi.md) trên đồ thị kỹ thuật để tìm điểm vào lệnh có tỷ lệ Risk/Reward đẹp.
-- Luôn đặt kỷ luật tuân thủ [nguyên tắc cắt lỗ](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-cat-lo-la-gi.md) từ 5% đến 7% để bảo vệ nguồn vốn trước mọi biến động bất ngờ.
+- Luôn đặt kỷ luật tuân thủ [nguyên tắc cắt lỗ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cat-lo-la-gi) từ 5% đến 7% để bảo vệ nguồn vốn trước mọi biến động bất ngờ.
 
 ## 6. Thực hành phân tích chỉ báo DMI cùng hệ sinh thái HVS
 
@@ -183,8 +177,6 @@ Không nên sử dụng DMI một cách độc lập. Chiến lược thực chi
 - **Luyện tập không rủi ro trên HVS Demo:** Trước khi xuống tiền thật, bạn nên trải nghiệm giao dịch và theo dõi tín hiệu DMI trên nền tảng **HVS Demo** để làm quen với nhịp vận hành của chỉ báo.
 - **Trao đổi cùng cộng đồng tại HVS Forum:** Tham gia thảo luận, chia sẻ góc nhìn đồ thị DMI thực tế với các nhà đầu tư F0, F1 khác trên **HVS Forum** để nhận phản hồi từ những người có kinh nghiệm.
 - **Nâng tầm kỹ năng với HVS Thực tập số:** Đăng ký chương trình **HVS Thực tập số** (thuộc phễu **HVS Tài chính số**) để được rèn luyện tư duy phân tích kỹ thuật thực chiến, xây dựng bộ quy tắc giao dịch cá nhân và làm chủ kỹ năng quản trị danh mục chuyên nghiệp.
-
----
 
 ## Revision Log
 

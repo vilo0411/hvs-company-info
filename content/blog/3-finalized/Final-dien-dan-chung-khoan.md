@@ -42,7 +42,7 @@ Internal_Links:
 
 # Diễn đàn chứng khoán: Cách lọc tin sạch và tránh bẫy F0
 
-![Bộ lọc thông tin giúp nhà đầu tư tránh bẫy lùa gà trên diễn đàn chứng khoán](file:///e:/project/hvs-company-info/content/blog/assets/images/dien-dan-chung-khoan/stock_forum_filter.png)
+![Bộ lọc thông tin giúp nhà đầu tư tránh bẫy lùa gà trên diễn đàn chứng khoán](content/blog/assets/images/dien-dan-chung-khoan/stock_forum_filter.png)
 *Hình 1: Mô hình lọc sạch thông tin rác và nhận diện bẫy lùa gà trên các hội nhóm chứng khoán.*
 
 Thị trường tài chính luôn tràn ngập tin tức trái chiều. Đối với nhà đầu tư F0, diễn đàn chứng khoán và các hội nhóm mạng xã hội là những kênh tiếp cận thông tin nhanh chóng. Tuy nhiên, các cộng đồng này cũng ẩn chứa nhiều cạm bẫy từ đội lái nhằm thao túng giá cổ phiếu. HVS sẽ hướng dẫn bạn cách chọn lọc thông tin sạch để bảo vệ nguồn vốn và đưa ra quyết định giao dịch độc lập.

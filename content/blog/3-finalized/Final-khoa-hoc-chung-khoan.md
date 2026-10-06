@@ -88,7 +88,6 @@ Mục tiêu của HVS là giúp bạn **không mất tiền vô lý** trước k
 
 Đầu tư vào bản thân là khoản đầu tư mang lại tỷ suất sinh lời cao nhất. Đừng để thị trường lấy đi học phí của bạn một cách đau đớn. Hãy bắt đầu xây dựng nền tảng vững chắc cùng **HVS Thực tập số** ngay hôm nay!
 
----
 ### Revision Log
 - [2026-05-07]: Khởi tạo bản tối ưu từ file raw. Phân tách lộ trình Nhà phân tích & Nhà tư vấn. Cập nhật nội dung quản trị rủi ro thực chiến theo chuẩn HVS. Loại bỏ ngôn ngữ AI-vibe.
 - [2026-05-07]: Cập nhật chính xác lộ trình HVS Thực tập số (Analyst 3 module, Consultant 4 module) dựa trên tài liệu sản phẩm mới. Thay thế "lý thuyết suông" bằng văn phong chuyên nghiệp hơn.

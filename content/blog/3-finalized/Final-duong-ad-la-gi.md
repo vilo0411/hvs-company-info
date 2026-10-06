@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie / Nhà đầu tư F0 & F1
 Target_Keyword: đường a/d là gì
 Search_Intent: Informational & Technical Trading
@@ -23,7 +23,7 @@ Nhìn thấy giá cổ phiếu tăng nhưng không biết liệu tổ chức đa
 - **Tích lũy (Accumulation):** Xuất hiện khi dòng tiền lớn mua gom cổ phiếu một cách chủ động. Trong phiên, dù giá có lúc bị đè xuống, lực mua vẫn âm thầm đỡ đần và đẩy giá đóng cửa về sát mức cao nhất ngày.
 - **Phân phối (Distribution):** Xuất hiện khi các nhà đầu tư tổ chức chốt lời và bán ra số lượng lớn. Giá có thể được kéo lên trong phiên nhưng áp lực xả hàng mạnh khiến giá đóng cửa bị đẩy ngược xuống gần mức thấp nhất ngày.
 
-Trong hệ thống các [phương pháp phân tích kỹ thuật](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-phan-tich-ky-thuat-la-gi.md), đường A/D đóng vai trò như một thước đo cộng dồn. Khi khối lượng giao dịch lớn đi kèm với giá đóng cửa nằm ở nửa trên biên độ, đường A/D dốc lên. Ngược lại, nếu khối lượng lớn xuất hiện ở phiên đóng cửa sát đáy, đường A/D sẽ lao dốc, báo hiệu dòng tiền đang rút lui.
+Trong hệ thống các [phương pháp phân tích kỹ thuật](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-ky-thuat-la-gi), đường A/D đóng vai trò như một thước đo cộng dồn. Khi khối lượng giao dịch lớn đi kèm với giá đóng cửa nằm ở nửa trên biên độ, đường A/D dốc lên. Ngược lại, nếu khối lượng lớn xuất hiện ở phiên đóng cửa sát đáy, đường A/D sẽ lao dốc, báo hiệu dòng tiền đang rút lui.
 
 ## Phân biệt A/D Line (Chaikin) và Advance-Decline Line (Độ rộng thị trường)
 
@@ -66,7 +66,7 @@ Nhân hệ số CLV với khối lượng giao dịch trong phiên để xác đ
 
 `A/D hôm nay = A/D hôm trước + MFV`
 
-So với [chỉ báo OBV On Balance Volume](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-chi-bao-obv-la-gi.md) — vốn cộng toàn bộ volume nếu giá tăng và trừ toàn bộ volume nếu giá giảm — đường A/D chính xác hơn vì nó đánh giá chính biên độ biến động nội phiên thay vì phụ thuộc hoàn toàn vào giá đóng cửa của phiên trước.
+So với [chỉ báo OBV On Balance Volume](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-bao-obv-la-gi) — vốn cộng toàn bộ volume nếu giá tăng và trừ toàn bộ volume nếu giá giảm — đường A/D chính xác hơn vì nó đánh giá chính biên độ biến động nội phiên thay vì phụ thuộc hoàn toàn vào giá đóng cửa của phiên trước.
 
 ## 2 Tín hiệu giao dịch thực chiến với đường A/D trên thị trường Việt Nam
 
@@ -95,7 +95,7 @@ Dù là một chỉ báo dòng tiền hiệu quả, đường A/D không phải 
 ### 2. Hai nguyên tắc quản trị rủi ro bắt buộc
 Để khắc phục nhược điểm trên, nhà đầu tư cần tuân thủ 2 kỷ luật giao dịch:
 - **Không sử dụng độc lập:** Luôn phối hợp đường A/D với các chỉ báo xu hướng khác như đường trung bình MA20 hoặc mô hình nến giá.
-- **Xác nhận qua hành động giá:** Chỉ giải ngân khi tín hiệu phân kỳ của A/D đi kèm với một [điểm phá vỡ breakout](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-breakout-trong-chung-khoan-la-gi.md) xác nhận trên đồ thị kỹ thuật.
+- **Xác nhận qua hành động giá:** Chỉ giải ngân khi tín hiệu phân kỳ của A/D đi kèm với một [điểm phá vỡ breakout](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/breakout-trong-chung-khoan-la-gi) xác nhận trên đồ thị kỹ thuật.
 
 ## HVS Thực tập số: Rèn luyện kỹ năng soi dòng tiền và quản trị vị thế thực chiến
 
@@ -114,8 +114,6 @@ Bên cạnh chương trình đào tạo cốt lõi, nhà đầu tư tham gia h�
 Sự khác biệt lớn nhất giữa một nhà đầu tư F0 thua lỗ và một trader chuyên nghiệp nằm ở góc nhìn về thị trường. Nhà đầu tư thiếu kinh nghiệm thường bị thao túng bởi những bước giá xanh đỏ ngắn hạn mà không hề hay biết mình đang mua lại cổ phiếu ở vùng phân phối đỉnh.
 
 Ngược lại, người giao dịch chuyên nghiệp sử dụng đường A/D như một kính viễn vọng để nhìn xuyên qua màn sương biến động giá, tập trung theo dõi từng bước đi tích lũy âm thầm của dòng tiền lớn. Bằng cách kết hợp công thức định lượng của chỉ báo A/D với kỷ luật quản trị vị thế nghiêm ngặt tại **HVS Thực tập số**, bạn hoàn toàn có thể chủ động bảo vệ tài khoản và nâng cao hiệu quả đầu tư trên thị trường chứng khoán.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 

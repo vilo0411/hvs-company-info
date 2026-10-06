@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: HVS Senior Mentor
 Target_Keyword: app đầu tư chứng khoán
 Search_Intent: Informational | Commercial
@@ -119,8 +119,6 @@ Hãy bắt đầu lộ trình học tập bài bản tại [HVS Tài Chính Số
 **Lựa chọn đúng app đầu tư chứng khoán uy tín là bước đệm quan trọng giúp bạn quản lý tài sản an toàn và giao dịch thuận lợi.**
 
 Không có ứng dụng nào hoàn hảo cho tất cả mọi người. Người mới F0 muốn tối ưu chi phí nên ưu tiên TCInvest hoặc Entrade X; nhà đầu tư cần độ ổn định cao và kho phân tích sâu nên chọn SSI iBoard hoặc DStock; trong khi người thích giao dịch chủ động sẽ thấy VPS SmartOne phù hợp. Điều quan trọng nhất không nằm ở việc chọn ứng dụng nào, mà nằm ở năng lực phân tích tài chính và kỷ luật đi vốn của chính bạn. Hãy trang bị kiến thức bài bản cùng HVS trước khi chính thức đi vốn trên thị trường.
-
----
 
 ## Revision Log
 - **04/09/2026 (v1.0 - Optimized):**

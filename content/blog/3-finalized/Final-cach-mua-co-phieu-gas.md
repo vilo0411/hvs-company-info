@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: cách mua cổ phiếu gas
 Search_Intent: Transactional
@@ -27,25 +27,25 @@ Quy trình đăng ký tài khoản hiện nay hoàn toàn trực tuyến và mi�
 
 Tài khoản chứng khoán cần có đủ số dư tiền gửi trước khi bạn tiến hành mua [cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi). Bạn thực hiện nạp tiền thông qua dịch vụ Internet Banking của ngân hàng cá nhân bằng cách chuyển khoản nhanh 24/7 đến số tài khoản định danh do công ty chứng khoán cung cấp. Thao tác thực hiện rất đơn giản.
 
-Bạn phải nhập chính xác cú pháp chuyển tiền bao gồm số tài khoản chứng khoán và họ tên chủ tài khoản để tránh sai sót hệ thống. Phí nạp tiền phụ thuộc vào quy định của ngân hàng liên kết, thông thường dao động từ $0$ đến $11.000$ đồng mỗi giao dịch. Dòng tiền sau khi chuyển thành công sẽ hiển thị trên phần mềm giao dịch trực tuyến chỉ trong vài phút, giúp bạn sẵn sàng cho các quyết định giải ngân tiếp theo.
+Bạn phải nhập chính xác cú pháp chuyển tiền bao gồm số tài khoản chứng khoán và họ tên chủ tài khoản để tránh sai sót hệ thống. Phí nạp tiền phụ thuộc vào quy định của ngân hàng liên kết, thông thường dao động từ `0` đến `11.000` đồng mỗi giao dịch. Dòng tiền sau khi chuyển thành công sẽ hiển thị trên phần mềm giao dịch trực tuyến chỉ trong vài phút, giúp bạn sẵn sàng cho các quyết định giải ngân tiếp theo.
 
 ### Bước 3: Xem bảng điện chứng khoán và theo dõi mã GAS
 
 Bảng điện HOSE hiển thị biến động giá và thanh khoản trực quan của cổ phiếu GAS trong ngày. Bạn cần nắm rõ thời gian khớp lệnh diễn ra từ 9h00 đến 15h00, từ thứ Hai đến thứ Sáu hằng tuần, trừ các ngày nghỉ lễ theo quy định của pháp luật lao động.
 
-Biên độ dao động giá quy định trên sàn HOSE là $\pm 7\%$. Bạn cần phân biệt ba vùng màu sắc cơ bản trên bảng điện để định vị thị giá: giá trần có màu tím (mức giá cao nhất trong phiên), giá sàn có màu xanh lam (mức giá thấp nhất trong phiên), và giá tham chiếu có màu vàng (mức giá đóng cửa của phiên gần nhất). Theo dõi sát diễn biến cung cầu tại các mức giá này giúp bạn xác định được vùng giá tối ưu trước khi nhập lệnh.
+Biên độ dao động giá quy định trên sàn HOSE là `\pm 7\%`. Bạn cần phân biệt ba vùng màu sắc cơ bản trên bảng điện để định vị thị giá: giá trần có màu tím (mức giá cao nhất trong phiên), giá sàn có màu xanh lam (mức giá thấp nhất trong phiên), và giá tham chiếu có màu vàng (mức giá đóng cửa của phiên gần nhất). Theo dõi sát diễn biến cung cầu tại các mức giá này giúp bạn xác định được vùng giá tối ưu trước khi nhập lệnh.
 
 ### Bước 4: Đặt lệnh mua cổ phiếu GAS trực tuyến
 
-Lệnh mua cổ phiếu GAS được đặt trực tiếp thông qua ứng dụng di động hoặc bảng giá trực tuyến của công ty chứng khoán. Quy định giao dịch khớp lệnh lô tối thiểu trên sàn HOSE là $100$ cổ phiếu cho mỗi lệnh đặt. Khi muốn **mua cổ phiếu dầu khí** thuộc nhóm vốn hóa lớn, việc chuẩn bị tài chính và lựa chọn lệnh giao dịch phù hợp sẽ mang lại lợi thế vị thế đáng kể.
+Lệnh mua cổ phiếu GAS được đặt trực tiếp thông qua ứng dụng di động hoặc bảng giá trực tuyến của công ty chứng khoán. Quy định giao dịch khớp lệnh lô tối thiểu trên sàn HOSE là `100` cổ phiếu cho mỗi lệnh đặt. Khi muốn **mua cổ phiếu dầu khí** thuộc nhóm vốn hóa lớn, việc chuẩn bị tài chính và lựa chọn lệnh giao dịch phù hợp sẽ mang lại lợi thế vị thế đáng kể.
 
-Ví dụ: Nếu thị giá của mã GAS đang ở mức $85.000$ đồng/cổ phiếu, số vốn tối thiểu bạn cần chuẩn bị cho một lô giao dịch khớp lệnh là:
+Ví dụ: Nếu thị giá của mã GAS đang ở mức `85.000` đồng/cổ phiếu, số vốn tối thiểu bạn cần chuẩn bị cho một lô giao dịch khớp lệnh là:
 
-$$85.000 \times 100 = 8.500.000 \text{ VND}$$
+> **85.000 \times 100 = 8.500.000 \text{ VND}**
 
-If công ty chứng khoán áp dụng tỷ lệ phí giao dịch là $0,15\%$, tổng mức chi phí giao dịch bạn phải trả được tính như sau:
+If công ty chứng khoán áp dụng tỷ lệ phí giao dịch là `0,15\%`, tổng mức chi phí giao dịch bạn phải trả được tính như sau:
 
-$$8.500.000 \times 0,0015 = 12.750 \text{ VND}$$
+> **8.500.000 \times 0,0015 = 12.750 \text{ VND}**
 
 Bạn có thể lựa chọn các loại lệnh khác nhau để thực hiện giao dịch mua tùy thuộc vào mục tiêu tối ưu giá:
 
@@ -71,18 +71,18 @@ Chuỗi dự án Lô B - Ô Môn và Kho cảng LNG Thị Vải là động lự
 
 Mã cổ phiếu GAS mang đặc tính phòng thủ vững chắc nhờ cổ tức tiền mặt đều đặn. Tuy nhiên, bạn không nên phân bổ quá nhiều vốn vào một mã duy nhất để bảo đảm tính đa dạng hóa. Quy tắc này rất quan trọng.
 
-Tỷ trọng phân bổ khuyến nghị đối với GAS là từ $10\%$ đến $15\%$ tổng quy mô danh mục đầu tư. Nhằm bảo vệ dòng vốn trước biến động tiêu cực, bạn cần thiết lập kỷ luật cắt lỗ tự động khi thị giá điều chỉnh vượt quá ngưỡng:
+Tỷ trọng phân bổ khuyến nghị đối với GAS là từ `10\%` đến `15\%` tổng quy mô danh mục đầu tư. Nhằm bảo vệ dòng vốn trước biến động tiêu cực, bạn cần thiết lập kỷ luật cắt lỗ tự động khi thị giá điều chỉnh vượt quá ngưỡng:
 
-$$\text{Ngưỡng cắt lỗ} = \text{Giá vốn} \times (1 - 0,08)$$
+> **\text{Ngưỡng cắt lỗ} = \text{Giá vốn} \times (1 - 0,08)**
 
-Công thức này tương đương với mức cắt lỗ tối đa là $8\%$ so với giá vốn giải ngân ban đầu.
+Công thức này tương đương với mức cắt lỗ tối đa là `8\%` so với giá vốn giải ngân ban đầu.
 
 ### Kịch bản giao dịch thực chiến cho cổ phiếu GAS
 
 Xây dựng kịch bản giao dịch giúp bạn chủ động ứng phó trước diễn biến thị trường năng lượng. Bạn nên chuẩn bị trước kế hoạch.
 
-- Kịch bản tích cực: Nếu chuỗi dự án Lô B - Ô Môn đẩy nhanh tiến độ và giá dầu Brent duy trì trên $80 \text{ USD/thùng}$, doanh thu GAS sẽ tăng mạnh. Bạn tiếp tục nắm giữ vị thế và gia tăng giải ngân tại hỗ trợ kỹ thuật.
-- Kịch bản tiêu cực: Nếu giá dầu Brent giảm sâu dưới $65 \text{ USD/thùng}$, áp lực điều chỉnh lên kết quả kinh doanh GAS sẽ xuất hiện. Bạn chủ động hạ tỷ trọng để bảo toàn vốn.
+- Kịch bản tích cực: Nếu chuỗi dự án Lô B - Ô Môn đẩy nhanh tiến độ và giá dầu Brent duy trì trên `80 \text{ USD/thùng}`, doanh thu GAS sẽ tăng mạnh. Bạn tiếp tục nắm giữ vị thế và gia tăng giải ngân tại hỗ trợ kỹ thuật.
+- Kịch bản tiêu cực: Nếu giá dầu Brent giảm sâu dưới `65 \text{ USD/thùng}`, áp lực điều chỉnh lên kết quả kinh doanh GAS sẽ xuất hiện. Bạn chủ động hạ tỷ trọng để bảo toàn vốn.
 
 ## Nâng cao tư duy đầu tư thực chiến cùng HVS Tài Chính Số
 

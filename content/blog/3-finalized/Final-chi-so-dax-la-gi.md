@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Lan Newbie
 Target_Keyword: chỉ số dax là gì
 Search_Intent: Informational
@@ -55,7 +55,6 @@ Trong rổ DAX 40 có rất nhiều tập đoàn công nghiệp và hóa chất 
 ### 3. Chỉ báo tâm lý giờ sớm cho thị trường Mỹ và Việt Nam
 Thị trường chứng khoán Đức mở cửa trước thị trường Mỹ (Wall Street) khoảng 5-6 tiếng và trùng vào khung giờ chiều của thị trường Việt Nam. 
 - Nếu DAX lao dốc vào phiên chiều (giờ Việt Nam), nó thường tạo ra áp lực bán tháo theo hiệu ứng Domino, khiến nhà đầu tư trong nước lo ngại về một phiên đỏ lửa tại Mỹ vào tối cùng ngày. Việc quan sát DAX giúp bạn có thêm vài giờ để chủ động cơ cấu danh mục trước khi biến động lan rộng.
-
 
 ## Làm chủ nền tảng đầu tư tại thị trường Việt Nam cùng HVS
 

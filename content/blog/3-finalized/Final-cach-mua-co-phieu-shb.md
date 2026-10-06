@@ -1,7 +1,7 @@
-﻿---
+---
 Author: HVS Senior Mentor
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: Cách mua cổ phiếu SHB
 Search_Intent: Informational | Transactional
@@ -25,11 +25,11 @@ Sức hấp dẫn của cổ phiếu này nằm ở thị giá tương đối m�
 
 Nhà đầu tư có thể dễ dàng ước tính lượng tiền mặt tối thiểu cần có thông qua công thức tính toán đơn giản dưới đây:
 
-$$Vốn tối thiểu = (Thị giá SHB \times 100) + Phí giao dịch$$
+> **Vốn tối thiểu = (Thị giá SHB \times 100) + Phí giao dịch**
 
 Thông thường, phí giao dịch mua chứng khoán áp dụng tại các công ty trung gian dao động khoảng 0,15% tổng giá trị giao dịch đặt lệnh. Giả sử giá cổ phiếu SHB trên bảng điện đang giao dịch tại mức 11.000 đồng/cổ phiếu, số tiền tối thiểu bạn bắt buộc phải nộp để đặt mua thành công được tính toán cụ thể:
 
-$$Vốn tối thiểu = (11.000 \times 100) + 0,15\% \times (11.000 \times 100) = 1.101.650 \text{ đồng}$$
+> **Vốn tối thiểu = (11.000 \times 100) + 0,15\% \times (11.000 \times 100) = 1.101.650 \text{ đồng}**
 
 Bảng dưới đây trình bày giả lập chi tiết số tiền tối thiểu cần chuẩn bị để sở hữu 100 cổ phiếu SHB tại các vùng thị giá khác nhau nhằm giúp bạn chủ động kế hoạch tài chính:
 

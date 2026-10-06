@@ -21,8 +21,6 @@ Word_Count_Target: 1700
 
 Cổ phiếu VCB, HPG hoặc các doanh nghiệp đầu ngành trên sàn HOSE thường là mục tiêu của nhiều nhà đầu tư. Tuy nhiên, sàng lọc những mã tiềm năng đòi hỏi phương pháp khoa học. Bài viết này của HVS hướng dẫn bạn cách chọn cổ phiếu tốt dựa trên 6 tiêu chí tài chính định lượng kết hợp với quản trị rủi ro thực chiến.
 
----
-
 ## 6 tiêu chí chọn cổ phiếu tốt, tiềm năng
 
 Chọn cổ phiếu tốt cần dựa trên các con số định lượng, không phải cảm tính. Đầu tư cảm tính rất dễ thua lỗ. Bộ 6 tiêu chí tài chính dưới đây giúp bạn sàng lọc cổ phiếu tốt một cách khoa học.
@@ -68,9 +66,7 @@ Chỉ số P/B (Giá/Giá trị sổ sách) so sánh thị giá cổ phiếu v�
 
 ### Tiêu chí 6: Cổ tức đều đặn
 
-Cổ tức bằng tiền mặt đều đặn là bằng chứng thép cho thấy doanh nghiệp có dòng tiền thực tế dồi dào. Bạn nên tránh xa các doanh nghiệp liên tục chia cổ tức bằng cổ phiếu để pha loãng giấy. Tiền mặt luôn là sự thật. Chi trả cổ tức đều đặn chứng minh ban lãnh đạo tôn trọng lợi ích của cổ đông nhỏ lẻ. Tìm hiểu thêm về bản chất [cổ tức là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-tuc-la-gi.md) để hiểu rõ cơ chế này.
-
----
+Cổ tức bằng tiền mặt đều đặn là bằng chứng thép cho thấy doanh nghiệp có dòng tiền thực tế dồi dào. Bạn nên tránh xa các doanh nghiệp liên tục chia cổ tức bằng cổ phiếu để pha loãng giấy. Tiền mặt luôn là sự thật. Chi trả cổ tức đều đặn chứng minh ban lãnh đạo tôn trọng lợi ích của cổ đông nhỏ lẻ. Tìm hiểu thêm về bản chất [cổ tức là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi) để hiểu rõ cơ chế này.
 
 ## 4 chỉ số và lưu ý khi chọn cổ phiếu thực chiến
 
@@ -106,8 +102,6 @@ Mua cổ phiếu tốt ở sai thời điểm vẫn có thể khiến tài kho�
 
 Ví dụ thực tế, cổ phiếu HPG trong giai đoạn cuối năm 2021 có kết quả kinh doanh đạt đỉnh lịch sử. Tuy nhiên, nếu bạn mua vào lúc này do tin tốt mà bỏ qua tín hiệu PTKT phân phối trên đồ thị giá, bạn đã phải chịu nhịp thoái lui sâu kéo dài nhiều tháng sau đó.
 
----
-
 ## Những lợi ích khi đầu tư có chọn lọc
 
 Bộ tiêu chí chọn lọc giúp bạn định hình tư duy đầu tư nhất quán và mang lại ba lợi thế lớn.
@@ -128,8 +122,6 @@ Tập trung nguồn vốn vào các cơ hội chất lượng giúp nâng cao hi
 
 Trí tuệ tài chính của bạn sẽ tích lũy dần qua mỗi lần đọc báo cáo tài chính và phân tích biểu đồ giá. Quá trình tự sàng lọc giúp bạn thấu hiểu quy luật cung cầu và hành vi của dòng tiền lớn trên thị trường. Hãy kiên trì thực hiện thói quen này. Tự chủ và độc lập trong phân tích là nền tảng quyết định giúp bạn thành công bền vững.
 
----
-
 ## Làm chủ phương pháp chọn cổ phiếu cùng HVS Tài chính số
 
 Nhiều nhà đầu tư F0 thường bối rối trước lượng thông tin khổng lồ và hàng trăm báo cáo tài chính mỗi quý từ các sàn HOSE, HNX. Thiếu phương pháp chọn lọc bài bản khiến bạn dễ đưa ra các quyết định giao dịch cảm tính và thua lỗ vốn đáng tiếc.
@@ -142,13 +134,9 @@ Nhiều nhà đầu tư F0 thường bối rối trước lượng thông tin kh
 
 **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
----
-
 ## Kết luận và định hướng chọn cổ phiếu cùng HVS
 
 Sàng lọc cổ phiếu tốt bằng bộ tiêu chí định lượng là bước đi đầu tiên giúp bạn bảo vệ tài sản trên thị trường chứng khoán. Tuy nhiên, lý thuyết cần đi đôi với thực chiến. Bạn nên bắt đầu áp dụng các tiêu chí này trên các công cụ mô phỏng để tích lũy kinh nghiệm và rèn luyện tâm lý giao dịch ổn định. Hãy đồng hành cùng HVS để từng bước làm chủ kỹ năng phân tích độc lập và xây dựng danh mục đầu tư bền vững.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-11):** Tạo outline chi tiết dựa trên phân tích SERP.

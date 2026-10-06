@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: sách phân tích kỹ thuật chứng khoán
 Search_Intent: Informational
@@ -45,7 +45,7 @@ Dưới đây là bảng tổng hợp giúp bạn dễ dàng so sánh nội dung
 
 Mặc dù các giáo trình cung cấp nền tảng lý thuyết rất tốt, việc áp dụng máy móc lý thuyết sách vở luôn đi kèm với rủi ro rất cao. Phân tích kỹ thuật không phải là chén thánh và mọi chỉ báo kỹ thuật đều có độ trễ nhất định.
 
-Thị trường chứng khoán Việt Nam có đặc thù khớp lệnh T+2.5, nghĩa là cổ phiếu mua xong phải sau hai ngày rưỡi mới về tài khoản để bán. Trong khi đó, hầu hết các sách phân tích kỹ thuật nước ngoài được viết cho các thị trường phái sinh giao dịch T+0. Sự lệch pha này dễ khiến bạn rơi vào các bẫy tăng giá (Bull Trap) hoặc bẫy giảm giá (Bear Trap) trước khi kịp phản ứng. Để hiểu rõ cơ chế vận hành của phân tích biểu đồ, bạn bắt buộc phải nghiên cứu kỹ bài viết [phân tích kỹ thuật là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-phan-tich-ky-thuat-la-gi.md) và tham gia các [khóa học phân tích kỹ thuật](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-khoa-hoc-phan-tich-ky-thuat.md) có tính thực hành cao để học cách lọc nhiễu tín hiệu.
+Thị trường chứng khoán Việt Nam có đặc thù khớp lệnh T+2.5, nghĩa là cổ phiếu mua xong phải sau hai ngày rưỡi mới về tài khoản để bán. Trong khi đó, hầu hết các sách phân tích kỹ thuật nước ngoài được viết cho các thị trường phái sinh giao dịch T+0. Sự lệch pha này dễ khiến bạn rơi vào các bẫy tăng giá (Bull Trap) hoặc bẫy giảm giá (Bear Trap) trước khi kịp phản ứng. Để hiểu rõ cơ chế vận hành của phân tích biểu đồ, bạn bắt buộc phải nghiên cứu kỹ bài viết [phân tích kỹ thuật là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-ky-thuat-la-gi) và tham gia các [khóa học phân tích kỹ thuật](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-khoa-hoc-phan-tich-ky-thuat.md) có tính thực hành cao để học cách lọc nhiễu tín hiệu.
 
 ## Chuyển hóa lý thuyết sách phân tích kỹ thuật cùng HVS Tài chính số
 

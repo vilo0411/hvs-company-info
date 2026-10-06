@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Active Trader & Investor (F0, F1)
 Target_Keyword: full margin là gì
 Search_Intent: Informational
@@ -55,19 +55,19 @@ Chỉ cần giá cổ phiếu trong danh mục giảm từ 15% đến 20%, tài 
 
 Hãy cùng phân tích một kịch bản giao dịch thực tế với cổ phiếu HPG trên sàn HOSE để hiểu rõ cơ chế vận hành của dòng tiền:
 
-* **Vị thế ban đầu:** Vốn tự có 100 triệu đồng + Vay margin 100 triệu đồng $\rightarrow$ Mua 8.000 cổ phiếu HPG giá 25.000 đồng/cổ phiếu (Tổng danh mục 200 triệu đồng, tỷ lệ R = 50%).
+* **Vị thế ban đầu:** Vốn tự có 100 triệu đồng + Vay margin 100 triệu đồng `\rightarrow` Mua 8.000 cổ phiếu HPG giá 25.000 đồng/cổ phiếu (Tổng danh mục 200 triệu đồng, tỷ lệ R = 50%).
 
 ### 1. Kịch bản tăng giá (HPG tăng 10%)
-Giá HPG tăng lên 27.500 đồng/cổ phiếu $\rightarrow$ Tổng danh mục đạt 220 triệu đồng. Tài sản ròng đạt 120 triệu đồng. Lợi nhuận thu về 20 triệu đồng (+20% trên vốn tự có).
+Giá HPG tăng lên 27.500 đồng/cổ phiếu `\rightarrow` Tổng danh mục đạt 220 triệu đồng. Tài sản ròng đạt 120 triệu đồng. Lợi nhuận thu về 20 triệu đồng (+20% trên vốn tự có).
 
 ### 2. Kịch bản giảm giá chạm ngưỡng Call Margin (HPG giảm 20%)
-Giá HPG giảm về 20.000 đồng/cổ phiếu $\rightarrow$ Tổng danh mục còn 160 triệu đồng. Tài sản ròng còn 60 triệu đồng.
+Giá HPG giảm về 20.000 đồng/cổ phiếu `\rightarrow` Tổng danh mục còn 160 triệu đồng. Tài sản ròng còn 60 triệu đồng.
 * **Tỷ lệ ký quỹ thực tế:** `R_real = (60.000.000 / 160.000.000) × 100% = 37,5%` (chạm ngưỡng Call Margin 40%).
 * **Phương án 1 (Nộp tiền mặt):** `Số tiền nộp bổ sung = (50% × 160.000.000 - 60.000.000) / 0,5 = 40.000.000 đồng`.
 * **Phương án 2 (Bán cổ phiếu):** `Số lượng cổ phiếu HPG cần bán = 40.000.000 / 20.000 = 2.000 cổ phiếu`.
 
 ### 3. Kịch bản giảm giá chạm ngưỡng Force Sell (HPG giảm 28%)
-Nếu nhà đầu tư thụ động không xử lý và HPG giảm tiếp phiên thứ hai xuống 18.000 đồng/cổ phiếu $\rightarrow$ Tổng danh mục còn 144 triệu đồng. Tài sản ròng còn 44 triệu đồng.
+Nếu nhà đầu tư thụ động không xử lý và HPG giảm tiếp phiên thứ hai xuống 18.000 đồng/cổ phiếu `\rightarrow` Tổng danh mục còn 144 triệu đồng. Tài sản ròng còn 44 triệu đồng.
 * **Tỷ lệ ký quỹ thực tế:** `R_real = (44.000.000 / 144.000.000) × 100% = 30,55%` (chạm ngưỡng Force Sell 30%).
 * Hệ thống tự động đẩy lệnh bán giải chấp HPG với giá sàn ở đầu phiên tiếp theo, khiến nhà đầu tư thua lỗ nặng nề do mất quyền chủ động vị thế.
 
@@ -98,8 +98,6 @@ Hệ sinh thái của HVS mang đến giải pháp toàn diện giúp nhà đầ
 ## Kết luận
 
 Full Margin là con dao hai lưỡi trong đầu tư chứng khoán. Việc lạm dụng đòn bẩy tối đa mà thiếu kiến thức phân tích và kế hoạch quản trị dòng tiền là nguyên nhân hàng đầu dẫn đến thua lỗ nặng nề. Bằng cách nắm vững cơ chế tính toán và tuân thủ nghiêm ngặt kỷ luật giao dịch, bạn hoàn toàn có thể kiểm soát đòn bẩy tài chính và bảo vệ tài sản bền vững cùng HVS.
-
----
 
 ## Revision Log
 

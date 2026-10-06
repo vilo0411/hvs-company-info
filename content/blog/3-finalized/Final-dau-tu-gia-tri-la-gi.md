@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: đầu tư giá trị là gì
 Search_Intent: Informational
@@ -45,7 +45,7 @@ Nhà đầu tư giá trị không để cảm xúc của ngài Thị trường c
 
 ## So sánh đầu tư giá trị và đầu tư tăng trưởng
 
-Trên thị trường chứng khoán, đầu tư giá trị và [đầu tư tăng trưởng](Final-dau-tu-tang-truong-la-gi.md) là hai trường phái phân tích cơ bản phổ biến nhất. Việc hiểu rõ sự khác biệt giúp bạn lựa chọn phương pháp phù hợp với khẩu vị rủi ro và quy mô vốn của bản thân.
+Trên thị trường chứng khoán, đầu tư giá trị và [đầu tư tăng trưởng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-tang-truong-la-gi) là hai trường phái phân tích cơ bản phổ biến nhất. Việc hiểu rõ sự khác biệt giúp bạn lựa chọn phương pháp phù hợp với khẩu vị rủi ro và quy mô vốn của bản thân.
 
 | Tiêu chí so sánh | Đầu tư giá trị | Đầu tư tăng trưởng |
 | :--- | :--- | :--- |
@@ -114,8 +114,6 @@ Trước khi ra quyết định giải ngân vào bất kỳ mã cổ phiếu n�
 - **Bước 4:** Kiểm tra dấu hiệu bẫy giá trị và theo dõi kết quả kinh doanh định kỳ hàng quý.
 
 Việc kiên trì tuân thủ kỷ luật định giá kết hợp với việc trau dồi kiến thức bài bản trên **HVS Tài chính số** sẽ giúp bạn xây dựng vị thế đầu tư vững chắc trên thị trường chứng khoán Việt Nam.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-09-15):** Khởi tạo Outline bài viết "Đầu tư giá trị là gì" trong pipeline Express Mode dựa trên nghiên cứu SERP và chuẩn cấu trúc HVS.

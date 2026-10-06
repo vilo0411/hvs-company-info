@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["cách chơi chứng khoán trên điện thoại"]
 Status: Finalized
@@ -73,8 +73,8 @@ Cách hiển thị này giúp bạn theo dõi sát sao biên độ dao động v
 
 Khi đặt lệnh giới hạn LO (chọn mã ví dụ VCB, nhập khối lượng tối thiểu 100 cổ phiếu và mức giá muốn mua), bạn hãy ứng phó linh hoạt theo 2 kịch bản:
 
-*   **Kịch bản 1 (Khớp lệnh):** Nếu lực cầu lớn hơn lực cung và thị giá di chuyển chạm mức LO bạn đặt $\rightarrow$ lệnh khớp hoàn toàn, bạn sở hữu cổ phiếu và chấp nhận rủi ro biến động ngắn hạn để tìm cơ hội sinh lời dài hạn.
-*   **Kịch bản 2 (Chờ khớp):** Nếu lực cung suy yếu khiến giá bứt phá vượt mức LO bạn đặt $\rightarrow$ lệnh sẽ ở trạng thái chờ khớp, bạn phải ưu tiên quản trị rủi ro bằng cách hủy lệnh hoặc chờ nhịp thoái lui mới, không mua đuổi vô căn cứ. Hệ thống sẽ gửi thông báo khớp khi có lệnh đối ứng phù hợp.
+*   **Kịch bản 1 (Khớp lệnh):** Nếu lực cầu lớn hơn lực cung và thị giá di chuyển chạm mức LO bạn đặt `\rightarrow` lệnh khớp hoàn toàn, bạn sở hữu cổ phiếu và chấp nhận rủi ro biến động ngắn hạn để tìm cơ hội sinh lời dài hạn.
+*   **Kịch bản 2 (Chờ khớp):** Nếu lực cung suy yếu khiến giá bứt phá vượt mức LO bạn đặt `\rightarrow` lệnh sẽ ở trạng thái chờ khớp, bạn phải ưu tiên quản trị rủi ro bằng cách hủy lệnh hoặc chờ nhịp thoái lui mới, không mua đuổi vô căn cứ. Hệ thống sẽ gửi thông báo khớp khi có lệnh đối ứng phù hợp.
 
 ## 3 sai lầm kinh điển của F0 khi đầu tư chứng khoán qua điện thoại
 

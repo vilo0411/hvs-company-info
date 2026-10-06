@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: "HVS Senior Mentor"
 Target_Keyword: Đường MA200 là gì
 Secondary_Keywords: ["đường MA200 trong chứng khoán", "cách dùng đường MA200", "giao cắt MA50 và MA200", "Golden Cross Death Cross"]
@@ -23,7 +23,7 @@ Meta_Description: "Đường MA200 là gì? Tìm hiểu ý nghĩa ngưỡng hỗ
 
 Về mặt công thức, MA200 đơn giản là tổng giá đóng cửa của 200 phiên liên tiếp chia cho 200. Vì tính toán dựa trên chu kỳ dài khoảng 50 tuần làm việc, MA200 đóng vai trò như một bộ lọc nhiễu hiệu quả. Chỉ báo này triệt tiêu toàn bộ những biến động tăng giảm thất thường trong ngắn hạn do yếu tố tin đồn hay tâm lý hoảng loạn của dòng tiền nhỏ lẻ. 
 
-Do đó, MA200 phản ánh góc nhìn chiến lược của các quỹ đầu tư lớn, ngân hàng và các tổ chức tài chính sắm vai lực lượng dẫn dắt thị trường. Khi áp dụng [phương pháp phân tích kỹ thuật](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-phan-tich-ky-thuat-la-gi.md), quan sát chuyển động của MA200 giúp bạn biết dòng tiền lớn đang tích lũy hay rút khỏi cổ phiếu.
+Do đó, MA200 phản ánh góc nhìn chiến lược của các quỹ đầu tư lớn, ngân hàng và các tổ chức tài chính sắm vai lực lượng dẫn dắt thị trường. Khi áp dụng [phương pháp phân tích kỹ thuật](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-ky-thuat-la-gi), quan sát chuyển động của MA200 giúp bạn biết dòng tiền lớn đang tích lũy hay rút khỏi cổ phiếu.
 
 ## 2 Vai trò cốt lõi của đường MA200 nhà đầu tư cần nắm vững
 

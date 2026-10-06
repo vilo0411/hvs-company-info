@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: cách mua cổ phiếu gvr
 Search_Intent: Transactional
@@ -33,15 +33,15 @@ Các công ty chứng khoán đều liên kết với ngân hàng để cung c�
 
 Trước khi tiến hành mua cổ phiếu GVR, bạn bắt buộc phải kiểm tra thông số sức mua hiển thị trên giao diện phần mềm giao dịch. Sức mua khả dụng được xác định dựa trên tỷ lệ ký quỹ yêu cầu đối với mã cổ phiếu của Tập đoàn Cao su Việt Nam:
 
-$$\text{Sức mua} = \frac{\text{Số dư tiền mặt}}{\text{Tỷ lệ ký quỹ}}$$
+> **\text{Sức mua} = \frac{\text{Số dư tiền mặt}}{\text{Tỷ lệ ký quỹ}}**
 
-Ví dụ, nếu bạn nạp $20,000,000 \text{ VND}$ tiền mặt và tỷ lệ ký quỹ yêu cầu của công ty chứng khoán đối với mã GVR là $100\%$, sức mua khả dụng của bạn sẽ đạt đúng $20,000,000 \text{ VND}$. 
+Ví dụ, nếu bạn nạp `20,000,000 \text{ VND}` tiền mặt và tỷ lệ ký quỹ yêu cầu của công ty chứng khoán đối với mã GVR là `100\%`, sức mua khả dụng của bạn sẽ đạt đúng `20,000,000 \text{ VND}`. 
 
 Tổng chi phí thanh toán thực tế bao gồm thị giá nhân số lượng cộng thêm tỷ lệ phí giao dịch phát sinh:
 
-$$\text{Tổng chi phí} = P \times Q \times (1 + r)$$
+> **\text{Tổng chi phí} = P \times Q \times (1 + r)**
 
-Trong công thức trên, $P$ là thị giá khớp lệnh của cổ phiếu GVR, $Q$ đại diện cho số lượng cổ phiếu cần mua, và $r$ là tỷ lệ phí giao dịch của công ty chứng khoán (thường dao động trong khoảng từ $0.1\%$ đến $0.25\%$).
+Trong công thức trên, `P` là thị giá khớp lệnh của cổ phiếu GVR, `Q` đại diện cho số lượng cổ phiếu cần mua, và `r` là tỷ lệ phí giao dịch của công ty chứng khoán (thường dao động trong khoảng từ `0.1\%` đến `0.25\%`).
 
 ### Bước 3: Xem bảng điện chứng khoán và theo dõi mã GVR
 
@@ -49,9 +49,9 @@ Bảng điện chứng khoán hiển thị biến động giá và khối lượ
 
 Phiên giao dịch chính thức của sàn HOSE diễn ra liên tục từ thứ Hai đến thứ Sáu hàng tuần, bắt đầu lúc 9h00 và kết thúc vào lúc 15h00, ngoại trừ các ngày nghỉ lễ quốc gia.
 
-Quy định biên độ dao động giá trần và sàn trong ngày của sàn HOSE được giới hạn ở mức $\pm 7\%$ so với mức giá tham chiếu của phiên giao dịch liền trước. 
+Quy định biên độ dao động giá trần và sàn trong ngày của sàn HOSE được giới hạn ở mức `\pm 7\%` so với mức giá tham chiếu của phiên giao dịch liền trước. 
 
-Bạn cần nhận diện chính xác các mã màu quy ước trên bảng điện: màu tím đại diện cho giá trần (tăng kịch biên độ $+7\%$), màu xanh lam thể hiện giá sàn (giảm kịch biên độ $-7\%$), và màu vàng tương ứng với giá tham chiếu đầu ngày.
+Bạn cần nhận diện chính xác các mã màu quy ước trên bảng điện: màu tím đại diện cho giá trần (tăng kịch biên độ `+7\%`), màu xanh lam thể hiện giá sàn (giảm kịch biên độ `-7\%`), và màu vàng tương ứng với giá tham chiếu đầu ngày.
 
 Khi phân tích vị thế giao dịch, bạn nên quan sát sự chênh lệch khối lượng đặt mua và đặt bán ở các bước giá tốt nhất. Tương quan cung cầu này phản ánh trực tiếp xung lực tăng trưởng hoặc áp lực điều chỉnh ngắn hạn của mã GVR.
 
@@ -71,7 +71,7 @@ Bạn cần làm quen và hiểu rõ nguyên lý hoạt động của 3 loại l
 
 Hãy lưu ý quy định pháp lý về tỷ lệ sở hữu đối với nhà đầu tư cá nhân trên thị trường tài chính. 
 
-Nếu tổng khối lượng giao dịch dẫn đến việc bạn nắm giữ từ $5\%$ trở lên số lượng cổ phiếu GVR đang lưu hành, bạn sẽ trở thành cổ đông lớn của tập đoàn.
+Nếu tổng khối lượng giao dịch dẫn đến việc bạn nắm giữ từ `5\%` trở lên số lượng cổ phiếu GVR đang lưu hành, bạn sẽ trở thành cổ đông lớn của tập đoàn.
 
 Theo quy định tại Thông tư 96/2020/TT-BTC về công bố thông tin trên thị trường chứng khoán Việt Nam, bạn bắt buộc phải thực hiện báo cáo sở hữu cho Ủy ban Chứng khoán Nhà nước trong thời hạn 5 ngày làm việc. Việc vi phạm nghĩa vụ báo cáo này sẽ bị cơ quan quản lý xử phạt hành chính nghiêm khắc.
 
@@ -93,15 +93,15 @@ Doanh nghiệp nắm giữ lợi thế quỹ đất sạch cực lớn tập tru
 
 Để quản trị danh mục hiệu quả, bạn cần duy trì tính kỷ luật cao khi phân bổ nguồn lực tài chính cá nhân. 
 
-Chúng tôi khuyến nghị tỷ trọng giải ngân cho một mã có tính chu kỳ như GVR không nên vượt quá $10\%$ đến $15\%$ tổng giá trị danh mục đầu tư.
+Chúng tôi khuyến nghị tỷ trọng giải ngân cho một mã có tính chu kỳ như GVR không nên vượt quá `10\%` đến `15\%` tổng giá trị danh mục đầu tư.
 
-Đồng thời, bạn bắt buộc phải thiết lập ngưỡng cắt lỗ tự động cố định ở mức $7\%$ đến $8\%$ dưới giá vốn để bảo vệ tài khoản trước các nhịp rung lắc mạnh của thị trường. 
+Đồng thời, bạn bắt buộc phải thiết lập ngưỡng cắt lỗ tự động cố định ở mức `7\%` đến `8\%` dưới giá vốn để bảo vệ tài khoản trước các nhịp rung lắc mạnh của thị trường. 
 
-Ví dụ, nếu bạn thực hiện cách đầu tư cổ phiếu gvr với giá mua trung bình là $32,000 \text{ VND}$, mức giá cắt lỗ kỹ thuật được tính toán như sau:
+Ví dụ, nếu bạn thực hiện cách đầu tư cổ phiếu gvr với giá mua trung bình là `32,000 \text{ VND}`, mức giá cắt lỗ kỹ thuật được tính toán như sau:
 
-$$P_{\text{stop-loss}} = 32,000 \times (1 - 0.07) = 29,760 \text{ VND}$$
+> **P_{\text{stop-loss}} = 32,000 \times (1 - 0.07) = 29,760 \text{ VND}**
 
-Khi thị giá khớp lệnh chạm hoặc thủng mốc $29,760 \text{ VND}$, bạn cần quyết liệt bán ra để thu hồi dòng vốn, tránh tâm lý chần chừ dẫn đến thua lỗ sâu.
+Khi thị giá khớp lệnh chạm hoặc thủng mốc `29,760 \text{ VND}`, bạn cần quyết liệt bán ra để thu hồi dòng vốn, tránh tâm lý chần chừ dẫn đến thua lỗ sâu.
 
 ### Kịch bản giao dịch thực chiến cho cổ phiếu GVR
 

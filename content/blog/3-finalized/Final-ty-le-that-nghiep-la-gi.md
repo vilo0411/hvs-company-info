@@ -23,8 +23,6 @@ Tỷ lệ thất nghiệp là chỉ số đo lường tỷ lệ phần trăm s�
 ![Tỷ lệ thất nghiệp là gì và tác động đến chu kỳ kinh tế](https://extgw.dsc.com.vn/eback/uploads/ty_le_that_nghiep_d40e32b9c8.jpg)
 *Hình 1: Tỷ lệ thất nghiệp là chỉ báo vĩ mô quan trọng phản ánh sức khỏe thị trường lao động và mối quan hệ đánh đổi với lạm phát.*
 
----
-
 ## Tỷ lệ thất nghiệp là gì? Khái niệm và phương pháp xác định
 
 Tỷ lệ thất nghiệp (Unemployment Rate) phản ánh tỷ lệ phần trăm số người thất nghiệp so với tổng quy mô lực lượng lao động của một quốc gia tại một thời điểm nhất định. Chỉ số này giúp các nhà hoạch định chính sách và nhà đầu tư đánh giá mức độ ổn định của nền kinh tế thực.
@@ -36,8 +34,6 @@ Tỷ lệ thất nghiệp (Unemployment Rate) phản ánh tỷ lệ phần trăm
 *   **Người thất nghiệp (Unemployed):** Người từ đủ 15 tuổi trở lên đáp ứng đồng thời ba điều kiện: không có việc làm trong tuần tham chiếu, đang tích cực tìm kiếm việc làm trong 4 tuần gần nhất và sẵn sàng nhận việc làm ngay khi có cơ hội.
 
 Những người không nằm trong lực lượng lao động bao gồm: học sinh, sinh viên học tập toàn thời gian, người nội trợ gia đình không có nhu cầu tìm việc bên ngoài, người nghỉ hưu theo chế độ, hoặc những người mất hoàn toàn khả năng lao động. Nhóm đối tượng này không được tính vào mẫu số khi đo lường tỷ lệ thất nghiệp.
-
----
 
 ## Công thức tính tỷ lệ thất nghiệp theo chuẩn Tổng cục Thống kê
 
@@ -57,8 +53,6 @@ Ví dụ tính toán thực tế dựa trên số liệu thống kê thị trư�
 *   Áp dụng công thức trên: Tỷ lệ thất nghiệp = (1,15 / 52,5) x 100% = 2,19%.
 
 Con số 2,19% này cho thấy cứ 100 người tham gia vào lực lượng lao động thì có khoảng 2,19 người chưa tìm được việc làm phù hợp.
-
----
 
 ## Phân loại các dạng thất nghiệp chính trong nền kinh tế
 
@@ -91,8 +85,6 @@ Bảng so sánh chi tiết các dạng thất nghiệp:
 | **Thời gian tồn tại** | Ngắn hạn (vài tuần đến vài tháng) | Dài hạn (cần đào tạo lại kỹ năng) | Trung hạn (theo pha suy thoái kinh tế) | Ngắn hạn, lặp lại theo mùa |
 | **Tính chất** | Tự nguyện, lành mạnh | Bắt buộc, khó giải quyết nhanh | Bắt buộc, diện rộng | Quy luật tự nhiên |
 | **Giải pháp chính** | Cải thiện cổng thông tin việc làm | Đào tạo nghề mới, nâng cao tay nghề | Kích cầu kinh tế, nới lỏng tiền tệ | Đa dạng hóa sinh kế phụ trợ |
-
----
 
 ## Mối tương quan giữa tỷ lệ thất nghiệp và chu kỳ kinh tế
 
@@ -132,8 +124,6 @@ Bảng tổng hợp diễn biến việc làm qua 4 pha chu kỳ kinh tế:
 | **Suy thoái** | Tăng trưởng âm hoặc giảm tốc | Tăng vọt nhanh chóng | Giảm dần từ đỉnh | Bắt đầu hạ lãi suất, hỗ trợ thanh khoản |
 | **Tạo đáy** | Dừng giảm, đi ngang vùng đáy | Lập đỉnh, bắt đầu đi ngang | Thấp nhất chu kỳ | Nới lỏng tối đa, bơm vốn qua [đầu tư công](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/dau-tu-cong-la-gi) |
 
----
-
 ## Bức tranh thị trường lao động và tỷ lệ thất nghiệp tại Việt Nam
 
 Thị trường lao động Việt Nam mang đặc thù của một nền kinh tế đang phát triển với lực lượng lao động dồi dào và khu vực kinh tế phi chính thức chiếm tỷ trọng đáng kể.
@@ -152,8 +142,6 @@ Nghịch lý này xuất phát từ hai rào cản chính:
 
 *   **Thiếu hụt kỹ năng thực tế:** Nhiều sinh viên tốt nghiệp đại học nắm vững lý thuyết hàn lâm nhưng thiếu kỹ năng thực hành, ngoại ngữ chuyên ngành và khả năng thích ứng với môi trường doanh nghiệp.
 *   **Mất cân đối cung cầu chất lượng cao:** Các doanh nghiệp có vốn đầu tư nước ngoài (FDI) và khối tài chính liên tục săn đón nhân sự có năng lực phân tích cơ bản chuyên sâu, trong khi thị trường lại dư thừa lao động phổ thông chưa qua đào tạo nghề bài bản.
-
----
 
 ## Ứng dụng chỉ số thất nghiệp vào phân tích đầu tư chứng khoán
 
@@ -181,8 +169,6 @@ Bảng hướng dẫn phân bổ danh mục đầu tư theo trạng thái thị 
 | **Thất nghiệp giảm dần** | Hoạt động sản xuất mở rộng | Nhu cầu tiêu dùng và đầu tư phục hồi | Tăng tỷ trọng cổ phiếu chu kỳ, sản xuất và bán lẻ (HPG, MWG) |
 | **Thất nghiệp chạm đáy** | Thị trường lao động quá nóng | Nguy cơ lạm phát, lãi suất rục rịch tăng | Chốt lời từng phần, giảm sử dụng đòn bẩy vay ký quỹ (margin) |
 
----
-
 ## Nâng cao năng lực phân tích kinh tế vĩ mô cùng HVS Tài chính số
 
 Nhiều nhà đầu tư cá nhân thường gặp khó khăn khi liên kết các số liệu vĩ mô như tỷ lệ thất nghiệp, tăng trưởng GDP và lạm phát vào bức tranh phân tích doanh nghiệp. Việc đưa ra quyết định mua bán theo cảm xúc hoặc tin tức bề nổi dễ dẫn đến rủi ro thua lỗ khi thị trường đảo chiều.
@@ -191,15 +177,11 @@ Chương trình **HVS Thực tập số** trên nền tảng đào tạo trực 
 
 Bên cạnh lý thuyết, bạn có thể sử dụng tài khoản thực hành **HVS Demo** để trải nghiệm giao dịch mô phỏng hoàn toàn không rủi ro, kiểm chứng hiệu quả của chiến lược xoay vòng ngành theo chu kỳ việc làm. Ngoài ra, bạn dễ dàng trao đổi thắc mắc, cập nhật nhận định thị trường và học hỏi kinh nghiệm cùng các chuyên gia tài chính tại cộng đồng **HVS Forum**.
 
----
-
 ## Kết luận
 
 Tỷ lệ thất nghiệp không chỉ là một chỉ số phản ánh tình hình việc làm xã hội mà còn là công cụ định vị chu kỳ vĩ mô quan trọng đối với mọi nhà đầu tư chứng khoán. Việc thấu hiểu công thức tính, các dạng phân loại thất nghiệp và mối liên hệ với chính sách tiền tệ sẽ giúp bạn chủ động nhận diện các điểm đảo chiều của thị trường để cơ cấu tài sản hiệu quả. Hãy tiếp tục trau dồi tư duy phân tích vĩ mô chuẩn mực cùng HVS để tự tin đưa ra các quyết định đầu tư an toàn và bền vững trên sàn chứng khoán.
 
 **Tuyên bố miễn trừ trách nhiệm:** Các phân tích số liệu thất nghiệp và nhận định thị trường trong bài viết chỉ mang tính chất tham khảo học tập, không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán cổ phiếu trực tiếp. Bạn cần tự chịu trách nhiệm đối với các quyết định giao dịch tài chính của bản thân.
-
----
 
 ## Bảng kiểm định chất lượng Index (Indexation Audit Table)
 
@@ -211,8 +193,6 @@ Tỷ lệ thất nghiệp không chỉ là một chỉ số phản ánh tình h�
 | **Tuân thủ Anti-AI & Tone** | 0% từ cấm Tier 1/Tier 2, ngắt nhịp câu tự nhiên, ngôi xưng "bạn"/"HVS" | Đạt chuẩn 100% không còn AI-vibe, không mệnh đề bị động lặp lại | ✅ PASS |
 | **Cấu trúc Trực quan (UX & Visuals)** | Bảng Markdown + Sơ đồ Mermaid logic | 3 bảng Markdown chi tiết + 1 sơ đồ Mermaid truyền dẫn vĩ mô | ✅ PASS |
 | **HVS Product Ecosystem Bridge** | Phân tầng chuẩn: HVS Tài chính số/Thực tập số làm lõi, Demo & Forum hỗ trợ | Lồng ghép tự nhiên theo phân tầng đối tượng học tập và thực hành | ✅ PASS |
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-05-20):** Khởi tạo nội dung thô từ bài viết gốc về tỷ lệ thất nghiệp và chu kỳ kinh tế.

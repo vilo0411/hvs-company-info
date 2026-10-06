@@ -1,7 +1,7 @@
-﻿---
+---
 Author: HVS Senior Mentor
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: Cách mua cổ phiếu STB
 Search_Intent: Informational | Transactional
@@ -25,11 +25,11 @@ Sức bật của kết quả kinh doanh Sacombank phụ thuộc lớn vào vi�
 
 Nhà đầu tư cá nhân có thể dễ dàng xác định nguồn lực tài chính tối thiểu cần nộp thông qua biểu thức toán học dưới đây:
 
-$$Vốn tối thiểu = (Thị giá STB \times 100) + Phí giao dịch$$
+> **Vốn tối thiểu = (Thị giá STB \times 100) + Phí giao dịch**
 
 Thông thường, mức phí giao dịch mua áp dụng tại các công ty môi giới chứng khoán được tính toán quanh 0,15% tổng giá trị giao dịch đặt mua của bạn. Giả sử giá cổ phiếu STB khớp lệnh trên sàn HOSE ở vùng giá 29.000 đồng/cổ phiếu, số tiền tối thiểu bạn bắt buộc phải chuẩn bị để khớp lệnh thành công được tính cụ thể:
 
-$$Vốn tối thiểu = (29.000 \times 100) + 0,15\% \times (29.000 \times 100) = 2.904.350 \text{ đồng}$$
+> **Vốn tối thiểu = (29.000 \times 100) + 0,15\% \times (29.000 \times 100) = 2.904.350 \text{ đồng}**
 
 Bảng tính toán dưới đây giả lập chi tiết số tiền tối thiểu cần nộp để giao dịch thành công 100 cổ phiếu STB ở các mức thị giá khác nhau trên bảng điện trực tuyến:
 

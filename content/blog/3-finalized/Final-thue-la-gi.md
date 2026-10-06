@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Lan Newbie
 Target_Keyword: thuế là gì
 Search_Intent: Informational

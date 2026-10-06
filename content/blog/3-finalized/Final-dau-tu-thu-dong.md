@@ -14,15 +14,7 @@ Search_Intent: Informational
 Content_Type: Educational Guide
 Featured_Snippet: Table
 Word_Count_Target: 2200
-HVS_Products:
-  - product: HVS Tài chính số
-    benefit: "Nền tảng đào tạo lộ trình thực chiến từ FA/TA đến quản lý danh mục thụ động bài bản"
-  - product: HVS Thực tập số
-    benefit: "Chương trình thực hành phân tích FA/TA và xây dựng báo cáo phân tích đầu tư thực chất"
-  - product: HVS Demo
-    benefit: "Thực hành chiến thuật DCA và kiểm thử phân bổ danh mục không mất tiền thật"
-  - product: HVS Forum
-    benefit: "Trao đổi kiến thức quản lý tài sản và kết nối cộng đồng nhà đầu tư thực chiến"
+HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS Forum"]
 Anti_AI_Flags: ["mở khóa tiềm năng", "hành trình", "giải pháp toàn diện", "nâng tầm", "đột phá"]
 Internal_Links:
   - role: Cluster

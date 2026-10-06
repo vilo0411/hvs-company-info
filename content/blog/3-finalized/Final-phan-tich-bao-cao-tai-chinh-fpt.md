@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: Phân tích báo cáo tài chính FPT
 Search_Intent: Informational
@@ -19,7 +19,7 @@ Kết quả kinh doanh FPT trong 6 tháng đầu năm 2026 ghi nhận doanh thu 
 
 Khối Công nghệ tiếp tục củng cố vai trò là động lực tăng trưởng cốt lõi khi đóng góp khoảng 88% doanh thu và 58% lợi nhuận trước thuế của toàn tập đoàn. Điểm sáng lớn đến từ thị trường Nhật Bản và khu vực châu Á - Thái Bình Dương. Doanh thu dịch vụ CNTT nước ngoài duy trì đà tăng trưởng cao nhờ nhu cầu chuyển đổi số toàn cầu và việc đưa vào khai thác thương mại các trung tâm dữ liệu AI mới.
 
-Sự bứt phá này giúp FPT giữ vững vị thế cổ phiếu tăng trưởng tiêu biểu trên thị trường chứng khoán Việt Nam. Nhà đầu tư quan tâm đến cổ phiếu công nghệ này có thể tham khảo thêm hướng dẫn chi tiết về [cách mua cổ phiếu fpt](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-cach-mua-co-phieu-fpt.md) để lựa chọn phương thức giao dịch phù hợp. Sự vững chắc về kết quả kinh doanh là nền tảng nâng đỡ giá trị cổ phiếu FPT qua các chu kỳ biến động của VN-Index.
+Sự bứt phá này giúp FPT giữ vững vị thế cổ phiếu tăng trưởng tiêu biểu trên thị trường chứng khoán Việt Nam. Nhà đầu tư quan tâm đến cổ phiếu công nghệ này có thể tham khảo thêm hướng dẫn chi tiết về [cách mua cổ phiếu fpt](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-fpt) để lựa chọn phương thức giao dịch phù hợp. Sự vững chắc về kết quả kinh doanh là nền tảng nâng đỡ giá trị cổ phiếu FPT qua các chu kỳ biến động của VN-Index.
 
 Tuy nhiên, việc đánh giá kết quả kinh doanh cần đặt trong bối cảnh thay đổi cơ cấu hoạt động của các công ty con. Sự chuyển dịch tỷ trọng doanh thu giữa các mảng kinh doanh có thể làm thay đổi biên lợi nhuận gộp chung của tập đoàn. Khối giáo dục và khối dịch vụ viễn thông cũng đóng góp nguồn tiền mặt đều đặn, hỗ trợ đắc lực cho hoạt động nghiên cứu phát triển công nghệ cao của FPT.
 

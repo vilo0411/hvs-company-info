@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Nhà đầu tư F0 & Nhà phân tích vĩ mô cơ bản (P2/P3)
 Target_Keyword: tăng trưởng tín dụng là gì
 Search_Intent: Informational & Strategic Investment
@@ -14,8 +14,6 @@ Tín dụng đóng vai trò như dòng máu lưu thông trong toàn bộ nền k
 Trong hệ thống các chỉ số [**kinh tế vĩ mô**](https://taichinhso.hvsvn.com/kinh-te-vi-mo), tăng trưởng tín dụng là một trong những chỉ báo sớm phản ánh sức khỏe hệ thống ngân hàng và định hướng điều hành của Ngân hàng Nhà nước (NHNN). Bài viết này sẽ phân tích chi tiết khái niệm tăng trưởng tín dụng, cơ chế cấp room tín dụng, các chu kỳ lịch sử thực tế tại Việt Nam và cẩm nang ứng dụng dữ liệu tín dụng vào đầu tư chứng khoán.
 
 ![Khái niệm và bức tranh toàn cảnh về tín dụng ngân hàng](https://www.youtube.com/watch?v=WMNvIoBxhQM)
-
----
 
 ## Đánh giá sông tín dụng cùng HVS
 

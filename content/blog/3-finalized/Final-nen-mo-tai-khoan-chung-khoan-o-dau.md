@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie
 Target_Keyword: nên mở tài khoản chứng khoán ở đâu
 Search_Intent: Informational/Commercial

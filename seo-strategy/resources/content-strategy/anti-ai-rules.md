@@ -9,6 +9,8 @@
 ## 0. QUICK SCAN — Enforcement Patterns (Skills/QA chỉ đọc section này)
 
 > Section ngắn, machine-readable. Full rationale → xem Phần 1-4 bên dưới.
+> **Đây là nguồn duy nhất** cho `scripts/qa_lint.py` (FORBIDDEN_STRINGS → `CL2-hard`, RESTRICTED_STRINGS → `CL2-soft`, HEDGE_WORDS → `CL2-hedge`). File `anti-ai-digest.md` đã bị xóa (archive). FORBIDDEN_PATTERNS cần suy luận → Quality Guardian; riêng `formula_latex`, `em_dash_connector`, `xưng_hô_sai` đã có lint (`FMT-latex`, `FMT-emdash`, `CL3-address`).
+> Quyết định 2026-09-21: "Đột phá / Hệ sinh thái / Cốt lõi" giữ ở **Tier 2** (tối đa 1 lần/bài), không nâng lên Tier 1.
 
 ### TIER 1 — Cấm tuyệt đối (flag & remove ngay, không exception)
 
@@ -203,6 +205,7 @@ REQUIRED:
 - [2026-05-14]: Cập nhật từ "Tích sản" và "Định giá" feedback: Cấm tuyệt đối dấu ngoặc kép nhấn mạnh (Quy tắc 3.4), yêu cầu chia nhỏ phương pháp tính toán thành H3 để tăng trải nghiệm đọc.
 - [2026-05-14]: Cập nhật từ "Hỗ trợ - Kháng cự" feedback: Cấm từ "Đọc vị" (AI filler), yêu cầu tách nhỏ các bước "Cách thực hiện" thành H3, và siết chặt cấu trúc Vấn đề - Giải pháp (phải nêu nỗi đau bẫy tâm lý/phá vỡ giả trước khi dẫn về HVS).
 - [2026-05-18]: Tái cấu trúc file: Thêm Section 0 (Quick Scan) để skills/QA đọc trực tiếp — loại bỏ anti-ai-digest.md riêng biệt. Content-feedback-loop cập nhật cả Section 0 khi học rule mới.
+- [2026-09-21]: Refactor hệ thống: `anti-ai-digest.md` xóa thật (archive/rules-deprecated). §0 là nguồn duy nhất cho `scripts/qa_lint.py`; thêm block `HEDGE_WORDS`. Feedback loop mới: regex-able → §0 / lint; judgment → `.antigravity/memory/instincts-archive.md` (xem `.antigravity/rules/learning-loop.md`).
 - [2026-05-26]: Cập nhật từ "Dow Jones" feedback: Thay đổi tiêu đề H1 loại bỏ từ cấm "đọc vị"; cấm sử dụng công thức dạng LaTeX ($$ hoặc $) gây lỗi hiển thị khi chuyển sang Google Docs, bắt buộc dùng blockquote in đậm.
 - [2026-05-29]: Cập nhật từ "Dệt may" feedback: Tối ưu hóa cấu trúc bài viết Toplist ngành bằng cách chuyển các phần phân tích chi tiết ("Luận điểm đầu tư", "Rủi ro đầu tư") của mỗi doanh nghiệp từ dạng danh sách bullet points thành tiêu đề H4 sub-headings để tăng trải nghiệm phân cấp trực quan và đồng bộ hóa chuyên sâu.
 - [2026-05-29]: Cập nhật từ "Nhựa" feedback: Xây dựng cấu trúc danh mục cổ phiếu tiềm năng chuyên sâu (Comprehensive Stock Directory) bằng cách mở rộng từ 3 lên 5 mã cổ phiếu đặc trưng của ngành, triển khai đồng bộ thành tiêu đề H3 với các đề mục phân tích Luận điểm và Rủi ro chi tiết.

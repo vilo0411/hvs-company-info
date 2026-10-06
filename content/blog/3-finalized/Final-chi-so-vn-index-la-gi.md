@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie
 Target_Keyword: chỉ số vn-index là gì
 Search_Intent: Informational
@@ -64,7 +64,6 @@ Trên bảng điện, bạn sẽ thấy con số VN-Index kèm theo một số h
 
 ### Cảnh báo hiện tượng "Xanh vỏ đỏ lòng"
 Đây là một thuật ngữ thực chiến cực kỳ quan trọng. Có những ngày VN-Index xanh điểm (tăng giá) nhờ vào sự kéo giá của các cổ phiếu trụ lớn như VCB, VIC, nhưng thực tế đa số các cổ phiếu khác trên sàn lại đang giảm giá. Nếu không tinh ý, bạn có thể lầm tưởng thị trường đang tốt nhưng tài sản của mình vẫn bị "bốc hơi".
-
 
 ## Nhìn VN-Index sao cho đúng để không bị "loạn" tâm lý
 

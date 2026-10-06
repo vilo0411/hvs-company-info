@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Claude Code
 Status: Finalized
 Pipeline_Mode: Express
@@ -19,11 +19,7 @@ Search_Intent: Informational
 Word_Count_Target: 2000
 Featured_Snippet: Table
 
-HVS_Products:
-  - product: "HVS Tài chính số"
-    benefit: "Nền tảng đào tạo trực tuyến dạy cách đọc và phân tích BCLCTT trong bộ môn FA LV1 — từ con số đến quyết định đầu tư thực chiến"
-  - product: "HVS Demo"
-    benefit: "Thực hành phân tích doanh nghiệp mô phỏng trước khi dùng tiền thật"
+HVS_Products: ["HVS Tài chính số", "HVS Demo"]
 
 Internal_Links:
   - role: context
@@ -149,7 +145,5 @@ Bạn vừa nắm khung lý thuyết và 5 tín hiệu cảnh báo. Nhưng khi m
 Chưa chắc đăng ký ngay? **HVS Demo** cho phép thực hành mô phỏng trước khi dùng tiền thật.
 
 [Phân tích doanh nghiệp](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-doanh-nghiep-la-gi) là kỹ năng xây dựng theo thời gian. Bắt đầu từ BCLCTT là nước đi đúng.
-
----
 
 **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.

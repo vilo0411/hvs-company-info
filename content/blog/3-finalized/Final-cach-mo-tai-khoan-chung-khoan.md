@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie
 Target_Keyword: cách mở tài khoản chứng khoán
 Search_Intent: Transactional

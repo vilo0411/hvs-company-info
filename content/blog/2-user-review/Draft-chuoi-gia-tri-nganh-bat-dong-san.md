@@ -19,7 +19,7 @@ Lexicon_Focus: "Thuật ngữ chuyên môn từ @glossary.md"
 Financial_Logic: "Phân tích theo kịch bản và đưa ra cảnh báo rủi ro thực tế"
 Avoid_Mistakes: ["Không dùng từ cấm AI-vibe", "Tránh câu bị động dồn dập", "Không dùng dấu phân cách gạch ngang giữa các heading"]
 Mandatory_Rules:
-  - "@.antigravity/rules/writing-guidelines.md"
+  - "@.antigravity/rules/seo-formatting.md"
   - "@seo-strategy/resources/content-strategy/anti-ai-rules.md"
   - "@seo-strategy/resources/content-strategy/financial-logic.md"
   - "@seo-strategy/resources/content-strategy/tone-and-voice.md"

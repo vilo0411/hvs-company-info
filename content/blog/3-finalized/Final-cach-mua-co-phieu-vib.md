@@ -1,7 +1,7 @@
-﻿---
+---
 Author: HVS Senior Mentor
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: Cách mua cổ phiếu VIB
 Search_Intent: Informational | Transactional
@@ -25,11 +25,11 @@ Sự tăng trưởng ổn định của ngân hàng được củng cố bằng 
 
 Bạn hoàn toàn có thể tự tính toán lượng vốn tối thiểu cần chuẩn bị để giao dịch bằng công thức toán học đơn giản sau:
 
-$$Vốn tối thiểu = (Thị giá VIB \times 100) + Phí giao dịch$$
+> **Vốn tối thiểu = (Thị giá VIB \times 100) + Phí giao dịch**
 
 Thông thường, mức phí giao dịch mua chứng khoán áp dụng phổ biến tại các công ty trung gian dao động quanh ngưỡng 0,15% giá trị lệnh mua thực tế. Giả sử giá cổ phiếu VIB trên bảng điện đang khớp ở mức 20.000 đồng/cổ phiếu, số tiền tối thiểu bạn bắt buộc phải nộp vào tài khoản chứng khoán được tính toán chi tiết:
 
-$$Vốn tối thiểu = (20.000 \times 100) + 0,15\% \times (20.000 \times 100) = 2.003.000 \text{ đồng}$$
+> **Vốn tối thiểu = (20.000 \times 100) + 0,15\% \times (20.000 \times 100) = 2.003.000 \text{ đồng}**
 
 Bảng tính toán dưới đây giả lập chi tiết số tiền tối thiểu cần chuẩn bị để đặt lệnh mua thành công 100 cổ phiếu VIB tương ứng với các mức thị giá giả định khác nhau trên thị trường:
 

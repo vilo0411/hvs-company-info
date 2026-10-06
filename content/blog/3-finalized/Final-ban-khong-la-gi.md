@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Nhà đầu tư F0 & F1
 Target_Keyword: bán khống là gì
 Search_Intent: Informational

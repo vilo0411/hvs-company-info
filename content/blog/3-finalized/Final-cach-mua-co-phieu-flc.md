@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: F0
 Target_Keyword: Cách mua cổ phiếu FLC
 Search_Intent: Informational / Transactional
@@ -20,8 +20,6 @@ Hiện tại, cổ phiếu FLC **không còn giao dịch tập trung trên sàn 
 Cơ quan quản lý đã áp dụng các biện pháp mạnh tay để thanh lọc thị trường. Cổ phiếu FLC cũng đã bị Tổng công ty Lưu ký và Bù trừ Chứng khoán Việt Nam (VSDC) hủy đăng ký và lưu ký tập trung từ tháng 9 năm 2023. Quyết định này chấm dứt mọi hoạt động khớp lệnh mua bán tự động đối với cổ phiếu FLC trên các ứng dụng giao dịch trực tuyến của các công ty chứng khoán. Bạn không thể tìm kiếm mã FLC để đặt lệnh giới hạn hay lệnh thị trường trên bảng điện nữa. Hệ thống sẽ báo lỗi do mã chứng khoán không tồn tại trên sàn tập trung.
 
 Theo quy định tại Luật Chứng khoán năm 2019 công bố trên cổng thông tin `vanban.chinhphu.vn`, một doanh nghiệp bị hủy tư cách công ty đại chúng sẽ không còn chịu sự giám sát trực tiếp từ Ủy ban Chứng khoán Nhà nước. Do đó, mã FLC hoàn toàn biến mất khỏi hệ thống giao dịch tập trung của sàn HOSE và sàn UPCoM. Nhà đầu tư không thể mua bán cổ phiếu này qua tài khoản chứng khoán cá nhân thông thường. Mọi nỗ lực tìm kiếm cơ hội giao dịch khớp lệnh tự động trên các ứng dụng di động đều vô hiệu. Bạn chỉ có thể sở hữu cổ phiếu FLC thông qua các giao dịch phi tập trung bên ngoài sàn.
-
----
 
 ## Quy trình mua bán cổ phiếu FLC qua giao dịch thỏa thuận (OTC)
 
@@ -49,8 +47,6 @@ Bảng dưới đây so sánh sự khác biệt giữa giao dịch cổ phiếu 
 | **Vai trò của công ty chứng khoán** | Đóng vai trò là đơn vị trung gian xác thực chữ ký sổ cổ đông. | Đóng vai trò là thành viên giao dịch truyền lệnh trực tiếp. |
 | **Tính thanh khoản** | Cực kỳ thấp do phải tự tìm đối tác mua bán đơn lẻ. | Cao, hàng triệu cổ phiếu được mua bán liên tục mỗi ngày. |
 
----
-
 ## 3 Rủi ro chí mạng khi mua cổ phiếu FLC hiện tại
 
 Mua cổ phiếu FLC lúc này đồng nghĩa với việc chấp nhận rủi ro thanh khoản cực thấp, tính minh bạch thông tin kém và không có cơ chế bảo vệ từ Ủy ban Chứng khoán Nhà nước. Bạn nên cân nhắc kỹ lượng các biến số rủi ro dưới đây trước khi quyết định bỏ vốn vào một [mã cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) đã bị hủy niêm yết.
@@ -66,8 +62,6 @@ Tập đoàn FLC không còn nghĩa vụ công bố thông tin định kỳ củ
 ### Rủi ro mất trắng vốn do tranh chấp pháp lý
 
 Giao dịch OTC tiềm ẩn nguy cơ lừa đảo cao. Kẻ xấu có thể sử dụng Sổ chứng nhận sở hữu cổ phần giả để ký hợp đồng chuyển nhượng nhằm chiếm đoạt tài sản của bạn. Do giao dịch không qua hệ thống kiểm soát tự động của sàn HOSE, Ủy ban Chứng khoán Nhà nước sẽ không đứng ra giải quyết các tranh chấp phát sinh giữa hai cá nhân. Bạn phải tự chịu trách nhiệm pháp lý trước Tòa án nếu xảy ra tranh chấp dân sự.
-
----
 
 ## Tại sao F0 nên bắt đầu với các cổ phiếu Blue-chip thay vì Penny/OTC?
 

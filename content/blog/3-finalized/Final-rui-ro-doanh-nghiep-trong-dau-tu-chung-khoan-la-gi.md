@@ -47,9 +47,7 @@ Direct_Answer_Targets:
     bold_target: "rủi ro phi hệ thống (unsystematic risk)"
 
 Writing_Method: PAS
-HVS_Products:
-  - product: "HVS Tài chính số"
-    benefit: "Phân tích rủi ro doanh nghiệp qua báo cáo tài chính là kỹ năng cốt lõi trong FA LV1 và FA LV2 của chương trình HVS Thực tập số — học để tự bảo vệ danh mục thay vì phụ thuộc vào tin đồn hội nhóm"
+HVS_Products: ["HVS Tài chính số"]
 
 Cluster: rủi ro
 Cluster_Role: Cluster

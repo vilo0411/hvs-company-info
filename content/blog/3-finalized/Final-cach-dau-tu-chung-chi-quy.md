@@ -71,10 +71,8 @@ Chiến lược hiệu quả nhất là **Đầu tư định kỳ (SIP - Systema
 
 **Gia nhập Hệ sinh thái HVS ngay hôm nay để biến kiến thức thành tài sản và xây dựng tương lai tài chính vững chắc!**
 
----
 **Miễn trừ trách nhiệm:** Đầu tư chứng khoán và chứng chỉ quỹ luôn đi kèm rủi ro thị trường. Các con số lợi nhuận trong bài chỉ mang tính tham khảo dựa trên lịch sử. Nhà đầu tư cần cân nhắc kỹ trước khi đưa ra quyết định.
 
----
 ## ## Changelog
 - Cập nhật định nghĩa và phân loại 3 loại hình CCQ tại Việt Nam.
 - Chi tiết hóa 4 bước đầu tư (bổ sung eKYC và Cut-off time).

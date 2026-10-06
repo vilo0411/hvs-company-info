@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["đầu tư chứng khoán có những rủi ro gì"]
 Status: Finalized
@@ -48,11 +48,7 @@ Direct_Answer_Targets:
     bold_target: "đầu tư chứng khoán có mất tiền"
 
 Writing_Method: PAS
-HVS_Products:
-  - product: "HVS Tài chính số"
-    benefit: "Học kỹ năng phân tích để tự đánh giá rủi ro doanh nghiệp trước khi mua — không phụ thuộc vào hội nhóm Zalo hay tin đồn, nền tảng quan trọng nhất để kiểm soát rủi ro phi hệ thống"
-  - product: "HVS Demo"
-    benefit: "Thực hành quản lý danh mục mô phỏng real-time để hiểu cảm giác biến động thị trường trước khi đặt tiền thật"
+HVS_Products: ["HVS Tài chính số", "HVS Demo"]
 
 Cluster: rủi ro
 Cluster_Role: Pillar

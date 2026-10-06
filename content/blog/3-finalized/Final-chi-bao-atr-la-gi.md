@@ -98,8 +98,6 @@ Checklist 4 bước hành động cho nhà đầu tư:
 3. **Tính điểm dừng lỗ chuẩn:** Áp dụng công thức `Điểm cắt lỗ = Giá vào - (2 × ATR)` và tuân thủ tuyệt đối [nguyên tắc cắt lỗ].
 4. **Tối ưu vị thế trên HVS Thực tập số:** Đăng ký rèn luyện thực chiến tại **HVS Thực tập số** để nâng cao tư duy quản trị danh mục chuyên nghiệp.
 
----
-
 ## Revision Log
 - 2026-09-14: Khởi tạo Outline bài viết "Chỉ báo ATR là gì" chuẩn SEO Express Mode.
 - 2026-09-14: Điều chỉnh tiêu đề H1 gọn gàng, chuẩn SEO và chuyển toàn bộ công thức toán từ LaTeX sang định dạng văn bản Unicode thuần.

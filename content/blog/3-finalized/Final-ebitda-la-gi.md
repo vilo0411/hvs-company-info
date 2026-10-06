@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["EBITDA là gì"]
 Status: Finalized
@@ -149,8 +149,6 @@ Lan Newbie khi tự đọc báo cáo tài chính của các doanh nghiệp trên
 **Chỉ số EBITDA hỗ trợ hiệu quả cho việc so sánh hoạt động kinh doanh cốt lõi của doanh nghiệp nhưng không thể thay thế cho dòng tiền thực tế và lợi nhuận ròng.**
 
 Nhà đầu tư phải kết hợp phân tích chỉ số này cùng chi phí vốn CAPEX và dòng tiền từ hoạt động kinh doanh. Việc xem xét bức tranh tài chính đa chiều giúp bạn tránh các bẫy số liệu và đưa ra quyết định đầu tư an toàn. Bạn hãy tham gia lộ trình đào tạo của HVS để xây dựng nền tảng phân tích tài chính thực chiến ngay hôm nay.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-25):** Khởi tạo outline cho từ khóa "EBITDA là gì" thuộc Cluster Phân tích cơ bản theo yêu cầu viết bài mới.

@@ -23,8 +23,6 @@ Chỉ số PMI (Purchasing Managers' Index) là thước đo sức khỏe kinh t
 ![Chỉ số PMI là gì và cách tính toán](https://extgw.dsc.com.vn/eback/uploads/pmi_1_dabca1c85a.jpg)
 *Hình 1: Chỉ số PMI là chỉ báo kinh tế vĩ mô hàng đầu phản ánh sức khỏe của ngành sản xuất và định hướng dòng tiền trên thị trường chứng khoán.*
 
----
-
 ## Đọc hiểu chỉ số sản xuất PMI cùng HVS
 
 Chỉ số PMI trên 50 điểm thể hiện sự mở rộng của ngành sản xuất, tạo nền tảng tăng trưởng lợi nhuận cho các doanh nghiệp niêm yết. Người mới bắt đầu có thể học [cách đọc bảng giá chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/huong-dan-doc-bang-gia-chung-khoan) và trải nghiệm [chơi chứng khoán trên điện thoại](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-choi-chung-khoan-tren-dien-thoai) để theo dõi các mã sản xuất công nghiệp.

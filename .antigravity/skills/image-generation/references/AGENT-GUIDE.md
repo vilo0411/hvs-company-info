@@ -37,9 +37,6 @@ Tất cả file template nằm trong thư mục này (`references/`). Không cò
 |---|---|---|
 | Dark split — **mặc định** | `definition-template.html` | Hầu hết thuật ngữ |
 | Dark fullbleed | `definition-fullbleed.html` | Khi có ảnh concept mạnh |
-| Dark editorial | `definition-editorial.html` | Khi ảnh quan trọng hơn text |
-| Dark brutalist | `definition-brutalist.html` | Visual đối lập text/ảnh tối giản |
-| Light fullbleed | `definition-light.html` | Bài nhập môn / đối tượng mới bắt đầu |
 
 ---
 
@@ -97,7 +94,7 @@ Dược phẩm               → #26C6DA  (xanh ngọc)
 
 ## 5. Kích thước và định dạng output
 
-- **Canvas:** 1000 × 562 px (tỷ lệ 16:9)
+- **Canvas:** 1000 × 600 px cover (5:3) · 800 × 500 px ảnh section (8:5) — theo `visual-brand-guidelines.md`
 - **Font:** Plus Jakarta Sans (load qua Google Fonts)
 - **Export:** Screenshot toàn bộ `.template-container`, không bao gồm `<body>`
 - **Tên file output:** `[slug-bài-viết]-[loại].png`
@@ -111,6 +108,6 @@ Dược phẩm               → #26C6DA  (xanh ngọc)
 1. Đọc H2/H3 section cần ảnh → xác định loại nội dung
 2. Tra bảng quyết định (mục 1) → chọn template + layout
 3. Mở template → thay tất cả CỔNG CHỜ
-4. Screenshot → lưu vào content/blog/[slug]/images/
+4. Screenshot → lưu vào content/blog/assets/raw-images/[slug]/ (PNG) → image_processor.py → content/blog/assets/images/[slug]/ (WebP)
 5. Gắn vào bài viết tại đúng vị trí section
 ```

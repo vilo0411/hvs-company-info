@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["Tỷ số nợ trên tổng tài sản"]
 Status: Finalized
@@ -98,8 +98,6 @@ Nhà đầu tư cá nhân hoàn toàn có thể phòng tránh rủi ro từ các
 Tỷ số nợ trên tổng tài sản giúp bạn nhanh chóng đánh giá sức khỏe tài chính doanh nghiệp. Thấu hiểu chỉ số này giúp bạn chủ động tránh bẫy nợ vay từ công ty lạm dụng đòn bẩy. Bạn chủ động rèn luyện phân tích cơ cấu vốn cùng HVS để tự tin đầu tư trong mọi chu kỳ kinh tế.
 
 **Tuyên bố miễn trừ trách nhiệm:** Mọi thông tin trong bài viết chỉ nhằm mục đích học tập tại HVS, không cấu thành lời khuyên hay khuyến nghị đầu tư. Nhà đầu tư tự chịu trách nhiệm về quyết định của mình.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-23):** Khởi tạo outline cho từ khóa "Tỷ số nợ trên tổng tài sản" theo yêu cầu viết 10 bài tiếp theo trong sprint backlog.

@@ -2,7 +2,7 @@
 Author: Antigravity
 aliases: [\"cách mua cổ phiếu\"]
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie
 Target_Keyword: cách mua cổ phiếu
 Search_Intent: Transactional

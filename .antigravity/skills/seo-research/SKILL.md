@@ -8,10 +8,14 @@ Kỹ năng này cho phép Agent thực hiện nghiên cứu chuyên sâu về đ
 
 ---
 
-## Công cụ sử dụng
-- `WebSearch`: Tìm kiếm URL.
-- `WebFetch`: Đọc nội dung trang (Ưu tiên).
-- Fallback: thử lại với approach khác khi gặp trang chặn bot.
+## Công cụ sử dụng (theo thứ tự)
+
+1. **`python .antigravity/skills/seo-research/scripts/serp_research.py "<keyword>" --top 10 --extract 5`** — DataForSEO (Google VN, tiếng Việt): top 10, PAA (+ nguồn Google đang lấy), Featured Snippet, Related Searches, extract 5 đối thủ (parser local, Jina fallback). **Có phí ~$0.002/kw**, cache 30 ngày `seo-strategy/raw/serp/`. Không `--no-cache`. Keyword ngoài topic-clusters/backlog → script từ chối (cần `--force`, hỏi user). `--paa-depth N` tốn thêm, chỉ cho pillar.
+2. **Fallback** (thiếu key / lỗi): `WebSearch` keyword → top 5 URL → `WebFetch` (lấy `<article>`/`<main>`). Cùng format output.
+3. `python .antigravity/skills/seo-research/scripts/scrape.py <url…>` — Firecrawl cho trang chặn bot (cần key).
+4. `python scripts/serp_opportunities.py` — gom PAA/Related từ cache (0 API call) → `seo-strategy/content-plan/serp-opportunities.md` cho `/keyword-plan`.
+
+Key: `.antigravity/config/api-keys.md` (copy từ `api-keys.example.md`) hoặc `.env`.
 
 ---
 
@@ -36,6 +40,13 @@ Mọi kết quả trả về phải tuân thủ cấu trúc sau để Main Agent
     }
   ],
   "entities": ["Thực thể quan trọng trong ngành", "LSI Keywords"],
+  "entities_gap_analysis": ["Thực thể đối thủ bỏ sót — đưa vào Outline YAML Entities_Gap_Analysis"],
+  "paa_questions": [
+    {"q": "Câu hỏi PAA", "placement": "body | faq", "google_source": "domain đang được Google lấy đáp án", "priority_gap": true}
+  ],
+  "related_searches": {"same_intent": ["…"], "spin_off": ["…"]},
+  "featured_snippet": {"type": "Paragraph | List | Table | None", "current_owner": "domain"},
+  "word_count_benchmark": {"min": 900, "median": 1400, "max": 2100},
   "recommended_unique_structure": [
     {
       "heading": "H2: [Tên heading gợi ý]",
@@ -44,18 +55,14 @@ Mọi kết quả trả về phải tuân thủ cấu trúc sau để Main Agent
     },
     {
       "heading": "H2: [Tên heading lồng ghép HVS]",
-      "focus": "Điểm chạm để giới thiệu HVS Demo hoặc giải pháp",
+      "focus": "Nỗi đau → lộ trình HVS Thực tập số (Demo/Forum hỗ trợ)",
       "is_hvs_bridge": true
     }
   ]
 }
 ```
 
-*Lưu ý xác định `word_count_target`:* Phải phân tích độ dài bài viết của top 5 đối thủ trên SERP để đưa ra con số cạnh tranh nhất. Định hướng phân loại: 
-- Chuỗi giá trị ngành sâu (Deep Industry Value Chain): 1.800 – 2.500 từ (Mục tiêu: 2.000 từ).
-- Hướng dẫn tỷ số tài chính (Financial Ratio Guides): 1.200 – 1.500 từ (Mục tiêu: 1.400 từ).
-- Khái niệm chiến lược / chu kỳ (Strategic & Market Concepts): 1.200 từ.
-- Định nghĩa thuật ngữ cơ bản (Basic Term Definitions): 1.100 – 1.200 từ (Mục tiêu: 1.200 từ để đảm bảo độ sâu chi tiết, Sapo dài 80-100 từ, HVS Bridge dài 250-300 từ, và Kết luận dài 150-200 từ).
+*`word_count_target`:* lấy từ `word_count_benchmark` (median đối thủ, làm tròn lên) đối chiếu bảng độ dài theo loại bài ở `.antigravity/rules/seo-formatting.md §3`. Không dùng 1 con số mặc định.
 
 ---
 

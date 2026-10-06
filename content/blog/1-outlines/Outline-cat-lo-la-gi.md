@@ -25,7 +25,7 @@ Avoid_Mistakes: ["Sử dụng ngôn từ sáo rỗng AI", "Thiếu ví dụ số
 
 # Mandatory Compliance (BẮT BUỘC ĐỌC TRƯỚC KHI VIẾT)
 Mandatory_Rules:
-  - "@.antigravity/rules/writing-guidelines.md"
+  - "@.antigravity/rules/seo-formatting.md"
   - "@seo-strategy/resources/content-strategy/anti-ai-rules.md"
   - "@seo-strategy/resources/content-strategy/financial-logic.md"
   - "@seo-strategy/resources/content-strategy/tone-and-voice.md"

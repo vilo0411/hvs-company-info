@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie / Nhà đầu tư F0
 Target_Keyword: Chỉ báo Ultimate Oscillator (UO) là gì
 Search_Intent: Informational
@@ -12,8 +12,6 @@ Meta_Description: Cẩm nang toàn diện về chỉ báo Ultimate Oscillator (U
 # Chỉ báo Ultimate Oscillator (UO) là gì? Công cụ đo đà đa khung thời gian từ Larry Williams
 
 Ultimate Oscillator (UO) dùng 3 khung thời gian khắc phục nhược điểm của [chỉ báo sức mạnh tương quan RSI](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-rsi-la-gi.md) và [bộ dao động Stochastic RSI](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-chi-bao-stochastic-rsi-la-gi.md). Bài viết phân tích công thức và chiến lược ứng dụng thực chiến.
-
----
 
 ## Ultimate Oscillator (UO) là gì? Động lực ra đời & Triết lý đa khung thời gian
 
@@ -27,8 +25,6 @@ Triết lý cốt lõi của Ultimate Oscillator nằm ở cơ chế phối hợ
 - **Chu kỳ dài (28 phiên):** Neo giữ xu hướng tổng thể và đóng vai trò bộ lọc nhiễu.
 
 Nhờ sự phối hợp đa khung này, UO duy trì độ nhạy với các điểm đảo chiều ngắn hạn nhưng hạn chế tối đa các tín hiệu sai lệch trong một xu hướng mạnh.
-
----
 
 ## Công thức tính Ultimate Oscillator: Cơ chế trọng số giải bài toán nhiễu tín hiệu
 
@@ -52,8 +48,6 @@ Cuối cùng, UO được tổng hợp bằng cơ chế trọng số giảm dầ
 `UO = 100 × [(4 × Average7) + (2 × Average14) + Average28] ÷ (4 + 2 + 1)`
 
 Trọng số cao ở chu kỳ 7 phiên (chiếm 57% tỷ trọng) giúp chỉ báo phản ứng nhanh với điểm đảo chiều, trong khi chu kỳ 14 (28%) và 28 phiên (15%) đóng vai trò "phanh hãm" giúp đường UO không bị biến động nhiễu.
-
----
 
 ## Hướng dẫn đọc tín hiệu UO: Vùng quá mua/quá bán & Tín hiệu phân kỳ 3 bước của Larry Williams
 
@@ -83,18 +77,14 @@ Chỉ báo Ultimate Oscillator dao động trong biên độ 0 đến 100. Việ
 | **Ngưỡng** | >70 Quá mua / <30 Quá bán | >70 / <30 | >80 / <20 |
 | **Bối cảnh** | Tích lũy & Biến động | Có xu hướng rõ ràng | Sideway biên hẹp |
 
----
-
 ## Chiến lược áp dụng UO thực chiến trên thị trường chứng khoán Việt Nam & Bẫy tâm lý F0
 
-Áp dụng UO trên thị trường chứng khoán Việt Nam cần kết hợp với bối cảnh VN-Index và từng cổ phiếu cụ thể như [cổ phiếu HPG](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-nen-mua-co-phieu-hpg.md):
+Áp dụng UO trên thị trường chứng khoán Việt Nam cần kết hợp với bối cảnh VN-Index và từng cổ phiếu cụ thể như [cổ phiếu HPG](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-hpg):
 
 - **Kịch bản VN-Index Uptrend:** Khi thị trường trong xu hướng tăng mạnh, UO thường xuyên duy trì trên 50 và chớm chạm 70 chưa phải lý do bán tháo. Bán hạ tỷ trọng chỉ nên thực hiện khi phân kỳ âm 3 bước xuất hiện rõ ràng kèm thanh khoản bán tăng đột biến.
 - **Kịch bản VN-Index Sideway/Downtrend:** Khi cổ phiếu xuất hiện phân kỳ dương 3 bước (với đáy 1 < 30 và UO vượt đỉnh trung gian giữa 2 đáy), đây là cơ hội giải ngân bắt đáy với xác suất thành công cao.
 
-**Bẫy tâm lý F0:** Người mới hay mua ngay khi UO chớm chạm 30 hoặc bán sạch khi UO chạm 70. Trong một đợt xả hàng dốc, UO có thể đâm sâu dưới 30. Nếu không chờ bước 3 xác nhận và tuân thủ [nguyên tắc cắt lỗ tự động](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-cat-lo-la-gi.md), nhà đầu tư rất dễ mắc bẫy "bắt dao rơi".
-
----
+**Bẫy tâm lý F0:** Người mới hay mua ngay khi UO chớm chạm 30 hoặc bán sạch khi UO chạm 70. Trong một đợt xả hàng dốc, UO có thể đâm sâu dưới 30. Nếu không chờ bước 3 xác nhận và tuân thủ [nguyên tắc cắt lỗ tự động](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cat-lo-la-gi), nhà đầu tư rất dễ mắc bẫy "bắt dao rơi".
 
 ## HVS Bridge — Rèn luyện kỹ năng đọc chỉ báo đà qua chương trình HVS Thực tập số
 
@@ -109,8 +99,6 @@ Tham gia **HVS Thực tập số**, bạn được trải nghiệm lộ trình t
 
 Chương trình **HVS Thực tập số** mang lại nền tảng tư duy độc lập và kỷ luật quản trị rủi ro bền vững.
 
----
-
 ## Kết luận: Đối chiếu cạm bẫy F0 và tư duy chuyên nghiệp khi giao dịch với UO
 
 Ultimate Oscillator là công cụ đo đà mạnh mẽ nhờ cơ chế 3 khung thời gian. Bằng cách lọc bỏ biến động rác, UO giúp xác định chính xác điểm đảo chiều tiềm năng.
@@ -123,8 +111,6 @@ Bảng đối chiếu hai trường phái tư duy:
 | **Hành động ngưỡng** | UO chạm 30 mua ngay, chạm 70 bán ngay. | Chờ đủ 3 bước xác thực phân kỳ Larry Williams. |
 | **Quản trị rủi ro** | Không đặt dừng lỗ vì tin tín hiệu quá bán. | Luôn thiết lập mốc cắt lỗ cố định phòng vệ. |
 | **Rèn luyện kỹ năng** | Giao dịch nạp tiền thật dựa trên cảm xúc. | Luyện tập qua **HVS Thực tập số** và **HVS Demo**. |
-
----
 
 ## Revision Log
 - **2026-09-15:** Khởi tạo Outline và viết Draft Express Mode cho từ khóa "Chỉ báo Ultimate Oscillator (UO) là gì".

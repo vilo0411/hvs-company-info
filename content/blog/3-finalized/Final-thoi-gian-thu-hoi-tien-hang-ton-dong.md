@@ -129,13 +129,9 @@ Nhiều nhà đầu tư mới tham gia thị trường (F0) thường bị hấp
 
 Chỉ số DSO là công cụ sắc bén giúp bạn kiểm chứng chất lượng lợi nhuận của doanh nghiệp. Bạn nên tránh xa những công ty có DSO tăng liên tục trong nhiều quý mà doanh thu không tăng trưởng tương ứng. Theo dõi sát sao chỉ số này sẽ giúp bạn bảo vệ vốn hiệu quả và tránh các bẫy tài chính trên sàn chứng khoán. Hãy tiếp tục nâng cao kiến thức tài chính cùng HVS để xây dựng danh mục đầu tư an toàn và hiệu quả.
 
----
-
 ## 3. Chiến lệ liên kết & Tối ưu hóa
 - **Internal Links:** [roa là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-roa-la-gi.md), [báo cáo lưu chuyển tiền tệ là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-bao-cao-luu-chuyen-tien-te-la-gi.md)
 - **Yếu tố cạnh tranh:** Bảng phân tích 3 trường hợp doanh nghiệp điển hình có DSO bất thường trên sàn HOSE.
-
----
 
 ## 4. Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-08-05):** Khởi tạo outline chuẩn SEO, áp dụng nghiêm ngặt quy tắc chống AI của HVS.

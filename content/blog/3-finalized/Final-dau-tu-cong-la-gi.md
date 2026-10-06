@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Lan Newbie
 Target_Keyword: đầu tư công là gì
 Search_Intent: Informational
@@ -12,8 +12,6 @@ Meta_Description: Khám phá đầu tư công là gì, nguồn vốn, lĩnh vự
 # Đầu tư công là gì? Vai trò & tác động đến kinh tế vĩ mô
 
 Đầu tư công là gì và tại sao tiến độ giải ngân nguồn vốn này lại trực tiếp quyết định sức nóng của dòng tiền trên thị trường chứng khoán? Bạn cần hiểu rõ điều này khi tham gia đầu tư. Là một cấu phần cốt lõi của [chính sách tài khóa](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/chinh-sach-tai-khoa-la-gi), dòng vốn đầu tư công hoạt động như một bánh răng mồi thúc đẩy tổng cầu và tạo nền tảng hạ tầng kết nối các ngành kinh tế. Bài viết này từ HVS giúp bạn làm rõ khái niệm đầu tư công là gì, cơ cấu nguồn vốn, thực trạng giải ngân tại Việt Nam và các kịch bản phân tích vĩ mô để áp dụng vào giao dịch cổ phiếu thực chiến.
-
----
 
 ## Đón đầu sóng giải ngân đầu tư công cùng HVS
 
@@ -29,8 +27,6 @@ Tiến độ giải ngân vốn đầu tư công là chỉ báo quan trọng gi�
 Đầu tư công là trụ cột vĩ mô cốt lõi giúp Chính phủ điều tiết nền kinh tế và kiến tạo hạ tầng giao thông quốc gia. Việc thấu hiểu bản chất đầu tư công là gì, cơ cấu nguồn vốn và đặc thù dòng tiền của chuỗi giá trị xây lắp giúp bạn chủ động nhận diện cơ hội đầu tư thực chất, hạn chế tối đa các bẫy giá trị trên thị trường chứng khoán. Hãy đồng hành cùng **HVS Tài Chính Số** để hoàn thiện tư duy phân tích vĩ mô thực chiến và tối ưu hóa hiệu quả giao dịch của bản thân một cách bền vững.
 
 **Tuyên bố miễn trừ trách nhiệm: Mọi phân tích vĩ mô và thông tin về các mã cổ phiếu được đề cập trong bài viết chỉ mang tính chất tham khảo phục vụ hoạt động đào tạo tại HVS. Nội dung này không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán trên thị trường chứng khoán thực tế.**
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 

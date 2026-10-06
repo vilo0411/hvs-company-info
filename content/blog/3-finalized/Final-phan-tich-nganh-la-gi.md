@@ -1,10 +1,11 @@
-﻿---
+---
 title: "Phân tích ngành là gì? Chìa khóa giúp nhà đầu tư bứt phá"
 date: "2026-05-07"
 author: "HVS Team"
 description: "Phân tích ngành là bước đệm quan trọng giúp nhà đầu tư nhận diện cơ hội và rủi ro trước khi rót vốn. Khám phá 3 mô hình phân tích thực chiến cùng HVS."
 category: "Kiến thức đầu tư"
 tags: ["phân tích ngành", "chứng khoán cho người mới", "HVS Tài chính số"]
+Status: Finalized
 ---
 
 # Phân tích ngành là gì? Chìa khóa giúp nhà đầu tư bứt phá
@@ -17,7 +18,7 @@ Việc bỏ qua bước phân tích ngành giống như bạn cố gắng lái t
 
 Nói một cách đơn giản, phân tích ngành là quá trình nghiên cứu và đánh giá các lực lượng tác động đến sự phát triển, mức độ cạnh tranh và tiềm năng sinh lời của một nhóm các công ty hoạt động trong cùng một lĩnh vực.
 
-Trong đầu tư, phân tích ngành đóng vai trò là "màng lọc" quan trọng giữa phân tích vĩ mô và [phân tích doanh nghiệp](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-nen-dau-tu-co-phieu-nao.md). Nếu vĩ mô cho bạn biết bầu trời đang nắng hay mưa, thì phân tích ngành sẽ chỉ ra vùng đất nào đang màu mỡ nhất để gieo hạt.
+Trong đầu tư, phân tích ngành đóng vai trò là "màng lọc" quan trọng giữa phân tích vĩ mô và [phân tích doanh nghiệp](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/nen-dau-tu-co-phieu-nao). Nếu vĩ mô cho bạn biết bầu trời đang nắng hay mưa, thì phân tích ngành sẽ chỉ ra vùng đất nào đang màu mỡ nhất để gieo hạt.
 
 ## Tại sao nhà đầu tư chứng khoán bắt buộc phải phân tích ngành?
 

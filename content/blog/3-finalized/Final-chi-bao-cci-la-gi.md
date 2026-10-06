@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie / Nhà đầu tư F0
 Target_Keyword: chỉ báo cci
 Search_Intent: Informational
@@ -15,8 +15,6 @@ Khi mới bước chân vào lĩnh vực [phân tích kỹ thuật], nhà đầu
 
 Chỉ báo CCI (Commodity Channel Index) được thiết kế để giải quyết vấn đề này. Nhờ khả năng đo lường mức độ lệch giá so với giá trị trung bình lịch sử, CCI giúp bạn phát hiện sớm các vùng giá biến động bất thường, nhận diện điểm quá mua, quá bán và chớp thời cơ giao dịch hiệu quả.
 
----
-
 ## 1. Chỉ báo CCI là gì? Nguồn gốc và vai trò trong phân tích kỹ thuật
 
 **Chỉ báo CCI** (viết tắt của **Commodity Channel Index** - *Chỉ số Kênh Hàng hóa*) là công cụ phân tích kỹ thuật thuộc nhóm chỉ báo dao động (oscillator). Công cụ này đo lường khoảng cách chênh lệch giữa mức giá hiện tại của tài sản so với mức giá trung bình lịch sử của nó trong một chu kỳ thời gian xác định (thường mặc định là 14 hoặc 20 phiên).
@@ -26,8 +24,6 @@ Chỉ báo CCI do nhà phân tích Donald Lambert phát triển và công bố l
 ![Chỉ báo CCI trên đồ thị chứng khoán](https://via.placeholder.com/800x400?text=Chi+bao+CCI+tren+do+thi+chung+khoan)
 
 Khác với các công cụ như [chỉ báo RSI] hay Stochastic vốn bị chặn cố định trong thang đo từ 0 đến 100, chỉ báo CCI là một chỉ báo không giới hạn biên độ (unbound oscillator). Đường CCI có thể mở rộng tự do về phía trên (dương) hoặc phía dưới (âm). Điểm đặc thù này giúp CCI phản ánh chính xác các đà bứt phá giá cực mạnh mà không bị biến dạng tín hiệu ở vùng đỉnh hay vùng đáy.
-
----
 
 ## 2. Cấu tạo & Công thức tính chỉ báo CCI chuẩn xác
 
@@ -70,8 +66,6 @@ Nếu phiên hôm nay HPG có giá cao nhất 30.500 đồng, thấp nhất 29.5
 
 Giá trị +166,67 lớn hơn +100 cho thấy cổ phiếu HPG đã đi vào vùng quá mua ngắn hạn với động lượng tăng giá rất mạnh.
 
----
-
 ## 3. Ý nghĩa các ngưỡng giá trị quan trọng của đường CCI
 
 Việc đọc hiểu các vùng giá trị trên chỉ báo CCI giúp nhà đầu tư xác định chính xác trạng thái tâm lý và sức mạnh của thị trường.
@@ -100,8 +94,6 @@ Khi đường CCI đạt ngưỡng trên +200 hoặc dưới -200, thị trườ
 | **Từ -100 đến +100** | Cân bằng | Giá dao động trong phạm vi bình thường | Quan sát tín hiệu breakout hoặc tích lũy |
 | **Dưới -100** | Quá bán (Oversold) | Lực bán áp đảo, giá chiết khấu sâu | Chuẩn bị kịch bản bắt đáy khi xuất hiện nến đảo chiều |
 | **Vượt +200 / Dưới -200** | Cực đại (Extreme Zone) | Biến động cực mạnh, tâm lý hưng phấn/hoảng loạn | Quản trị rủi ro chặt chẽ, hạ tỷ trọng cổ phiếu / margin |
-
----
 
 ## 4. 4 Chiến lược giao dịch chứng khoán thực chiến với chỉ báo CCI
 
@@ -138,8 +130,6 @@ Một kỹ thuật thực chiến độc đáo là vẽ đường xu hướng (t
 
 Do CCI đo lường trực tiếp động lượng, đường CCI thường phá vỡ trendline của nó sớm hơn từ 1 đến 2 phiên so với thời điểm giá bứt phá trên đồ thị nến. Khi thấy đường CCI bứt phá qua đường trendline giảm giá, nhà đầu tư có thể mở vị thế đón đầu sóng tăng sớm với điểm vào lệnh có rủi ro thấp.
 
----
-
 ## 5. So sánh chỉ báo CCI và chỉ báo RSI: Điểm giống và khác biệt
 
 Cả CCI và RSI đều là hai chỉ báo động lượng phổ biến. Việc hiểu rõ điểm khác biệt giúp bạn lựa chọn công cụ phù hợp với từng giai đoạn thị trường.
@@ -151,8 +141,6 @@ Cả CCI và RSI đều là hai chỉ báo động lượng phổ biến. Việc
 | **Yếu tố đầu vào tính toán** | Dựa trên Giá điển hình TP = (Giá cao + Giá thấp + Giá đóng cửa) ÷ 3 và độ lệch tuyệt đối | Dựa trên mức giá đóng cửa C và tỷ lệ tăng/giảm trung bình |
 | **Độ nhạy tín hiệu** | Nhạy hơn, phản ứng nhanh với các cú sốc giá bất ngờ | Mượt hơn, bớt tín hiệu nhiễu hơn trong xu hướng kéo dài |
 | **Ứng dụng tối ưu** | Phát hiện bứt phá động lượng ngắn hạn & điểm cực đại | Đánh giá sức mạnh tương đối và xu hướng trung hạn |
-
----
 
 ## 6. Lưu ý quan trọng & Thực hành giao dịch CCI cùng hệ sinh thái HVS
 
@@ -169,8 +157,6 @@ Cả CCI và RSI đều là hai chỉ báo động lượng phổ biến. Việc
 1. **Thực hành không rủi ro trên HVS Demo:** Rèn luyện khả năng quan sát đường CCI và tập vào lệnh theo tín hiệu phân kỳ trên nền tảng **HVS Demo** với dữ liệu thị trường mô phỏng thực tế.
 2. **Thảo luận góc nhìn trên HVS Forum:** Tham gia cộng đồng **HVS Forum** để chia sẻ biểu đồ phân tích CCI trên các cổ phiếu SSI, HPG, FPT và trao đổi kinh nghiệm cùng các nhà đầu tư F0, F1 khác.
 3. **Nâng cao kỹ năng tại HVS Thực tập số:** Đăng ký chương trình **HVS Thực tập số** (thuộc **HVS Tài chính số**) để được các mentor giàu kinh nghiệm đồng hành cầm tay chỉ việc, hướng dẫn kết hợp bộ chỉ báo kỹ thuật nâng cao và thiết lập kỷ luật quản trị danh mục chuyên nghiệp.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 

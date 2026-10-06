@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
 Pipeline_Mode: Express
@@ -103,8 +103,6 @@ Sinh viên thường gặp rào cản khi đối mặt tài liệu tiếng Anh. 
 Sở hữu các chứng chỉ tài chính quốc tế uy tín tạo lợi thế thăng tiến lớn trong sự nghiệp lâu dài của bạn. Tuy nhiên, kiến thức lý thuyết phát huy giá trị khi đi đôi với năng lực thực chiến chuyên sâu. Thực hành quyết định thành công.
 
 Chủ động thiết lập lộ trình học kết hợp thực tế là bước chuẩn bị quan trọng. Bạn hãy tích lũy kinh nghiệm phân tích báo cáo cùng **HVS** để sẵn sàng chinh phục các nấc thang sự nghiệp tài chính phía trước.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-23):** Khởi tạo outline cho từ khóa "chứng chỉ tài chính" theo yêu cầu viết bài trong sprint backlog.

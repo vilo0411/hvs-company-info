@@ -14,15 +14,7 @@ Search_Intent: Informational
 Content_Type: Educational Guide
 Featured_Snippet: Paragraph
 Word_Count_Target: 1800
-HVS_Products:
-  - product: HVS Tài chính số
-    benefit: "Đào tạo tư duy phân tích và quản lý danh mục đầu tư bài bản"
-  - product: HVS Thực tập số
-    benefit: "Chương trình thực hành phân tích và quản lý danh mục thực chiến"
-  - product: HVS Demo
-    benefit: "Mô phỏng giao dịch thật để thực hành phân tích, quản lý danh mục không mất tiền thật"
-  - product: HVS Forum
-    benefit: "Cộng đồng trao đổi kinh nghiệm từ nhà đầu tư thực chiến"
+HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS Forum"]
 Anti_AI_Flags: ["mở khóa tiềm năng", "hành trình", "giải pháp toàn diện", "nâng tầm", "đột phá"]
 Internal_Links:
   - role: Cluster

@@ -53,8 +53,6 @@ Internal_Links:
 
 Nhóm cổ phiếu ngành bảo hiểm đang trở thành kênh trú ẩn vốn lý tưởng khi thị trường biến động nhờ cấu trúc tài chính siêu an toàn và nắm giữ lượng tiền gửi khổng lồ. Bài viết bóc tách mô hình kinh doanh đặc thù, phân tích 5 mã tiềm năng và chiến lược chu kỳ lãi suất cùng HVS.
 
----
-
 ## Cổ phiếu ngành bảo hiểm là gì? Bản chất của 'két sắt' tiền gửi
 
 **Cổ phiếu ngành bảo hiểm là chứng chỉ sở hữu phần vốn góp tại các doanh nghiệp hoạt động kinh doanh bảo hiểm phi nhân thọ (bảo hiểm tài sản, xe cơ giới, sức khỏe) hoặc nhân thọ, sở hữu mô hình kinh doanh phòng thủ đặc thù thu tiền phí trước chi trả bồi thường sau, biến doanh nghiệp thành những 'két sắt' nắm giữ lượng tiền mặt gửi ngân hàng khổng lồ.**
@@ -71,8 +69,6 @@ Dưới đây là bảng phân tách cấu trúc cơ bản giữa hai phân khú
 | **Bảo hiểm Phi nhân thọ** | Dòng vốn ngắn hạn (1-2 năm), quay vòng nhanh, yêu cầu tính thanh khoản cực cao | Ngắn hạn, mang tính đột xuất cao phụ thuộc vào tai nạn, thiên tai, dịch bệnh | Bancassurance, môi giới chuyên dụng, ứng dụng trực tuyến | PVI, BMI, MIG, BIC |
 
 Để tiếp tục củng cố vững chắc nền tảng định nghĩa về các loại tài sản tài chính trước khi bóc tách sâu các chỉ số chuyên sâu của bảo hiểm, bạn có thể tham khảo thêm cẩm nang phân tích [cổ phiếu là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-phieu-la-gi.md).
-
----
 
 ## Động lực nâng lãi suất ngân hàng và hiệu quả từ doanh thu tài chính vĩ mô
 
@@ -93,8 +89,6 @@ Sự tăng trưởng kinh tế bền vững kéo theo thu nhập bình quân đ�
 Việc ứng dụng công nghệ số vào quy trình bán hàng trực tuyến thông qua các ứng dụng di động giúp các doanh nghiệp bảo hiểm cắt giảm tối đa chi phí hoa hồng đại lý truyền thống đắt đỏ. Đồng thời, liên kết độc quyền phân phối chéo qua hệ thống ngân hàng (Bancassurance) giúp tiếp cận trực tiếp tệp khách hàng vay vốn có sẵn một cách nhanh chóng và tối ưu. Tiết giảm chi phí bán hàng và chi phí quản lý là chìa khóa then chốt giúp kéo giảm tỷ lệ kết hợp Combined Ratio xuống dưới mức 95%, tối ưu hóa lợi nhuận kỹ thuật bảo hiểm thực tế cho cổ đông.
 
 Để thấu hiểu sâu sắc cách định vị chu kỳ và phân tích toàn diện các nhân tố tác động này, bạn nên nghiên cứu bài chia sẻ chuyên gia về [phương pháp phân tích ngành](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-phan-tich-nganh-la-gi.md).
-
----
 
 ## Danh sách các mã cổ phiếu ngành bảo hiểm tiềm năng nhất hiện nay
 
@@ -150,9 +144,7 @@ BIC sở hữu lợi thế cạnh tranh độc quyền tuyệt đối nhờ khai
 #### Rủi ro đầu tư
 Quy mô hoạt động và doanh thu của BIC bị phụ thuộc chặt chẽ vào tăng trưởng tín dụng và chính sách phê duyệt giải ngân của ngân hàng mẹ BIDV. Việc mở rộng thị phần ngoài hệ thống ngân hàng còn gặp nhiều hạn chế trước áp lực từ các đối thủ cạnh tranh độc lập.
 
-Để rèn luyện tư duy sàng lọc tài sản và xây dựng tiêu chuẩn lựa chọn cổ phiếu cơ bản chất lượng cao trước khi giải ngân, bạn hãy tham khảo bài viết phân tích chi tiết [chọn mã cổ phiếu tốt](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-nen-dau-tu-co-phieu-nao.md).
-
----
+Để rèn luyện tư duy sàng lọc tài sản và xây dựng tiêu chuẩn lựa chọn cổ phiếu cơ bản chất lượng cao trước khi giải ngân, bạn hãy tham khảo bài viết phân tích chi tiết [chọn mã cổ phiếu tốt](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/nen-dau-tu-co-phieu-nao).
 
 ## Rủi ro bồi thường thiên tai và chiến lược kịch bản đầu tư thực chiến
 
@@ -190,11 +182,9 @@ graph TD
 
 *   **Tận dụng vịnh tránh bão khi thị trường điều chỉnh:** Nhờ cấu trúc không nợ vay và dòng tiền mặt dồi dào, cổ phiếu bảo hiểm có mức biến động giá (hệ số Beta) rất thấp. Khi thị trường chứng khoán chung bước vào pha suy thoái hoặc điều chỉnh sâu, nhóm bảo hiểm là vịnh tránh bão an toàn giúp bảo toàn vốn cực tốt. Bạn nên ưu tiên tích sản dài hạn các mã có tỷ suất cổ tức tiền mặt cao như PVI, BVH thay vì đầu cơ lướt sóng ngắn hạn.
 *   **Bóc tách và kiểm soát chặt chẽ tỷ lệ Combined Ratio:** Tuyệt đối tránh xa các doanh nghiệp bảo hiểm có tỷ lệ kết hợp Combined Ratio liên tục duy trì ở mức trên 100% trong nhiều năm liền. Điều này chứng tỏ năng lực thẩm định rủi ro kỹ thuật bảo hiểm (underwriting) của doanh nghiệp rất kém, hoạt động cốt lõi đang chịu lỗ và phụ thuộc hoàn toàn vào may rủi của lãi suất tiền gửi ngân hàng. 
-*   **Phân biệt rõ ràng tư duy tích sản an toàn và lướt sóng ảo:** Nhóm cổ phiếu bảo hiểm phù hợp với tư duy tích sản ăn cổ tức tiền mặt bền vững, hoàn toàn trái ngược với các dòng tiền nóng chuyên tìm kiếm lợi nhuận đột biến ngắn hạn từ các nhóm cổ phiếu đầu cơ có tính rủi ro cao. Bạn có thể phân tích sâu hơn về sự khác biệt này qua bài viết chuyên sâu về [cổ phiếu đầu cơ](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-phieu-dau-co.md).
+*   **Phân biệt rõ ràng tư duy tích sản an toàn và lướt sóng ảo:** Nhóm cổ phiếu bảo hiểm phù hợp với tư duy tích sản ăn cổ tức tiền mặt bền vững, hoàn toàn trái ngược với các dòng tiền nóng chuyên tìm kiếm lợi nhuận đột biến ngắn hạn từ các nhóm cổ phiếu đầu cơ có tính rủi ro cao. Bạn có thể phân tích sâu hơn về sự khác biệt này qua bài viết chuyên sâu về [cổ phiếu đầu cơ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-dau-co).
 
-Khi tham gia thị trường, việc xây dựng cho mình một tư duy khách quan và kiểm soát tốt cảm xúc trước các biến động ngắn hạn là điều kiện tiên quyết để tồn tại. Hãy trang bị cho mình kiến thức vững chắc để tránh rơi vào các [tâm lý đầu tư chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-tam-ly-dau-tu-chung-khoan.md) sai lầm thường gặp ở các nhà đầu tư F0.
-
----
+Khi tham gia thị trường, việc xây dựng cho mình một tư duy khách quan và kiểm soát tốt cảm xúc trước các biến động ngắn hạn là điều kiện tiên quyết để tồn tại. Hãy trang bị cho mình kiến thức vững chắc để tránh rơi vào các [tâm lý đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan) sai lầm thường gặp ở các nhà đầu tư F0.
 
 ## Làm chủ tư duy chọn lọc cổ phiếu bảo hiểm thực chiến cùng HVS
 
@@ -208,8 +198,6 @@ HVS tin rằng con đường duy nhất để đầu tư bền vững là **họ
 *   **HVS Demo:** Sàn giao dịch giả lập không rủi ro tài chính. Đây là môi trường hoàn hảo để bạn thực hành áp dụng trực tiếp các kiến thức đã học, tự tay xây dựng và kiểm chứng hiệu quả sinh lời của danh mục đầu tư phòng thủ bảo hiểm trong thực tế mà không lo ngại rủi ro mất vốn thật trước khi bước vào thị trường thực chất.
 
 Chương trình đào tạo thực tế HVS Thực tập số và cổng tri thức HVS Forum là giải pháp giáo dục cốt lõi giúp thay đổi tư duy đầu tư, biến bạn từ một người giao dịch theo cảm tính thành một nhà phân tích tài chính thực thụ. Hãy bắt đầu con đường học hỏi nâng cao năng lực đầu tư của mình cùng HVS ngay hôm nay.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 

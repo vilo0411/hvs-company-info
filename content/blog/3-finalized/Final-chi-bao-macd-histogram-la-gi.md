@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie / Nhà đầu tư F0
 Target_Keyword: chỉ báo macd histogram là gì
 Search_Intent: Informational
@@ -96,8 +96,6 @@ Chỉ báo MACD Histogram không chỉ là công cụ đo đếm độ cao các 
 - **Chủ động chốt lời theo đà suy yếu:** Khi các thanh cột bắt đầu thắt ngắn độ cao, đó là lúc bạn hạ dần tỷ trọng cổ phiếu thay vì cố gắng bán đúng đỉnh.
 
 Nhằm biến kiến thức lý thuyết thành lợi nhuận thực tế, HVS mời bạn tham gia chương trình **HVS Thực tập số** (thuộc **HVS Tài chính số**). Tại đây, bạn được rèn luyện phương pháp đọc dòng tiền, làm chủ phân tích kỹ thuật và xây dựng kỷ luật đầu tư bài bản cùng chuyên gia.
-
----
 
 ## Revision Log
 - 2026-09-14: Khởi tạo Outline bài viết "Chỉ báo MACD Histogram là gì" chuẩn SEO Express Mode.

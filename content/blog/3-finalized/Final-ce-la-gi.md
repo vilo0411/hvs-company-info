@@ -1,8 +1,8 @@
-﻿---
+---
 Author: Antigravity
 aliases: [\"ce là gì"]
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: ce là gì
 Search_Intent: Informational | Transactional
@@ -31,10 +31,10 @@ Việc nắm vững các quy ước màu sắc này giúp bạn bám sát diễn
 
 Tại thị trường Việt Nam, giá trần của mỗi cổ phiếu được tính toán tự động dựa trên giá tham chiếu và biên độ dao động do từng sàn giao dịch quy định. Công thức tổng quát như sau:
 
-$$\text{Giá trần (CE)} = \text{Giá tham chiếu} \times (1 + \text{Biên độ dao động})$$
+> **\text{Giá trần (CE)} = \text{Giá tham chiếu} \times (1 + \text{Biên độ dao động})**
 
 Mỗi sàn giao dịch áp dụng một biên độ dao động khác nhau, phản ánh mức độ kiểm soát biến động riêng biệt:
-*   **Sàn HOSE (Sở Giao dịch Chứng khoán TP.HCM):** Áp dụng biên độ dao động **±7%** so với giá tham chiếu. Ví dụ, một cổ phiếu niêm yết trên HOSE có giá tham chiếu đầu ngày là 50.000 VND. Giá trần CE tối đa của cổ phiếu đó trong phiên sẽ là: $50.000 \times (1 + 0.07) = 53.500$ VND.
+*   **Sàn HOSE (Sở Giao dịch Chứng khoán TP.HCM):** Áp dụng biên độ dao động **±7%** so với giá tham chiếu. Ví dụ, một cổ phiếu niêm yết trên HOSE có giá tham chiếu đầu ngày là 50.000 VND. Giá trần CE tối đa của cổ phiếu đó trong phiên sẽ là: `50.000 \times (1 + 0.07) = 53.500` VND.
 *   **Sàn HNX (Sở Giao dịch Chứng khoán Hà Nội):** Áp dụng biên độ dao động **±10%** so với giá tham chiếu.
 *   **Sàn UPCOM (Thị trường công ty đại chúng chưa niêm yết):** Áp dụng biên độ dao động **±15%** so với giá tham chiếu. Để hiểu rõ hơn về đặc thù vận hành của sàn này, bạn có thể tham khảo bài phân tích [upcom là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/upcom-la-gi) để củng cố kiến thức nền tảng.
 

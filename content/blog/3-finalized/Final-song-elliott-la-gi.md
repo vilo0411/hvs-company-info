@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["Sóng Elliott là gì"]
 Status: Finalized
@@ -28,8 +28,6 @@ HVS_Products: ["HVS Tài chính số", "HVS Thực tập số", "HVS Demo", "HVS
 
 Nguyên lý sóng Elliott là công cụ dự báo xu hướng dựa trên tâm lý hành vi đám đông. Nhà đầu tư dùng sóng Elliott để định vị mình đang đứng ở đâu trong chu kỳ thị trường, từ đó tìm điểm vào lệnh và chốt lời hợp lý. Bài viết HVS làm rõ cấu trúc 5-3, 3 quy tắc bất biến và cách áp dụng thực chiến.
 
----
-
 ## Sóng Elliott là gì?
 
 **Sóng Elliott là lý thuyết phân tích kỹ thuật mô tả sự vận động của giá thị trường thông qua các chu kỳ sóng lặp đi lặp lại phản ánh tâm lý hành vi đám đông** — từ bi quan đến lạc quan và ngược lại.
@@ -37,8 +35,6 @@ Nguyên lý sóng Elliott là công cụ dự báo xu hướng dựa trên tâm 
 Ralph Nelson Elliott phát triển lý thuyết này vào thập niên 1930 sau khi phân tích dữ liệu giá chứng khoán Mỹ qua nhiều thập kỷ. Ông nhận ra thị trường không vận động ngẫu nhiên mà tuân theo mô hình sóng có thể quan sát và dự đoán. Nền tảng cốt lõi: **giá phản ánh tâm lý tập thể**, và tâm lý đám đông lặp đi lặp lại theo chu kỳ nhận diện được trên biểu đồ.
 
 Khác với đường MA hay RSI chỉ đo trạng thái hiện tại, sóng Elliott xác định **vị trí trong chu kỳ dài hạn**: bạn đang ở đầu sóng đẩy mới hay sắp chạm đỉnh sóng 5 trước khi điều chỉnh?
-
----
 
 ## Cấu trúc chu kỳ sóng Elliott cơ bản (Mô hình 5-3)
 
@@ -64,8 +60,6 @@ Sau khi sóng đẩy hoàn thành, thị trường bước vào giai đoạn đi
 
 Ngoài Zigzag ABC cơ bản, sóng điều chỉnh còn có biến thể Flat và Triangle khi thị trường phức tạp hơn.
 
----
-
 ## 3 quy tắc bất biến khi đếm sóng Elliott
 
 Ba quy tắc dưới đây là **bất biến tuyệt đối**. Vi phạm bất kỳ quy tắc nào đồng nghĩa với việc cách đếm sóng hiện tại sai hoàn toàn, phải xây dựng lại kịch bản từ đầu.
@@ -87,8 +81,6 @@ Trong bộ 3 sóng đẩy lẻ (1, 3, 5), sóng 3 phải dài hơn ít nhất m�
 Sóng 4 không được giảm xuống dưới đỉnh sóng 1. Đây là ranh giới phân biệt giữa sóng đẩy chuẩn và tam giác chéo (Diagonal Triangle).
 
 Ứng dụng thực tế: Nếu sóng 4 phá xuống dưới đỉnh sóng 1, cấu trúc đang có vấn đề nghiêm trọng. Khả năng đây là Diagonal Triangle, cấu trúc sóng đẩy suy yếu xuất hiện ở sóng 5, báo hiệu đảo chiều sắp đến gần.
-
----
 
 ## Hướng dẫn giao dịch với sóng Elliott
 
@@ -125,8 +117,6 @@ Bảng tóm tắt điểm vào lệnh theo vị trí sóng:
 | Đầu sóng 3 | Sóng 2 chạm 50–61.8% Fib sóng 1 + nến đảo chiều | Dưới đáy sóng 1 | 161.8% Fib extension sóng 1 |
 | Đầu sóng 5 | Sóng 4 chạm 38.2–50% Fib sóng 3 + xác nhận | Dưới đỉnh sóng 1 | 100% hoặc 61.8% chiều dài sóng 1+3 |
 
----
-
 ## Những hạn chế của sóng Elliott và cách giảm thiểu rủi ro đếm sóng sai
 
 Sóng Elliott có một giới hạn cốt lõi: **tính chủ quan cao**. Cùng một biểu đồ, hai nhà phân tích kỹ thuật có thể đếm ra hai kịch bản sóng hoàn toàn khác nhau mà cả hai đều không vi phạm các quy tắc.
@@ -138,8 +128,6 @@ Bốn điểm cần nhớ để giảm thiểu sai sót:
 - **Xác nhận bằng Volume:** Sóng 3 hợp lệ phải đi kèm khối lượng giao dịch tăng vọt khi breakout. Sóng 3 thiếu Volume là tín hiệu nghi ngờ cần xem lại kịch bản.
 - **RSI phân kỳ ở sóng 5:** Khi giá lập đỉnh mới ở sóng 5 nhưng RSI thấp hơn đỉnh sóng 3, phân kỳ giảm này cảnh báo đỉnh chu kỳ sắp hình thành. Chuẩn bị thu hẹp vị thế.
 
----
-
 ## Rèn luyện tư duy đếm sóng cùng HVS Tài chính số
 
 Đếm sóng Elliott sai không phải vì thiếu lý thuyết mà vì thiếu luyện tập thực tế. Nhiều nhà đầu tư F0 học lý thuyết xong tự tin áp dụng ngay vào tài khoản thật, nhưng không thể nhận diện chính xác vị trí sóng trong thời gian thực, nhầm sóng B với tiếp tục xu hướng và chịu thua lỗ nặng do giao dịch ngược hướng thị trường.
@@ -147,8 +135,6 @@ Bốn điểm cần nhớ để giảm thiểu sai sót:
 **HVS Thực tập số** — chương trình đào tạo Phân tích kỹ thuật chuyên sâu thuộc **HVS Tài chính số** — cung cấp phương pháp xác định cấu trúc thị trường có hệ thống, kết hợp đếm sóng với Volume và tỷ lệ Fibonacci để tăng độ chắc chắn.
 
 Học viên thực hành đếm sóng trực tiếp trên dữ liệu VN-Index thực tế qua **HVS Demo** mà không cần rủi ro vốn. Các kịch bản đếm sóng thay thế được thảo luận cùng cộng đồng và Mentor trên **HVS Forum**, giúp rút ngắn đáng kể thời gian xây dựng tư duy đếm sóng có hệ thống.
-
----
 
 ## Kết luận
 
@@ -161,8 +147,6 @@ Ba điểm cốt yếu cần ghi nhớ khi ứng dụng sóng Elliott:
 - Luôn duy trì ít nhất 2 kịch bản đếm sóng thay thế. Thị trường không nợ bạn kịch bản duy nhất bạn đang theo.
 
 Nếu bạn muốn xây kỹ năng đếm sóng có hệ thống thay vì đếm sóng theo cảm tính, HVS sẵn sàng hỗ trợ qua chương trình thực chiến của HVS Tài chính số.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 

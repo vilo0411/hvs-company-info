@@ -1,8 +1,8 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["phương pháp canslim"]
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 SERP_Research: true
 Target_Keyword: phương pháp canslim
 Secondary_Keywords: canslim là gì, tiêu chí canslim, lọc cổ phiếu canslim, cách mua cổ phiếu canslim, william o neil

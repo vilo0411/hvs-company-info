@@ -2,7 +2,7 @@
 Author: Antigravity
 aliases: ["chính sách tiền tệ là gì"]
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Lan Newbie
 Target_Keyword: chính sách tiền tệ là gì
 Secondary_Keywords: chính sách tiền tệ nới lỏng, chính sách tiền tệ thắt chặt, mục tiêu chính sách tiền tệ, công cụ chính sách tiền tệ
@@ -19,8 +19,6 @@ Meta_Description: Chính sách tiền tệ là gì? Phân loại thắt chặt &
 # Chính sách tiền tệ là gì? Phân loại, công cụ và kịch bản đầu tư vĩ mô
 
 Hiểu rõ chính sách tiền tệ là gì giúp bạn chủ động nhận diện xu hướng dịch chuyển của dòng vốn vĩ mô điều hành bởi [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/ngan-hang-nha-nuoc-la-gi). Dòng tiền vĩ mô quyết định tính thanh khoản của thị trường chứng khoán. Bài viết này của HVS phân tích khái niệm chính sách tiền tệ là gì, phân loại hai trạng thái điều hành chủ chốt, các công cụ can thiệp và kịch bản ứng dụng vào phân tích đầu tư chứng khoán thực chiến.
-
----
 
 ## Nâng cao năng lực phân tích vĩ mô và thực hành đầu tư cùng HVS
 

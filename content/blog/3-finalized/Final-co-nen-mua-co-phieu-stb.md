@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["Có nên mua cổ phiếu STB"]
 Status: Finalized
@@ -18,8 +18,6 @@ Meta_Description: Phân tích thực tế có nên mua cổ phiếu STB trên s�
 
 Quyết định có nên mua cổ phiếu STB ở giai đoạn hiện tại yêu cầu bạn phân tích thấu đáo điểm rơi lợi nhuận sau khi kết thúc đề án tái cơ cấu và tiến độ xử lý đấu giá khối tài sản tồn đọng. HVS chia sẻ góc nhìn phân tích thực tế dưới đây giúp bạn xây dựng kịch bản đầu tư chủ động.
 
----
-
 ## Cổ phiếu STB là gì? Vị thế doanh nghiệp tái cơ cấu trên sàn HOSE
 
 Cổ phiếu STB là chứng chỉ sở hữu cổ phần của Ngân hàng TMCP Sài Gòn Thương Tín được niêm yết trực tuyến trên sàn HOSE, đại diện cho cổ phiếu có câu chuyện tái cơ cấu tài sản tồn đọng quy mô lớn nhất hệ thống ngân hàng Việt Nam.
@@ -29,8 +27,6 @@ Ngân hàng TMCP Sài Gòn Thương Tín (Sacombank) từng là một trong nh�
 * Tiền trình xử lý nợ gốc: Sacombank đã trích lập dự phòng toàn bộ nợ xấu trái phiếu VAMC liên quan đến các khoản nợ cũ.
 * Quy mô mạng lưới giao dịch: Tiếp tục duy trì ưu thế vượt trội về số lượng phòng giao dịch tại khu vực phía Nam.
 * Tỷ lệ CASA cốt lõi: Ghi nhận sự ổn định nhờ lượng khách hàng cá nhân gắn bó trung thành lâu năm.
-
----
 
 ## Phân tích động lực tăng trưởng của cổ phiếu STB
 
@@ -46,8 +42,6 @@ Sản lượng lợi nhuận trước thuế ghi nhận kết quả kinh doanh t
 
 Lợi thế biên lãi thuần NIM của Sacombank có xu hướng mở rộng mạnh mẽ khi ngân hàng giải phóng hoàn toàn các tài sản không sinh lời. Sự thu hút của cổ phiếu đối với dòng tiền ngoại bắt đầu bùng nổ khi các quỹ đầu tư nhận thấy điểm đảo chiều tài chính rõ nét của ngân hàng. Bạn nên so sánh các chỉ số này với các mã khác trong nhóm [cổ phiếu ngân hàng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-ngan-hang) để đánh giá đúng cơ hội đầu tư.
 
----
-
 ## Rủi ro cần lưu ý khi đầu tư cổ phiếu STB
 
 Rủi ro đầu tư cổ phiếu STB đến từ sự chậm trễ trong thủ tục pháp lý đấu giá cổ phần và nguy cơ nợ xấu mới phát sinh từ mảng cho vay bất động sản.
@@ -61,8 +55,6 @@ Tiến độ đấu giá khối cổ phần 32.5% đang bị phong tỏa tại V
 | Khối ngoại tiếp tục bán ròng | Kéo giảm chỉ số giá cổ phiếu trên sàn HOSE | Trung bình |
 
 Biên độ dao động của cổ phiếu ngân hàng đang tái cấu trúc thường cao hơn rất nhiều so với các ngân hàng thương mại hoạt động bình thường. Quyết định định giá tài sản thế chấp bất động sản bị kéo dài trực tiếp gây nghẽn dòng tiền thu hồi nợ của Sacombank. Bạn cần thường xuyên đối chiếu các công bố thông tin chính thức để kiểm chứng mức độ xử lý nợ thực tế của ban điều hành.
-
----
 
 ## Kịch bản phân tích giả lập và chiến lược giải ngân cổ phiếu STB thực chiến
 
@@ -80,8 +72,6 @@ Quản trị vốn danh mục bắt buộc bạn loại bỏ hoàn toàn tâm l�
 
 Xu hướng mua ròng của các quỹ ngoại là bệ đỡ vững chắc giúp hạn chế áp lực nới rộng đà giảm của giá cổ phiếu STB trong các nhịp điều chỉnh chung. Bạn tuyệt đối không sử dụng đòn bẩy margin quá cao đối với một cổ phiếu nhạy cảm với các thông tin tái cơ cấu như STB. Việc đa dạng hóa vị thế giúp bạn luôn giữ thế chủ động trước mọi biến động khó lường của thị trường tài chính.
 
----
-
 ## Bóc tách nợ xấu nội bảng và tài sản tồn đọng ngân hàng cùng HVS Tài chính số
 
 Phân biệt giữa nợ xấu nội bảng, nợ xấu ngoại bảng VAMC và các khoản tài sản không sinh lời là bài toán cực kỳ phức tạp đối với nhà đầu tư F0.
@@ -90,11 +80,7 @@ Hầu hết người mới tham gia thị trường thường chỉ xem xét ch�
 
 Nhằm tháo gỡ rào cản này, **HVS Tài chính số** giới thiệu chương trình đào tạo **HVS Thực tập số** mang đến lộ trình học FA LV1 chuyên sâu bóc tách báo cáo tài chính ngân hàng thương mại. Bạn có thể sử dụng công cụ giao dịch mô phỏng **HVS Demo** để tự do tập luyện đặt lệnh theo kịch bản phân tích mà không lo sợ rủi ro mất tiền thật. Bên cạnh đó, bạn có thể tham gia gửi các nhận định và thảo luận cùng các Mentor giàu kinh nghiệm tại diễn đàn chuyên sâu **HVS Forum**.
 
----
-
 **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-10):** Khởi tạo outline chi tiết dựa trên phân tích thực tế SERP bởi Antigravity.

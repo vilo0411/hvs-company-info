@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["cổ phiếu ngành than"]
 Status: Finalized
@@ -39,8 +39,6 @@ Internal_Links:
 
 Nhóm cổ phiếu ngành than đang bứt phá mạnh mẽ nhờ nhu cầu tiêu thụ nhiệt điện than tăng cao kỷ lục và dòng cổ tức tiền mặt dồi dào. Dưới đây là phân tích chi tiết cơ chế điều tiết giá đặc thù của TKV, bảng so sánh định lượng 5 mã tiềm năng và chiến lược chu kỳ khai thác cùng HVS.
 
----
-
 ## Cổ phiếu ngành than là gì? Cơ chế vệ tinh độc quyền của TKV
 
 **Cổ phiếu ngành than là chứng chỉ sở hữu phần vốn góp tại các doanh nghiệp khai thác, tuyển than lộ thiên hoặc hầm lò trực thuộc Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (TKV), sở hữu tính chất phòng thủ cao với nguồn doanh thu bao tiêu đầu ra tuyệt đối và cổ tức tiền mặt siêu đều đặn.** 
@@ -55,8 +53,6 @@ Bạn cần nắm rõ cấu trúc chuỗi giá trị ngành khai khoáng Việt 
 
 Trước khi đi sâu bóc tách các biến số tài chính đặc thù của ngành khai khoáng, việc trang bị hệ thống kiến thức nền tảng tại bài viết [cổ phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) của HVS sẽ hỗ trợ bạn đọc nắm vững cách đọc hiểu báo cáo tài sản của các công ty con vệ tinh.
 
----
-
 ## 3 động lực vĩ mô thúc đẩy triển vọng nhóm cổ phiếu than
 
 **Triển vọng phục hồi của nhóm cổ phiếu ngành than được hỗ trợ bởi nhu cầu phụ tải điện quốc gia tăng vọt, sự phân hóa giá thành khai thác giữa các mỏ và chính sách hỗ trợ chi phí nội bộ của tập đoàn mẹ TKV.** Các yếu tố này bảo chứng cho sự tăng trưởng sản lượng bao tiêu thực tế.
@@ -66,8 +62,6 @@ Trước khi đi sâu bóc tách các biến số tài chính đặc thù của 
 Động lực vĩ mô thứ hai là sự phân hóa sinh tử về hiệu quả chi phí giữa hai mô hình khai thác mỏ. Phân khúc khai thác lộ thiên đối mặt với khó khăn lớn khi các mỏ cũ dần cạn kiệt, hệ số bóc đất đá tăng cao kỷ lục buộc doanh nghiệp phải bóc xúc hàng chục triệu mét khối đất đá để lấy được một tấn than nguyên khai. Ngược lại, phân khúc khai thác hầm lò chịu áp lực chi phí xây dựng hạ tầng sâu dưới mực nước biển rất lớn ở giai đoạn đầu, nhưng khi đã đi vào vận hành ổn định, biên lợi nhuận gộp sẽ được giữ vững nhờ sản lượng khai thác tập trung.
 
 Động lực vĩ mô thứ ba là cơ chế linh hoạt điều chỉnh đơn giá mua than nội địa của TKV. Khi chi phí nhiên liệu dầu diesel cho xe cuốc lộ thiên tăng cao hoặc phát sinh chi phí an toàn lò chợ hầm lò lớn, TKV sẽ xem xét tăng giá mua than thành phẩm để bù đắp thiệt hại, giữ mức lợi nhuận ròng định mức ổn định từ 2% đến 3% cho các công ty con. Bạn nên sử dụng [phương pháp phân tích ngành](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-nganh-la-gi) của HVS để định lượng chuẩn xác tác động vĩ mô này lên chu kỳ định giá tài sản.
-
----
 
 ## Top 5 cổ phiếu ngành than tiềm năng nhất hiện nay
 
@@ -125,8 +119,6 @@ Mỏ lộ thiên đã khai thác chạm đáy giới hạn kỹ thuật dẫn đ
 
 Để thực hành các bộ lọc chỉ số tài chính khắt khe nhằm tìm ra doanh nghiệp tốt nhất, bạn nên đối chiếu trực tiếp bài viết [chọn mã cổ phiếu tốt](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/nen-dau-tu-co-phieu-nao) để tự xây dựng danh mục tích sản an toàn.
 
----
-
 ## 3 rủi ro cốt tử và kịch bản giao dịch ngành than thực chiến
 
 **Rủi ro kinh doanh cổ phiếu ngành than đến từ sự gia tăng của hệ số bóc đất đá mỏ lộ thiên, hiểm họa thiên tai bão lũ gây ngập hầm lò và sự phụ thuộc hoàn toàn vào đơn giá bao tiêu của tập đoàn mẹ TKV.** Nhận diện rõ các rủi ro này hỗ trợ bạn lập kế hoạch giải ngân kỷ luật.
@@ -141,8 +133,6 @@ Rủi ro thứ ba là vị thế đòn bẩy tài chính ngắn hạn cao tài t
 *   **Kịch bản tích cực (Tăng đơn giá thu mua):** Khi TKV chính thức phê duyệt phương án tăng đơn giá mua than nội địa thêm từ 3% đến 5% nhằm chia sẻ khó khăn chi phí địa chất cho các công ty con. Cú hích này kích hoạt biên lợi nhuận gộp của TVD và TDN hồi phục mạnh mẽ, lợi nhuận ròng có thể bứt phá trên 40%. Bạn chủ động tích lũy gia tăng tỷ trọng cổ phiếu than ngay khi báo cáo tài chính quý ghi nhận dòng tiền hoạt động CFO chuyển trạng thái dương mạnh mẽ.
 *   **Kịch bản tiêu cực (Ngập mỏ kéo dài):** Khi xảy ra mưa lũ lịch sử kéo dài tại Quảng Ninh gây ngập sâu các diện sản xuất hầm lò chính của NBC hay TVD, buộc doanh nghiệp dừng khai thác trên 1 tháng. Chi phí xử lý bùn đất, thông lò làm phát sinh chi phí đột biến gây lỗ ròng quý. Bạn chủ động hạ tỷ trọng nắm giữ cổ phiếu về mức tối thiểu, kiên nhẫn đứng ngoài thị trường để tránh [tâm lý hoảng loạn đám đông](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan), chờ đợi doanh nghiệp hoàn tất khắc phục sự cố kỹ thuật mới xem xét giải ngân tích sản lại. Quy tắc cốt tử là kiên quyết áp dụng chiến lược gom mua vùng giá chiết khấu sâu để hưởng tỷ suất cổ tức tiền mặt trên 12%/năm, tuyệt đối không lướt sóng ngắn hạn theo giá than thế giới Newcastle.
 
----
-
 ## Làm chủ phương pháp phân tích cổ phiếu than cùng HVS
 
 **Phương pháp phân tích cổ phiếu than của HVS hỗ trợ bạn đầu tư hiệu quả qua chương trình đào tạo HVS Thực tập số, giúp làm chủ kỹ năng bóc tách kết quả kinh doanh thực tế thay vì giao dịch theo tin đồn.**
@@ -156,8 +146,6 @@ Chương trình huấn luyện thực chiến **HVS Thực tập số** (triển
 Học viên được thực hành đặt lệnh thực tế trên hệ thống giao dịch mô phỏng HVS Demo thời gian thực không rủi ro mất vốn thật, dưới sự đồng hành sửa lỗi phân tích 24/7 của Mentor CFA tại HVS Forum để hoàn thiện tư duy.
 
 **Học đi đôi với hành thực chiến.** Lộ trình huấn luyện chuyên sâu của HVS là chìa khóa giúp bạn làm chủ năng lực phân tích tài chính và định hình phong cách đầu tư chuyên nghiệp.
-
----
 
 ## 4. Nhật ký chỉnh sửa (Revision Log)
 - **v1.0:** Khởi tạo outline.

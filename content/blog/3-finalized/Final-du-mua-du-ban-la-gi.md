@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Mentoring Senior Advisor
 Target_Keyword: dư mua dư bán là gì
 Search_Intent: Informational
@@ -76,8 +76,6 @@ Ngoài ra, công cụ HVS Demo cung cấp tài khoản mô phỏng bám sát d�
 Dư mua dư bán phản ánh trạng thái cung cầu tức thời tại các mức giá chờ trên bảng điện tử. Nắm vững bản chất lệnh chờ, quy tắc hiển thị ba mức giá tốt nhất và nhận diện bẫy kê lệnh ảo giúp nhà đầu tư F0 tự tin hơn trong mỗi quyết định giao dịch.
 
 Hãy luôn phối hợp quan sát dư mua dư bán với khối lượng khớp lệnh chủ động và diễn biến xu hướng chung trước khi giải ngân.
-
----
 
 ## Revision Log
 - **04/09/2026 (v1.1 - Streamlined Outline):**

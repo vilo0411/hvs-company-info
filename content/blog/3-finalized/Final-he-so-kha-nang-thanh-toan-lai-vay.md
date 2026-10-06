@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["hệ số khả năng thanh toán lãi vay"]
 Status: Finalized
@@ -18,8 +18,6 @@ Word_Count_Target: 1550
 # Hệ số khả năng thanh toán lãi vay là gì? Cách tính và ý nghĩa
 
 Khi doanh nghiệp sử dụng đòn bẩy nợ lớn, áp lực lớn nhất không chỉ là hoàn trả gốc mà là khả năng thanh toán lãi vay đúng hạn. Hệ số khả năng thanh toán lãi vay chính là công cụ hàng đầu giúp nhà đầu tư kiểm tra sức chống chịu này. Bài viết này của HVS sẽ làm rõ hệ số khả năng thanh toán lãi vay là gì, công thức tính và cách đánh giá rủi ro tài chính của doanh nghiệp.
-
----
 
 ## Hệ số khả năng thanh toán lãi vay là gì?
 
@@ -85,8 +83,6 @@ HVS hỗ trợ bạn nhận diện các rủi ro tài chính liên quan đến c
 ## Kết luận
 
 Hệ số khả năng thanh toán lãi vay là chốt chặn quan trọng giúp bạn bảo vệ danh mục đầu tư khỏi các doanh nghiệp có nguy cơ vỡ nợ. Việc thành thạo cách tính chỉ số ICR và hiểu rõ mối liên kết giữa EBIT với chi phí lãi vay giúp nhà đầu tư chủ động tránh xa cạm bẫy đòn bẩy tài chính trên thị trường chứng khoán. Hãy bắt đầu xây dựng kỹ năng tự phân tích doanh nghiệp một cách khoa học cùng các chương trình học thực chiến tại HVS để đầu tư an toàn và bền vững.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-23):** Khởi tạo outline cho từ khóa "hệ số khả năng thanh toán lãi vay" theo yêu cầu viết 10 bài tiếp theo trong sprint backlog.

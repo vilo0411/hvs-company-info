@@ -1,8 +1,8 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["sách về đầu tư giá trị"]
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 SERP_Research: true
 Target_Keyword: sách về đầu tư giá trị
 Secondary_Keywords: đầu tư giá trị graham, phương pháp graham, benjamin graham là ai, lọc cổ phiếu graham, triết lý benjamin graham

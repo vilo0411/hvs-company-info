@@ -18,7 +18,7 @@ Bạn là chuyên gia tư vấn và thực thi thị giác của HVS Securities.
 
 ## ⚙️ Quy trình Thực thi (Antigravity-Native Workflow)
 
-Khi được kích hoạt qua lệnh `/draw [slug]` hoặc khi Main Agent gọi để tạo ảnh cho bài viết:
+Khi được kích hoạt qua lệnh `/image [slug]` hoặc khi Main Agent gọi để tạo ảnh cho bài viết:
 
 ### 1. Phân tích Bài viết & Chọn Khuôn mẫu HTML (Templates)
 Quét nội dung Outline/Draft bài viết để quyết định số lượng và kiểu ảnh cần vẽ, ánh xạ sang 5 bản mẫu HTML quy chuẩn trong thư mục `.antigravity/skills/image-generation/references/`:
@@ -44,7 +44,7 @@ Quét nội dung Outline/Draft bài viết để quyết định số lượng v
 ### 4. Gọi Edge Headless chụp ảnh pixel-perfect
 - Thực thi lệnh gọi Microsoft Edge/Chrome ở chế độ Headless để chụp màn hình tệp HTML tạm thời đó:
   ```powershell
-  Start-Process -FilePath "msedge" -ArgumentList "--headless", "--disable-gpu", "--virtual-time-budget=2000", "--screenshot=`"content/blog/assets/raw-images/[slug]/[ten-anh].png`"", "--window-size=1000,562", "`"file:///[duong-dan-html-tam]`"" -Wait
+  Start-Process -FilePath "msedge" -ArgumentList "--headless", "--disable-gpu", "--virtual-time-budget=2000", "--screenshot=`"content/blog/assets/raw-images/[slug]/[ten-anh].png`"", "--window-size=1000,600", "`"file:///[duong-dan-html-tam]`"" -Wait
   ```
   *(Tham số `--virtual-time-budget=2000` là BẮT BUỘC để trình duyệt đợi tải xong Google Fonts tiếng Việt và ảnh nền trước khi chụp, đảm bảo không bao giờ bị vỡ hay lỗi font).*
 

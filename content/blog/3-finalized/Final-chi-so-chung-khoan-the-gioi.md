@@ -90,6 +90,5 @@ Các chỉ số chứng khoán thế giới như Dow Jones, S&P 500 hay Nikkei 2
 
 Hãy bắt đầu từ việc thấu hiểu thị trường và không ngừng trau dồi kiến thức thực chiến để trở thành một nhà đầu tư thành công trong tương lai!
 
----
 **Revision Log:**
 - [2026-05-07]: Tối ưu hóa tiêu đề và bảng chỉ số. Làm rõ mối liên hệ giữa thế giới và Việt Nam. Cập nhật phần HVS Tài chính số tập trung vào kỹ năng thực chiến cho F0. Bổ sung thương hiệu vào Sapo và tinh chỉnh văn phong tự nhiên hơn.

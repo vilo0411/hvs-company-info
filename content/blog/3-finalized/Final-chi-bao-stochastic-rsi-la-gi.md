@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie / Nhà đầu tư F0
 Target_Keyword: chỉ báo stochastic rsi là gì
 Search_Intent: Informational
@@ -105,8 +105,6 @@ Hãy luôn ghi nhớ 3 nguyên tắc vàng sau:
 3.  **Kỷ luật quản trị rủi ro:** Luôn cài mức dừng lỗ 5% - 7% để bảo vệ tài khoản và chủ động nâng cao kỹ năng qua chương trình **HVS Thực tập số**.
 
 Nắm vững bản chất động lượng sẽ giúp nhà đầu tư luôn tự tin trước mọi biến động của thị trường.
-
----
 
 ## Revision Log
 - 2026-09-14: Khởi tạo Outline bài viết "Chỉ báo Stochastic RSI là gì" chuẩn SEO Express Mode.

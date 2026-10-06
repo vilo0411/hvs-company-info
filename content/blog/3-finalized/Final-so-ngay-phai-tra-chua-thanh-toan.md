@@ -123,13 +123,9 @@ Nhiều nhà đầu tư mới tham gia thị trường (F0) thường gặp bố
 
 Chỉ số DPO là công cụ quan trọng giúp bạn đánh giá vị thế thương lượng và chất lượng dòng tiền của doanh nghiệp. Bạn nên ưu tiên chọn lọc các doanh nghiệp giữ được DPO ổn định và không làm ảnh hưởng đến mối quan hệ với nhà cung cấp. Hãy đồng hành cùng HVS để tiếp thu thêm nhiều bài học tài chính bổ ích, giúp bạn nâng cao hiệu quả đầu tư thực chiến. Kiểm soát tốt chỉ số này giúp bạn tránh xa các doanh nghiệp đứng trước nguy cơ vỡ nợ dòng tiền.
 
----
-
 ## 3. Chiến lược liên kết & Tối ưu hóa
 - **Internal Links:** [roa là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-roa-la-gi.md), [chi số roe là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-chi-so-roe-la-gi.md)
 - **Yếu tố cạnh tranh:** Bảng so sánh kịch bản DPO tối ưu theo ngành kinh doanh (Bán lẻ vs Xây dựng).
-
----
 
 ## 4. Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-08-05):** Khởi tạo outline chuẩn SEO, áp dụng nghiêm ngặt quy tắc chống AI của HVS.

@@ -1,25 +1,11 @@
-# HVS Multi-Agent Team (AGENTS.md)
+# HVS Multi-Agent Team
 
-Danh sách sub-agents chuyên biệt. Chỉ thu thập context — Main Agent viết bài.
+Sub-agent chỉ thu thập / kiểm định — **Main Agent viết bài**. Mọi agent có block "Context Loading": trong pipeline không đọc lại file đã load ở Bước 0.
 
----
-
-## Danh sách nhân sự
-
-1. **SEO Collector** ([agents/seo-collector.md](.antigravity/agents/seo-collector.md))
-   - **Vai trò:** SERP research, tạo Content Brief — kích hoạt bởi `/write` (có SERP)
-   - **Skill:** `.antigravity/skills/seo-research/SKILL.md`
-
-2. **Brand Guardian** ([agents/brand-guardian.md](.antigravity/agents/brand-guardian.md))
-   - **Mode A:** Brand Context tại Phase 1 của `/write`
-   - **Mode B:** Audit bài cũ tại Phase 2 của `/optimize`
-   - **Mode C:** Knowledge Update sau `/approve`
-   - **Tham chiếu:** `.antigravity/rules/anti-ai-digest.md`, `hvs-target-audience.csv`
-
-3. **Quality Guardian** ([agents/quality-guardian.md](.antigravity/agents/quality-guardian.md))
-   - **Vai trò:** QA/QC bài viết — kích hoạt tại Phase 3 của write-track
-   - **Skill:** `.antigravity/skills/qa-qc/SKILL.md`
-
-4. **Research Agent** ([agents/research-agent.md](.antigravity/agents/research-agent.md))
-   - **Vai trò:** Xây dựng Knowledge Base nền tảng — kích hoạt bởi `/setup`
-   - **Output:** `resources/company/`, `resources/audience/`, `resources/market/`
+| Agent | File | Kích hoạt | Skill / Script |
+|---|---|---|---|
+| **SEO Collector** | `.antigravity/agents/seo-collector.md` | `/write` Phase 1, `/optimize` Bước 2 | `seo-research/SKILL.md`, `serp_research.py` |
+| **Quality Guardian** | `.antigravity/agents/quality-guardian.md` | `/write` Phase 3, `/optimize` Bước 5, `/revise` | `qa-qc/SKILL.md`, `scripts/qa_lint.py` |
+| **Brand Guardian** | `.antigravity/agents/brand-guardian.md` | Mode B `/optimize`; Mode C sau `/approve` | `glossary.md`, `confirm-with-leadership.md` |
+| **Research Agent** | `.antigravity/agents/research-agent.md` | `/setup` | → `resources/` |
+| **Visual Architect** | `.antigravity/agents/visual-architect.md` | `/image` | `image-generation/SKILL.md`, `image_processor.py` |

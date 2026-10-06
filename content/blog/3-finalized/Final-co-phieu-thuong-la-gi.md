@@ -1,7 +1,7 @@
 ---
 Author: HVS Senior Mentor
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: F0
 Target_Keyword: cổ phiếu thưởng là gì
 Search_Intent: Informational
@@ -69,7 +69,7 @@ Bên cạnh vấn đề thuế, nhà đầu tư phải đối mặt với rủi 
 
 ## So sánh cổ phiếu thưởng và cổ tức bằng cổ phiếu
 
-So sánh cổ phiếu thưởng và hình thức trả cổ tức bằng cổ phiếu (bạn tham khảo [cổ tức là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-tuc-la-gi.md) để nắm rõ khái niệm) cho thấy sự khác biệt chủ yếu nằm ở **nguồn vốn trích lập trên bảng cân đối kế toán và mục đích sử dụng vốn của doanh nghiệp.** Mặc dù cả hai phương thức đều làm tăng số lượng cổ phiếu lưu hành và làm giảm thị giá tham chiếu tương ứng, bản chất tài chính của chúng lại có sự phân hóa rõ rệt.
+So sánh cổ phiếu thưởng và hình thức trả cổ tức bằng cổ phiếu (bạn tham khảo [cổ tức là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi) để nắm rõ khái niệm) cho thấy sự khác biệt chủ yếu nằm ở **nguồn vốn trích lập trên bảng cân đối kế toán và mục đích sử dụng vốn của doanh nghiệp.** Mặc dù cả hai phương thức đều làm tăng số lượng cổ phiếu lưu hành và làm giảm thị giá tham chiếu tương ứng, bản chất tài chính của chúng lại có sự phân hóa rõ rệt.
 
 Điểm khác biệt đầu tiên là nguồn vốn trích lập trên bảng cân đối kế toán của doanh nghiệp. Để chi trả cổ tức bằng cổ phiếu, doanh nghiệp bắt buộc phải trích nguồn từ lợi nhuận sau thuế chưa phân phối lũy kế. Trong khi đó, nguồn để phát hành cổ phiếu thưởng rộng hơn nhiều, bao gồm thặng dư vốn cổ phần, quỹ đầu tư phát triển hoặc các quỹ khác thuộc vốn chủ sở hữu.
 

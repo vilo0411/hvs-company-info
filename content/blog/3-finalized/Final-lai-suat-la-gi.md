@@ -19,8 +19,6 @@ Word_Count_Target: 2550
 
 Lãi suất là biến số tài chính nền tảng có khả năng điều hướng dòng tiền trên toàn bộ nền kinh tế Việt Nam. Khi tham gia thị trường tài chính, bạn cần nắm rõ cơ chế vận hành của lãi suất để đưa ra các quyết định phân bổ vốn hợp lý. Bài viết này của HVS sẽ phân tích định nghĩa lãi suất, các phương pháp phân loại phổ biến, tác động vĩ mô và cách áp dụng biến số này vào hoạt động đầu tư chứng khoán thực chiến.
 
----
-
 ## Luyện tập quản trị rủi ro lãi suất cùng HVS
 
 Lãi suất biến động tác động trực tiếp đến chi phí cơ hội của dòng tiền. Khi lãi suất tiết kiệm ngân hàng giảm sâu, nhiều người băn khoăn [có nên đầu tư chứng khoán không](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-dau-tu-chung-khoan-khong) và thắc mắc [đầu tư chứng khoán cần bao nhiêu tiền](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-chung-khoan-can-bao-nhieu-tien) để bắt đầu. Thực tế, bạn hoàn toàn có thể khởi đầu với số vốn rất nhỏ sau khi nắm rõ [cách mở tài khoản chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mo-tai-khoan-chung-khoan).

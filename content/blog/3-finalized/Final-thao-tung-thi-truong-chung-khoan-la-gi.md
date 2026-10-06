@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie / Nhà đầu tư F0
 Target_Keyword: thao túng thị trường chứng khoán là gì
 Search_Intent: Informational
@@ -34,7 +34,7 @@ Các nhóm thao túng trên thị trường thường sử dụng nhiều thủ 
 Nhóm làm giá mở hàng chục tài khoản chứng khoán khác nhau do chính họ hoặc người thân đứng tên. Sau đó, họ liên tục đặt lệnh mua và bán đối ứng cùng một loại cổ phiếu trong phiên giao dịch. Việc giao dịch qua lại này không làm thay đổi quyền sở hữu cổ phần thực sự, nhưng lại tạo ra khối lượng giao dịch đột biến trên bảng điện, lừa dối nhà đầu tư cá nhân vội vãng mua đuổi.
 
 #### 2. Đẩy giá và xả hàng (Pump and Dump)
-Thủ đoạn này áp dụng cho các nhóm [cổ phiếu penny](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-phieu-penny-la-gi.md) vốn hóa nhỏ. Ban đầu, đội lái gom cổ phiếu ở vùng giá thấp. Khi gom đủ hàng, họ liên tục đẩy giá trần nhiều phiên. Khi thu hút đông đảo nhà đầu tư cá nhân mua đuổi do tâm lý sợ bỏ lỡ cơ hội (FOMO), nhóm làm giá lập tức tung hàng triệu cổ phiếu để chốt lời, đẩy giá rơi tự do.
+Thủ đoạn này áp dụng cho các nhóm [cổ phiếu penny](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-penny-la-gi) vốn hóa nhỏ. Ban đầu, đội lái gom cổ phiếu ở vùng giá thấp. Khi gom đủ hàng, họ liên tục đẩy giá trần nhiều phiên. Khi thu hút đông đảo nhà đầu tư cá nhân mua đuổi do tâm lý sợ bỏ lỡ cơ hội (FOMO), nhóm làm giá lập tức tung hàng triệu cổ phiếu để chốt lời, đẩy giá rơi tự do.
 
 #### 3. Tung tin đồn thất thiệt trên mạng xã hội
 Nhóm thao túng thường thâu tóm hoặc thuê các tài khoản mạng xã hội, nhóm Zalo, Telegram để phát tán tin đồn sai sự thật như doanh nghiệp bán vốn cho nước ngoài, trúng thầu dự án lớn hoặc tăng vốn khủng. Những tin đồn vô căn cứ này khiến nhà đầu tư thiếu kinh nghiệm vội vã xuống tiền mua đuổi.
@@ -67,11 +67,11 @@ Căn cứ theo Nghị định 156/2020/NĐ-CP (được sửa đổi bởi Ngh�
 Nhà đầu tư cá nhân có thể phát hiện bất thường qua các đặc điểm sau:
 
 - **Thanh khoản nổ đột biến không rõ nguyên nhân:** Cổ phiếu bất ngờ có khối lượng giao dịch gấp 5-10 lần bình thường nhưng doanh nghiệp không có thông tin kết quả kinh doanh hỗ trợ.
-- **Hiện tượng mất cân đối thanh khoản:** Cổ phiếu bị kéo trần liên tục trong tình trạng trắng bên bán, sau đó quay đầu giảm sàn hàng loạt phiên và rơi vào tình trạng [trắng bên mua](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-phieu-trang-ben-mua-la-gi.md), khiến nhà đầu tư không thể bán thoát hàng.
-- **Giá tăng phi kỹ thuật ở nhóm cổ phiếu thua lỗ:** Doanh nghiệp bết bát nhưng giá cổ phiếu tăng bằng lần trong thời gian ngắn thường là mục tiêu của các [cổ phiếu đầu cơ](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-phieu-dau-co.md) bị làm giá.
+- **Hiện tượng mất cân đối thanh khoản:** Cổ phiếu bị kéo trần liên tục trong tình trạng trắng bên bán, sau đó quay đầu giảm sàn hàng loạt phiên và rơi vào tình trạng [trắng bên mua](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-trang-ben-mua-la-gi), khiến nhà đầu tư không thể bán thoát hàng.
+- **Giá tăng phi kỹ thuật ở nhóm cổ phiếu thua lỗ:** Doanh nghiệp bết bát nhưng giá cổ phiếu tăng bằng lần trong thời gian ngắn thường là mục tiêu của các [cổ phiếu đầu cơ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-dau-co) bị làm giá.
 
 #### Phương pháp phòng tránh bẫy giá hiệu quả
-Để hạn chế [rủi ro trong đầu tư chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-dau-tu-chung-khoan-co-nhung-rui-ro-gi.md), bạn nên áp dụng các nguyên tắc sau:
+Để hạn chế [rủi ro trong đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-chung-khoan-co-nhung-rui-ro-gi), bạn nên áp dụng các nguyên tắc sau:
 
 1. **Phân tích báo cáo tài chính cốt lõi:** Luôn kiểm tra doanh thu, lợi nhuận và dòng tiền từ hoạt động kinh doanh trước khi giải ngân.
 2. **Loại bỏ tâm lý FOMO:** Không mua đuổi cổ phiếu đã tăng nóng liên tục nhiều phiên trần để tránh rủi ro đu đỉnh khi đội lái xả hàng.

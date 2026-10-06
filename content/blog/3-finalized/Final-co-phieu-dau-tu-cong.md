@@ -61,8 +61,6 @@ Internal_Links:
 
 Làn sóng [đầu tư công](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-cong-la-gi) - một bộ phận trọng yếu của [chính sách công](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chinh-sach-cong-la-gi) - với các siêu dự án trọng điểm như Sân bay Long Thành và mạng lưới cao tốc Bắc - Nam đang mở ra cơ hội kinh doanh khổng lồ cho các doanh nghiệp hạ tầng. Trước khi bắt đầu giao dịch, việc thấu hiểu sâu sắc [cổ phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) sẽ là bước đệm lý thuyết quan trọng để bạn hiểu được cấu trúc sở hữu của các doanh nghiệp xây lắp trên sàn HOSE. Tuy nhiên, đầu tư cổ phiếu đầu tư công đòi hỏi bạn phải có khả năng phân biệt rõ rệt giữa câu chuyện trúng thầu danh nghĩa và dòng tiền thực tế thu về của doanh nghiệp. Dưới đây là bảng phân tích chi tiết về Top 4 mã cổ phiếu đầu tư công tiềm năng nhất năm 2026 cùng bộ tiêu chí sàng lọc thực chiến từ HVS.
 
----
-
 ## Danh sách Top 4 cổ phiếu đầu tư công tiềm năng nhất năm 2026
 
 Danh sách cổ phiếu đầu tư công tiềm năng nhất năm 2026 bao gồm các doanh nghiệp đầu ngành như Đèo Cả (HHV), Khoáng sản Bình Dương (KSB), Vinaconex (VCG) và Hóa dầu Petrolimex (PLC), sở hữu năng lực thi công hàng đầu, quỹ đất mỏ đá độc quyền địa lý hoặc thị phần chi phối vượt trội. Đây là những doanh nghiệp trực tiếp hưởng lợi từ tiến độ phân bổ [ngân sách nhà nước](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ngan-sach-nha-nuoc-la-gi) cho các đại dự án hạ tầng quốc gia.
@@ -100,8 +98,6 @@ Hóa dầu Petrolimex độc quyền chi phối thị phần cung ứng sản ph
 
 Tuy nhiên, bạn cần lưu ý rằng biên lợi nhuận gộp mảng nhựa đường của PLC cực kỳ nhạy cảm với biến động giá dầu thô Brent thế giới. Nhựa đường là sản phẩm hạ nguồn của quá trình chưng cất dầu mỏ, do đó giá vốn nguyên liệu nhập khẩu thô phụ thuộc hoàn toàn vào diễn biến thị trường dầu thế giới. Nếu giá dầu thế giới tăng mạnh đột ngột, PLC sẽ đối diện với áp lực suy giảm biên lợi nhuận gộp nếu không thể chuyển giao ngay chi phí tăng thêm sang các nhà thầu thi công hạ tầng.
 
----
-
 ## Tiêu chí cốt lõi sàng lọc cổ phiếu đầu tư công chất lượng
 
 Tiêu chí sàng lọc cổ phiếu đầu tư công tiềm năng dựa trên ba thước đo tài chính và địa lý thực tế bao gồm khối lượng backlog gối đầu thực tế, năng lực tự chủ dòng tiền và lợi thế độc quyền bán kính vận chuyển. Nắm bắt vững chắc bộ tiêu chí này sẽ giúp bạn chủ động loại bỏ tâm lý FOMO mua đuổi theo các tiêu đề tin tức trúng thầu danh nghĩa trên phương tiện truyền thông.
@@ -112,8 +108,6 @@ Tiêu chí thứ hai là năng lực tự chủ dòng tiền hoạt động kinh
 
 Tiêu chí thứ ba là lợi thế độc quyền địa lý mỏ vật liệu. Đây là tiêu chí vàng dành riêng cho nhóm doanh nghiệp cung ứng đá xây dựng. Do đá có trọng lượng nặng nên chi phí logistics vận chuyển bằng đường bộ sẽ tăng gấp đôi sau mỗi 20 km. Những doanh nghiệp sở hữu mỏ đá chất lượng cao nằm trong bán kính dưới 30 km tính từ chân công trình trọng điểm luôn giữ quyền quyết định giá bán sản phẩm và duy trì biên lợi nhuận gộp ở mức cực cao.
 
----
-
 ## Động lực vĩ mô thúc đẩy làn sóng đầu tư công bứt phá
 
 Động lực vĩ mô thúc đẩy làn sóng đầu tư công bứt phá đến từ tiến độ thi công thần tốc tại siêu dự án Sân bay Long Thành, chiến dịch hoàn thiện các tuyến cao tốc huyết mạch và cơ chế đặc thù tháo gỡ điểm nghẽn mỏ vật liệu. Những biến số vĩ mô này tạo bệ phóng vững chắc giúp ngành hạ tầng tăng tốc bền vững.
@@ -123,8 +117,6 @@ Tiêu chí thứ ba là lợi thế độc quyền địa lý mỏ vật liệu.
 Thứ hai, chiến dịch thảm nhựa khép kín hệ thống cao tốc Bắc - Nam và các đường vành đai lớn tại hai đầu cầu kinh tế Hà Nội, TP.HCM kích hoạt sản lượng tiêu thụ đá xây dựng và nhựa đường tăng phi mã. Khi các tuyến đường chuyển từ pha làm nền đất sang giai đoạn rải đá dăm và thảm nhựa nóng polymer, các doanh nghiệp độc quyền thị phần như KSB hay PLC sẽ ghi nhận tốc độ tăng trưởng sản lượng bán hàng vượt bậc, trực tiếp cải thiện biên lợi nhuận ròng.
 
 Thứ ba, quyết tâm chính trị mạnh mẽ thể hiện qua việc ban hành các cơ chế đặc thù tháo gỡ khó khăn pháp lý cấp mỏ vật liệu cát, đá xây dựng. Chính phủ cho phép chỉ định thầu trực tiếp quyền khai thác mỏ cho các nhà thầu thi công hạ tầng giao thông, rút ngắn 2/3 thời gian chuẩn bị thủ tục hành chính ban đầu. Đồng thời, việc chủ động áp dụng các công thức bù giá vật liệu theo giá thực tế thị trường giúp doanh nghiệp thầu xây lắp giảm bớt gánh nặng tài chính bão giá nguyên liệu. Bạn có thể tham khảo thêm [phương pháp chọn ngành đầu tư](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-nganh-la-gi) để đánh giá tầm quan trọng của các chính sách vĩ mô này lên chu kỳ phục hồi của doanh nghiệp hạ tầng.
-
----
 
 ## Rủi ro nợ đọng công trình và chiến lược giao dịch thực chiến
 
@@ -137,8 +129,6 @@ Một rủi ro hệ thống lớn nhất là tình trạng nợ đọng dòng v�
 *   **Pha tích lũy:** Bạn chủ động gom mua cổ phiếu ở giai đoạn nửa đầu năm. Đây là thời điểm tiến độ giải ngân đầu tư công của Chính phủ thường ở mức rất thấp (pha trũng thông tin), giá cổ phiếu chịu áp lực chiết khấu sâu về vùng đáy P/B lịch sử do tâm lý thiếu kiên nhẫn của đám đông.
 *   **Pha hiện thực hóa lợi nhuận:** Bạn tiến hành chốt lời từng phần vào quý IV khi số liệu giải ngân đầu tư công bùng nổ thực tế để hoàn thành chỉ tiêu năm. Thời điểm báo cáo tài chính ghi nhận doanh thu tăng vọt cũng là lúc truyền thông liên tục đưa tin tức tích cực, tạo lực cầu hưng phấn cho đám đông mua đuổi. Bán ra tại pha này giúp bạn tránh hoàn toàn [lỗi tâm lý FOMO và hoảng loạn](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan) ở vùng đỉnh chu kỳ giá.
 *   **Chiến lược phân bổ tỷ trọng:** Bạn nên ưu tiên phân bổ tỷ trọng lớn hơn vào nhóm doanh nghiệp cung ứng vật liệu xây dựng có mỏ đá độc quyền địa lý. Nhóm vật liệu luôn có sức chống chịu biên gộp tốt hơn hẳn nhóm xây lắp hạ tầng trước các đợt bão giá sắt thép hay cát đá xây dựng đầu vào.
-
----
 
 ## Nâng cao năng lực đầu tư đầu tư công thực chiến cùng HVS
 
@@ -154,8 +144,6 @@ Phần lớn các nhà đầu tư cá nhân trên thị trường thường quy�
 *   **HVS Forum:** Cộng đồng trao đổi thông tin đầu tư chất lượng cao. Nơi bạn kết nối trực tiếp với các nhà đầu tư kinh nghiệm để cùng phản biện thông tin tiến độ gói thầu, loại bỏ hoàn toàn các tin đồn thổi phồng trúng thầu danh nghĩa để đưa ra quyết định giao dịch khách quan nhất.
 
 Để hoàn thiện danh mục đầu tư dài hạn của mình, bạn hãy tiếp tục tìm hiểu cách thức [chọn mã cổ phiếu tiềm năng](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/nen-dau-tu-co-phieu-nao) để phân bổ tỷ trọng dòng tiền tối ưu giữa các nhóm ngành có tính chu kỳ cao.
-
----
 
 ## Revision Log
 - **07/08/2026 (v1.2 - Maintenance):**

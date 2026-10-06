@@ -1,8 +1,8 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["Đầu tư lướt sóng"]
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 SERP_Research: true
 Target_Keyword: Đầu tư lướt sóng
 Secondary_Keywords: lướt sóng chứng khoán, cách lướt sóng cổ phiếu, đầu cơ lướt sóng, kinh nghiệm lướt sóng chứng khoán, trading là gì

@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: F0 / Sinh viên / Người mới bắt đầu
 Target_Keyword: Đầu tư chứng khoán cần bao nhiêu tiền
 Search_Intent: Informational
@@ -35,9 +35,9 @@ Nhờ cơ chế lô lẻ, nhà đầu tư hoàn toàn có thể mua từ 1 cổ 
 
 Số tiền cần chuẩn bị để mua 1 lô chẵn (100 cổ phiếu) biến động theo từng nhóm thị giá:
 
-* **Nhóm cổ phiếu thị giá thấp (Penny):** Cổ phiếu HQC giá 4.000 đồng/cổ phiếu. Số tiền mua 100 cổ phiếu là $4.000 \times 100 = 400.000$ đồng.
-* **Nhóm cổ phiếu thị giá trung bình (Midcap):** Cổ phiếu HPG giá 26.000 đồng/cổ phiếu. Số tiền mua 100 cổ phiếu là $26.000 \times 100 = 2.600.000$ đồng.
-* **Nhóm cổ phiếu lớn (Bluechip / VN30):** Cổ phiếu VCB giá 90.000 đồng/cổ phiếu. Số tiền mua 100 cổ phiếu là $90.000 \times 100 = 9.000.000$ đồng.
+* **Nhóm cổ phiếu thị giá thấp (Penny):** Cổ phiếu HQC giá 4.000 đồng/cổ phiếu. Số tiền mua 100 cổ phiếu là `4.000 \times 100 = 400.000` đồng.
+* **Nhóm cổ phiếu thị giá trung bình (Midcap):** Cổ phiếu HPG giá 26.000 đồng/cổ phiếu. Số tiền mua 100 cổ phiếu là `26.000 \times 100 = 2.600.000` đồng.
+* **Nhóm cổ phiếu lớn (Bluechip / VN30):** Cổ phiếu VCB giá 90.000 đồng/cổ phiếu. Số tiền mua 100 cổ phiếu là `90.000 \times 100 = 9.000.000` đồng.
 
 Như vậy, nếu muốn mua trọn một lô chẵn của mã cổ phiếu quốc dân như HPG, bạn chỉ cần khoảng 2,6 triệu đồng.
 
@@ -86,15 +86,14 @@ Bên cạnh tiền mua cổ phiếu, nhà đầu tư cần dự trù các khoả
 | **Phí lưu ký chứng khoán** | 0,27 đồng / CP / tháng | Tổng công ty Lưu ký và Bù trừ Chứng khoán Việt Nam (VSDC) |
 | **Phí nộp / rút tiền** | Miễn phí hoặc 3.300đ - 11.000đ | Ngân hàng liên kết thực hiện |
 
-
 Giả sử bạn mua 100 cổ phiếu HPG với giá 26.000 đồng/cổ phiếu và bán ra khi giá đạt 30.000 đồng/cổ phiếu:
 
-* **Giá trị lệnh mua:** $100 \times 26.000 = 2.600.000$ đồng.
+* **Giá trị lệnh mua:** `100 \times 26.000 = 2.600.000` đồng.
   * Phí giao dịch mua (0,1%): 2.600 đồng.
-* **Giá trị lệnh bán:** $100 \times 30.000 = 3.000.000$ đồng.
+* **Giá trị lệnh bán:** `100 \times 30.000 = 3.000.000` đồng.
   * Phí giao dịch bán (0,1%): 3.000 đồng.
   * Thuế TNCN khi bán (0,1%): 3.000 đồng.
-* **Tổng chi phí phát sinh:** $2.600 + 3.000 + 3.000 = 8.600$ đồng.
+* **Tổng chi phí phát sinh:** `2.600 + 3.000 + 3.000 = 8.600` đồng.
 
 Mức chi phí này rất nhỏ so với chênh lệch giá, nhưng nếu giao dịch quá liên tục (tần suất cao), tổng chi phí tích lũy có thể làm sụt giảm lợi nhuận của bạn.
 

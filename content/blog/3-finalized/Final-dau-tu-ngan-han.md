@@ -2,7 +2,7 @@
 Author: Antigravity
 aliases: ["đầu tư ngắn hạn"]
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 SERP_Research: true
 Target_Keyword: đầu tư ngắn hạn
 Secondary_Keywords: đầu tư chứng khoán ngắn hạn, cách đầu tư ngắn hạn, chiến lược đầu tư ngắn hạn, danh mục đầu tư ngắn hạn, đầu tư ngắn hạn là gì

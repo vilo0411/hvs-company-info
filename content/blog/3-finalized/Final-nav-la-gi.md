@@ -80,8 +80,6 @@ Internal_Links:
 
 Quản trị dòng vốn quyết định sự thành bại khi đầu tư. HVS giúp bạn hiểu rõ khái niệm NAV trong chứng khoán, công thức tính và cách tối ưu tài sản ròng.
 
----
-
 ## NAV là gì trong chứng khoán?
 
 NAV là **giá trị tài sản ròng** thể hiện tài sản thực tế của quỹ đầu tư, doanh nghiệp hoặc tài khoản cá nhân sau khi khấu trừ nợ. Thuật ngữ viết tắt của Net Asset Value. Bạn cần phân biệt rõ ba ngữ cảnh sử dụng chỉ số này để tránh nhầm lẫn. Đây là chỉ số quan trọng hàng đầu trong đầu tư.
@@ -91,8 +89,6 @@ Thứ nhất, đối với quỹ đầu tư, chỉ số đại diện cho giá t
 Thứ hai, đối với doanh nghiệp, tài sản thuần chính là vốn chủ sở hữu của cổ đông.
 
 Thứ ba, đối với tài khoản cá nhân, NAV là số vốn thực có bạn sở hữu tại công ty chứng khoán. Phân biệt rõ giúp bạn theo dõi tài sản chính xác. Việc hiểu đúng bản chất giúp bạn định vị dòng vốn hiệu quả.
-
----
 
 ## Công thức tính NAV của quỹ đầu tư và doanh nghiệp
 
@@ -114,8 +110,6 @@ Tổng tài sản gồm tiền mặt và cổ phiếu sở hữu. Nợ gồm ph�
 
 Giả sử doanh nghiệp có tài sản 500 tỷ đồng, nợ phải trả 200 tỷ đồng, vốn chủ sở hữu đạt 300 tỷ đồng. Đây là tài sản thực thuộc về cổ đông sau khi trừ nợ. Chỉ số giúp bạn đánh giá giá trị sổ sách cổ phiếu và là cơ sở tính chỉ số P/B. Phân tích kỹ lưỡng các số liệu này để đầu tư hiệu quả.
 
----
-
 ## Điểm khác biệt giữa chỉ số NAV và thị giá cổ phiếu
 
 Giá trị tài sản ròng và thị giá phản ánh hai khía cạnh khác biệt của tài sản.
@@ -133,8 +127,6 @@ Bảng dưới đây so sánh chi tiết hai chỉ số này:
 
 Khi tham gia [đầu tư etf](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-etf), bạn cần theo dõi sát mức chênh lệch này. Thị giá thấp hơn NAV nghĩa là tài sản giao dịch chiết khấu. Ngược lại, thị giá cao hơn NAV phản ánh mức thặng dư. Sự phân biệt giúp bạn giao dịch tối ưu.
 
----
-
 ## Cách theo dõi chỉ số NAV tài khoản chứng khoán cá nhân
 
 NAV tài khoản cá nhân phản ánh số tiền thực tế bạn sở hữu sau khi tất toán danh mục.
@@ -149,8 +141,6 @@ Giả sử bạn có 100 triệu đồng vốn, vay thêm 100 triệu đồng mu
 
 Nếu VCB giảm 20%, danh mục còn 160 triệu đồng. Khoản nợ margin giữ nguyên. NAV tài khoản giảm còn 60 triệu đồng, tương đương mất 40% vốn. Khi NAV giảm dưới ngưỡng an toàn, công ty chứng khoán sẽ call margin yêu cầu nạp tiền hoặc bán giải chấp cổ phiếu. Quản trị tỷ lệ margin giúp bảo toàn tài sản ròng.
 
----
-
 ## Phát triển tư duy quản trị tài sản thực chiến cùng HVS Tài Chính Số
 
 Năng lực kiểm soát tài sản ròng quyết định sự bền vững của bạn trên thị trường chứng khoán.
@@ -163,15 +153,11 @@ Lộ trình học cung cấp kiến thức thực chiến qua 2 giai đoạn:
 
 Bạn có thể thực hành trên công cụ **HVS Demo** để kiểm chứng chiến thuật đầu tư an toàn và thảo luận cùng Mentor tại **HVS Forum**.
 
----
-
 ## Kết luận
 
 NAV là chỉ số cốt lõi giúp bạn đo lường tài sản thực tế của doanh nghiệp, quỹ đầu tư và tài khoản cá nhân. Theo dõi biến động chỉ số giúp bạn phân bổ vốn hiệu quả. Hãy học tập cùng HVS để làm chủ tài sản.
 
 **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích trong bài viết này chỉ nhằm mục đích học tập và thực hành tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-08-26):** Khởi tạo Outline bài viết "nav là gì" theo chuẩn HVS.

@@ -1,6 +1,6 @@
 ---
 name: HVS Glossary
-description: Thuật ngữ chuẩn HVS Securities — dùng bởi brand-compliance và internal-audit skills để đồng bộ ngôn ngữ.
+description: Thuật ngữ chuẩn HVS — nguồn duy nhất về sản phẩm, xưng hô, từ chuyên nghiệp. qa_lint.py đọc bảng Amateur và Xưng hô.
 ---
 
 # HVS Glossary — Thuật ngữ chuẩn
@@ -17,6 +17,15 @@ Mỗi term gồm: tên chuẩn | định nghĩa ngắn | cách dùng trong bài 
 | **HVS Forum** | Cộng đồng nhà đầu tư HVS — nơi chia sẻ kiến thức thực chiến | Đề xuất cho F0 muốn học từ nhà đầu tư có kinh nghiệm | "diễn đàn", "group", "cộng đồng online" |
 | **HVS Tài chính số** | Nền tảng đào tạo trực tuyến chuyên sâu về đầu tư chứng khoán | Đề xuất học kiến thức vĩ mô, FA LV1, TA LV1 thực chiến | "app HVS", "phần mềm HVS", "tool HVS", "công cụ bộ lọc" |
 | **HVS Thực tập số** | Chương trình đào tạo thuộc HVS Tài chính số gồm 2 giai đoạn (Nền tảng & Chuyên hóa) | Đề xuất cho Sinh viên/F0 muốn tích lũy kinh nghiệm phân tích thực tế | "internship", "sản phẩm độc lập" |
+
+
+### Phân tầng sản phẩm (BẮT BUỘC — thắng mọi mô tả cũ)
+
+- **HVS Tài chính số** = nền tảng đào tạo trực tuyến (không phải app/tool/bộ lọc).
+- **HVS Thực tập số** = chương trình đào tạo **nằm trong** HVS Tài chính số; **phễu chuyển đổi chính cho MỌI persona** (Sinh viên, F0, F1). 2 lộ trình: Nhà Phân Tích / Nhà Tư Vấn (FA LV1, FA LV2, TA LV1). Học phí: **"từ 1.500.000 VNĐ"** — chỉ dùng đúng cụm này.
+- **HVS Demo**, **HVS Forum** = công cụ hỗ trợ thực hành / thảo luận, **không** phải sản phẩm đào tạo chính, **không** là đích CTA riêng.
+- Ràng buộc lãnh đạo (`resources/confirm-with-leadership.md`): **không** nêu % phí giao dịch của HVS; **không** nhắc lịch sử đình chỉ/xử phạt. Lint: `BRAND-fee`, `BRAND-regulatory`.
+- Conversion link chuẩn: `https://taichinhso.hvsvn.com/thuc-tap-so` (hoặc `/thuc-tap-so/NHA-PHAN-TICH`, `/thuc-tap-so/NHA-TU-VAN`).
 
 ---
 

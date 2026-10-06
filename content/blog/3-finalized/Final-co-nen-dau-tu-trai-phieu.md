@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Claude Code
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: có nên đầu tư trái phiếu
 Secondary_Keywords: trái phiếu doanh nghiệp, trái phiếu chính phủ, lợi suất trái phiếu, an toàn đầu tư trái phiếu

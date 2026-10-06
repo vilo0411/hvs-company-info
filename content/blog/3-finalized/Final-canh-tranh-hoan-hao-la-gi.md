@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
 Pipeline_Mode: Express
@@ -42,15 +42,9 @@ Featured_Snippet: Table
 
 Thị trường cạnh tranh hoàn hảo (Perfect Competition) là mô hình kinh tế lý tưởng với nhiều người mua-bán, sản phẩm đồng nhất và thông tin hoàn toàn minh bạch. Câu hỏi thực tế: thị trường chứng khoán Việt Nam có gần với mô hình này không, và điều đó ảnh hưởng gì đến chiến lược đầu tư của bạn?
 
----
-
 ## Cạnh tranh hoàn hảo là gì?
 
 **Thị trường cạnh tranh hoàn hảo (Perfect Competition)** là cấu trúc thị trường lý tưởng trong đó có vô số người mua và người bán, sản phẩm hoàn toàn đồng nhất, thông tin minh bạch tuyệt đối. Mọi chủ thể đều là "price taker", không ai đủ lực chi phối giá cả.
-
-
-
----
 
 ## 5 đặc điểm của thị trường cạnh tranh hoàn hảo
 
@@ -78,9 +72,6 @@ Không có rào cản kỹ thuật hay pháp lý nào ngăn doanh nghiệp mới
 
 Cơ chế này giải thích tại sao trong thị trường gần hoàn hảo, không doanh nghiệp nào duy trì được lợi thế cạnh tranh lâu dài. Đây là cơ sở lý thuyết cho thị trường hiệu quả (Efficient Market Hypothesis) mà bạn sẽ gặp nhiều trong phân tích chứng khoán.
 
----
-
-
 ## TTCK Việt Nam có phải thị trường cạnh tranh hoàn hảo không?
 
 Sàn HOSE và HNX đáp ứng một số điều kiện của cạnh tranh hoàn hảo, nhưng không đủ để xếp vào loại này.
@@ -106,8 +97,6 @@ Nếu bạn có kỹ năng khai thác những kém hiệu quả đó, active man
 
 Đây là lý do nhiều nhà đầu tư kỳ cựu vẫn đầu tư thời gian học [phân tích cơ bản cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) thay vì chuyển hẳn sang passive. Thị trường không hoàn toàn hiệu quả, nhà đầu tư có kiến thức vẫn tạo được alpha. HVS Tài chính số, với lộ trình HVS Thực tập số, giúp bạn xây dựng đúng bộ kỹ năng phân tích đó, từ đọc báo cáo tài chính đến định giá cổ phiếu thực chiến.
 
----
-
 ## So sánh 4 cấu trúc thị trường — Bảng đầy đủ với ví dụ Việt Nam
 
 **Bốn cấu trúc thị trường** tạo thành một dải từ cạnh tranh hoàn hảo đến độc quyền thuần túy, và mỗi ngành Việt Nam rơi vào một điểm khác nhau trên dải này.
@@ -129,8 +118,6 @@ Ngân hàng Việt Nam là ví dụ thú vị để phân tích. Về hình th�
 
 Ngành viễn thông cũng tương tự. Viettel chiếm khoảng 60% thị phần di động, Mobifone và Vinaphone chia phần còn lại. Ba nhà mạng không cạnh tranh về giá triệt để, đặc trưng của oligopoly. Nhà đầu tư phân tích đúng cấu trúc này hiểu ngay tại sao biên lợi nhuận ngành viễn thông ổn định hơn bán lẻ.
 
----
-
 ## Ưu và nhược điểm của thị trường cạnh tranh hoàn hảo
 
 **Thị trường cạnh tranh hoàn hảo tối ưu hóa lợi ích xã hội về mặt lý thuyết**, nhưng đi kèm những nhược điểm quan trọng trong thực tế.
@@ -150,9 +137,6 @@ Ngành viễn thông cũng tương tự. Viettel chiếm khoảng 60% thị ph�
 **Không tạo ra đa dạng sản phẩm.** Người tiêu dùng muốn lựa chọn, nhưng thị trường hoàn hảo chỉ có một loại sản phẩm đồng nhất.
 
 **Thất bại thị trường (market failure) dễ xảy ra.** Khi thông tin thực tế không hoàn hảo (như mọi thị trường thực), cơ chế giá không còn hoạt động đúng. Thông tin bất cân xứng dẫn đến lựa chọn bất lợi (adverse selection) và rủi ro đạo đức (moral hazard), hai khái niệm bạn sẽ thấy nhiều trong phân tích ngành bảo hiểm và ngân hàng.
-
-
----
 
 ## Câu hỏi thường gặp
 

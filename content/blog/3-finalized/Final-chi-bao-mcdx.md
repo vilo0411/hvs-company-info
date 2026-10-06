@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie / Nhà đầu tư F0
 Target_Keyword: chỉ báo mcdx
 Search_Intent: Informational
@@ -105,11 +105,8 @@ Bảng đối chiếu cạm bẫy tâm lý F0 và tư duy quản trị chuyên n
 
 Để rèn luyện kỷ luật giao dịch và làm chủ bộ công cụ kỹ thuật thực chiến, nhà đầu tư nên đăng ký tham gia chương trình **HVS Thực tập số** (thuộc **HVS Tài chính số**) nhằm nâng tầm bản lĩnh đầu tư bền vững.
 
----
-
 ## Revision Log
 - 2026-09-14: Khởi tạo Outline bài viết "Chỉ báo MCDX là gì" chuẩn SEO Express Mode.
 - 2026-09-14: Hoàn thành Draft bài viết, tích hợp xác minh thuật toán kỹ thuật, bảng tỷ lệ dải màu và internal links từ sitemap.
 - 2026-09-14: Tối ưu phần Kết luận sang cấu trúc "Đối chiếu cạm bẫy F0 vs Tư duy quản trị HVS" theo yêu cầu từ User, loại bỏ hoàn toàn dạng checklist rập khuôn.
-
 

@@ -1,8 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
 Pipeline_Mode: Express
-Mode: Detailed
 Persona: HVS Senior Mentor
 Target_Keyword: Có nên mua cổ phiếu ACV
 Secondary_Keywords: định giá cổ phiếu ACV, tiềm năng cổ phiếu ACV, rủi ro cổ phiếu ACV, cách mua cổ phiếu ACV, cổ phiếu ACV là gì

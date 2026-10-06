@@ -91,8 +91,6 @@ Nhiều nhà đầu tư F0 tự mua cổ phiếu theo tin đồn trên các hộ
 
 Bên cạnh kiến thức lý thuyết, bạn có thể sử dụng công cụ **HVS Demo** để tập thiết kế danh mục, đặt lệnh mô phỏng không rủi ro trước khi dùng tiền thật giao dịch trên sàn HOSE. Đồng thời, bạn có thể thảo luận và nhận tư vấn trực tiếp từ các Mentor giàu kinh nghiệm tại cộng đồng **HVS Forum** để nhanh chóng nâng cao kỹ năng thực chiến của mình.
 
----
-
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-04):** Khởi tạo outline bởi Antigravity dựa trên phân tích cấu trúc đối thủ hàng đầu trên SERP.
 - **v1.1 (2026-06-08):** Tối ưu hóa cấu trúc outline dựa trên dữ liệu đối chiếu từ Timo.vn. Loại bỏ từ cấm "cốt lõi" ở các tiêu đề và nội dung. Bổ sung các thông số thực tế về quy mô vốn tối thiểu (100 cổ phiếu vs 10.000đ/2.000.000đ) và chi tiết cơ cấu phí của chứng chỉ quỹ (phí quản lý, phí mua/bán, phí giám sát). Làm rõ sơ đồ sản phẩm HVS theo đúng phân cấp glossary.

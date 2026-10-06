@@ -1,7 +1,7 @@
 ---
 Author: HVS Senior Mentor
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: F1+ & Nhà đầu tư cá nhân
 Target_Keyword: giao dịch nội gián
 Search_Intent: Informational

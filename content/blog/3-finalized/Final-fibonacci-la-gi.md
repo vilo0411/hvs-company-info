@@ -148,8 +148,6 @@ Kết hợp Fibonacci với quản trị vốn chặt chẽ và các công cụ 
 
 HVS hỗ trợ bạn nâng cao năng lực phân tích kỹ thuật thực chiến để đạt kết quả giao dịch tốt.
 
----
-
 ## 4. Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-25):** Khởi tạo outline cho từ khóa "Fibonacci là gì" thuộc Cluster Phân tích kỹ thuật theo yêu cầu viết bài mới.
 - **v1.1 (2026-06-29):** Tối ưu hóa cấu trúc outline dựa trên phân tích đối thủ cạnh tranh Vietcap: Mở rộng phân loại thành 4 loại công cụ Fibonacci chi tiết (Retracement, Extension, Fan, Time Zones) dưới dạng các H3; làm rõ cơ chế tâm lý đám đông ("lời tiên tri tự ứng nghiệm") và liên kết với lý thuyết sóng Elliott; bổ sung hướng dẫn chi tiết cách vẽ Fibonacci mở rộng chốt lời; tích hợp các hạn chế về tính chủ quan và cách khắc phục; chuẩn hóa tiêu đề Kết luận thành H2 đơn giản; cập nhật HVS product bridge đồng bộ cấu trúc nền tảng và lộ trình đào tạo TA LV1. Nâng tổng số từ mục tiêu lên 1900 từ.

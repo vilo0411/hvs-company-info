@@ -32,8 +32,6 @@ Avoid_Mistakes:
 
 Chỉ số CAPEX là gì và tại sao việc theo dõi chi phí vốn lại quyết định sự sống còn đối với năng lực tăng trưởng dài hạn của doanh nghiệp? Đối với nhà đầu tư chứng khoán, việc bóc tách khoản chi tiêu tài sản cố định giúp bạn phân biệt được doanh nghiệp đang mở rộng sản xuất thực chất với doanh nghiệp chỉ đang khấu hao tài sản cũ mòn. Bài viết này từ HVS sẽ phân tích chi tiết công thức tính CAPEX, phân biệt với OPEX và cách dùng CAPEX định giá cổ phiếu thực chiến.
 
----
-
 ## CAPEX là gì? Định nghĩa chi phí vốn
 
 CAPEX (Capital Expenditure) là **chi phí vốn hoặc chi phí đầu tư tài sản cố định, phản ánh số tiền doanh nghiệp chi ra để mua sắm, nâng cấp hoặc bảo trì tài sản cố định nhằm phục vụ sản xuất kinh doanh dài hạn**. Đây là các khoản chi tiêu dài hạn của doanh nghiệp để mua sắm các tài sản có thời hạn sử dụng trên 1 năm. Tài sản này bao gồm nhà xưởng, máy móc thiết bị, phương tiện vận tải hoặc bản quyền công nghệ.
@@ -45,8 +43,6 @@ Chi phí vốn đóng vai trò là động lực chính thúc đẩy sự phát 
 Về bản chất, chi phí vốn được phân chia thành hai nhóm chính dựa trên mục đích đầu tư thực tế:
 *   CAPEX phát triển: Số tiền chi ra để xây dựng thêm nhà xưởng mới, mua sắm máy móc mới nhằm gia tăng công suất thiết kế hoặc mở rộng thị phần. Nhóm chi phí này trực tiếp tạo ra tiềm năng tăng trưởng doanh thu và lợi nhuận thuần trong tương lai cho doanh nghiệp.
 *   CAPEX duy trì: Số tiền chi ra để bảo dưỡng định kỳ, nâng cấp sửa chữa nhỏ hoặc thay thế các bộ phận đã hao mòn của hệ thống máy móc thiết bị hiện hữu. Nhóm chi phí này không tạo ra công suất mới mà chỉ giúp doanh nghiệp duy trì năng lực sản xuất kinh doanh ổn định như ban đầu.
-
----
 
 ## Phân biệt chi tiết CAPEX và OPEX: Điểm khác biệt mấu chốt
 
@@ -67,8 +63,6 @@ Bảng so sánh chi tiết dưới đây chỉ ra các điểm khác biệt cố
 Mỗi loại hình doanh nghiệp có tỷ lệ phân bổ CAPEX và OPEX hoàn toàn khác biệt tùy thuộc vào mô hình kinh doanh. Các công ty viễn thông hoặc năng lượng thường yêu cầu lượng CAPEX khổng lồ ban đầu để xây dựng mạng lưới trạm thu phát trước khi có thể tạo ra doanh thu. Trong khi đó, các công ty dịch vụ phần mềm lại tập trung phần lớn ngân sách vào OPEX để trả lương cho kỹ sư và chạy các chiến dịch tiếp thị tìm kiếm khách hàng mới.
 
 Nhà đầu tư cần đặc biệt cảnh giác với hành vi gian lận kế toán qua việc chuyển đổi sai lệch bản chất chi phí. Vụ gian lận tài chính của WorldCom vào năm 2002 là ví dụ điển hình, khi ban lãnh đạo đã cố tình vốn hóa hơn 3,8 tỷ USD chi phí vận hành (OPEX) thành chi phí đầu tư tài sản (CAPEX) nhằm che giấu khoản lỗ hoạt động thực tế và thổi phồng lợi nhuận trên báo cáo công bố.
-
----
 
 ## Công thức tính CAPEX từ các Báo cáo tài chính
 
@@ -94,8 +88,6 @@ Ví dụ thực tế giả định:
 
 > **Năm 2025, doanh nghiệp A có giá trị ròng của tài sản cố định ghi nhận trên bảng cân đối kế toán là 500 tỷ đồng. Sang năm 2026, con số này tăng lên mức 620 tỷ đồng. Chi phí khấu hao tài sản cố định trích lập trong năm 2026 của doanh nghiệp là 80 tỷ đồng. Áp dụng công thức trên, chi phí vốn CAPEX năm 2026 của doanh nghiệp A được tính toán cụ thể là: 620 - 500 + 80 = 200 tỷ đồng. Điều này chỉ ra doanh nghiệp A đã thực chi 200 tỷ đồng để đầu tư mua sắm tài sản cố định mới trong năm 2026.**
 
----
-
 ## Ứng dụng chỉ số CAPEX trong định giá cổ phiếu và dòng tiền tự do
 
 Việc phân tích chỉ số CAPEX giúp nhà đầu tư nhận diện chất lượng dòng tiền và đánh giá chính xác giá trị thực tế của doanh nghiệp. Chỉ số này là biến số đầu vào cốt lõi để tính toán Dòng tiền tự do cho doanh nghiệp (Free Cash Flow - FCF).
@@ -114,8 +106,6 @@ Chúng ta hãy so sánh hai mô hình kinh doanh có đặc tính sử dụng CA
 *   Mô hình thâm dụng vốn lớn (như Hòa Phát - HPG): HPG liên tục phải chi hàng chục nghìn tỷ đồng CAPEX để xây dựng dự án lò cao Dung Quất. Trong giai đoạn đầu tư, dòng tiền FCF của HPG thường xuyên âm lớn và lợi nhuận được giữ lại hoàn toàn để tài trợ dự án. Nhà đầu tư cần đánh giá hiệu quả kinh doanh dựa trên [ebitda là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ebitda-la-gi) để loại bỏ ảnh hưởng chi phí khấu hao khổng lồ khi lò cao mới đi vào vận hành, kết hợp giám sát chặt chẽ [vòng quay hàng tồn kho là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/vong-quay-hang-ton-kho-la-gi) để đảm bảo hiệu quả tiêu thụ hàng hóa.
 *   Mô hình ít thâm dụng vốn (như FPT): Doanh nghiệp công nghệ này có nhu cầu CAPEX hàng năm rất thấp do tài sản tạo giá trị chủ yếu là chất xám. Dòng tiền hoạt động dồi dào nhanh chóng chuyển hóa thành dòng tiền tự do FCF dương lớn qua các năm. FPT có thể duy trì tỷ lệ chi trả cổ tức tiền mặt cao và đều đặn cho cổ đông mà vẫn bảo đảm đủ vốn tăng trưởng hàng năm mà không chịu áp lực lãi vay ngân hàng.
 
----
-
 ## Vượt qua rào cản phân tích chi phí vốn doanh nghiệp cùng HVS Tài chính số
 
 Nhà đầu tư cá nhân nhanh chóng vượt qua các rào cản phân tích kỹ thuật và đọc hiểu báo cáo tài chính nhờ sự đồng hành của HVS. Nhiều bạn mới tham gia thị trường (F0) thường gặp khó khăn lớn khi bóc tách các khoản chi phí đầu tư tài sản dở dang dầm dề trên báo cáo kiểm toán, dẫn đến việc đánh giá sai lệch năng lực sinh lời của doanh nghiệp và đưa ra quyết định giao dịch theo tin đồn cảm tính.
@@ -126,13 +116,9 @@ Học viên tham gia khóa học được cung cấp công cụ giả lập củ
 
 Bên cạnh đó, mọi khó khăn trong quá trình tính toán và phân tích các chỉ tiêu tài chính sẽ được tháo gỡ trực tiếp nhờ sự hỗ trợ đắc lực từ đội ngũ Mentor giàu kinh nghiệm thực chiến và cộng đồng trao đổi học tập tại **HVS Forum**. Sự kết hợp chặt chẽ giữa kiến thức thực tế và công cụ giả lập giúp bạn tự tin đưa ra các nhận định đầu tư an toàn và hiệu quả dựa trên giá trị nội tại thực chất của doanh nghiệp.
 
----
-
 ## Kết luận
 
 Làm chủ chỉ số CAPEX là chìa khóa quan trọng giúp nhà đầu tư nhìn thấu thực lực tài chính và triển vọng phát triển dài hạn của doanh nghiệp. Việc bóc tách chi tiết chi phí vốn giúp bạn phân biệt doanh nghiệp tăng trưởng chất lượng cao với doanh nghiệp chìm trong bẫy thâm dụng vốn kém hiệu quả. Đồng hành cùng HVS giúp bạn làm chủ kỹ năng phân tích báo cáo tài chính chuyên nghiệp và nâng cao hiệu quả các quyết định đầu tư thực chiến trên thị trường tài chính.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-08-07):** Khởi tạo outline cho từ khóa "capex là gì" theo yêu cầu viết bài trong sprint backlog.

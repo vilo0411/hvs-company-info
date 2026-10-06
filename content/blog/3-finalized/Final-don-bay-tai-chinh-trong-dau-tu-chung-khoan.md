@@ -2,7 +2,7 @@
 Author: Antigravity
 aliases: ["đòn bẩy tài chính trong đầu tư chứng khoán"]
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: F1+
 Target_Keyword: đòn bẩy tài chính trong đầu tư chứng khoán
 Secondary_Keywords: ["giao dịch ký quỹ", "margin chứng khoán", "lãi suất margin"]

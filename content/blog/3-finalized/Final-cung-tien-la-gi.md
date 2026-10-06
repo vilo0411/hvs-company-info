@@ -2,7 +2,7 @@
 Author: Antigravity
 aliases: ["cung tiền là gì"]
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Lan Newbie
 Target_Keyword: cung tiền là gì
 Secondary_Keywords: tổng phương tiện thanh toán, tiền cơ sở, khối tiền tệ, cung tiền M2, số nhân tiền
@@ -19,8 +19,6 @@ Meta_Description: Cung tiền là gì? Phân loại các khối tiền MB, M1, M
 # Cung tiền là gì? Phân loại, yếu tố tác động và ứng dụng đầu tư vĩ mô
 
 Cung tiền là chỉ báo vĩ mô quan trọng phản ánh tổng lượng tiền tệ lưu thông trong nền kinh tế nhằm đáp ứng nhu cầu giao dịch, thanh toán và đầu tư của cá nhân, doanh nghiệp. Hiểu rõ cung tiền giúp bạn chủ động nhận diện xu hướng dịch chuyển của dòng vốn lớn điều hành qua [chính sách tiền tệ](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/chinh-sach-tien-te-la-gi) của [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/ngan-hang-nha-nuoc-la-gi). Bài viết này của HVS phân tích định nghĩa pháp lý, cách phân loại các khối tiền tệ, các công cụ tác động của ngân hàng trung ương và phương pháp ứng dụng số liệu cung tiền vào phân tích đầu tư chứng khoán thực chiến.
-
----
 
 ## Theo dõi dòng chảy cung tiền M2 cùng HVS
 

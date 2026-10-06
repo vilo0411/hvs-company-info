@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: Lan Newbie / Nhà đầu tư F0
 Target_Keyword: ủy thác đầu tư chứng khoán
 Search_Intent: Informational
@@ -24,7 +24,7 @@ Bản chất của hoạt động này tuân theo nguyên tắc "lời ăn lỗ 
 - Nếu thị trường tăng trưởng, lợi nhuận sau khi trừ phí quản lý sẽ thuộc về nhà đầu tư.
 - Nếu thị trường suy giảm khiến giá trị tài sản ròng (NAV) sụt giảm, nhà đầu tư gánh chịu hoàn toàn khoản lỗ này mà bên nhận ủy thác không có nghĩa vụ đền bù.
 
-Khác với dịch vụ [tư vấn chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-tu-van-chung-khoan-la-gi.md) nơi chuyên gia chỉ đưa ra khuyến nghị để bạn tự đặt lệnh, bên nhận ủy thác có toàn quyền chủ động giao dịch trên tài khoản theo hợp đồng đã ký.
+Khác với dịch vụ [tư vấn chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tu-van-chung-khoan-la-gi) nơi chuyên gia chỉ đưa ra khuyến nghị để bạn tự đặt lệnh, bên nhận ủy thác có toàn quyền chủ động giao dịch trên tài khoản theo hợp đồng đã ký.
 
 ## Quy định pháp luật Việt Nam về hoạt động ủy thác đầu tư
 
@@ -44,7 +44,7 @@ Mọi hợp đồng hợp tác kinh doanh hoặc thỏa thuận giao vốn ký v
 Dựa vào quy mô vốn và cơ chế quản lý, ủy thác đầu tư chứng khoán gồm 2 hình thức chính:
 
 - **Ủy thác trực tiếp (Quản lý danh mục cá thể hóa):** Bên nhận ủy thác thiết kế danh mục riêng theo khẩu vị rủi ro từng khách hàng. Hình thức này yêu cầu vốn tối thiểu lớn (từ 1 tỷ đồng trở lên), phù hợp với nhà đầu tư có tài sản ròng cao.
-- **Ủy thác gián tiếp (Đầu tư qua Quỹ mở hoặc Quỹ ETF):** Nhà đầu tư mua [chứng chỉ quỹ](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-chung-chi-quy-la-gi.md) để góp vốn vào quỹ chung. Ban điều hành quỹ sử dụng dòng tiền này để đầu tư vào các mã niêm yết lớn như VCB, HPG, FPT. Đây là lựa chọn tối ưu cho nhà đầu tư vốn nhỏ muốn đa dạng hóa rủi ro.
+- **Ủy thác gián tiếp (Đầu tư qua Quỹ mở hoặc Quỹ ETF):** Nhà đầu tư mua [chứng chỉ quỹ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-quy-la-gi) để góp vốn vào quỹ chung. Ban điều hành quỹ sử dụng dòng tiền này để đầu tư vào các mã niêm yết lớn như VCB, HPG, FPT. Đây là lựa chọn tối ưu cho nhà đầu tư vốn nhỏ muốn đa dạng hóa rủi ro.
 
 Dưới đây là bảng đối chiếu chi tiết giữa 2 hình thức ủy thác:
 
@@ -60,7 +60,7 @@ Dưới đây là bảng đối chiếu chi tiết giữa 2 hình thức ủy th
 Dù ủy thác mang lại sự tiện lợi, nhà đầu tư cần hết sức cảnh giác trước 3 rủi ro cốt lõi đến từ các hình thức ủy thác chui biến tướng:
 
 - **Bẫy cam kết lợi nhuận cố định 20-30%/năm:** Nhiều tổ chức tự xưng hoặc nhóm giao dịch quảng cáo gói ủy thác cam kết sinh lời cố định hàng tháng bất kể biến động thị trường. Thực chất đây là mô hình đa cấp Ponzi lấy tiền người sau trả cho người trước. Khi dòng tiền mới đứt gãy, hệ thống sụp đổ và nhà đầu tư mất trắng số tiền đã gửi.
-- **Rủi ro ủy thác cho môi giới cá nhân đánh hộ:** Việc giao mật khẩu tài khoản và mã OTP cho cá nhân làm [môi giới chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-moi-gioi-chung-khoan-la-gi.md) tự do đánh hộ rất dễ dẫn đến rủi ro đạo đức nghiêm trọng. Môi giới có thể cố tình lướt sóng liên tục để quay phí giao dịch (churning) lấy hoa hồng, hoặc lạm dụng đòn bẩy margin quá đà gây cháy tài khoản.
+- **Rủi ro ủy thác cho môi giới cá nhân đánh hộ:** Việc giao mật khẩu tài khoản và mã OTP cho cá nhân làm [môi giới chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/moi-gioi-chung-khoan-la-gi) tự do đánh hộ rất dễ dẫn đến rủi ro đạo đức nghiêm trọng. Môi giới có thể cố tình lướt sóng liên tục để quay phí giao dịch (churning) lấy hoa hồng, hoặc lạm dụng đòn bẩy margin quá đà gây cháy tài khoản.
 - **Mất trắng quyền trợ giúp pháp lý khi phát sinh tranh chấp:** Các hợp đồng ủy thác ký kết với cá nhân hoặc công ty không được UBCKNN cấp phép đều vi phạm điều cấm của pháp luật. Khi bên nhận ủy thác thua lỗ lớn hoặc cố tình chiếm đoạt tài sản, cơ quan quản lý nhà nước không thể can thiệp hỗ trợ thu hồi vốn do giao dịch nằm ngoài hệ thống.
 
 ## Chủ động bảo vệ tài sản và xây dựng năng lực đầu tư tại HVS
@@ -69,7 +69,7 @@ Thay vì phó thác tiền vốn cho người khác và lo sợ rủi ro lừa �
 
 Hệ sinh thái HVS cung cấp môi trường rèn luyện bài bản giúp bạn tự chủ tài chính:
 
-- **HVS Thực tập số:** Chương trình đào tạo thực chiến trọng tâm nằm trong hệ thống HVS Tài chính số. Thông qua các môn học phân tích báo cáo tài chính và định giá doanh nghiệp, bạn sẽ nắm vững tư duy [quản lý danh mục đầu tư](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-quan-ly-danh-muc-dau-tu-chung-khoan.md) độc lập mà không cần phụ thuộc vào bất kỳ bên tư vấn hay ủy thác nào.
+- **HVS Thực tập số:** Chương trình đào tạo thực chiến trọng tâm nằm trong hệ thống HVS Tài chính số. Thông qua các môn học phân tích báo cáo tài chính và định giá doanh nghiệp, bạn sẽ nắm vững tư duy [quản lý danh mục đầu tư](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quan-ly-danh-muc-dau-tu-chung-khoan) độc lập mà không cần phụ thuộc vào bất kỳ bên tư vấn hay ủy thác nào.
 - **HVS Demo:** Công cụ giao dịch mô phỏng cho phép áp dụng phương pháp quản trị rủi ro trên dữ liệu giá thời gian thực. Bạn được rèn luyện kỹ năng đi lệnh, cắt lỗ và phân bổ vốn hoàn toàn miễn phí trước khi đầu tư tiền thật.
 - **HVS Forum:** Cộng đồng thảo luận kết nối người mới với các Mentor kinh nghiệm, hỗ trợ kiểm chứng tính hợp pháp của các tổ chức tài chính và cập nhật cảnh báo cạm bẫy ủy thác chui.
 
@@ -84,8 +84,6 @@ Hệ sinh thái HVS cung cấp môi trường rèn luyện bài bản giúp bạ
 3. **Bảo mật tài khoản:** Không bao giờ cung cấp mật khẩu đặt lệnh và mã OTP cá nhân cho bất kỳ nhân viên môi giới hay cá nhân tự xưng nào.
 
 Đồng hành cùng HVS, bạn sẽ được trang bị nền tảng tri thức thực chiến vững chắc để tự tin đưa ra quyết định đầu tư sáng suốt, chủ động bảo vệ và gia tăng tài sản bền vững theo thời gian.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-09-03):** Khởi tạo Outline cho bài viết "Ủy thác đầu tư chứng khoán là gì" theo Express Mode, tích hợp dữ liệu SERP, làm rõ khung pháp lý Luật Chứng khoán 2019 / Thông tư 121/2020/TT-BTC và xây dựng lồng ghép hệ sinh thái HVS.

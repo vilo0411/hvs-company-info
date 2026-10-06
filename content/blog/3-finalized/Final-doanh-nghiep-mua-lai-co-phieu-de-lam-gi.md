@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Claude Code
 Status: Finalized
 Pipeline_Mode: Express
@@ -42,9 +42,7 @@ Direct_Answer_Targets:
     type: "Definition / Direct Answer"
     bold_target: "mua lại cổ phiếu (share repurchase/buyback)"
 Writing_Method: PAS
-HVS_Products:
-  - product: "HVS Tài chính số"
-    benefit: "Phân tích các sự kiện doanh nghiệp như buyback, ESOP, chia cổ tức, là kỹ năng thực chiến được đào tạo trong môn Phân tích cơ bản thuộc chương trình HVS Thực tập số"
+HVS_Products: ["HVS Tài chính số"]
 Cluster: Phân tích cơ bản
 Cluster_Role: Cluster
 Internal_Links:

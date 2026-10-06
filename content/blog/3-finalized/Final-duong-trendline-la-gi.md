@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie / Nhà đầu tư F0
 Target_Keyword: Đường Trendline là gì
 Search_Intent: Informational
@@ -15,8 +15,6 @@ Nhiều nhà đầu tư mới tham gia thị trường chứng khoán thường 
 
 Đường Trendline (đường xu hướng) chính là "kim chỉ nam" cơ bản nhưng mạnh mẽ nhất trong [phân tích kỹ thuật](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tai-sao-dung-phan-tich-ky-thuat-trong-dau-tu-chung-khoan). Việc nhận diện và vẽ chuẩn Trendline giúp bạn xác định rõ cấu trúc vận động của giá, từ đó chọn điểm mua an toàn và thiết lập mốc cắt lỗ kỷ luật. Trong bài viết này, HVS sẽ hướng dẫn bạn toàn bộ bản chất, kỹ thuật vẽ chuẩn xác và chiến lược giao dịch phá vỡ thực chiến trên thị trường chứng khoán Việt Nam.
 
----
-
 ## 1. Đường Trendline là gì? Bản chất & 3 dạng đường xu hướng cơ bản
 
 Đường Trendline (đường xu hướng) là một đường thẳng được nối giữa hai hoặc nhiều điểm cực trị (đỉnh hoặc đáy) trên đồ thị giá, phản ánh hướng di chuyển chủ đạo của cổ phiếu hoặc chỉ số trong một khoảng thời gian nhất định.
@@ -28,8 +26,6 @@ Dựa trên cấu trúc đỉnh đáy của giá, Trendline được chia làm 3
 * **Đường xu hướng tăng (Uptrend Line):** Được vẽ bằng cách nối các đáy sau cao hơn đáy trước (Higher Lows - HL). Đường thẳng này nằm bên dưới giá và đóng vai trò như ngưỡng hỗ trợ động. Mỗi khi giá cổ phiếu (ví dụ như mã HPG hay VCB) điều chỉnh giảm chạm về đường này, lực cầu bắt đáy của nhà đầu tư lại xuất hiện để đẩy giá tiếp tục đi lên.
 * **Đường xu hướng giảm (Downtrend Line):** Được vẽ bằng cách nối các đỉnh sau thấp hơn đỉnh trước (Lower Highs - LH). Đường thẳng này nằm bên trên giá, đóng vai trò như ngưỡng kháng cự động. Khi giá hồi phục chạm về Trendline giảm, áp lực bán chốt lời hoặc cắt lỗ của lượng hàng kẹp đỉnh lại đẩy giá tiếp tục đi xuống.
 * **Đường xu hướng đi ngang (Sideway Line):** Xảy ra khi thị trường chưa rõ xu hướng, giá dao động tích lũy trong một biên độ hộp chữ nhật. Lúc này hai đường Trendline song song đóng vai trò biên trên (kháng cự) và biên dưới (hỗ trợ) của vùng tích lũy.
-
----
 
 ## 2. Hướng dẫn cách vẽ đường Trendline chuẩn xác trên biểu đồ
 
@@ -52,8 +48,6 @@ Trong biểu đồ nến Nhật, râu nến thể hiện biên độ biến đ�
 | **Lý tưởng (30 - 45 độ)** | Cán cân cung cầu duy trì ổn định, dòng tiền lớn tham gia đều đặn. | Trendline có độ bền cao nhất, duy trì sóng tăng/giảm trung hạn vững chắc. |
 | **Quá thoải (< 20 độ)** | Động lượng giá yếu, xu hướng không rõ ràng, lực cầu tham gia thận trọng. | Dễ bị phá vỡ giả (fakeout), độ tin cậy cho giao dịch kỹ thuật thấp. |
 
----
-
 ## 3. Chiến lược giao dịch chứng khoán với đường Trendline
 
 Trong thực chiến đầu tư chứng khoán tại Việt Nam, đường Trendline cung cấp hai chiến lược giao dịch chính: giao dịch theo nhịp bật tăng (Bounce) và giao dịch theo tín hiệu phá vỡ (Breakout).
@@ -74,8 +68,6 @@ Do thị trường Việt Nam áp dụng quy tắc T+2.5 (cổ phiếu mua hôm 
 * **Bước 2 — Kiên nhẫn chờ nhịp Retest:** Sau khi phá vỡ, giá thường có xu hướng quay lại kiểm tra (retest) đường Trendline vừa bị vượt qua. Lúc này, đường Trendline giảm cũ trở thành đường hỗ trợ mới.
 * **Bước 3 — Vào lệnh an toàn:** Canh mua khi giá quay lại retest Trendline thành công với khối lượng sụt giảm (cho thấy áp lực bán đã cạn kiệt) và xuất hiện nến rút chân tăng giá trở lại. Đặt điểm chốt lời tại các đỉnh cũ gần nhất và cắt lỗ khi giá đóng cửa đâm thủng lại xuống dưới Trendline.
 
----
-
 ## 4. 3 Bẫy sai lầm phổ biến & cách quản trị rủi ro với Trendline
 
 Dù là công cụ phân tích kinh điển, việc sử dụng Trendline máy móc vẫn có thể khiến nhà đầu tư gánh chịu thua lỗ. Dưới đây là 3 bẫy phổ biến và giải pháp khắc phục:
@@ -95,8 +87,6 @@ Trendline cho bạn biết hướng đi của giá nhưng không đo lường đ
 
 * **Giải pháp:** Tích hợp Trendline với các công cụ chỉ báo kỹ thuật khác. Kết hợp [đường trung bình động MA](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/huong-dan-su-dung-duong-ma-trong-chung-khoan) để xác nhận xu hướng dài hạn, hoặc đối chiếu với [chỉ báo RSI](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-bao-rsi-la-gi-cach-su-dung-don-gian-trong-chung-khoan) để phát hiện tín hiệu phân kỳ đảo chiều tại các vùng giá cực trị.
 
----
-
 ## 5. Phương pháp rèn luyện kỹ năng đọc xu hướng cùng HVS
 
 Nhiều nhà đầu tư F0 khi mới học phân tích kỹ thuật thường hoang mang trước hàng loạt đường kẻ chồng chất trên màn hình, vẽ mỗi ngày một kiểu và thiếu kỷ luật tuân thủ kế hoạch giao dịch. Điều này khiến quá trình đầu tư trở nên căng thẳng và rủi ro thua lỗ tài khoản thật luôn rình rập.
@@ -107,8 +97,6 @@ Nhiều nhà đầu tư F0 khi mới học phân tích kỹ thuật thường ho
 * **Công cụ HVS Demo:** Nền tảng giao dịch mô phỏng với dữ liệu thị trường real-time. Bạn có thể tự do thực hành tập vẽ đường xu hướng, thử nghiệm các chiến lược Breakout - Retest và kiểm chứng tỷ lệ thắng mà không phải chịu bất kỳ rủi ro mất tiền thật nào.
 * **Cộng đồng HVS Forum:** Diễn đàn trao đổi góc nhìn phân tích, nơi bạn có thể chia sẻ biểu đồ nến, tham khảo kịch bản xu hướng từ các Mentor kinh nghiệm của HVS và nhận xét trực tiếp để hoàn thiện kỹ năng mỗi ngày.
 
----
-
 ## 6. Kết luận: Tóm lược góc nhìn dòng tiền & Lộ trình kiểm soát rủi ro
 
 Đường Trendline là công cụ đơn giản nhưng vô cùng hiệu quả giúp nhà đầu tư cá nhân nhận biết cấu trúc thị trường, loại bỏ các quyết định mua bán cảm tính. Dù vậy, hãy luôn nhớ rằng Trendline là công cụ đo lường xác suất, không phải lời hứa đảm bảo chiến thắng 100%.
@@ -116,8 +104,6 @@ Nhiều nhà đầu tư F0 khi mới học phân tích kỹ thuật thường ho
 Để ứng dụng Trendline thành công trên thị trường chứng khoán Việt Nam, bạn cần ghi nhớ 3 nguyên tắc trọng yếu: luôn yêu cầu tối thiểu 3 điểm chạm để xác nhận đường xu hướng, bắt buộc kiên nhẫn chờ nhịp Retest kết hợp Volume bùng nổ khi giao dịch Breakout, và tuyệt đối tuân thủ mốc Stop-loss đã thiết lập.
 
 Hãy tiếp tục trau dồi năng lực phân tích kỹ thuật, thực hành trên tài khoản mô phỏng và xây dựng cho mình một hệ thống giao dịch chuẩn mực cùng sự đồng hành của **HVS**.
-
----
 
 ## Revision Log
 - 2026-09-15: Khởi tạo Outline bài viết "Đường Trendline là gì" (Mode Express, Persona Lan Newbie / F0).

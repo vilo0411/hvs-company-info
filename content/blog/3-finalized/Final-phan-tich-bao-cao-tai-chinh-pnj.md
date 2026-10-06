@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: Phân tích báo cáo tài chính PNJ
 Search_Intent: Informational
@@ -19,7 +19,7 @@ Kết quả hoạt động kinh doanh của PNJ trong nửa đầu năm 2026 ghi
 
 Tuy nhiên, bức tranh tài chính lập tức đảo chiều trong quý 2/2026. PNJ báo cáo khoản lỗ ròng kỷ lục gần 283 tỷ đồng, trong khi cùng kỳ năm 2025 ghi nhận mức lãi ròng 437 tỷ đồng. Đây là lần thứ hai trong lịch sử niêm yết PNJ ghi nhận một quý thua lỗ. Điểm đáng nói là doanh thu thuần của doanh nghiệp trong quý 2 vẫn đạt mức tăng trưởng dương 12% (đạt 8.484 tỷ đồng).
 
-Sự suy giảm lợi nhuận nghiêm trọng này khiến nhiều nhà đầu tư cá nhân lo ngại về triển vọng dài hạn của cổ phiếu PNJ. Trước khi đưa ra các quyết định giao dịch, bạn nên tham khảo phân tích đa chiều trong bài viết [có nên mua cổ phiếu pnj](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-nen-mua-co-phieu-pnj.md) để đánh giá đúng giá trị nội tại của doanh nghiệp. Việc xem xét kỹ lưỡng cấu trúc chi phí sẽ giúp bạn hiểu vì sao doanh thu tăng nhưng lợi nhuận lại âm.
+Sự suy giảm lợi nhuận nghiêm trọng này khiến nhiều nhà đầu tư cá nhân lo ngại về triển vọng dài hạn của cổ phiếu PNJ. Trước khi đưa ra các quyết định giao dịch, bạn nên tham khảo phân tích đa chiều trong bài viết [có nên mua cổ phiếu pnj](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pnj) để đánh giá đúng giá trị nội tại của doanh nghiệp. Việc xem xét kỹ lưỡng cấu trúc chi phí sẽ giúp bạn hiểu vì sao doanh thu tăng nhưng lợi nhuận lại âm.
 
 Sự tương phản này phản ánh rủi ro đặc thù của ngành bán lẻ trang sức cao cấp. Mặc dù nhu cầu tiêu dùng vàng miếng luôn duy trì ở mức cao, biên lợi nhuận của mảng này rất thấp. Trong khi đó, mảng trang sức kim cương mang lại biên lợi nhuận cao lại gặp biến cố bất thường về mặt chi phí vận hành, trực tiếp bẻ gãy đà tăng trưởng lợi nhuận của doanh nghiệp.
 

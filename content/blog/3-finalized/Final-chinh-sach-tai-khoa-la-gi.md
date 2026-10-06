@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Lan Newbie
 Target_Keyword: chính sách tài khóa là gì
 Search_Intent: Informational
@@ -12,8 +12,6 @@ Meta_Description: Tìm hiểu chính sách tài khóa là gì, các công cụ, 
 # Chính sách tài khóa là gì? Công cụ & kịch bản đầu tư vĩ mô
 
 Chính sách tài khóa là gì và tại sao mọi quyết định điều chỉnh thuế hay chi tiêu công của Chính phủ lại tác động trực tiếp đến danh mục đầu tư chứng khoán của bạn? Nắm vững cơ chế vận hành này giúp bạn chủ động giao dịch. Bài viết này từ HVS làm rõ khái niệm chính sách tài khóa là gì, các công cụ chính, cơ chế truyền dẫn vĩ mô cùng kịch bản phân tích thực chiến giúp bạn tối ưu hiệu suất đầu tư.
-
----
 
 ## Ứng dụng phân tích chính sách tài khóa cùng HVS
 
@@ -29,8 +27,6 @@ Hệ sinh thái **HVS Tài chính số** giúp bạn kết nối lý thuyết t�
 Thấu hiểu bản chất chính sách tài khóa là gì giúp bạn tự tin xây dựng chiến lược giao dịch chứng khoán an toàn và bền vững. Việc theo dõi sát sao tiến độ giải ngân đầu tư công và các đợt điều chỉnh thuế của Chính phủ là chìa khóa để nhận diện sớm các cơ hội đầu tư thực chất. Hãy đồng hành cùng **HVS** để hoàn thiện tư duy phân tích vĩ mô và tối ưu hóa hiệu quả danh mục đầu tư của bản thân.
 
 **Tuyên bố miễn trừ trách nhiệm: Mọi phân tích vĩ mô và thông tin về các mã cổ phiếu được đề cập trong bài viết chỉ mang tính chất tham khảo phục vụ hoạt động đào tạo tại HVS. Nội dung này không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán trên thị trường chứng khoán thực tế.**
-
----
 
 ## Revision Log
 

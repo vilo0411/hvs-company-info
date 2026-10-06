@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Claude Code
 Status: Finalized
 Pipeline_Mode: Express
@@ -14,13 +14,7 @@ Search_Intent: Informational
 Content_Type: Educational / Explainer
 Featured_Snippet: Paragraph
 Word_Count_Target: 1650
-HVS_Products:
-  - product: HVS Tài chính số
-    benefit: "Nền tảng đào tạo đầu tư với lộ trình FA/TA Level 1 giúp nhà đầu tư hiểu định giá cổ phiếu từ gốc"
-  - product: HVS Demo
-    benefit: "Thực hành đặt lệnh mua bán ảo theo thời gian thực, không rủi ro vốn"
-  - product: HVS Forum
-    benefit: "Cộng đồng học viên chia sẻ kinh nghiệm phân tích biến động thị giá theo từng mã cụ thể"
+HVS_Products: ["HVS Tài chính số", "HVS Demo", "HVS Forum"]
 Anti_AI_Flags: "Định hình phương pháp, Hành trình, Giải mã"
 Internal_Links:
   - role: Pillar

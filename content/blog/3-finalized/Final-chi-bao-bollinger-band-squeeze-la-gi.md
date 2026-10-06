@@ -31,8 +31,6 @@ Internal_Links:
 
 Khi quan sát đồ thị phân tích kỹ thuật, nhiều nhà đầu tư F0 thấy dải băng thu hẹp cực đại quanh thân nến nhưng chưa rõ hiện tượng này báo hiệu điều gì. Đó chính là trạng thái nén biến động giá đặc trưng trong giao dịch. **Chỉ báo Bollinger Band Squeeze** (mô hình nút thắt cổ chai) phản ánh giai đoạn thị trường tích lũy nguồn lực trước khi phát đợt bùng nổ xu hướng mới. Tại HVS, chúng tôi giúp bạn hiểu rõ bản chất "lò xo nén" này để giao dịch an toàn và tối ưu điểm vào lệnh.
 
----
-
 ## Chỉ báo Bollinger Band Squeeze là gì? Nguyên lý nén biến động trên thị trường
 
 **Chỉ báo Bollinger Band Squeeze (nút thắt cổ chai) là trạng thái hai dải biên (dải trên và dải dưới) của chỉ báo Bollinger Bands co thắt lại gần nhau ở mức tối đa**, phản ánh thị trường đang ở giai đoạn biến động cực thấp và chuẩn bị phát tín hiệu bứt phá giá mạnh mẽ.
@@ -45,8 +43,6 @@ Nhà phát minh John Bollinger thiết lập [chỉ báo Bollinger Bands](Final-
 Nguyên lý cốt lõi của hiện tượng này vận hành theo chu kỳ biến động dòng tiền: **Sau giai đoạn biến động thấp (Low Volatility) luôn là giai đoạn biến động cao (High Volatility)**. Khi biên độ mua bán thu hẹp dần, cung cầu đạt cân bằng tĩnh. Hai dải ngoài ép chặt lấy SMA 20 như chiếc lò xo bị nén hết cỡ. Khoảng không gian dao động bị bóp nghẹp chính là tiền đề bùng nổ lực đẩy khi lò xo được giải phóng.
 
 Ví dụ thực tế trên sàn HOSE với cổ phiếu HPG: Trong 15 phiên tích lũy, biên độ dao động HPG thu hẹp quanh mốc 27.000 VNĐ. Hai dải băng khép chặt tạo hình thắt nút cổ chai trước khi bùng nổ đợt tăng giá mạnh lên mốc 30.000 VNĐ.
-
----
 
 ## Nhận diện tín hiệu Bollinger Band Squeeze trên biểu đồ chứng khoán
 
@@ -63,24 +59,20 @@ Ví dụ thực tế trên sàn HOSE với cổ phiếu HPG: Trong 15 phiên tí
 
 Sai lầm phổ biến nhất của nhà đầu tư F0 là **vội vàng đặt lệnh vì lầm tưởng Squeeze tự dự báo hướng đi của giá**. Bản chất hiện tượng này chỉ cảnh báo biến động mạnh sắp diễn ra, hoàn toàn không khẳng định giá sẽ bung lên hay bung xuống. Cố đoán hướng khi dải nén chặt thường khiến bạn bị kẹt vốn hoặc thua lỗ khi giá đi ngược kỳ vọng.
 
----
-
 ## 3 bước giao dịch thực chiến với chiến lược Nút thắt cổ chai
 
 Để khai thác cơ hội bứt phá từ trạng thái nén biến động, bạn nên áp dụng quy trình 3 bước chuẩn hóa theo kịch bản quản trị rủi ro tại HVS:
 
 - **Bước 1: Lọc cổ phiếu xuất hiện Squeeze (Setup).** Đưa các mã cổ phiếu có dải Bollinger Bands thắt chặt kéo dài từ 10 đến 15 phiên vào danh sách theo dõi. Lúc này chỉ số BBW chạm đáy 6 tháng. Hành động duy nhất là kiên nhẫn quan sát, chưa vội giải ngân.
 - **Bước 2: Xác nhận tín hiệu vào lệnh (Entry Point).** Điểm vào lệnh chỉ xuất hiện khi giá đóng cửa bứt phá khỏi vùng nút thắt cổ chai kèm xác nhận thanh khoản.
-  - *Kịch bản Mua:* Xuất hiện nến xanh thân dài đóng cửa vượt dải trên, đồng thời [tín hiệu breakout](Final-breakout-trong-chung-khoan-la-gi.md) đi kèm khối lượng lớn gấp 1,5 đến 2 lần trung bình 20 phiên. Điểm mua được kích hoạt tại giá đóng cửa nến bứt phá hoặc nhịp test lại SMA 20.
+  - *Kịch bản Mua:* Xuất hiện nến xanh thân dài đóng cửa vượt dải trên, đồng thời [tín hiệu breakout](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/breakout-trong-chung-khoan-la-gi) đi kèm khối lượng lớn gấp 1,5 đến 2 lần trung bình 20 phiên. Điểm mua được kích hoạt tại giá đóng cửa nến bứt phá hoặc nhịp test lại SMA 20.
   - *Kịch bản Bán / Hạ tỷ trọng:* Nến đỏ bứt phá xuống dưới dải dưới với thanh khoản tăng mạnh. Đây là tín hiệu báo hiệu đợt giảm sâu, bạn cần hạ tỷ trọng cổ phiếu để bảo vệ vốn.
   Minh họa với cổ phiếu SSI: Sau 14 phiên nén hẹp tại vùng giá 32.000 VNĐ, phiên giao dịch xuất hiện nến tăng 4,5% đóng cửa vượt dải trên kèm khối lượng đạt 25 triệu cổ phiếu (gấp 1,8 lần trung bình 20 phiên) chính là điểm Mua xác nhận.
 - **Bước 3: Thiết lập mốc Cắt lỗ (Stop-loss) và Chốt lời (Take-profit).** Đặt Stop-loss bên dưới đường SMA 20 hoặc đáy nến bứt phá (từ 3% đến 5%). Duy trì tỷ lệ Risk:Reward tối thiểu 1:2 và chốt lời từng phần khi dải trên bẻ ngang.
 
----
-
 ## Cách lọc bẫy Phá vỡ giả (False Breakout) khi dùng Bollinger Band Squeeze
 
-Thực tế giao dịch ghi nhận nhiều trường hợp giá vươn ra khỏi dải trên nhưng ngay phiên sau lại quay đầu giảm mạnh, đẩy nhà đầu tư F0 rơi vào [bẫy tăng giá Bull Trap](Final-bull-trap-la-gi.md). 
+Thực tế giao dịch ghi nhận nhiều trường hợp giá vươn ra khỏi dải trên nhưng ngay phiên sau lại quay đầu giảm mạnh, đẩy nhà đầu tư F0 rơi vào [bẫy tăng giá Bull Trap](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/bull-trap-la-gi). 
 
 Để loại bỏ tín hiệu nhiễu, bạn cần sử dụng bộ lọc xác nhận 2 yếu tố:
 
@@ -88,8 +80,6 @@ Thực tế giao dịch ghi nhận nhiều trường hợp giá vươn ra khỏi
 - **Xác nhận bằng chỉ báo động lượng:** Kết hợp [chỉ báo RSI](Final-rsi-la-gi.md) và [chỉ báo MACD](Final-macd-la-gi.md). Nếu giá bứt phá dải trên và RSI vượt lên vùng 50 - 60, đồng thời MACD cắt lên đường tín hiệu, đợt bứt phá đạt độ tin cậy cao.
 
 Việc kiên nhẫn chờ nến ngày đóng cửa hoàn toàn bên ngoài dải băng thay vì đặt lệnh ngay trong phiên chính là nguyên tắc quan trọng giúp nhà đầu tư F0 tránh các nhịp quét dừng lỗ không đáng có.
-
----
 
 ## Rèn luyện kỹ năng nhận diện Bollinger Band Squeeze cùng HVS
 
@@ -101,15 +91,11 @@ Hệ sinh thái HVS cung cấp lộ trình rèn luyện phương pháp phân tí
 - **HVS Demo:** Công cụ mô phỏng giao dịch giúp bạn thực hành vào lệnh bứt phá, thử nghiệm thiết lập mốc Stop-loss và Take-profit mà không chịu rủi ro tài chính.
 - **HVS Forum:** Cộng đồng thảo luận chuyên sâu, nơi bạn cùng các nhà đầu tư trao đổi kịch bản phân tích, đối chiếu góc nhìn về các cổ phiếu đang xuất hiện trạng thái thắt nút cổ chai.
 
----
-
 ## Kết luận về chiến lược Bollinger Band Squeeze trong đầu tư
 
 Chiến lược Bollinger Band Squeeze là công cụ hỗ trợ đắc lực giúp nhà đầu tư nhận diện sớm các vùng nén giá tĩnh lặng trước khi thị trường bước vào đợt biến động lớn. Việc nắm rõ bản chất không dự báo trước hướng đi của hiện tượng Squeeze giúp bạn loại bỏ tâm lý đoán đỉnh đoán đáy mơ hồ.
 
 Để giao dịch thành công với mô hình nút thắt cổ chai, bạn hãy luôn ghi nhớ checklist 3 nguyên tắc: **Kiên nhẫn chờ nến bứt phá - Xác nhận bằng khối lượng lớn - Tuân thủ tuyệt đối mốc dừng lỗ**. Đồng hành cùng HVS để từng bước làm chủ các công cụ phân tích kỹ thuật và xây dựng kỷ luật đầu tư bền vững trên thị trường chứng khoán.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 

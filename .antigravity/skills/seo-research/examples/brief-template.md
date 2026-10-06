@@ -9,7 +9,7 @@ description: Template dàn ý SEO chi tiết tích hợp hệ thống Koray Güb
 
 ```yaml
 ---
-Author: Antigravity
+Author: Claude Code | Antigravity
 aliases: ["[Từ khóa chính]"]
 Status: Outline
 Pipeline_Mode: Express | Guided | Auto
@@ -35,7 +35,7 @@ Avoid_Mistakes: [Danh sách lỗi cần tránh trích xuất từ Past Revision 
 
 # Mandatory Compliance (BẮT BUỘC ĐỌC TRƯỚC KHI VIẾT)
 Mandatory_Rules:
-  - "@.antigravity/rules/writing-guidelines.md"
+  - "@.antigravity/rules/seo-formatting.md"
   - "@seo-strategy/resources/content-strategy/anti-ai-rules.md"
   - "@seo-strategy/resources/content-strategy/financial-logic.md"
   - "@seo-strategy/resources/content-strategy/tone-and-voice.md"
@@ -47,13 +47,32 @@ Direct_Answer_Targets:
     type: "Definition / Direct Answer"
     bold_target: "[Cụm từ then chốt sẽ bôi đậm]"
 
+# AEO — từ SERP (qa_lint kiểm tra PAA-missing)
+PAA_Questions:
+  - q: "[Câu hỏi PAA 1]"
+    placement: body        # body = thành H2/H3 · faq = trong H2 FAQ
+  - q: "[Câu hỏi PAA 2]"
+    placement: faq
+Related_Searches:
+  same_intent: ["…"]
+  spin_off: ["…"]
+Featured_Snippet: Paragraph | List | Table
+
 # Audience & Brand
 Writing_Method: [PAS | AIDA | 4Cs]
-HVS_Products: ["HVS Tài chính số", "HVS Thực tập số"]
+HVS_Products: ["HVS Thực tập số", "HVS Tài chính số"]   # list chuỗi phẳng — KHÔNG dùng {product, benefit}
+HVS_Bridge_Strategy: "[Nỗi đau của keyword → lộ trình Thực tập số nào giải quyết → Demo/Forum hỗ trợ]"
 
-# Cluster info
+# Cluster & links (từ: python scripts/find_links.py "<kw>" --top 6)
 Cluster: [Tên Cluster]
-Internal_Links: []
+Cluster_Role: Pillar | Cluster
+Internal_Links:
+  - anchor: "[partial match tự nhiên]"
+    url: "https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/[slug]"
+    placement: "[H2 nào]"
+  - anchor: "chương trình HVS Thực tập số"
+    url: "https://taichinhso.hvsvn.com/thuc-tap-so"
+    placement: "HVS Bridge"
 ---
 ```
 
@@ -106,10 +125,10 @@ Internal_Links: []
 
 Để bài viết đạt chuẩn HVS, người viết (Agent) **BẮT BUỘC** phải tuân thủ các tài liệu tham chiếu sau:
 
-1.  **Văn phong & Persona:** Phải đúng chất "Senior Mentor" theo [tone-and-voice.md](file:///e:/project/hvs-company-info/seo-strategy/resources/content-strategy/tone-and-voice.md).
-2.  **Thuật ngữ:** Chỉ dùng từ Professional, tuyệt đối không dùng từ Amateur trong [glossary.md](file:///e:/project/hvs-company-info/seo-strategy/resources/content-strategy/glossary.md).
-3.  **Tư duy tài chính:** Mọi nhận định phải theo kịch bản và có cảnh báo rủi ro theo [financial-logic.md](file:///e:/project/hvs-company-info/seo-strategy/resources/content-strategy/financial-logic.md).
-4.  **Anti-AI:** Kiểm tra lại danh sách từ cấm tại [anti-ai-rules.md](file:///e:/project/hvs-company-info/seo-strategy/resources/content-strategy/anti-ai-rules.md).
+1.  **Văn phong & Persona:** Phải đúng chất "Senior Mentor" theo [tone-and-voice.md](seo-strategy/resources/content-strategy/tone-and-voice.md).
+2.  **Thuật ngữ:** Chỉ dùng từ Professional, tuyệt đối không dùng từ Amateur trong [glossary.md](seo-strategy/resources/content-strategy/glossary.md).
+3.  **Tư duy tài chính:** Mọi nhận định phải theo kịch bản và có cảnh báo rủi ro theo [financial-logic.md](seo-strategy/resources/content-strategy/financial-logic.md).
+4.  **Anti-AI:** Kiểm tra lại danh sách từ cấm tại [anti-ai-rules.md](seo-strategy/resources/content-strategy/anti-ai-rules.md).
 
 ---
 

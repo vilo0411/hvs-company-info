@@ -32,8 +32,6 @@ Avoid_Mistakes:
 
 Đánh giá tốc độ phát triển của doanh nghiệp đòi hỏi bạn phải làm chủ chỉ số **YOY là gì** cùng cách thức chỉ số này loại bỏ các yếu tố nhiễu mùa vụ. Việc theo dõi sát sao tăng trưởng cùng kỳ giúp bạn nhận diện chính xác sức khỏe tài chính thực chất thay vì bị đánh lừa bởi những con số đột biến ngắn hạn. Hãy cùng HVS phân tích định nghĩa, công thức tính toán YOY và cách thức nhận diện các bẫy tăng trưởng ảo khi đọc báo cáo tài chính doanh nghiệp.
 
----
-
 ## YOY là gì? Định nghĩa chi tiết
 
 YOY (Year Over Year) là **chỉ số so sánh hiệu suất tài chính hoặc số liệu hoạt động của một khoảng thời gian cụ thể ở hiện tại với cùng kỳ năm trước**. Trong hoạt động đầu tư tài chính, việc xem xét các con số đơn lẻ trên báo cáo kết quả hoạt động kinh doanh thường không phản ánh toàn diện xu hướng phát triển của doanh nghiệp. Để biết doanh nghiệp đang mở rộng hay thu hẹp quy mô, nhà phân tích cần đặt các số liệu này vào một hệ quy chiếu thời gian dài hạn và khách quan. Việc so sánh kết quả của kỳ hiện tại với đúng kỳ đó của năm ngoái chính là phương pháp so sánh cùng kỳ YOY.
@@ -43,8 +41,6 @@ Chỉ số YOY được áp dụng rộng rãi trên nhiều lĩnh vực tài ch
 Bản chất của YOY là triệt tiêu tính chất biến động ngắn hạn. Mọi hoạt động sản xuất kinh doanh đều chịu ảnh hưởng lớn từ các yếu tố thời tiết, chu kỳ tiêu dùng và các kỳ nghỉ lễ dài ngày trong năm. Việc so sánh số liệu quý này với quý trước có thể dẫn đến những kết luận sai lầm về hiệu quả hoạt động của doanh nghiệp. So sánh cùng kỳ năm trước giúp loại bỏ hoàn toàn các yếu tố gây nhiễu này, phơi bày xu hướng hoạt động thực tế của doanh nghiệp.
 
 Đối với nhà đầu tư chứng khoán, chỉ số YOY đóng vai trò như một bộ lọc hiệu năng tài chính ban đầu. Việc duy trì tốc độ tăng trưởng YOY ổn định qua nhiều năm là minh chứng rõ nét cho thấy doanh nghiệp đang sở hữu lợi thế cạnh tranh bền vững và hoạt động hiệu quả trong ngành.
-
----
 
 ## Công thức tính tăng trưởng YOY trong phân tích tài chính
 
@@ -60,8 +56,6 @@ Công thức tính tốc độ tăng trưởng YOY được thể hiện cụ th
 - Tỷ lệ YOY bằng 0%: Hiệu suất hoạt động đi ngang, phản ánh trạng thái kinh doanh bão hòa của doanh nghiệp trong chu kỳ hiện tại.
 
 Ví dụ cụ thể: Báo cáo tài chính quý 2 năm 2025 của một doanh nghiệp niêm yết trên sàn HOSE ghi nhận doanh thu thuần đạt 120 tỷ đồng. Trong khi đó, báo cáo tài chính quý 2 năm 2024 của doanh nghiệp này ghi nhận doanh thu thuần đạt 100 tỷ đồng. Áp dụng công thức tính YOY, ta có: [(120 - 100) / 100] × 100 = 20%. Kết quả này chỉ ra rằng doanh thu quý 2 năm 2025 của doanh nghiệp đã tăng trưởng 20% so với cùng kỳ năm 2024. Việc áp dụng công thức tương tự cho lợi nhuận sau thuế sẽ giúp bạn đánh giá toàn diện khả năng sinh lời thực tế. Bên cạnh đó, việc tính toán tăng trưởng cho các biến số tuyệt đối như doanh thu hay lợi nhuận, công thức YOY cũng được áp dụng hiệu quả cho các chỉ số tương đối như biên lợi nhuận gộp hay tỷ lệ chi phí bán hàng trên doanh thu. Việc theo dõi sự biến động của các chỉ số tỷ lệ này so với cùng kỳ giúp nhà đầu tư đánh giá chính xác hiệu quả kiểm soát chi phí và xu hướng cải thiện biên lợi nhuận của doanh nghiệp qua từng giai đoạn chu kỳ kinh doanh.
-
----
 
 ## So sánh YOY, QoQ, MoM và YTD: Khi nào nên sử dụng?
 
@@ -80,8 +74,6 @@ Trong thực tế phân tích cổ phiếu, việc kết hợp linh hoạt các 
 
 Lúc này, chỉ số QoQ hoặc MoM sẽ phát huy tác dụng giúp bạn nhận diện sớm sự phục hồi hoặc suy thoái của dòng tiền. Ngược lại, chỉ số YTD được các quỹ đầu tư đặc biệt quan tâm vào các quý cuối năm để dự báo khả năng hoàn thành kế hoạch doanh thu và lợi nhuận mà Đại hội đồng cổ đông đã thông qua đầu năm. Ví dụ, khi một doanh nghiệp bán lẻ công bố doanh thu tháng 5 tăng trưởng 10% so với tháng 4 (MoM), thông tin này có thể phản ánh sự phục hồi ngắn hạn đầy khả quan. Tuy nhiên, nếu doanh thu đó sụt giảm 15% so với tháng 5 năm trước (YOY), doanh nghiệp thực chất vẫn đang trong xu hướng suy thoái dài hạn. Do đó, việc kết hợp đồng thời cả chỉ số xu hướng lớn YOY và chỉ số biến động ngắn hạn QoQ hay MoM giúp nhà đầu tư tránh được các phán đoán phiến diện và xây dựng các kịch bản định giá chính xác, khách quan hơn.
 
----
-
 ## Ý nghĩa thực chiến và "bẫy nền so sánh thấp" của YOY
 
 Tăng trưởng YOY giúp triệt tiêu hoàn toàn các yếu tố mang tính mùa vụ của hoạt động kinh doanh nhưng đồng thời cũng tiềm ẩn rủi ro đánh lừa nhà đầu tư qua hiệu ứng nền so sánh thấp. Hiểu rõ hai khía cạnh này giúp nhà đầu tư tránh được các quyết định mua đuổi cổ phiếu ở đỉnh chu kỳ.
@@ -94,8 +86,6 @@ Tuy nhiên, nhà đầu tư F0 thường sập bẫy hiệu ứng nền so sánh
 
 Nếu chỉ đọc các dòng tít báo chí giật gân về tăng trưởng lợi nhuận YOY đột biến mà không đối chiếu với kết quả các năm bình thường trước đó, bạn rất dễ mua nhầm các doanh nghiệp đang đi ngang hoặc suy thoái dài hạn nhưng có một quý đột biến do nền so sánh quá thấp. Bẫy nền so sánh thấp đặc biệt nguy hiểm đối với các ngành nghề có tính chu kỳ cao như thép, dầu khí hay bất động sản. Khi thị trường đóng băng ở năm trước, lợi nhuận của các doanh nghiệp này có thể giảm về mức gần như bằng không. Ở năm tiếp theo, chỉ cần thị trường ấm lên nhẹ và doanh nghiệp có lợi nhuận vài tỷ đồng, tỷ lệ tăng trưởng YOY sẽ vọt lên hàng nghìn phần trăm. Nhiều nhà đầu tư cá nhân không đi sâu vào phân tích giá trị tuyệt đối mà chỉ nhìn vào con số tăng trưởng phần trăm ấn tượng này để tiến hành mua đuổi cổ phiếu, dẫn đến những khoản thua lỗ nặng nề khi chu kỳ đảo chiều. Để tránh sập bẫy, nhà đầu tư dày dạn kinh nghiệm thường sử dụng phương pháp so sánh số liệu thực tế của quý hiện tại với trung bình nhiều năm cùng kỳ trước đó (ví dụ trung bình 3 hoặc 5 năm gần nhất). Cách làm này giúp làm mượt các điểm dị biệt và phác họa bức tranh tăng trưởng thực chất của doanh nghiệp qua nhiều chu kỳ kinh tế khác nhau.
 
----
-
 ## Làm chủ chỉ số phân tích vĩ mô cùng HVS Tài chính số
 
 Sự phụ thuộc hoàn toàn vào các con số tăng trưởng YOY được công bố trên các phương tiện truyền thông đại chúng là nguyên nhân khiến nhiều nhà đầu tư cá nhân định giá sai giá trị thực của doanh nghiệp. Việc tự mình đọc hiểu báo cáo tài chính và bóc tách chất lượng tăng trưởng là kỹ năng sinh tồn bắt buộc trên thị trường chứng khoán.
@@ -106,15 +96,11 @@ Chương trình **HVS Thực tập số** thuộc hệ sinh thái đào tạo c�
 
 Nhà đầu tư tham gia chương trình sẽ được thực hành phân tích trực quan trên công cụ chuyên sâu của **HVS Demo** để tự tin kiểm chứng năng lực tài chính doanh nghiệp trước khi dùng tiền thật trên thị trường chứng khoán. Mọi câu hỏi và vướng mắc của học viên trong quá trình thực hành bóc tách số liệu kinh doanh sẽ được hỗ trợ gỡ rối kịp thời bởi đội ngũ Mentor giàu kinh nghiệm tại **HVS Forum**.
 
----
-
 ## Kết luận: Ứng dụng YOY thông minh trong chọn lọc cổ phiếu
 
 Việc phối hợp nhịp nhàng chỉ số YOY cùng các công cụ định lượng tài chính khác giúp nhà đầu tư đưa ra các quyết định chọn lọc cổ phiếu tối ưu. Nắm chắc bản chất YOY và cách phòng tránh bẫy nền so sánh thấp giúp bạn bảo vệ vốn hiệu quả và tìm kiếm các doanh nghiệp tăng trưởng thực chất.
 
 Bằng việc trang bị tư duy phân tích tài chính thực chiến cùng HVS, bạn sẽ nâng cao năng lực chủ động lựa chọn cổ phiếu và tự tin giao dịch trên thị trường. Việc kết hợp nhịp nhàng chỉ số cùng kỳ năm trước với các chỉ số đo lường hiệu suất tài chính khác giúp bạn đưa ra những phân tích định lượng khách quan trước mọi quyết định mua bán cổ phiếu trên sàn. Hãy bắt đầu tự tính toán chỉ số YOY cho các doanh nghiệp trong danh mục theo dõi của bạn ngay hôm nay.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-08-06):** Khởi tạo outline cho từ khóa "yoy là gì" theo yêu cầu viết bài trong sprint backlog.

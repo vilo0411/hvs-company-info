@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Active Trader & F0 Investor
 Target_Keyword: chiến lược giao dịch
 Search_Intent: Informational

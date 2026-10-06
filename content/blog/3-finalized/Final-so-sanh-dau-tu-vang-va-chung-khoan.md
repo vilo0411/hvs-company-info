@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: F0
 Target_Keyword: So sánh kênh đầu tư vàng và đầu tư chứng khoán
 Search_Intent: Informational

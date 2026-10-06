@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
 Pipeline_Mode: Express
@@ -125,8 +125,6 @@ Các hành động bạn cần thực hiện:
 *   Rèn luyện kỹ năng phân tích số liệu tài chính chuyên sâu cùng **HVS** để vượt qua các môn thi khó.
 
 Sự chuẩn bị sớm hôm nay sẽ quyết định đà thăng tiến nghề nghiệp lâu dài của bạn.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-23):** Khởi tạo outline.

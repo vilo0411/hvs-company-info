@@ -23,9 +23,9 @@ Google không index trang web nếu nội dung đó là một bản dịch hoặ
 - **Hành động:** 
   - Đọc trường `Target_Keyword` trong YAML của bài viết hiện tại.
   - **Bảo toàn hình ảnh (Image Audit):** Lập danh sách toàn bộ ảnh (`![alt](url)` hoặc `[![alt](img_url)](target_url)`) từ bài gốc. Nghiêm cấm xóa ảnh khi viết lại; chuẩn bị vị trí tái phân bổ và tối ưu hóa Alt-text/Caption chuẩn SEO.
-  - Sử dụng `search_web` hoặc gọi `SEO Collector` để tìm kiếm thông tin Top 10 đối thủ đang hiển thị trên SERP cho từ khóa đó.
+  - Chạy `python .antigravity/skills/seo-research/scripts/serp_research.py "<keyword>" --top 10 --extract 5` (fallback: SEO Collector với WebSearch) để tìm kiếm thông tin Top 10 đối thủ đang hiển thị trên SERP cho từ khóa đó.
   - Trích xuất: Cấu trúc heading, các ý chính đối thủ khai thác, và xác định lỗ hổng nội dung (Content Gaps).
-  - Đối soát bài viết hiện tại với `.antigravity/rules/anti-ai-digest.md` để liệt kê các từ cấm ("hành trình", "mở khóa tiềm năng", ngoặc kép nhấn mạnh...).
+  - Chạy `python scripts/qa_lint.py <path> --no-sitemap` → danh sách lỗi cơ học (từ cấm, LaTeX, link file:///, format) của bản gốc. Không rà tay.
 - **Đầu ra:** Bản đánh giá hiện trạng gồm:
   - Danh sách ảnh gốc cần bảo toàn.
   - Phân tích SERP đối thủ và các lỗ hổng nội dung được tìm thấy.
@@ -37,6 +37,7 @@ Google không index trang web nếu nội dung đó là một bản dịch hoặ
   - Thiết kế **Section Độc quyền (Unique Value Block)**: Dựa trên lỗ hổng nội dung đối thủ, bổ sung 1 Case Study thực tế, kịch bản giao dịch (Nếu [Biến số A] -> [Kịch bản 1]...), hoặc 1 bảng phân tích dữ liệu thực tế tại thị trường Việt Nam mà đối thủ bỏ sót.
 
 ### 3. Thực thi Nâng cấp & Bố trí Hình ảnh (Phase 3 — Rewrite & Polish)
+- **Vị trí:** Bản gốc `Final-<slug>.md` KHÔNG sửa trực tiếp. Viết bản mới tại `content/blog/2-user-review/Optimize-<slug>.md`; `python scripts/topic_status.py <slug> --set Optimizing`.
 - **Hành động:** Main Agent thực hiện sửa đổi và viết lại bài viết:
   - **Giữ trọn vẹn và tối ưu hình ảnh gốc:** Tái phân bổ ảnh vào đúng section phù hợp, bổ sung Alt-text và Caption chất lượng cao (chứa thực thể/từ khóa ngữ cảnh, không AI-vibe).
   - Loại bỏ hoàn toàn các lỗi AI-vibe, câu bị động, danh từ hóa ("việc thực hiện", "sự phát triển").
@@ -49,11 +50,13 @@ Google không index trang web nếu nội dung đó là một bản dịch hoặ
   - **Nguồn chân lý URL:** Sử dụng `fetch_sitemap.py` (`python scripts/fetch_sitemap.py --suggest "[keyword]"`) tra cứu URL thực tế từ `https://taichinhso.hvsvn.com/sitemap.xml`.
   - **Outbound Links:** Đề xuất chèn 2-4 internal links từ bài đang tối ưu đến bài Pillar và các bài cluster khác đã published (sử dụng anchor text tự nhiên/partial match).
   - **Inbound Links (Backfill):** Quét các bài viết cùng cluster đã published trên sitemap để tìm đoạn phù hợp chèn link trỏ ngược lại bài viết vừa tối ưu này.
-  - **Validation:** Bắt buộc chạy `python scripts/fetch_sitemap.py --validate [filepath]` để xác nhận 100% link chuẩn xác.
+  - **Tra cứu nhanh:** `python scripts/find_links.py "<keyword>" --exclude <slug>` (outbound) và `python scripts/find_links.py --backfill <slug>` (inbound).
+  - **Validation:** `python scripts/qa_lint.py content/blog/2-user-review/Optimize-<slug>.md --original content/blog/3-finalized/Final-<slug>.md --fix` — check link sitemap + bảo toàn 100% ảnh gốc (`CL1-images`). Exit 0 mới gọi Quality Guardian.
 
 ### 5. Kiểm định Chất lượng & Báo cáo (Phase 5 — QA & Audit Table)
 - **Hành động:** 
-  - Kích hoạt Quality Guardian để tự động chạy checklist QA/QC trên bài viết mới.
+  - Lint PASS → kích hoạt Quality Guardian (ngữ nghĩa). Tối đa 2 vòng.
+  - **KHÔNG tự finalize.** Chờ user `/approve` → `python scripts/finalize.py <slug> --optimize`.
   - Yêu cầu bắt buộc tạo hoặc cập nhật phần `## Revision Log` ở cuối file để ghi nhận các chỉnh sửa.
   - Trình bày cho người dùng bản so sánh Đối chiếu trước/sau, kèm theo bảng kiểm định chất lượng:
 

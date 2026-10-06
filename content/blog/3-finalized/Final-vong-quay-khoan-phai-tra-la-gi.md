@@ -132,13 +132,9 @@ Nhiều nhà đầu tư mới tham gia thị trường (F0) thường gặp bố
 
 Chỉ số vòng quay khoản phải trả là công cụ quan trọng giúp bạn đánh giá vị thế thương lượng và chất lượng quản trị vốn của doanh nghiệp. Bạn nên ưu tiên chọn lựa các doanh nghiệp có vòng quay khoản phải trả ổn định và không làm ảnh hưởng đến uy tín với đối tác. Hãy đồng hành cùng HVS để tích lũy thêm nhiều kiến thức tài chính bổ ích và nâng cao hiệu quả đầu tư thực chiến. Kiểm soát tốt chỉ số này sẽ giúp bạn tránh xa các doanh nghiệp có nguy cơ đứt gãy dòng tiền.
 
----
-
 ## 3. Chiến lược liên kết & Tối ưu hóa
 - **Internal Links:** [roa là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-roa-la-gi.md), [báo cáo lưu chuyển tiền tệ là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-bao-cao-luu-chuyen-tien-te-la-gi.md)
 - **Yếu tố cạnh tranh:** Bảng phân tích sự khác biệt về vòng quay khoản phải trả giữa doanh nghiệp bán lẻ (chiếm dụng vốn cực tốt) và doanh nghiệp sản xuất.
-
----
 
 ## 4. Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-08-05):** Khởi tạo outline chuẩn SEO, áp dụng nghiêm ngặt quy tắc chống AI của HVS.

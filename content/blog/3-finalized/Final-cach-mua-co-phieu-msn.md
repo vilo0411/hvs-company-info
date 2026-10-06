@@ -1,7 +1,7 @@
-﻿---
+---
 Author: HVS Senior Mentor
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: Cách mua cổ phiếu MSN
 Search_Intent: Informational | Transactional
@@ -25,11 +25,11 @@ Quy định của sàn HOSE bắt buộc nhà đầu tư phải đặt lệnh gi
 
 Số vốn tối thiểu bạn cần chuẩn bị để sở hữu lô cổ phiếu này sẽ biến động liên tục theo giá thị trường của mã MSN. Công thức toán học giúp bạn xác định chi tiết số tiền tối thiểu cần chuẩn bị như sau:
 
-$$Vốn tối thiểu = (Thị giá MSN \times 100) + Phí giao dịch$$
+> **Vốn tối thiểu = (Thị giá MSN \times 100) + Phí giao dịch**
 
 Các công ty chứng khoán tại Việt Nam hiện đang áp dụng mức phí giao dịch mua khoảng 0,15% giá trị lệnh. Giả sử giá cổ phiếu MSN trên bảng điện đang khớp ở mức 72.000 đồng/cổ phiếu, số vốn tối thiểu bạn bắt buộc phải nộp vào tài khoản giao dịch được tính toán cụ thể:
 
-$$Vốn tối thiểu = (72.000 \times 100) + 0,15\% \times (72.000 \times 100) = 7.210.800 \text{ đồng}$$
+> **Vốn tối thiểu = (72.000 \times 100) + 0,15\% \times (72.000 \times 100) = 7.210.800 \text{ đồng}**
 
 Bảng dưới đây mô phỏng chi tiết các mức vốn tối thiểu cần thiết để mua 100 cổ phiếu MSN tương ứng với các vùng giá giả định khác nhau trên thị trường:
 

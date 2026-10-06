@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["pha loãng cổ phiếu là gì"]
 Status: Finalized
@@ -42,8 +42,6 @@ Meta_Description: Định nghĩa pha loãng cổ phiếu là gì. Phân tích ng
 
 Sự gia tăng cơ học số lượng cổ phiếu lưu hành trên các sàn HOSE, HNX có thể âm thầm bào mòn lợi ích thực tế của cổ đông nhỏ lẻ. Khi doanh nghiệp phát hành thêm chứng khoán mới, tỷ lệ sở hữu của bạn sẽ bị sụt giảm đáng kể. Bài viết này giúp bạn trả lời câu hỏi **pha loãng cổ phiếu là gì**, phân tích chi tiết nguyên nhân, ảnh hưởng và công thức xác định EPS pha loãng để bảo vệ hiệu quả đầu tư cá nhân.
 
----
-
 ## Pha loãng cổ phiếu là gì? Bản chất tài chính
 
 **Pha loãng cổ phiếu là hiện tượng số lượng cổ phiếu đang lưu hành của doanh nghiệp tăng lên do phát hành thêm, làm suy giảm tỷ lệ sở hữu, quyền biểu quyết và thu nhập trên mỗi cổ phiếu của các cổ đông hiện tại.**
@@ -63,8 +61,6 @@ Sự gia tăng số lượng cổ phiếu lưu hành này trực tiếp làm suy
 
 Nhiều nhà đầu tư bỏ qua hiện tượng này vì số lượng cổ phiếu trong tài khoản giữ nguyên. Tuy nhiên, quyền kiểm soát và tỷ lệ nhận lợi nhuận thực tế của bạn đã bị thu hẹp. Hiểu rõ pha loãng cổ phần là bắt buộc để bạn bảo vệ dòng vốn.
 
----
-
 ## Các nguyên nhân phổ biến gây pha loãng cổ phiếu
 
 **Các nguyên nhân phổ biến gây pha loãng cổ phiếu bao gồm phát hành cổ phiếu ESOP, chào bán riêng lẻ cho đối tác chiến lược, thực hiện chuyển đổi trái phiếu chuyển đổi, và trả cổ tức bằng cổ phiếu hoặc cổ phiếu thưởng.**
@@ -82,8 +78,6 @@ Trái phiếu chuyển đổi và chứng quyền có quyền chuyển đổi th
 
 #### Trả cổ tức bằng cổ phiếu và phát hành cổ phiếu thưởng
 Doanh nghiệp thực hiện phân phối cổ tức bằng cổ phiếu để giữ lại lợi nhuận tái đầu tư. Hành động này không làm thay đổi vốn chủ sở hữu nhưng làm tăng cơ học số lượng cổ phiếu lưu hành. Đọc thêm bài viết [cổ tức là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi) giúp bạn nắm rõ quy trình này.
-
----
 
 ## Cách phân tích chỉ số EPS pha loãng (Diluted EPS)
 
@@ -109,8 +103,6 @@ Bảng dưới đây so sánh sự khác biệt lớn giữa hai chỉ số đ�
 
 Nhà đầu tư chuyên nghiệp tại các quỹ lớn luôn dùng EPS pha loãng làm thước đo chính khi phân tích doanh nghiệp. Chỉ sử dụng EPS cơ bản trong trường hợp doanh nghiệp phát hành nhiều trái phiếu chuyển đổi sẽ tạo ra sai lệch lớn về tỷ số P/E. Bạn dễ rơi vào bẫy định giá rẻ ảo nếu mẫu số thực tế tăng thêm 20% khi quyền chuyển đổi được thực hiện.
 
----
-
 ## Kịch bản tác động của pha loãng cổ phiếu: Tốt hay xấu?
 
 **Tác động của pha loãng cổ phiếu phụ thuộc hoàn toàn vào hiệu quả sử dụng nguồn vốn mới thu được và tốc độ tăng trưởng lợi nhuận tương lai của doanh nghiệp.**
@@ -130,8 +122,6 @@ Nếu hội đồng quản trị phát hành riêng lẻ giá rẻ cho công ty 
 
 Việc phân tích mục đích phát hành và đánh giá kỹ năng quản trị của ban lãnh đạo giúp bạn đưa ra quyết định giao dịch chính xác.
 
----
-
 ## Làm chủ kỹ năng bóc tách cấu trúc vốn cùng HVS
 
 **Làm chủ kỹ năng bóc tách cấu trúc vốn cùng HVS giúp bạn chủ động phát hiện các rủi ro pha loãng tiềm ẩn trên thuyết minh báo cáo tài chính.**
@@ -142,8 +132,6 @@ Nhiều nhà đầu tư F0 và các bạn sinh viên tài chính thường bỏ 
 - **HVS Forum:** Cộng đồng nhà đầu tư HVS là nơi bạn chia sẻ các case study phân tích cấu trúc tài chính thực tế và nhận phản hồi từ những thành viên có kinh nghiệm.
 
 Hãy tham gia học tập cùng HVS để xây dựng tư duy đầu tư thực chiến vững vàng.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 

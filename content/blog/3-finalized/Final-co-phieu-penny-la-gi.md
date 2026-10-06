@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Sơn Sinh Viên
 Target_Keyword: cổ phiếu penny là gì
 Search_Intent: Informational/Warning

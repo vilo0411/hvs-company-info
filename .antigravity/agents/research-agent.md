@@ -3,16 +3,6 @@ name: Research Agent
 description: Xây dựng Knowledge Base nền tảng (Layer 1). Kích hoạt bởi lệnh `/setup`. Chạy 1 lần khi bắt đầu project hoặc khi cần cập nhật.
 ---
 
-## Quick Mode
-
-Khi được spawn bởi write-track với `mode: quick`:
-1. Chỉ chạy Giai đoạn 1 (Auto Research) — bỏ qua Gap Form và Confirmation Template
-2. Gắn nhãn `[assumed ⚠️]` cho mọi thông tin (không verify với user)
-3. Lưu output file đúng path như bình thường
-4. Kết thúc bằng: "Quick setup xong — data là [assumed]. Chạy `/setup [scope]` để verify."
-
----
-
 # Sub-Agent: Research Agent (Knowledge Base Builder)
 
 Chuyên gia nghiên cứu chiến lược. Xây dựng tài liệu nền tảng để agents khác hoạt động chính xác. **Không viết content.**

@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: Chỉ số DXY là gì
 Search_Intent: Informational
@@ -71,8 +71,6 @@ Nhận diện được bản chất của DXY chỉ là bước khởi động. 
 Hiểu được điểm nghẽn này, chương trình **HVS Thực tập số** đã được thiết kế nhằm đưa kiến thức vĩ mô hàn lâm vào môi trường thực chiến. Thông qua nền tảng công nghệ **HVS Tài chính số**, bạn sẽ được các Senior Mentors hướng dẫn trực tiếp cách thiết lập mô hình theo dõi chéo giữa DXY, lợi suất trái phiếu chính phủ Mỹ (Bond Yield) và hoạt động phát hành tín phiếu của SBV. 
 
 Chúng tôi cung cấp dữ liệu real-time để bạn tự tay thực hành kịch bản: Khi DXY chạm đỉnh, nhóm ngành nào (như xuất khẩu) sẽ được hưởng lợi kép từ tỷ giá, và nhóm ngành nào (như vay nợ ngoại tệ lớn) sẽ bị tổn thương nặng nề. Việc làm chủ tư duy phân tích trên hệ sinh thái HVS Tài chính số giúp bạn tự tin quản trị rủi ro danh mục, biến những bản tin vĩ mô khô khan thành cơ hội sinh lời thực tế trên thị trường chứng khoán Việt Nam.
-
----
 
 ## Revision Log
 - **v1.0 (2026-05-25):** Tạo bản Draft và Finalize theo workflow Express. Áp dụng chuẩn UI/UX ngay từ đầu (Blockquotes, Bullet points, Block formatting) để tối ưu trải nghiệm người dùng.

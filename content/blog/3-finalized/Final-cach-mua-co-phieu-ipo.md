@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: Cách mua cổ phiếu IPO
 Search_Intent: Transactional
@@ -54,8 +54,6 @@ Bảng dưới đây so sánh sự khác biệt giữa quy trình giao dịch IP
 | **Thời gian nhận cổ phiếu** | Kéo dài từ 1 đến 3 tháng sau khi hoàn tất thủ tục niêm yết. | Nhận ngay sau 2 ngày làm việc (quy trình T+2). |
 | **Mức độ minh bạch** | Dựa trên Bản cáo bạch tự công bố của doanh nghiệp. | Dựa trên báo cáo tài chính kiểm toán định kỳ bắt buộc. |
 
----
-
 ## Những lưu ý khi đầu tư cổ phiếu IPO (lần đầu phát hành ra công chúng)
 
 Khi mua cổ phiếu IPO, nhà đầu tư cần chú ý đến chu kỳ ngành IPO, quản trị vốn và theo dõi sát sao sức khỏe tài chính doanh nghiệp. Đây là những bộ lọc thiết yếu giúp bạn bảo vệ nguồn vốn trước các rủi ro biến động giá sau khi lên sàn.
@@ -78,8 +76,6 @@ Sự chuẩn bị kỹ lưỡng các kịch bản giúp bạn ứng phó linh ho
 
 *   **Kịch bản 1:** Nếu mức giá trúng thầu IPO thấp hơn giá trị sổ sách của doanh nghiệp và nhu cầu thị trường lớn giúp giá cổ phiếu tăng kịch trần trong phiên chào sàn đầu tiên, bạn nên tiếp tục nắm giữ cổ phiếu. Nhóm cổ phiếu này thường có xu hướng tăng mạnh trong ngắn hạn nhờ lực cầu tự nhiên của dòng tiền tổ chức.
 *   **Kịch bản 2:** Nếu giá cổ phiếu IPO liên tục sụt giảm qua các phiên giao dịch đầu tiên và có dấu hiệu biến động mạnh giống như các [cổ phiếu penny là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-penny-la-gi), bạn nên dứt khoát thực hiện bán cắt lỗ để thu hồi vốn. Việc chần chừ có thể khiến khoản thua lỗ ban đầu phình to nhanh chóng khi lực cầu ảo biến mất.
-
----
 
 ## Nâng cao tư duy đầu tư thực chiến cùng HVS Tài Chính Số
 

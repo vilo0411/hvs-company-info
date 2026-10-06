@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie / Nhà đầu tư F0
 Target_Keyword: các phương pháp phân tích kỹ thuật
 Search_Intent: Informational
@@ -21,7 +21,7 @@ Các phương pháp phân tích kỹ thuật là hệ thống các nguyên lý t
 
 Tâm lý đám đông trên thị trường chứng khoán hình thành từ lòng tham và sự sợ hãi. Bản chất con người ít thay đổi qua thời gian, do đó các biểu hiện tâm lý này thường tạo ra các mô hình biến động lặp đi lặp lại. Phân tích kỹ thuật đo lường những dấu vết đó để giúp nhà đầu tư tìm kiếm lợi thế thống kê.
 
-Phương pháp kỹ thuật không thể dự báo đúng 100% hướng đi của cổ phiếu VCB, HPG hay SSI. Mỗi tín hiệu mua hoặc bán chỉ đại diện cho một kịch bản có xác suất xảy ra cao hơn. Do đó, mục tiêu chính của việc nắm vững các [phương pháp phân tích kỹ thuật](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-phan-tich-ky-thuat-la-gi.md) là giúp nhà đầu tư xây dựng điểm giải ngân, thiết lập vùng chốt lời và thực hiện [nguyên tắc cắt lỗ](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-cat-lo-la-gi.md) để bảo vệ tài khoản.
+Phương pháp kỹ thuật không thể dự báo đúng 100% hướng đi của cổ phiếu VCB, HPG hay SSI. Mỗi tín hiệu mua hoặc bán chỉ đại diện cho một kịch bản có xác suất xảy ra cao hơn. Do đó, mục tiêu chính của việc nắm vững các [phương pháp phân tích kỹ thuật](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-ky-thuat-la-gi) là giúp nhà đầu tư xây dựng điểm giải ngân, thiết lập vùng chốt lời và thực hiện [nguyên tắc cắt lỗ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cat-lo-la-gi) để bảo vệ tài khoản.
 
 ## 2. Tổng hợp 7 phương pháp phân tích kỹ thuật phổ biến nhất
 
@@ -129,8 +129,6 @@ Nhà đầu tư F0 nên bắt đầu rèn luyện phân tích kỹ thuật theo 
 1. **Chọn lựa 1 trường phái cốt lõi:** Tập trung học sâu phương pháp Price Action kết hợp với đường trung bình MA20 và khối lượng giao dịch Volume.
 2. **Kiểm chứng trên HVS Demo:** Thực hiện tối thiểu 20 lệnh giao dịch ảo để kiểm tra tính kỷ luật và khả năng tuân thủ mốc cắt lỗ.
 3. **Mở rộng kiến thức tại HVS Tài chính số:** Tham gia khóa học TA Level 1 để hệ thống hóa kiến thức phân tích và kết hợp với tư duy Phân tích cơ bản (FA) thành công cụ Hybrid Analysis thực chiến.
-
----
 
 ## Revision Log
 - **2026-09-14:** Khởi tạo và hoàn thiện bài viết Final cho từ khóa "các phương pháp phân tích kỹ thuật" theo chuẩn Express Pipeline. Đã tích hợp 7 phương pháp kỹ thuật, bảng so sánh đối chiếu, bóc tách yếu tố T+2.5/biên độ HOSE, và lồng ghép hệ sinh thái HVS.

@@ -26,7 +26,7 @@ Avoid_Mistakes: ["Không dùng từ cấm AI-vibe", "Không khẳng định Sque
 
 # Mandatory Compliance
 Mandatory_Rules:
-  - "@.antigravity/rules/writing-guidelines.md"
+  - "@.antigravity/rules/seo-formatting.md"
   - "@seo-strategy/resources/content-strategy/anti-ai-rules.md"
   - "@seo-strategy/resources/content-strategy/financial-logic.md"
   - "@seo-strategy/resources/content-strategy/tone-and-voice.md"

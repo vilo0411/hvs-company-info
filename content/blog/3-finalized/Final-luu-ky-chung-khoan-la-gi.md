@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: Lan Newbie / Nhà đầu tư F0
 Target_Keyword: Lưu ký chứng khoán là gì
 Search_Intent: Informational
@@ -22,7 +22,7 @@ Trước đây, nhà đầu tư phải cất giữ giấy chứng nhận sở h�
 Vai trò của lưu ký chứng khoán đối với nhà đầu tư gồm 3 điểm chính:
 1. Điều kiện bắt buộc để giao dịch: Bạn chỉ có thể đặt lệnh mua bán cổ phiếu VCB, HPG hay FPT trên sàn HOSE hoặc HNX sau khi chứng khoán được lưu ký.
 2. Bảo vệ quyền sở hữu pháp lý: Hệ thống điện tử ghi nhận chính xác số lượng cổ phiếu nắm giữ, loại bỏ nguy cơ làm giả giấy tờ.
-3. Tự động hóa quyền lợi: Khi doanh nghiệp trả cổ tức hoặc cổ phiếu thưởng, VSDC sẽ tự động phân bổ tiền và chứng khoán vào [tài khoản chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-cac-loai-tai-khoan-chung-khoan.md) của bạn.
+3. Tự động hóa quyền lợi: Khi doanh nghiệp trả cổ tức hoặc cổ phiếu thưởng, VSDC sẽ tự động phân bổ tiền và chứng khoán vào [tài khoản chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cac-loai-tai-khoan-chung-khoan) của bạn.
 
 ## Phân biệt chứng khoán đã lưu ký và chưa lưu ký
 
@@ -35,7 +35,7 @@ Trạng thái lưu ký quyết định trực tiếp khả năng giao dịch và
 | **Thanh toán tiền hàng** | Bù trừ tự động T+2 qua tài khoản CTCK | Tự thanh toán tiền mặt và chuyển nhượng thủ công |
 | **Quyền lợi cổ tức** | Chuyển thẳng tự động vào tài khoản chứng khoán | Đến trực tiếp trụ sở doanh nghiệp để làm thủ tục nhận |
 
-Cổ phiếu của doanh nghiệp chưa niêm yết thường ở trạng thái chưa lưu ký. Khi doanh nghiệp chuẩn bị lên [sàn giao dịch chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-san-giao-dich-chung-khoan-la-gi.md), ban lãnh đạo sẽ chốt danh sách cổ đông để hoàn tất thủ tục đăng ký và lưu ký tập trung tại VSDC.
+Cổ phiếu của doanh nghiệp chưa niêm yết thường ở trạng thái chưa lưu ký. Khi doanh nghiệp chuẩn bị lên [sàn giao dịch chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/san-giao-dich-chung-khoan-la-gi), ban lãnh đạo sẽ chốt danh sách cổ đông để hoàn tất thủ tục đăng ký và lưu ký tập trung tại VSDC.
 
 ## Phí lưu ký chứng khoán và cơ chế thu nộp tại VSDC
 
@@ -53,7 +53,7 @@ Ví dụ cụ thể: Nếu bạn nắm giữ 10.000 cổ phiếu HPG trong cả 
 ## Quy trình ký gửi lưu ký chứng khoán và quy định bảo vệ tài sản
 
 Khi thực hiện thủ tục chuyển các cổ phiếu chưa lưu ký vào hệ thống giao dịch tập trung, nhà đầu tư cần thực hiện đầy đủ quy trình 3 bước chuẩn hóa theo đúng quy chuẩn pháp lý hiện hành:
-1. Mở tài khoản: Tiến hành [mở tài khoản chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-cach-mo-tai-khoan-chung-khoan.md) tại công ty chứng khoán là thành viên của VSDC.
+1. Mở tài khoản: Tiến hành [mở tài khoản chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mo-tai-khoan-chung-khoan) tại công ty chứng khoán là thành viên của VSDC.
 2. Nộp hồ sơ: Mang Giấy chứng nhận sở hữu cổ phần gốc kèm Căn cước công dân đến chi nhánh CTCK để làm thủ tục.
 3. Xác nhận từ VSDC: CTCK gửi hồ sơ lên VSDC đối chiếu dữ liệu với sổ cổ đông. Sau 3-5 ngày làm việc, cổ phiếu sẽ hiển thị trên tài khoản điện tử của bạn và sẵn sàng giao dịch.
 
@@ -79,8 +79,6 @@ Lưu ký chứng khoán là cột mốc giúp tài sản của bạn được ch
 - Bảo quản cẩn thận sổ cổ đông giấy cho đến khi hoàn tất ký gửi VSDC.
 
 Hãy bắt đầu từ việc nắm vững quy chuẩn pháp lý và rèn luyện kỹ năng đầu tư chuẩn mực để làm chủ hành trình tài chính của bạn.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-09-03):** Tạo Outline cho bài viết "Lưu ký chứng khoán là gì" theo Express Mode, tích hợp dữ liệu SERP thực tế, thông tư phí VSDC và quy định Luật Chứng khoán 2019.

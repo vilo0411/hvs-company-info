@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Lan Newbie
 Target_Keyword: tín phiếu là gì
 Search_Intent: Informational
@@ -12,8 +12,6 @@ Meta_Description: Tìm hiểu tín phiếu là gì, phân loại tín phiếu kh
 # Tín phiếu là gì? Phân loại, nghiệp vụ OMO và ứng dụng đầu tư
 
 Hiểu rõ **tín phiếu là gì** cùng vai trò của công cụ này giúp bạn nắm bắt xu hướng dòng tiền vĩ mô điều hành bởi [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/ngan-hang-nha-nuoc-la-gi). Việc theo dõi sát sao dòng vốn tín phiếu giúp bạn chủ động nhận diện biến động trên [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thi-truong-chung-khoan-la-gi) trước khi xảy ra điều chỉnh lớn. Hãy cùng HVS phân tích định nghĩa, phân loại chi tiết, cơ chế đấu thầu OMO và phương pháp ứng dụng chỉ báo vĩ mô này vào hoạt động đầu tư thực chiến.
-
----
 
 ## Quan sát động thái phát hành tín phiếu cùng HVS
 

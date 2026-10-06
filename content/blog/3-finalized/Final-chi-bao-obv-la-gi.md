@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie / Nhà đầu tư F0
 Target_Keyword: chỉ báo obv là gì
 Search_Intent: Informational
@@ -97,8 +97,6 @@ Ma trận đối chiếu 3 cạm bẫy F0 và giải pháp tư duy cùng HVS:
 3. **Cạm bẫy 3 — Sử dụng chỉ báo đơn độc:** F0 dùng 1 công cụ -> **Tư duy HVS:** Kết hợp OBV với Trendline, RSI và kỷ luật cắt lỗ.
 
 Đăng ký ngay [HVS Thực tập số](https://taichinhso.hvsvn.com/thuc-tap-so) để xây dựng tư duy đầu tư chuyên nghiệp.
-
----
 
 ## Revision Log
 - 2026-09-14: Khởi tạo Outline bài viết "Chỉ báo OBV là gì".

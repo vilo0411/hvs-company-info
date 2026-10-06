@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: Một người được mở bao nhiêu tài khoản chứng khoán
 Search_Intent: Informational
@@ -107,8 +107,6 @@ Giải pháp đào tạo của HVS giúp bạn xây dựng tư duy quản trị 
 * **HVS Forum:** Cộng đồng chất lượng cao giúp giải đáp thắc mắc và kết nối chuyên gia tài chính giàu kinh nghiệm.
 
 Làm chủ kiến thức giúp bạn tự tin giải ngân hiệu quả và tối ưu danh mục tài khoản.
-
----
 
 ## 4. Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-03):** Tạo outline cho sprint.

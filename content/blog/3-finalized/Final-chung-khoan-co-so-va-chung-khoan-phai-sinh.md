@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Claude Code
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: chứng khoán cơ sở và chứng khoán phái sinh
 Search_Intent: Informational
@@ -12,8 +12,6 @@ Meta_Description: Phân biệt chứng khoán cơ sở và chứng khoán phái 
 # Chứng khoán cơ sở và chứng khoán phái sinh: Phân biệt chi tiết
 
 Thị trường chứng khoán Việt Nam gồm hai công cụ chính là chứng khoán cơ sở và chứng khoán phái sinh. Phân biệt rõ sự khác biệt về cơ chế, quyền sở hữu và rủi ro đòn bẩy giúp nhà đầu tư bảo vệ vốn. Hãy cùng HVS phân tích chi tiết hai kênh này.
-
----
 
 ## Khái niệm chứng khoán cơ sở và chứng khoán phái sinh
 
@@ -26,8 +24,6 @@ Các tài sản giao dịch đặc trưng:
 - Hợp đồng phái sinh: Hợp đồng tương lai chỉ số VN30, hợp đồng tương lai trái phiếu Chính phủ.
 
 Hợp đồng tương lai chỉ số VN30 là sản phẩm phái sinh phổ biến tại Việt Nam. Giao dịch phái sinh không chuyển giao quyền sở hữu doanh nghiệp cho người mua. Hai bên ký hợp đồng để đặt cược về xu hướng giá chỉ số trong tương lai. Giá trị hợp đồng biến động đồng pha với VN30. Bạn có thể xem thêm bài viết [chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi) hoặc [chứng khoán phái sinh là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-phai-sinh-la-gi).
-
----
 
 ## Sự khác biệt giữa chứng khoán cơ sở và chứng khoán phái sinh
 
@@ -46,8 +42,6 @@ Sự khác biệt bản chất về quyền sở hữu dẫn đến các hệ qu
 
 Cơ chế thanh toán cũng tác động trực tiếp đến dòng tiền của nhà đầu tư. Thị trường cơ sở áp dụng chu kỳ T+2 giúp bạn quản lý nguồn vốn ổn định. Trong khi đó, thị trường phái sinh tất toán lãi lỗ hàng ngày T+0. Tài khoản ký quỹ của bạn sẽ bị khấu trừ tiền ngay lập tức nếu vị thế giao dịch đi ngược xu hướng thị trường. Bạn có thể xem thêm về cơ chế này qua bài viết [hợp đồng tương lai](content/blog/1-outlines/Outline-hop-dong-tuong-lai.md).
 
----
-
 ## Lựa chọn kênh đầu tư tối ưu theo khẩu vị rủi ro
 
 **Lựa chọn kênh đầu tư giữa chứng khoán cơ sở và chứng khoán phái sinh phụ thuộc trực tiếp vào khẩu vị rủi ro, quy mô vốn và kinh nghiệm thực chiến của từng cá nhân.**
@@ -60,8 +54,6 @@ Các yếu tố (như thời gian theo dõi, quy mô vốn) bạn bắt buộc p
 - Thời gian: Giao dịch phái sinh yêu cầu giám sát bảng điện liên tục để xử lý vị thế Short, Long kịp thời.
 - Quy mô vốn: Thị trường cơ sở chấp nhận vốn nhỏ vài trăm nghìn đồng, còn phái sinh đòi hỏi ký quỹ lớn.
 
----
-
 ## Học đầu tư chứng khoán hiệu quả với chương trình HVS Tài Chính Số
 
 **Học đầu tư chứng khoán hiệu quả đòi hỏi bạn phải có lộ trình đào tạo bài bản từ lý thuyết cơ sở đến kỹ năng giao dịch phái sinh thực tế.**
@@ -70,15 +62,11 @@ Nhà đầu tư F0 thường bối rối khi phân bổ vốn giữa hai kênh c
 
 Để giải quyết rào cản này, chúng tôi xây dựng chương trình **HVS Thực tập số** thuộc nền tảng đào tạo trực tuyến **HVS Tài chính số**. Chương trình cung cấp các lộ trình (như Phân tích cơ bản FA Level 1, Phân tích kỹ thuật TA Level 1) giúp bạn tự phân tích doanh nghiệp và đồ thị kỹ thuật. Bạn trực tiếp thực hành không rủi ro trên tài khoản mô phỏng **HVS Demo**, đồng thời trao đổi kinh nghiệm cùng cộng đồng tại **HVS Forum**.
 
----
-
 ## Kết luận
 
 **Hiểu rõ sự khác biệt giữa chứng khoán cơ sở và chứng khoán phái sinh giúp bạn xây dựng một chiến lược phân bổ tài sản an toàn và hiệu quả.**
 
 Kênh cơ sở giúp tích sản dài hạn, còn phái sinh hỗ trợ phòng vệ khi thị trường đi xuống. Học kiến thức đầu tư tại HVS giúp bạn kiểm soát rủi ro đòn bẩy và giao dịch hiệu quả. Hãy tham gia nền tảng của chúng tôi để bắt đầu xây dựng kỹ năng chuyên nghiệp ngay hôm nay.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-23):** Khởi tạo outline cho từ khóa "chứng khoán cơ sở và chứng khoán phái sinh" theo yêu cầu viết bài trong sprint backlog.

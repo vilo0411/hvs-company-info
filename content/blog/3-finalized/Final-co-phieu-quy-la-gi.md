@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["Cổ phiếu quỹ là gì"]
 Status: Finalized
@@ -66,7 +66,7 @@ Bạn cần lưu ý điểm khác biệt kỹ thuật quan trọng: Cổ phiếu
 
 Để phân tích chính xác tác động của cổ phiếu quỹ, bạn cần hiểu rõ cơ chế vận hành pháp lý và kế toán đặc thù của loại chứng khoán này với ba đặc trưng chính sau:
 
-*   **Bị đình chỉ hoàn toàn quyền lợi cổ đông:** Doanh nghiệp sở hữu cổ phiếu quỹ của chính mình không được nhận [cổ tức](file:///content/blog/3-finalized/Final-co-tuc-la-gi.md) (tiền mặt lẫn cổ phiếu), không có quyền biểu quyết tại Đại hội đồng cổ đông, không được nhận phần phân chia tài sản khi công ty giải thể, và không được ưu tiên mua cổ phiếu phát hành thêm.
+*   **Bị đình chỉ hoàn toàn quyền lợi cổ đông:** Doanh nghiệp sở hữu cổ phiếu quỹ của chính mình không được nhận [cổ tức](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-tuc-la-gi) (tiền mặt lẫn cổ phiếu), không có quyền biểu quyết tại Đại hội đồng cổ đông, không được nhận phần phân chia tài sản khi công ty giải thể, và không được ưu tiên mua cổ phiếu phát hành thêm.
 *   **Hạch toán giảm Vốn chủ sở hữu:** Theo Thông tư 200/2014/TT-BTC, chi phí mua lại (bao gồm giá mua và phí giao dịch) được ghi nhận vào bên Nợ của **Tài khoản 419 (Cổ phiếu quỹ)**. Khoản mục này được trình bày âm dưới dạng giảm trừ Vốn chủ sở hữu trên Bảng cân đối kế toán, không được xem là tài sản tài chính. Điều này đồng nghĩa với việc dù doanh nghiệp có chi ra hàng trăm tỷ đồng để mua lại, dòng tiền này cũng không làm tăng giá trị tài sản ròng trên báo cáo tài chính mà chỉ làm co hẹp quy mô nguồn vốn.
 *   **Không ghi nhận lợi nhuận khi tái phát hành:** Khi công ty hủy bỏ hoặc tái phát hành số cổ phiếu quỹ ra thị trường, mọi chênh lệch phát sinh không được hạch toán vào doanh thu hay lợi nhuận trong kỳ mà ghi nhận thẳng vào **Thặng dư vốn cổ phần (Tài khoản 4112)**. Cơ chế này nhằm ngăn chặn hành vi doanh nghiệp tự tạo ra lợi nhuận ảo thông qua hoạt động tự mua bán chứng khoán của chính mình.
 
@@ -113,8 +113,6 @@ Hệ sinh thái HVS hỗ trợ bạn làm chủ năng lực này thông qua:
 *   **Tương tác cùng chuyên gia:** Mọi thắc mắc về định giá hay báo cáo tài chính sẽ được đội ngũ Mentors giải đáp trực tiếp tại cộng đồng **HVS Forum**.
 
 Sự kết hợp bài bản giữa lý thuyết top-down và thực hành giả lập giúp bạn tự tin tham gia thị trường chứng khoán thực tế.
-
----
 
 ## Revision Log
 

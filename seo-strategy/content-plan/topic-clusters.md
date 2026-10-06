@@ -1,6 +1,6 @@
 # Topic Clusters — HVS SEO Content Map
 > Cập nhật: 2026-09-04 | Nguồn: sitemap taichinhso.hvsvn.com (quét thực tế)
-> ✅ Published: 341 | 🔄 In Progress: 1 | ⭕ Planned: 157
+> ✅ Published: 393 | 🔄 In Progress: 1 | ⭕ Planned: 105
 
 ---
 
@@ -310,7 +310,7 @@
 - ✅ Mô hình CAPM là gì *(Published — Final-mo-hinh-capm-la-gi.md)*
 - ⭕ các chỉ số phân tích báo cáo tài chính *(Planned)*
 
-### Cluster: Phân tích kỹ thuật (113 articles | ✅ 29 | 🔄 0 | ⭕ 84)
+### Cluster: Phân tích kỹ thuật (113 articles | ✅ 81 | 🔄 0 | ⭕ 32)
 
 **Pillar:** ✅ nến búa *(Published — Final-nen-bua.md)*
 
@@ -324,7 +324,7 @@
 - ✅ chỉ báo cci là gì *(Published — Final-chi-bao-cci-la-gi.md)*
 - ⭕ chỉ báo keltner channel *(Planned)*
 - ✅ Đường Trendline là gì *(Published — Final-duong-trendline-la-gi.md)*
-- ⭕ Đường ZigZag *(Planned)*
+- ✅ Đường ZigZag *(Published — Final-duong-zigzag.md)*
 - ✅ đường a/d là gì *(Published — Final-duong-ad-la-gi.md)*
 - ✅ Sóng Elliott là gì *(Published — Final-song-elliott-la-gi.md)*
 - ✅ fibonacci thoái lui *(Published — Final-fibonacci-thoai-lui.md)*
@@ -343,88 +343,88 @@
 - ⭕ Đường WMA là gì *(Planned)*
 - ⭕ chỉ báo macd histogram là gì *(Planned)*
 - ✅ MACD là gì *(Published — Final-macd-la-gi.md)*
-- ⭕ Mô hình 2 đỉnh là gì *(Planned)*
-- ⭕ Mô hình lá cờ là gì *(Planned)*
-- ⭕ Nến Evening Star là gì *(Planned)*
-- ⭕ Mô hình cái nêm là gì *(Planned)*
-- ⭕ Nến Harami là gì *(Planned)*
-- ⭕ Mô hình nến Dark Cloud Cover là gì *(Planned)*
-- ⭕ Mô hình tam giác mở rộng là gì *(Planned)*
-- ⭕ Nến Marubozu là gì *(Planned)*
-- ⭕ nến inside bar *(Planned)*
+- ✅ Mô hình 2 đỉnh là gì *(Published — Final-mo-hinh-2-dinh-la-gi.md)*
+- ✅ Mô hình lá cờ là gì *(Published — Final-mo-hinh-la-co-la-gi.md)*
+- ✅ Nến Evening Star là gì *(Published — Final-nen-evening-star-la-gi.md)*
+- ✅ Mô hình cái nêm là gì *(Published — Final-mo-hinh-cai-nem-la-gi.md)*
+- ✅ Nến Harami là gì *(Published — Final-nen-harami-la-gi.md)*
+- ✅ Mô hình nến Dark Cloud Cover là gì *(Published — Final-mo-hinh-nen-dark-cloud-cover-la-gi.md)*
+- ✅ Mô hình tam giác mở rộng là gì *(Published — Final-mo-hinh-tam-giac-mo-rong-la-gi.md)*
+- ✅ Nến Marubozu là gì *(Published — Final-nen-marubozu-la-gi.md)*
+- ✅ nến inside bar *(Published — Final-nen-inside-bar.md)*
 - ✅ nến doji *(Published — Final-nen-doji.md)*
-- ⭕ Nến Hanging Man *(Planned)*
-- ⭕ Nến Shooting Star *(Planned)*
-- ⭕ mô hình nến engulfing *(Planned)*
-- ⭕ nến heikin ashi *(Planned)*
-- ⭕ nến pin bar *(Planned)*
-- ⭕ cách đọc biểu đồ nến *(Planned)*
-- ⭕ Mô hình nến búa ngược *(Planned)*
-- ⭕ mô hình 3 chàng lính ngự lâm *(Planned)*
+- ✅ Nến Hanging Man *(Published — Final-nen-hanging-man.md)*
+- ✅ Nến Shooting Star *(Published — Final-nen-shooting-star.md)*
+- ✅ mô hình nến engulfing *(Published — Final-mo-hinh-nen-engulfing.md)*
+- ✅ nến heikin ashi *(Published — Final-nen-heikin-ashi.md)*
+- ✅ nến pin bar *(Published — Final-nen-pin-bar.md)*
+- ✅ cách đọc biểu đồ nến *(Published — Final-cach-doc-bieu-do-nen.md)*
+- ✅ Mô hình nến búa ngược *(Published — Final-mo-hinh-nen-bua-nguoc.md)*
+- ✅ mô hình 3 chàng lính ngự lâm *(Published — Final-mo-hinh-3-chang-linh-ngu-lam.md)*
 - ⭕ chỉ báo aroon *(Planned)*
-- ⭕ chỉ báo uo *(Planned)*
+- ✅ chỉ báo uo *(Published — Final-chi-bao-uo.md)*
 - ⭕ hành động giá *(Planned)*
-- ⭕ trend following là gì *(Planned)*
-- ⭕ phân kỳ rsi *(Planned)*
+- ✅ trend following là gì *(Published — Final-trend-following-la-gi.md)*
+- ✅ phân kỳ rsi *(Published — Final-phan-ky-rsi.md)*
 - ✅ rsi là gì *(Published — Final-rsi-la-gi.md)*
 - ✅ chỉ báo stochastic rsi là gì *(Published — Final-chi-bao-stochastic-rsi-la-gi.md)*
-- ⭕ phân kỳ ẩn *(Planned)*
+- ✅ phân kỳ ẩn *(Published — Final-phan-ky-an.md)*
 - ⭕ chiến lược giao dịch rsi *(Planned)*
 - ⭕ chỉ báo connor rsi *(Planned)*
-- ⭕ mô hình 2 đáy *(Planned)*
-- ⭕ mô hình 3 đáy *(Planned)*
-- ⭕ mô hình vai đầu vai *(Planned)*
-- ⭕ Mô hình cốc tay cầm *(Planned)*
-- ⭕ mô hình chữ nhật *(Planned)*
-- ⭕ Mô hình cờ đuôi nheo *(Planned)*
-- ⭕ mô hình tam giác *(Planned)*
+- ✅ mô hình 2 đáy *(Published — Final-mo-hinh-2-day.md)*
+- ✅ mô hình 3 đáy *(Published — Final-mo-hinh-3-day.md)*
+- ✅ mô hình vai đầu vai *(Published — Final-mo-hinh-vai-dau-vai.md)*
+- ✅ Mô hình cốc tay cầm *(Published — Final-mo-hinh-coc-tay-cam.md)*
+- ✅ mô hình chữ nhật *(Published — Final-mo-hinh-chu-nhat.md)*
+- ✅ Mô hình cờ đuôi nheo *(Published — Final-mo-hinh-co-duoi-nheo.md)*
+- ✅ mô hình tam giác *(Published — Final-mo-hinh-tam-giac.md)*
 - ⭕ chỉ báo xác định xu hướng *(Planned)*
-- ⭕ biểu đồ kỹ thuật *(Planned)*
-- ⭕ mô hình wyckoff *(Planned)*
+- ✅ biểu đồ kỹ thuật *(Published — Final-bieu-do-ky-thuat.md)*
+- ✅ mô hình wyckoff *(Published — Final-mo-hinh-wyckoff.md)*
 - ⭕ chỉ báo mcdx *(Planned)*
 - ⭕ chỉ báo atr là gì *(Planned)*
-- ⭕ wyckoff là gì *(Planned)*
-- ⭕ chỉ báo supertrend là gì *(Planned)*
+- ✅ wyckoff là gì *(Published — Final-wyckoff-la-gi.md)*
+- ✅ chỉ báo supertrend là gì *(Published — Final-chi-bao-supertrend-la-gi.md)*
 - ⭕ bull trap là gì *(Planned)*
-- ⭕ swing trading *(Planned)*
-- ⭕ Khoảng trống giá là gì *(Planned)*
-- ⭕ kênh giá song song *(Planned)*
+- ✅ swing trading *(Published — Final-swing-trading.md)*
+- ✅ Khoảng trống giá là gì *(Published — Final-khoang-trong-gia-la-gi.md)*
+- ✅ kênh giá song song *(Published — Final-kenh-gia-song-song.md)*
 - ⭕ các phương pháp phân tích kỹ thuật *(Planned)*
-- ⭕ Vùng đỉnh và đáy là gì *(Planned)*
-- ⭕ Phân phối đỉnh là gì *(Planned)*
-- ⭕ spread là gì *(Planned)*
+- ✅ Vùng đỉnh và đáy là gì *(Published — Final-vung-dinh-va-day-la-gi.md)*
+- ✅ Phân phối đỉnh là gì *(Published — Final-phan-phoi-dinh-la-gi.md)*
+- ✅ spread là gì *(Published — Final-spread-la-gi.md)*
 - ✅ hỗ trợ kháng cự là gì *(Published — Final-ho-tro-khang-cu-la-gi.md)*
 - ⭕ chỉ báo roc là gì *(Planned)*
-- ⭕ washout là gì *(Planned)*
+- ✅ washout là gì *(Published — Final-washout-la-gi.md)*
 - ⭕ Đảo chiều xu hướng là gì *(Planned)*
-- ⭕ Ichimoku là gì *(Planned)*
-- ⭕ pullback trading là gì *(Planned)*
-- ⭕ pivot point là gì *(Planned)*
-- ⭕ golden cross là gì *(Planned)*
+- ✅ Ichimoku là gì *(Published — Final-ichimoku-la-gi.md)*
+- ✅ pullback trading là gì *(Published — Final-pullback-trading-la-gi.md)*
+- ✅ pivot point là gì *(Published — Final-pivot-point-la-gi.md)*
+- ✅ golden cross là gì *(Published — Final-golden-cross-la-gi.md)*
 - ✅ chỉ báo dmi *(Published — Final-chi-bao-dmi-la-gi.md)*
-- ⭕ Phân biệt phân tích cơ bản và phân tích kỹ thuật *(Planned)*
+- ✅ Phân biệt phân tích cơ bản và phân tích kỹ thuật *(Published — Final-phan-biet-phan-tich-co-ban-va-phan-tich-ky-thuat.md)*
 - ✅ Sideway là gì *(Published — Final-sideway-la-gi.md)*
-- ⭕ vùng quá mua là gì *(Planned)*
+- ✅ vùng quá mua là gì *(Published — Final-vung-qua-mua-la-gi.md)*
 - ⭕ chỉ báo parabolic sar *(Planned)*
 - ✅ chỉ báo adx *(Published — Final-chi-bao-adx.md)*
-- ⭕ lý thuyết dow *(Planned)*
+- ✅ lý thuyết dow *(Published — Final-ly-thuyet-dow.md)*
 - ✅ breakout trong chứng khoán là gì *(Published — Final-breakout-trong-chung-khoan-la-gi.md)*
 - ⭕ giao dịch theo xu hướng *(Planned)*
-- ⭕ kênh giá là gì *(Planned)*
+- ✅ kênh giá là gì *(Published — Final-kenh-gia-la-gi.md)*
 - ⭕ Bear Trap là gì *(Planned)*
 - ⭕ chỉ báo know sure thing *(Planned)*
 - ⭕ sách phân tích kỹ thuật *(Planned)*
 - ⭕ Chỉ số VIX *(Planned)*
-- ⭕ zero sum game *(Planned)*
-- ⭕ Sự kiện bong bóng hoa tulip *(Planned)*
+- ✅ zero sum game *(Published — Final-zero-sum-game.md)*
+- ✅ Sự kiện bong bóng hoa tulip *(Published — Final-su-kien-bong-bong-hoa-tulip.md)*
 - ⭕ cách nhìn dòng tiền trong chứng khoán *(Planned)*
 - ✅ Đầu tư chứng khoán dài hạn *(Published — Final-dau-tu-chung-khoan-dai-han.md)*
 - ✅ đầu tư chứng khoán ngắn hạn *(Published — Final-dau-tu-chung-khoan-ngan-han.md)*
 - ⭕ đầu tư chứng khoán của Warren Buffett *(Planned)*
 - ✅ day trading là gì *(Published — Final-day-trading-la-gi.md)*
-- ⭕ buy the dip là gì *(Planned)*
+- ✅ buy the dip là gì *(Published — Final-buy-the-dip-la-gi.md)*
 - ⭕ Đầu tư giá trị là gì *(Planned)*
-- ⭕ quy tắc của Richard Rhodes *(Planned)*
+- ✅ quy tắc của Richard Rhodes *(Published — Final-quy-tac-cua-richard-rhodes.md)*
 - ✅ Đầu tư tăng trưởng là gì *(Published — Final-dau-tu-tang-truong-la-gi.md)*
 - ✅ copy trade là gì *(Published — Final-copy-trade-la-gi.md)*
 

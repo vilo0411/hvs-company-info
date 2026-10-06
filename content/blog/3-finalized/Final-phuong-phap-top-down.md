@@ -1,8 +1,8 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["phương pháp top down"]
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 SERP_Research: true
 Target_Keyword: phương pháp top down
 Secondary_Keywords: phương pháp từ trên xuống, phân tích top down, top down là gì, chiến lược top down trong chứng khoán

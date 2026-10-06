@@ -13,8 +13,6 @@ Meta_Description: "SEC là gì? Tìm hiểu vai trò của Ủy ban Chứng kho�
 
 **SEC** là Ủy ban Chứng khoán và Giao dịch Hoa Kỳ, cơ quan quản lý thị trường tài chính lớn nhất thế giới. Việc hiểu rõ cơ chế hoạt động của SEC giúp bạn xây dựng tư duy đầu tư bài bản và an toàn. Trong bài viết này, HVS cung cấp cái nhìn chi tiết về lịch sử hình thành, vai trò giám sát của SEC. Đồng thời, HVS chỉ ra cách áp dụng tinh thần minh bạch thông tin vào thị trường chứng khoán Việt Nam để bảo vệ nguồn vốn của bạn.
 
----
-
 ## SEC là gì? Lịch sử hình thành Ủy ban Chứng khoán Mỹ
 
 **SEC (Securities and Exchange Commission) là Ủy ban Chứng khoán và Giao dịch Hoa Kỳ, cơ quan chính phủ liên bang độc lập chịu trách nhiệm giám sát và thực thi luật pháp liên quan đến thị trường chứng khoán Mỹ.**
@@ -80,8 +78,6 @@ Checklist hành động dành cho bạn:
 - Thảo luận kịch bản trên **HVS Forum**.
 
 **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-08-28):** Khởi tạo Outline bài viết "sec là gì" theo chuẩn Express Mode, tích hợp phân tích SERP chi tiết.

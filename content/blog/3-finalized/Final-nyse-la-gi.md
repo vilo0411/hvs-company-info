@@ -15,8 +15,6 @@ NYSE là gì là câu hỏi phổ biến của nhiều bạn khi mới bước c
 
 Để hỗ trợ bạn xây dựng tư duy phân tích thực chiến, HVS cung cấp tài liệu phân tích chi tiết về Sở Giao dịch Chứng khoán New York. Bài viết sẽ làm rõ lịch sử hình thành, cơ chế khớp lệnh thực tế và định hướng phương pháp tiếp cận an toàn cho nhà đầu tư tại Việt Nam.
 
----
-
 ## NYSE là gì và lịch sử hình thành
 
 NYSE (New York Stock Exchange) là Sở Giao dịch Chứng khoán New York, có trụ sở tại số 11 phố Wall, Mỹ. Sàn nắm giữ vị thế lớn nhất thế giới về tổng vốn hóa thị trường niêm yết.
@@ -29,8 +27,6 @@ Trải qua nhiều thế kỷ phát triển, sở giao dịch chứng khoán nà
 
 Ủy ban Giao dịch và Chứng khoán Mỹ (SEC) giám sát hoạt động của sàn để bảo vệ nhà đầu tư. Sàn áp dụng các tiêu chuẩn kiểm duyệt tài chính khắt khe. Ví dụ, doanh nghiệp cần đạt lợi nhuận trước thuế 10 triệu USD trong 3 năm gần nhất và vốn hóa trên 100 triệu USD. Quy định chặt chẽ này giúp sàn duy trì uy tín hơn hai thế kỷ qua.
 
----
-
 ## Cơ chế vận hành và thời gian giao dịch trên sàn NYSE
 
 Sở Giao dịch New York vận hành theo cơ chế thị trường lai kết hợp đấu giá trực tiếp tại sàn và điện tử tự động. Mô hình này tối ưu tốc độ khớp lệnh và thanh khoản cổ phiếu. Nhà tạo lập thị trường được chỉ định (DMM) giúp duy trì thanh khoản ổn định, hạn chế biến động giá.
@@ -42,8 +38,6 @@ Giờ giao dịch của sàn quy định cụ thể như sau:
 4. Tiếng chuông kết thúc phiên vang lên vào đúng 16h00 chiều để đóng hệ thống và xác định giá đóng cửa.
 
 Sàn giao dịch nghỉ làm việc vào các ngày lễ liên bang của Mỹ. Nếu ngày lễ rơi vào thứ Bảy, sàn nghỉ giao dịch từ thứ Sáu trước đó. Trường hợp ngày lễ rơi vào Chủ Nhật, sàn đóng cửa vào thứ Hai tuần tiếp theo để đảm bảo đúng quy định.
-
----
 
 ## So sánh sàn NYSE và sàn NASDAQ
 
@@ -61,8 +55,6 @@ Bảng so sánh thông số kỹ thuật chính giữa hai sàn:
 
 NYSE phù hợp nếu bạn tìm kiếm sự ổn định từ cổ phiếu lớn như Coca-Cola. Ngược lại, NASDAQ tập trung cơ hội lướt sóng nhóm công nghệ tăng trưởng như Apple. Hiểu đặc thù từng sàn giúp bạn phân bổ nguồn vốn hợp lý.
 
----
-
 ## Rào cản và cơ hội cho bạn khi tiếp cận cổ phiếu sàn NYSE
 
 Nhiều bạn muốn sở hữu cổ phiếu niêm yết sàn NYSE nhưng rào cản pháp lý Việt Nam rất lớn. Pháp luật hiện hành cấm cá nhân tự ý chuyển tiền ra nước ngoài đầu tư chứng khoán trực tiếp. Điều này khiến nhiều người mạo hiểm giao dịch qua các sàn phái sinh không phép.
@@ -76,8 +68,6 @@ Giao dịch phái sinh này tiềm ẩn rủi ro pháp lý lớn và không đư
 
 Lộ trình kết hợp này sẽ giúp bạn nhanh chóng xây dựng phương pháp đầu tư bài bản trước khi tham gia thị trường thật. Việc làm chủ kiến thức phân tích sẽ bảo vệ dòng vốn của bạn an toàn.
 
----
-
 ## Kết luận
 
 Hiểu rõ NYSE là gì giúp bạn mở rộng tư duy tài chính toàn cầu. Mặc dù chứng khoán Mỹ rất hấp dẫn, nhưng việc đầu tư chứng khoán Việt Nam là lựa chọn thực tế nhất cho bạn ở hiện tại. Hãy tập trung tích lũy kỹ năng phân tích bài bản thay vì tìm kiếm lợi nhuận nhanh chóng.
@@ -90,8 +80,6 @@ Checklist hành động dành cho bạn:
 - Thảo luận kịch bản tại **HVS Forum**.
 
 **Tuyên bố miễn trừ trách nhiệm:** Nội dung chỉ nhằm mục đích học tập tại HVS, không cấu thành lời khuyên đầu tư. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-08-28):** Khởi tạo Outline bài viết "nyse là gì" theo chuẩn Express Mode, có tích hợp phân tích SERP.

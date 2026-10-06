@@ -1,21 +1,13 @@
 ---
 name: Raw Content Processing
-description: Chuẩn hóa dữ liệu thô (HTML/Text) sang Markdown hoặc Outline. Kích hoạt bằng lệnh `/raw [path]` trước khi đưa vào pipeline tối ưu hoặc chi tiết.
+description: Chuẩn hóa dữ liệu thô (HTML/text/Google Docs export) sang Markdown hoặc Outline. Kích hoạt bởi /raw.
 ---
 
-# Workflow: Raw Content Processing (/raw)
+# Rule: Raw Content Processing
 
-Clean up HTML snippets, plain text, or poorly named files to prepare them for the optimization pipeline.
-
-## Detailed Steps
-1. **Source Detection:** Identify the input content (HTML, plain text, or poorly named file) in `0-raw/`.
-2. **Conversion:** 
-   - Strip HTML tags while preserving structure.
-   - Normalize formatting to standard Markdown.
-3. **Metadata Inference:** Infer Target_Keyword and Persona, then create YAML frontmatter.
-4. **Renaming & Routing:** 
-   - If content is **Unstructured/Full article**: Save as `Raw-[slug].md` in `content/blog/0-raw/`.
-   - If content is a **Structured Outline**: Save as `Outline-[slug].md` in `content/blog/1-outlines/`.
-5. **Reporting:** 
-   - For `Raw-` files: Update status to **Processed** in `Content Inventory`.
-   - For `Outline-` files: Create a new entry in the **Active Pipeline** section of `progress-log.md`.
+1. **Tên file:** mọi file trong `content/blog/0-raw/` phải là `Raw-<slug>.md` — `python scripts/normalize_raw.py --apply` làm việc này, giữ tiêu đề gốc trong YAML `Source_Title`.
+2. **Chuyển đổi:** strip HTML giữ heading; Markdown chuẩn; loại `---`, LaTeX, `file:///`, ngoặc kép nhấn mạnh (chạy `qa_lint.py --fix` cho phần cơ học).
+3. **YAML:** `Author`, `Status: Raw | Processed`, `Source_Title`, `Imported`, `Target_Keyword`, `Persona`, `Search_Intent`.
+4. **Routing:** bài đầy đủ → ở lại `0-raw/`; outline có cấu trúc → `1-outlines/Outline-<slug>.md` (thêm `Word_Count` từng H2).
+5. **Trạng thái:** `topic_status.py --find` → `--set "In Progress"` hoặc `--add`. Không sửa `progress-log.md` tay (`sprint_status.py --sync` tự đếm).
+6. Bước tiếp: `/optimize` (bài đầy đủ) hoặc `/approve` (outline).

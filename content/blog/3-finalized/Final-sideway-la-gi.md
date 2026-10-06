@@ -114,7 +114,7 @@ Phương pháp này áp dụng khi kênh giá Sideway có biên độ đủ rộ
 
 #### Chiến lược 2: Kiên nhẫn đứng ngoài chờ bứt phá (Breakout Strategy)
 Đối với nhà đầu tư có khẩu vị rủi ro an toàn, chiến lược tối ưu nhất trong thị trường đi ngang là kiên nhẫn nắm giữ tiền mặt.
-- **Điều kiện mua:** Chỉ mở vị thế mua mới khi xuất hiện [hiện tượng breakout](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-breakout-trong-chung-khoan-la-gi.md) - tức là giá đóng cửa bứt phá hoàn toàn khỏi vùng kháng cự trên của kênh Sideway.
+- **Điều kiện mua:** Chỉ mở vị thế mua mới khi xuất hiện [hiện tượng breakout](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/breakout-trong-chung-khoan-la-gi) - tức là giá đóng cửa bứt phá hoàn toàn khỏi vùng kháng cự trên của kênh Sideway.
 - **Xác nhận dòng tiền:** Phiên bứt phá bắt buộc phải đi kèm khối lượng giao dịch tăng đột biến, gấp 1,5 đến 2 lần mức trung bình 20 phiên. Điều này xác nhận dòng tiền lớn đã nhập cuộc để đẩy giá vào xu hướng tăng mới.
 
 ## Thực hành nhận biết Sideway không rủi ro tại HVS Demo & HVS Thực tập số
@@ -137,8 +137,6 @@ Sideway là giai đoạn thị trường tích lũy năng lượng và cân bằ
 - Thực hành phân tích kỹ thuật và kiểm tra kịch bản giao dịch trên nền tảng **HVS Tài chính số** cùng công cụ **HVS Demo** để làm chủ kỹ năng quản trị vốn.
 
 > **Tuyên bố miễn trừ trách nhiệm:** Thông tin trong bài viết mang tính chất giáo dục và tham khảo tri thức đầu tư, không phải lời khuyên đầu tư hay khuyến nghị mua bán chứng khoán.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-09-14):** Khởi tạo outline chuẩn SEO cho từ khóa "Sideway là gì" dựa trên nghiên cứu SERP thực tế và các quy tắc nội dung HVS.

@@ -19,7 +19,7 @@ Cổ phiếu FRT là chứng chỉ sở hữu cổ phần của Công ty Cổ ph
 
 FPT Retail bắt đầu niêm yết trên sàn HOSE từ năm 2018 dưới mã chứng khoán FRT. Sau nhiều năm cạnh tranh khốc liệt trong ngành bán lẻ kỹ thuật số, doanh nghiệp mở rộng sang thị trường dược phẩm đầy tiềm năng từ cuối năm 2017 thông qua việc mua lại chuỗi cửa hàng bán lẻ thuốc Long Châu. Hiện nay, cơ cấu đóng góp doanh thu của FRT có sự dịch chuyển mạnh mẽ. Chuỗi Long Châu vươn lên thành động lực tăng trưởng cốt lõi, bù đắp cho sự sụt giảm biên lợi nhuận của mảng phân phối thiết bị công nghệ thông tin (ICT) vốn chịu ảnh hưởng bởi sức mua suy yếu.
 
-Đối với bạn khi theo dõi [cổ phiếu ngành bán lẻ](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-phieu-nganh-ban-le.md), FRT đại diện cho nhóm cổ phiếu bán lẻ có tính chu kỳ kết hợp yếu tố phòng thủ từ ngành dược. Doanh nghiệp này sở hữu lợi thế lớn về thương hiệu từ Tập đoàn FPT và khả năng quản lý chuỗi cung ứng bằng công nghệ. Vốn hóa của FRT thuộc nhóm cổ phiếu trung bình lớn (mid-cap), thu hút các quỹ đầu tư lớn nhờ triển vọng mở rộng chuỗi nhà thuốc Long Châu trên phạm vi toàn quốc.
+Đối với bạn khi theo dõi [cổ phiếu ngành bán lẻ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-nganh-ban-le), FRT đại diện cho nhóm cổ phiếu bán lẻ có tính chu kỳ kết hợp yếu tố phòng thủ từ ngành dược. Doanh nghiệp này sở hữu lợi thế lớn về thương hiệu từ Tập đoàn FPT và khả năng quản lý chuỗi cung ứng bằng công nghệ. Vốn hóa của FRT thuộc nhóm cổ phiếu trung bình lớn (mid-cap), thu hút các quỹ đầu tư lớn nhờ triển vọng mở rộng chuỗi nhà thuốc Long Châu trên phạm vi toàn quốc.
 
 ## Phân tích động lực bứt phá doanh thu của cổ phiếu FRT
 
@@ -44,11 +44,11 @@ Mặc dù có điểm sáng kinh doanh, bạn cần thận trọng với định
 | Biên lợi nhuận gộp | ~21% - 23% | ~17% - 19% |
 | Lợi nhuận | Đã ghi nhận lãi ròng | Đang tối ưu hóa chi phí |
 
-Bảng số liệu cho thấy Long Châu vượt trội về quy mô và hiệu quả doanh thu, giải thích vì sao dòng tiền định giá FRT cao. Tuy nhiên, mảng FPT Shop đã bão hòa và chịu cạnh tranh gay gắt về giá. Khi tìm hiểu [cách mua cổ phiếu MWG](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-cach-mua-co-phieu-mwg.md), bạn sẽ nhận thấy bài toán tối ưu hóa chi phí cửa hàng ICT cũng đang được đối thủ lớn áp dụng để bảo vệ biên lợi nhuận gộp.
+Bảng số liệu cho thấy Long Châu vượt trội về quy mô và hiệu quả doanh thu, giải thích vì sao dòng tiền định giá FRT cao. Tuy nhiên, mảng FPT Shop đã bão hòa và chịu cạnh tranh gay gắt về giá. Khi tìm hiểu [cách mua cổ phiếu MWG](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-mua-co-phieu-mwg), bạn sẽ nhận thấy bài toán tối ưu hóa chi phí cửa hàng ICT cũng đang được đối thủ lớn áp dụng để bảo vệ biên lợi nhuận gộp.
 
 ## Kịch bản phân tích giả lập và lập kế hoạch theo dõi cổ phiếu FRT
 
-Xây dựng kịch bản giao dịch giả lập giúp bạn chủ động quản trị rủi ro trước biến động của cổ phiếu FRT. So với nhóm phòng thủ như khi tìm hiểu [Có nên mua cổ phiếu POW](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-nen-mua-co-phieu-pow.md), biến động của FRT mang tính đầu cơ cao hơn rất nhiều, đòi hỏi bạn phải liên tục theo sát và kiểm soát tâm lý giao dịch chặt chẽ.
+Xây dựng kịch bản giao dịch giả lập giúp bạn chủ động quản trị rủi ro trước biến động của cổ phiếu FRT. So với nhóm phòng thủ như khi tìm hiểu [Có nên mua cổ phiếu POW](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-nen-mua-co-phieu-pow), biến động của FRT mang tính đầu cơ cao hơn rất nhiều, đòi hỏi bạn phải liên tục theo sát và kiểm soát tâm lý giao dịch chặt chẽ.
 
 **Kịch bản tích cực (Giả lập tăng trưởng):**
 Giả định mảng FPT Shop phục hồi có lãi nhanh hơn dự kiến kết hợp chuỗi Long Châu tăng trưởng doanh thu vượt 35%. Trong kịch bản này, giá cổ phiếu có thể nới rộng đà tăng. Bạn không nên mua đuổi ở nhịp tăng nóng liên tục mà hãy đợi cổ phiếu xuất hiện nhịp thoái lui kỹ thuật lành mạnh về các vùng hỗ trợ gần nhất như 145.000 VNĐ hoặc đường MA50 ngày để thực hành lên kế hoạch giải ngân giả định trên tài khoản ảo. Việc lập danh mục theo dõi và kích hoạt lệnh mua thử nghiệm tại vùng hỗ trợ giúp bạn quen thuộc với thao tác đặt lệnh trước khi thị trường bước vào xu hướng tăng rõ rệt.
@@ -65,8 +65,6 @@ Phân tích doanh nghiệp bán lẻ phức tạp như FRT luôn là thử thác
 Để nâng cao năng lực đọc hiểu báo cáo tài chính, chương trình đào tạo **HVS Thực tập số** thuộc nền tảng **HVS Tài chính số** cung cấp lộ trình thực chiến Phân tích cơ bản (FA Level 1). Lộ trình giúp bạn tự định giá cổ phiếu FRT dựa trên các kịch bản doanh thu thực tế. Đồng thời, bạn có thể kiểm chứng kỹ năng bằng cách đặt lệnh mua bán trải nghiệm không rủi ro trên hệ thống **HVS Demo** và tiến hành trao đổi danh mục đầu tư cùng cộng đồng tại **HVS Forum**.
 
 > **Mọi phân tích và kịch bản giả lập trong bài viết này chỉ phục vụ mục đích học tập và thực hành phân tích chứng khoán tại HVS, không cấu thành khuyến nghị đầu tư. Bạn tự chịu trách nhiệm trước các quyết định tài chính của mình.**
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-09):** Khởi tạo outline chi tiết dựa trên phân tích thực tế SERP bởi Antigravity.

@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Claude Code
 aliases: ["cổ phiếu là gì"]
 Status: Finalized
@@ -37,8 +37,6 @@ Nhiều người đã nghe tên VCB, HPG, VNM hàng chục lần — nhưng khi 
 
 Bài này đi từ bản chất của cổ phiếu, cách nó hoạt động trên thị trường, đến những việc thực tế bạn cần chuẩn bị trước khi đặt lệnh mua lần đầu.
 
----
-
 ## Cổ phiếu là gì?
 
 Cổ phiếu là chứng chỉ xác nhận quyền sở hữu một phần vốn tại doanh nghiệp. Khi bạn mua cổ phiếu VCB, bạn trở thành cổ đông của Vietcombank — tức là đồng sở hữu một phần tài sản và lợi nhuận của ngân hàng này.
@@ -49,8 +47,6 @@ Tại Việt Nam, hầu hết [chứng khoán](https://taichinhso.hvsvn.com/dau-
 
 Nếu bạn mua 100 cổ phiếu HPG ở mức giá 25.000đ/cp, bạn bỏ ra 2,5 triệu đồng và sở hữu 100 phần nhỏ trong tổng vốn của Tập đoàn Hòa Phát. Khi Hòa Phát kinh doanh tốt, giá cổ phiếu tăng và bạn hưởng lợi. Khi kết quả kinh doanh xấu đi, giá giảm và giá trị khoản đầu tư của bạn cũng giảm theo.
 
----
-
 ## Cổ phiếu hoạt động như thế nào?
 
 Một doanh nghiệp phát hành cổ phiếu lần đầu thông qua **IPO (Initial Public Offering)** — tức là mở bán cổ phần ra công chúng để huy động vốn. Sau khi IPO xong, cổ phiếu được niêm yết trên sàn và các nhà đầu tư bắt đầu mua bán với nhau.
@@ -60,8 +56,6 @@ Giá cổ phiếu hình thành theo cung cầu: nhiều người muốn mua → 
 Sàn HOSE mở cửa từ 9h–14h30, từ thứ 2 đến thứ 6 (trừ ngày lễ). Trong khung giờ đó, bạn có thể đặt lệnh mua hoặc bán bất kỳ lúc nào — hệ thống sàn tự động khớp lệnh.
 
 VCB IPO năm 2007 với giá phát hành khoảng 20.000đ/cp. Đến năm 2024, giá VCB dao động quanh vùng 85.000–90.000đ/cp. Nhà đầu tư giữ từ đầu (và tái đầu tư cổ tức) có thể tăng tài sản gấp 4–5 lần sau gần 17 năm — đó là sức mạnh của cổ phiếu doanh nghiệp chất lượng nắm dài hạn.
-
----
 
 ## Cổ phiếu sinh lời bằng cách nào?
 
@@ -79,8 +73,6 @@ VCB năm 2023 trả cổ tức bằng cổ phiếu với tỷ lệ 49,5% — t�
 
 Lưu ý quan trọng: không phải doanh nghiệp nào cũng trả cổ tức đều đặn. Nhiều công ty tăng trưởng chọn tái đầu tư toàn bộ lợi nhuận thay vì chia cổ tức.
 
----
-
 ## Các loại cổ phiếu trên thị trường Việt Nam
 
 **Cổ phiếu thường (Common stock):** Loại phổ biến nhất. Cổ đông có quyền biểu quyết tại đại hội cổ đông và hưởng cổ tức tùy kết quả kinh doanh. Toàn bộ mã bluechip như VCB, VNM, HPG đều là cổ phiếu thường.
@@ -91,8 +83,6 @@ Ngoài ra, thị trường hay phân loại theo vốn hóa và thanh khoản:
 
 - **Bluechip:** VCB, VNM, FPT, MWG — vốn hóa lớn, thanh khoản cao, biến động ổn định hơn
 - **[Cổ phiếu penny](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-penny-la-gi):** Vốn hóa nhỏ, giá thấp, biến động rất mạnh — tiềm năng lớn nhưng rủi ro cũng lớn
-
----
 
 ## Cổ phiếu khác trái phiếu như thế nào?
 
@@ -106,8 +96,6 @@ Ví dụ cụ thể: một trái phiếu doanh nghiệp kỳ hạn 3 năm lãi s
 
 Tóm gọn: cổ phiếu phù hợp hơn khi bạn chấp nhận rủi ro để kỳ vọng lợi nhuận cao; trái phiếu phù hợp hơn khi bạn ưu tiên bảo toàn vốn và dòng tiền ổn định.
 
----
-
 ## Bắt đầu mua cổ phiếu lần đầu — làm như thế nào?
 
 Biết lý thuyết là một chuyện. Khi thật sự ngồi vào giao diện giao dịch lần đầu, nhiều F0 vẫn bị lúng túng: đặt lệnh ATO hay LO? Chọn khối lượng thế nào? Mua lúc nào trong phiên là hợp lý?
@@ -118,14 +106,10 @@ Cách thực tế nhất để tránh điều này: **luyện tập trước tr�
 
 Khi gặp thuật ngữ lạ hoặc cần xác nhận một phân tích, HVS Forum có đội ngũ chuyên gia HVS và cộng đồng nhà đầu tư sẵn sàng giải đáp — khác với nhiều diễn đàn chứng khoán thông thường hay có tình trạng "phím hàng" thiếu căn cứ.
 
----
-
 ## Điều quan trọng cần nhớ
 
 Cổ phiếu không phức tạp khi bạn hiểu đúng bản chất: bạn đang mua **một phần doanh nghiệp**, không phải mua một con số trên màn hình. Giá lên hay xuống phản ánh kỳ vọng của thị trường về tương lai kinh doanh của doanh nghiệp đó.
 
 Trước khi [nên đầu tư cổ phiếu nào](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/nen-dau-tu-co-phieu-nao), hãy làm quen với cơ chế thị trường trước. Thử ngay HVS Demo — miễn phí, không cần nạp tiền thật. Đặt vài lệnh thử, quan sát một vài phiên giao dịch thực tế — bạn sẽ tự tin hơn nhiều khi bắt đầu bằng tiền thật.
-
----
 
 *Meta description: Cổ phiếu là gì? Tìm hiểu bản chất, cơ chế sinh lời, các loại cổ phiếu và cách bắt đầu đầu tư an toàn cho người mới — đầy đủ, thực chiến, không lý thuyết suông.*

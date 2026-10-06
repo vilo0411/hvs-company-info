@@ -53,8 +53,6 @@ Internal_Links:
 
 Đầu tư cổ phiếu ngành du lịch đang đứng trước cơ hội bứt phá nhờ sự trở lại của dòng khách quốc tế. Bài viết bóc tách sâu chuỗi giá trị ngành, cung cấp danh mục mã tiềm năng và chiến lược quản trị rủi ro chu kỳ cùng HVS.
 
----
-
 ## Cổ phiếu ngành du lịch là gì? Bản chất nhóm thầu dịch vụ không khói
 
 **Cổ phiếu ngành du lịch là chứng chỉ sở hữu phần vốn góp tại các doanh nghiệp hoạt động kinh doanh lữ hành, dịch vụ lưu trú khách sạn, resort nghỉ dưỡng hoặc vận tải du lịch biển, sở hữu chu kỳ hoạt động phụ thuộc cực lớn vào sức mua xã hội và lưu lượng khách quốc tế.**
@@ -73,8 +71,6 @@ Dưới đây là bảng phân tách cấu trúc cơ bản giữa các phân kh�
 
 Trước khi đi sâu vào bóc tách các chỉ số tài chính chuyên sâu của từng doanh nghiệp du lịch cụ thể, bạn nên củng cố lại toàn bộ nền tảng kiến thức cốt lõi tại bài chia sẻ [cổ phiếu là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-phieu-la-gi.md).
 
----
-
 ## Động lực thúc đẩy chu kỳ bứt phá mới của ngành du lịch
 
 Hoạt động kinh doanh của nhóm ngành du lịch đang đứng trước cơ hội mở ra một chu kỳ phục hồi mạnh mẽ nhờ sự đồng thuận của nhiều biến số vĩ mô tích cực dưới đây:
@@ -92,8 +88,6 @@ Tổng cục Du lịch Việt Nam phối hợp chặt chẽ với các cơ quan 
 Hành vi tiêu dùng của tệp khách hàng trẻ tuổi (Millennials và Gen Z) đã dịch chuyển rõ rệt từ tích lũy tài sản vật chất sang chi tiêu cho các hoạt động trải nghiệm thực tế. Họ sẵn sàng chi trả mức giá phòng cao tại các resort thân thiện môi trường hoặc các tour khám phá độc bản để đổi lấy trải nghiệm sống độc đáo. Sự dịch chuyển hành vi này giúp các doanh nghiệp du lịch tăng trưởng mạnh chỉ số RevPAR (Doanh thu trên mỗi phòng có sẵn) mà không phụ thuộc vào chiến dịch giảm giá cạnh tranh khốc liệt. Khi chỉ số RevPAR tăng trưởng đồng pha với công suất phòng sử dụng thực tế, biên gộp kỹ thuật của mảng lưu trú sẽ ghi nhận mức cải thiện vượt trội từ 5% đến 8% chỉ trong một chu kỳ báo cáo ngắn hạn.
 
 Để chủ động nhận diện thời điểm vàng khi dòng tiền thông minh bắt đầu xoay trục sang nhóm ngành dịch vụ này, bạn hãy tìm hiểu sâu sắc bài hướng dẫn [phương pháp phân tích ngành](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-phan-tich-nganh-la-gi.md).
-
----
 
 ## Danh sách các mã cổ phiếu ngành du lịch tiềm năng nhất hiện nay
 
@@ -140,9 +134,7 @@ Tập đoàn Khách sạn Đông Á sở hữu chuỗi tổ hợp khách sạn l
 #### Rủi ro đầu tư
 DAH gánh chịu tỷ lệ đòn bẩy tài chính tương đối cao với các khoản nợ vay ngắn hạn tài trợ cho dự án xây dựng lớn, nợ phải trả chiếm hơn 55% nguồn vốn chủ sở hữu. Công suất lấp đầy phòng tại các khách sạn tỉnh biến động thất thường và thường xuyên duy trì dưới 40% do hạn chế về lưu lượng khách du lịch thuần túy tại Thái Nguyên, khiến doanh nghiệp chịu áp lực thanh toán lãi vay đè nặng.
 
-Để nâng cao năng lực bóc tách chất lượng tài sản thực tế của doanh nghiệp, giúp bạn tự tin loại bỏ các mã cổ phiếu yếu kém trước khi đưa ra quyết định giải ngân, hãy tham khảo cẩm nang [chọn mã cổ phiếu tốt](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-nen-dau-tu-co-phieu-nao.md).
-
----
+Để nâng cao năng lực bóc tách chất lượng tài sản thực tế của doanh nghiệp, giúp bạn tự tin loại bỏ các mã cổ phiếu yếu kém trước khi đưa ra quyết định giải ngân, hãy tham khảo cẩm nang [chọn mã cổ phiếu tốt](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/nen-dau-tu-co-phieu-nao).
 
 ## Rủi ro chu kỳ và chiến lược quản trị dòng tiền thực chiến
 
@@ -180,10 +172,8 @@ graph TD
 
 *   **Bóc tách điểm hòa vốn hoạt động thực tế:** Bạn có thể tính toán điểm hòa vốn công suất phòng để kiểm chứng sức sống doanh nghiệp lưu trú. Ví dụ: Một resort có chi phí cố định là 2 tỷ đồng/tháng và biến phí là 500.000 đồng/phòng. Nếu giá phòng bình quân (ADR) đạt 3.000.000 đồng/đêm, số phòng cần lấp đầy để hòa vốn là: `2 tỷ / (3 triệu - 500k) = 800 phòng-đêm/tháng`. Đối với khu nghỉ dưỡng có quy mô 50 phòng, công suất tối thiểu hòa vốn sẽ là: `800 / (50 * 30) = 53,3%`. Mức công suất vượt ngưỡng 53,3% này sẽ chuyển hóa doanh thu tăng thêm thành lợi nhuận ròng nhờ đòn bẩy hoạt động.
 *   **Bóc tách dòng tiền hoạt động kinh doanh thực chất:** Khi nghiên cứu báo cáo tài chính của doanh nghiệp du lịch, bạn hãy tập trung thẩm định chỉ số dòng tiền hoạt động kinh doanh (CFO) thay vì chỉ nhìn vào chỉ số lợi nhuận sau thuế ghi nhận trên sổ sách kế toán. Một doanh nghiệp du lịch có sức khỏe tài chính thực chất phải có CFO liên tục dương mạnh mẽ, chứng tỏ tiền phí dịch vụ thu về bằng tiền mặt thực tế thay vì bị chiếm dụng dưới dạng các khoản phải thu ngắn hạn lớn.
-*   **Tránh đầu cơ lướt sóng ngắn hạn theo mùa vụ cao điểm:** F0 thường mắc sai lầm lớn khi mua đuổi cổ phiếu du lịch vào đỉnh điểm mùa hè khi các tin tức truyền thông đưa tin lưu lượng khách đông đúc. Thực tế, giá cổ phiếu thường đã phản ánh toàn bộ kỳ vọng từ trước đó hàng quý. Việc lướt sóng ngắn hạn theo tin tức mùa vụ này chỉ tạo ra các khoản thua lỗ lớn cho bạn về phí thuế giao dịch do đặc tính biến động thất thường của nhóm ngành này. Bạn nên phân tách rõ nét sự khác biệt giữa dòng tiền đầu tư thực chất và dòng tiền nóng qua cẩm nang về [cổ phiếu đầu cơ](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-co-phieu-dau-co.md).
-*   **Kỷ luật quản trị cảm xúc vĩ mô:** Luôn giữ vững sự bình tĩnh khách quan để đưa ra quyết định dựa trên các số liệu định lượng thực tế, tuyệt đối không đặt lệnh giao dịch dựa theo đám đông hỗn loạn xung quanh để tránh rơi vào các cạm bẫy [tâm lý đầu tư chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-tam-ly-dau-tu-chung-khoan.md) kinh điển.
-
----
+*   **Tránh đầu cơ lướt sóng ngắn hạn theo mùa vụ cao điểm:** F0 thường mắc sai lầm lớn khi mua đuổi cổ phiếu du lịch vào đỉnh điểm mùa hè khi các tin tức truyền thông đưa tin lưu lượng khách đông đúc. Thực tế, giá cổ phiếu thường đã phản ánh toàn bộ kỳ vọng từ trước đó hàng quý. Việc lướt sóng ngắn hạn theo tin tức mùa vụ này chỉ tạo ra các khoản thua lỗ lớn cho bạn về phí thuế giao dịch do đặc tính biến động thất thường của nhóm ngành này. Bạn nên phân tách rõ nét sự khác biệt giữa dòng tiền đầu tư thực chất và dòng tiền nóng qua cẩm nang về [cổ phiếu đầu cơ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-dau-co).
+*   **Kỷ luật quản trị cảm xúc vĩ mô:** Luôn giữ vững sự bình tĩnh khách quan để đưa ra quyết định dựa trên các số liệu định lượng thực tế, tuyệt đối không đặt lệnh giao dịch dựa theo đám đông hỗn loạn xung quanh để tránh rơi vào các cạm bẫy [tâm lý đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan) kinh điển.
 
 ## Nâng cao năng lực chọn lọc cổ phiếu du lịch thực chiến cùng HVS
 
@@ -197,8 +187,6 @@ HVS tin rằng chỉ có con đường giáo dục và đào tạo thực chất
 *   **HVS Demo:** Sàn giao dịch giả lập không rủi ro tài chính. Đây là môi trường hoàn hảo để bạn thực hành áp dụng những kiến thức đã học vào thực tế, thử nghiệm xây dựng và kiểm chứng hiệu quả sinh lời của danh mục đầu tư du lịch trước khi chính thức tham gia thị trường thực chất với số vốn thật.
 
 Chương trình đào tạo thực tế HVS Thực tập số và cổng tri thức HVS Forum là giải pháp giáo dục cốt lõi giúp thay đổi tư duy đầu tư của bạn từ một người đầu cơ cảm tính thành một nhà phân tích thực thụ. Hãy bắt đầu con đường học hỏi nâng cao năng lực đầu tư của mình cùng HVS ngay hôm nay.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 

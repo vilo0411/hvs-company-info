@@ -23,7 +23,7 @@ Bán đúng đáy vì lầm tưởng cổ phiếu đã gãy xu hướng là kị
 
 **Bear Trap (bẫy giảm giá) là tín hiệu kỹ thuật giả lập xu hướng giảm, xuất hiện khi giá cổ phiếu đâm thủng ngưỡng hỗ trợ quan trọng khiến nhà đầu tư vội vàng bán tháo, nhưng ngay sau đó giá lập tức đảo chiều phục hồi mạnh và tiếp tục xu hướng tăng ban đầu.**
 
-Trong phân tích kỹ thuật, bẫy giảm giá tạo ra một nhịp phá vỡ giả (False Breakout). Khi cổ phiếu rơi xuống dưới đường hỗ trợ cứng (ví dụ: đáy cũ hoặc đường trung bình MA50), biểu đồ phát đi tín hiệu cảnh báo xu hướng gãy đổ. Nhìn thấy cây nến đỏ đâm thủng ngưỡng an toàn, nhà đầu tư cá nhân thường hoảng loạn kích hoạt quyết định [cắt lỗ chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-cat-lo-la-gi.md) nhằm bảo vệ vốn.
+Trong phân tích kỹ thuật, bẫy giảm giá tạo ra một nhịp phá vỡ giả (False Breakout). Khi cổ phiếu rơi xuống dưới đường hỗ trợ cứng (ví dụ: đáy cũ hoặc đường trung bình MA50), biểu đồ phát đi tín hiệu cảnh báo xu hướng gãy đổ. Nhìn thấy cây nến đỏ đâm thủng ngưỡng an toàn, nhà đầu tư cá nhân thường hoảng loạn kích hoạt quyết định [cắt lỗ chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cat-lo-la-gi) nhằm bảo vệ vốn.
 
 Tuy nhiên, ngay sau khi áp lực bán tháo của F0 hạ nhiệt, lực cầu từ các nhà đầu tư lớn bất ngờ nhập cuộc. Giá cổ phiếu bật tăng trở lại vượt lên trên ngưỡng hỗ trợ chỉ sau 1 đến 2 phiên giao dịch. Những người vừa bán tháo ngậm ngùi nhìn cổ phiếu thiết lập đỉnh mới mà không thể quay lại vị thế ban đầu.
 
@@ -54,7 +54,7 @@ Ngược lại, nếu giá cổ phiếu đâm thủng đường hỗ trợ nhưn
 ### Mô hình nến đảo chiều tại vùng hỗ trợ
 Khi giá xuyên thủng ngưỡng hỗ trợ nhưng nhanh chóng kéo ngược lên trong phiên hoặc phiên kế tiếp, biểu đồ sẽ xuất hiện các hình thái nến đặc trưng:
 - **Nến búa (Hammer) hoặc Pin Bar:** Nến có thân nhỏ ở phần trên và bóng nến dưới rất dài, thể hiện lực cầu bắt đáy mạnh mẽ đã từ chối mức giá thấp.
-- **Nến nhấn chìm tăng (Bullish Engulfing):** Một cây nến xanh tăng mạnh xuất hiện ngay sau cây nến đỏ thủng hỗ trợ, phủ kín toàn bộ thân nến giảm trước đó và khôi phục lại [xu hướng bullish](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-bullish-la-gi.md).
+- **Nến nhấn chìm tăng (Bullish Engulfing):** Một cây nến xanh tăng mạnh xuất hiện ngay sau cây nến đỏ thủng hỗ trợ, phủ kín toàn bộ thân nến giảm trước đó và khôi phục lại [xu hướng bullish](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/bullish-la-gi).
 
 ### Chỉ báo động lượng xuất hiện phân kỳ dương
 Sử dụng chỉ báo RSI (Relative Strength Index) hoặc MACD là phương pháp hiệu quả để phát hiện bẫy:
@@ -77,7 +77,7 @@ Bear Trap và Bull Trap là hai cái bẫy kỹ thuật trái ngược nhau trê
 Để tránh rơi vào bẫy giảm giá và mất vị thế cổ phiếu tiềm năng, bạn nên tuân thủ 4 nguyên tắc giao dịch kỷ luật:
 
 1. **Không hành động vội vàng tại phiên đâm thủng:** Tránh bán cổ phiếu ngay khi giá vừa chạm hoặc chớm đâm thủng vùng hỗ trợ trong phiên. Hãy kiên nhẫn chờ nến đóng cửa hoặc quan sát thêm phiên giao dịch tiếp theo để có tín hiệu xác nhận (Confirmation).
-2. **Giao dịch tại nhịp kiểm định (Retest):** Nếu giá quay lại kiểm định vùng hỗ trợ và giữ vững đà tăng, đó mới là điểm vào lệnh hoặc giữ hàng an toàn. Nhận biết đúng [tín hiệu breakout trong chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-breakout-trong-chung-khoan-la-gi.md) giúp bạn loại bỏ hoàn toàn các rủi ro từ phá vỡ giả.
+2. **Giao dịch tại nhịp kiểm định (Retest):** Nếu giá quay lại kiểm định vùng hỗ trợ và giữ vững đà tăng, đó mới là điểm vào lệnh hoặc giữ hàng an toàn. Nhận biết đúng [tín hiệu breakout trong chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/breakout-trong-chung-khoan-la-gi) giúp bạn loại bỏ hoàn toàn các rủi ro từ phá vỡ giả.
 3. **Đặt Stop Loss dựa trên biên độ thay vì sát ngưỡng hỗ trợ:** Đặt điểm dừng lỗ cách đường hỗ trợ khoảng 1.5% - 2% hoặc bên dưới chân nến búa thấp nhất để tránh bị các nhịp quét dừng lỗ kỹ thuật của thị trường kích hoạt.
 4. **Đánh giá lại yếu tố cơ bản của doanh nghiệp:** Trước khi bán tháo, hãy kiểm tra xem doanh nghiệp có xuất hiện biến cố xấu về kết quả kinh doanh hay không. Nếu nền tảng doanh nghiệp vẫn vững chắc, đợt giảm giá nhiều khả năng chỉ là bẫy tâm lý ngắn hạn.
 

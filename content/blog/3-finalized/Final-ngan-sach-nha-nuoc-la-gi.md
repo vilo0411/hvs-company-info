@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Lan Newbie
 Target_Keyword: ngân sách nhà nước là gì
 Search_Intent: Informational
@@ -12,8 +12,6 @@ Meta_Description: Tìm hiểu ngân sách nhà nước là gì, vai trò vĩ mô
 # Ngân sách Nhà nước là gì? Vai trò và thực trạng tại Việt Nam
 
 Ngân sách Nhà nước là công cụ vĩ mô cốt lõi thuộc hệ thống [chính sách công](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tai-khoa/chinh-sach-cong-la-gi) giúp Chính phủ phân bổ nguồn lực và điều tiết nền kinh tế. Bài viết từ HVS làm rõ định nghĩa ngân sách nhà nước là gì, vai trò, thực trạng thu chi tại Việt Nam và các kịch bản đầu tư vĩ mô thực chiến.
-
----
 
 ## Phân tích thu chi ngân sách nhà nước cùng HVS
 

@@ -60,7 +60,7 @@ Trái phiếu chuyển đổi là **loại chứng khoán nợ có quyền chuy�
 
 Thứ hai, sản phẩm tích hợp quyền chọn mua cổ phiếu. Trái chủ có quyền, nhưng không bắt buộc, chuyển đổi khoản nợ thành cổ phiếu phổ thông theo tỷ lệ và mức giá thỏa thuận trước.
 
-Khi sở hữu công cụ này, vị thế của bạn được ưu tiên thanh toán hơn cổ đông nếu doanh nghiệp thanh lý tài sản. Tuy nhiên, lãi suất coupon bạn nhận được sẽ thấp hơn so với khi mua [trái phiếu là gì](content/blog/3-finalized/Final-trai-phieu-la-gi.md) thông thường. Quyền chọn mua cổ phiếu giá rẻ chính là phần bù đắp cho phần chênh lệch lãi suất này.
+Khi sở hữu công cụ này, vị thế của bạn được ưu tiên thanh toán hơn cổ đông nếu doanh nghiệp thanh lý tài sản. Tuy nhiên, lãi suất coupon bạn nhận được sẽ thấp hơn so với khi mua [trái phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-la-gi) thông thường. Quyền chọn mua cổ phiếu giá rẻ chính là phần bù đắp cho phần chênh lệch lãi suất này.
 
 ## Các khái niệm then chốt khi đầu tư trái phiếu chuyển đổi
 
@@ -139,7 +139,7 @@ Công cụ nợ lai mang lại cơ hội và rủi ro riêng biệt cho cả hai
 
 **Lợi ích:** Doanh nghiệp giảm được chi phí huy động vốn nhờ lãi suất coupon thấp. Khi chuyển đổi, khoản nợ tự động chuyển hóa thành vốn chủ sở hữu, giúp giảm đòn bẩy tài chính và áp lực trả gốc khi đáo hạn.
 
-**Rủi ro:** Doanh nghiệp đối mặt với áp lực pha loãng sở hữu của các cổ đông hiện hữu khi số lượng cổ phiếu lưu hành tăng lên. Sự gia tăng này dẫn đến tình trạng giảm thu nhập trên mỗi cổ phần, ảnh hưởng trực tiếp đến chỉ số EPS của doanh nghiệp. Bạn có thể tìm hiểu thêm về bản chất của quá trình này qua bài viết [pha loãng cổ phiếu là gì](content/blog/3-finalized/Final-pha-loang-co-phieu-la-gi.md).
+**Rủi ro:** Doanh nghiệp đối mặt với áp lực pha loãng sở hữu của các cổ đông hiện hữu khi số lượng cổ phiếu lưu hành tăng lên. Sự gia tăng này dẫn đến tình trạng giảm thu nhập trên mỗi cổ phần, ảnh hưởng trực tiếp đến chỉ số EPS của doanh nghiệp. Bạn có thể tìm hiểu thêm về bản chất của quá trình này qua bài viết [pha loãng cổ phiếu là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/pha-loang-co-phieu-la-gi).
 
 Dưới đây là bảng so sánh chi tiết giữa trái phiếu chuyển đổi và trái phiếu thường giúp bạn dễ dàng đối chiếu:
 

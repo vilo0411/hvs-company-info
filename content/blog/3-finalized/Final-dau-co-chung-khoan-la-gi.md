@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: F0 Investor
 Target_Keyword: đầu cơ chứng khoán là gì
 Search_Intent: Informational
@@ -118,8 +118,6 @@ Trước khi thực hiện các lệnh lướt sóng trên bảng điện, nhà 
 * Thiết lập sẵn mức giá chốt lời và ngưỡng cắt lỗ cố định trước khi bấm lệnh.
 * Nói không với các mã cổ phiếu penny mất thanh khoản hoặc bị cắt margin.
 * Trau dồi kiến thức phân tích thị trường tại [chuyên mục kinh tế vĩ mô](https://taichinhso.hvsvn.com/kinh-te-vi-mo).
-
----
 
 ## Revision Log
 

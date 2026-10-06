@@ -41,7 +41,12 @@ Mỗi bài viết mới khi publish phải tạo thành một "bánh xe":
 
 ### Bước 1 — Xác định Cluster của bài đang viết
 
-Đọc `topic-clusters.md`. Tìm bài hiện tại theo keyword hoặc slug. Xác định:
+**Không đọc `topic-clusters.md` / `anchor-index.md` trực tiếp** — dùng script:
+```
+python scripts/topic_status.py <slug>                          # cluster, pillar?
+python scripts/find_links.py "<keyword>" --exclude <slug> --top 8   # ứng viên + Sitemap ✓/✗ + CTA
+```
+Từ output xác định:
 - **Cluster name** bài thuộc về
 - **Pillar** của cluster đó (và file Final tương ứng)
 - **Danh sách bài Published (✅)** trong cùng cluster (loại bỏ bài hiện tại)
@@ -58,7 +63,7 @@ Mỗi bài viết mới khi publish phải tạo thành một "bánh xe":
 
 ### Bước 3 — Tra cứu Anchor text
 
-Với mỗi bài đích đã chọn, tra `anchor-index.md`:
+Cột "Anchor gợi ý" của `find_links.py` (từ anchor-index):
 - Lấy Partial Match phù hợp ngữ cảnh nhất → dùng trước
 - Dùng Exact Match nếu không tìm được Partial Match tự nhiên
 - Kiểm tra Dashboard: bài đích đang `⚠️ Over-opt` → chỉ dùng Partial Match
@@ -100,9 +105,10 @@ Sau khi có URL, mới thực hiện gắn link contextual. Nếu slug hoặc t�
 
 Chạy script validate để đảm bảo 100% internal links trong bài viết đều tồn tại trên sitemap:
 
-```powershell
-python scripts/fetch_sitemap.py --validate content/blog/2-user-review/Draft-[slug].md
 ```
+python scripts/qa_lint.py content/blog/2-user-review/Draft-[slug].md     # LINK-sitemap / LINK-file / LINK-final / LINK-cta / LINK-count
+```
+(`fetch_sitemap.py --validate` vẫn dùng được nhưng qa_lint đã bao phủ.)
 
 ### Bước 7 — Trình bày kết quả
 
@@ -125,10 +131,14 @@ python scripts/fetch_sitemap.py --validate content/blog/2-user-review/Draft-[slu
 
 ## Chế độ --backfill [slug]
 
-Khi chạy `--backfill [slug]`:
-1. Tìm cluster của bài `[slug]` vừa publish.
-2. Quét toàn bộ bài Published cùng cluster → tìm đoạn có thể chèn link ngược về `[slug]`.
-3. Đề xuất sửa từng bài cũ để chúng link về bài mới — hoàn tất vòng tròn link wheel.
+```
+python scripts/fetch_sitemap.py --refresh            # bài mới phải đã live
+python scripts/find_links.py --backfill <slug> --top 5
+```
+1. Script trả về bài Final có đoạn liên quan nhưng chưa link tới `<slug>`, kèm số dòng + trích đoạn.
+2. Sửa **đúng dòng** đó trong từng bài nguồn (anchor = cụm từ có sẵn trong câu, partial match).
+3. `python scripts/qa_lint.py <bài nguồn> --no-sitemap` sau mỗi bài; ghi 1 dòng `revision-log.md`.
+4. Bài chưa có trong anchor-index → `python scripts/find_links.py --add-row <slug> --anchor "…" --partial "…" --cluster "CLUSTER X"` (finalize.py thường đã làm; `pipeline_audit.py` liệt kê bài thiếu).
 
 ---
 

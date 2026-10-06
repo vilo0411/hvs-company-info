@@ -66,7 +66,7 @@ Mối tương quan đặc thù của loại chứng khoán lai này thể hiện
 *   **Điểm giống trái phiếu:** Người sở hữu cổ phiếu ưu đãi được hưởng mức chi trả cổ tức cố định hàng năm theo một tỷ lệ cam kết trước, hoàn toàn độc lập với kết quả kinh doanh lãi hay lỗ của doanh nghiệp. Đồng thời, khi công ty tiến hành giải thể hoặc phá sản, cổ đông ưu đãi được ưu tiên nhận lại phần tài sản thanh lý trước cổ đông phổ thông.
 *   **Điểm giống cổ phiếu thường:** Cổ đông sở hữu cổ phiếu ưu đãi vẫn được ghi nhận là một phần của nguồn vốn chủ sở hữu của doanh nghiệp. Về mặt ưu tiên thanh toán, họ đứng sau tất cả các chủ nợ có bảo đảm và trái chủ.
 
-Khi bạn tìm hiểu [cách đầu tư chứng khoán](file:///content/blog/3-finalized/Final-cach-dau-tu-chung-khoan.md) một cách chuyên nghiệp, việc bóc tách tỷ trọng cổ phiếu ưu đãi trong cơ cấu nguồn vốn giúp bạn đánh giá chính xác sức khỏe tài chính và mức độ cam kết chi trả của doanh nghiệp.
+Khi bạn tìm hiểu [cách đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-khoan) một cách chuyên nghiệp, việc bóc tách tỷ trọng cổ phiếu ưu đãi trong cơ cấu nguồn vốn giúp bạn đánh giá chính xác sức khỏe tài chính và mức độ cam kết chi trả của doanh nghiệp.
 
 ## Ba phân loại cổ phiếu ưu đãi cốt lõi theo Luật Doanh nghiệp 2020
 
@@ -88,7 +88,7 @@ Việc nắm vững sự phân hóa quyền lợi giữa hai loại cổ phần 
 | **Tính thanh khoản** | Tự do chuyển nhượng trên sàn HOSE/HNX | Hạn chế chuyển nhượng tùy điều khoản | Hạn chế chuyển nhượng tùy điều khoản | Cấm chuyển nhượng tự do (Phải chuyển đổi thành cổ phiếu thường trước) |
 | **Khả năng chuyển đổi** | Không thể chuyển đổi thành cổ phiếu ưu đãi | Có thể chuyển đổi thành cổ phiếu thường | Có thể chuyển đổi thành cổ phiếu thường | Tự động chuyển đổi thành cổ phiếu thường sau 3 năm |
 
-Một lưu ý quan trọng dành cho bạn là hầu hết các loại [cổ phiếu blue-chip](file:///content/blog/3-finalized/Final-co-phieu-blue-chip-la-gi.md) niêm yết trên thị trường chứng khoán Việt Nam hiện nay chủ yếu lưu hành cổ phiếu phổ thông. Cổ phiếu ưu đãi thường chỉ được phát hành riêng lẻ trong các thương vụ gọi vốn chiến lược hoặc phát hành nội bộ cho ban lãnh đạo.
+Một lưu ý quan trọng dành cho bạn là hầu hết các loại [cổ phiếu blue-chip](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-blue-chip-la-gi) niêm yết trên thị trường chứng khoán Việt Nam hiện nay chủ yếu lưu hành cổ phiếu phổ thông. Cổ phiếu ưu đãi thường chỉ được phát hành riêng lẻ trong các thương vụ gọi vốn chiến lược hoặc phát hành nội bộ cho ban lãnh đạo.
 
 ## Tác động của cổ phiếu ưu đãi đến chỉ số EPS và rủi ro pha loãng cho cổ đông thường
 
@@ -133,5 +133,4 @@ Thấu hiểu nhu cầu thực chiến đó, **HVS Tài chính số** cung cấp
 
 Mọi kiến thức lý thuyết thực chất sẽ được bạn áp dụng trực tiếp trên công cụ **HVS Demo** - hệ thống giao dịch giả lập thời gian thực không rủi ro tài chính để kiểm chứng hiệu quả phương pháp giao dịch. Đồng thời, mọi thắc mắc và báo cáo phân tích thực tế của bạn sẽ được các Mentor đồng hành chỉnh sửa và phản hồi 24/7 tại cộng đồng **HVS Forum**. Đây chính là nền tảng vững chắc giúp bạn nâng tầm tư duy đầu tư thực chiến vượt trội.
 
----
 v1.2 (2026-05-26): Tiến hành tối ưu hóa outline nâng cao dựa trên phân tích bài viết đối thủ hàng đầu (VFS). Tích hợp thêm phần "Hướng dẫn quy trình thực hiện quyền mua cổ phiếu ưu đãi phát hành thêm" và bổ sung đính chính lỗi sai kỹ thuật toán học tài chính phổ biến của đối thủ về cách tính cổ tức ưu đãi nhằm tăng thẩm quyền (Authority) của HVS.

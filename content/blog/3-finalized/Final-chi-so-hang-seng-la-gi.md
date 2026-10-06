@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: chỉ số hang seng là gì
 Secondary_Keywords: hang seng index là gì, hsi index là gì, thị trường chứng khoán hồng kông
@@ -17,8 +17,6 @@ Meta_Description: chỉ số hang seng là gì? Phân tích sâu cấu trúc r�
 
 Chỉ số Hang Seng là phong vũ biểu đo lường hiệu suất của Sở Giao dịch Chứng khoán Hồng Kông. Hiểu rõ HSI giúp nhà đầu tư nắm bắt các dịch chuyển dòng vốn ngoại lớn tại Châu Á.
 
----
-
 ## Chỉ số Hang Seng là gì?
 
 Chỉ số Hang Seng (Hang Seng Index - HSI) là phong vũ biểu đo lường hiệu suất của **Sở Giao dịch Chứng khoán Hồng Kông** (HKEX). Đây là chỉ số trọng số vốn hóa thị trường tự do lưu hành, đại diện cho các doanh nghiệp lớn nhất niêm yết trên sàn giao dịch này.
@@ -33,8 +31,6 @@ Nhờ tính đại diện cao, chỉ số này sở hữu những cột mốc n�
 Thị trường Hồng Kông liên kết dòng vốn quốc tế với Trung Quốc đại lục, nơi biến động HSI phản ánh sát sao tâm lý đầu tư Châu Á. Trong hệ thống chỉ số toàn cầu, HSI đóng vai trò tương đương với [chỉ số DAX](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chi-so-dax-la-gi) tại châu Âu, là thước đo kinh tế chuẩn mực của từng khu vực.
 
 Hãy lưu ý rằng biến động tại HKEX tạo ra tác động lan truyền rất nhanh. Dòng tiền ngoại thường phản ứng đồng điệu trên các thị trường lân cận. Do đó, theo dõi HSI giúp bạn chủ động nhận diện sớm dịch chuyển dòng vốn lớn.
-
----
 
 ## Cơ cấu cấu phần và 4 nhóm ngành cốt lõi của Hang Seng Index
 
@@ -56,8 +52,6 @@ Bảng dưới đây tóm tắt cơ cấu ngành và đại diện tiêu biểu 
 
 Sự dịch chuyển cơ cấu từ tài chính sang công nghệ đã làm thay đổi tính chất HSI. Hiện nay, xung lực tăng trưởng chỉ số phụ thuộc lớn vào sức khỏe của các tập đoàn công nghệ Trung Quốc đại lục thay vì chỉ phản ánh kinh tế Hồng Kông nội địa.
 
----
-
 ## Phương pháp tính toán và cơ chế khống chế tỷ trọng HSI
 
 Hãng dịch vụ chỉ số Hang Seng Indexes Company Limited áp dụng phương pháp tính toán hiện đại để phản ánh đúng thực tế lượng cổ phiếu có sẵn giao dịch trên thị trường. Họ sử dụng phương pháp tính toán dựa trên vốn hóa thị trường có điều chỉnh tỷ lệ tự do chuyển nhượng (Free-float adjusted market capitalization).
@@ -77,8 +71,6 @@ Trước đây, rổ chỉ số bị chi phối bởi các tập đoàn quy mô 
 
 Để triệt tiêu rủi ro tập trung này, nhà quản lý chỉ số đã áp dụng cơ chế Capping Limit 8%. Quy định này khống chế tỷ trọng tối đa của bất kỳ cổ phiếu thành phần nào ở mức 8% trong mỗi kỳ cơ cấu lại danh mục hàng quý. Cơ chế capping limit 8% giới hạn tỷ trọng vốn hóa cấu phần giúp loại bỏ nguy cơ thao túng chỉ số từ các dòng vốn đầu cơ lớn, bảo đảm sự cân bằng cho rổ chỉ số.
 
----
-
 ## Tác động liên thị trường của HSI đối với sàn HOSE
 
 Nhịp đập chỉ số Hang Seng đóng vai trò như một hàn thử biểu sức khỏe dòng vốn ngoại Châu Á. Dịch chuyển dòng vốn tại Hồng Kông tạo tác động liên thị trường dây chuyền tới sàn HOSE của Việt Nam.
@@ -94,8 +86,6 @@ Hai kịch bản dòng tiền thực tế mô tả mối tương quan này bao g
 *   **Kịch bản 2 — Sàn HOSE hút dòng tiền khi HSI bứt phá:** Dòng tiền ngoại giải ngân mạnh vào Việt Nam khi HSI vượt kháng cự, giúp nâng đỡ chỉ số VN-Index.
 
 Hãy ghi nhớ giao dịch theo liên thị trường luôn có độ trễ. Bán đuổi cổ phiếu Việt Nam chỉ vì chỉ số HSI giảm phiên sáng mà không phân tích dòng tiền nội sàn HOSE là hành động dễ rơi vào bẫy rũ bỏ của tạo lập.
-
----
 
 ## Đào tạo phân tích vĩ mô thị trường chứng khoán Việt Nam tại HVS Tài chính số
 

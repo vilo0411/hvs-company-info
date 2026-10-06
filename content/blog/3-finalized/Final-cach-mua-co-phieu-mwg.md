@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: F0
 Target_Keyword: cách mua cổ phiếu MWG
 Search_Intent: Informational / Transactional
@@ -12,8 +12,6 @@ Meta_Description: Hướng dẫn cách mua cổ phiếu MWG (Thế Giới Di Đ�
 # Cách Mua Cổ Phiếu MWG (Thế Giới Di Động): Quy Trình Dành Cho F0
 
 Cổ phiếu MWG (Công ty Cổ phần Đầu tư Thế Giới Di Động) là một trong những mã chứng khoán trụ cột thuộc ngành bán lẻ niêm yết trên sàn HOSE. Bài viết này hướng dẫn chi tiết quy trình mở tài khoản, nạp tiền và thực hiện lệnh mua cổ phiếu MWG trực tuyến an toàn. Các thông tin hữu ích giúp nhà đầu tư mới làm chủ quá trình đặt lệnh giao dịch và tối ưu hóa chi phí đầu tư khi tham gia [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi).
-
----
 
 ## Thông tin mã cổ phiếu MWG cần biết trước khi mua
 
@@ -26,8 +24,6 @@ Cổ phiếu MWG (Công ty Cổ phần Đầu tư Thế Giới Di Động) là m
 *   **Các chuỗi thương hiệu lớn sở hữu:** Thế Giới Di Động, Điện Máy Xanh, Bách Hóa Xanh, Nhà thuốc An Khang
 
 Mã MWG được coi là cổ phiếu đại diện tiêu biểu cho sức tiêu dùng của thị trường nội địa Việt Nam. Nhờ quy mô vốn hóa lớn và tính thanh khoản dồi dào, mã này thu hút sự quan tâm đặc biệt từ cả nhà đầu tư cá nhân lẫn các quỹ đầu tư nước ngoài (khối ngoại). Việc sở hữu cổ phiếu MWG đồng nghĩa với việc bạn đang nắm giữ một phần tài sản của tập đoàn bán lẻ hàng đầu cả nước.
-
----
 
 ## Hướng dẫn chi tiết 4 bước cách mua cổ phiếu MWG cho F0
 
@@ -84,22 +80,18 @@ Bảng dưới đây so sánh chi tiết cơ chế của các lệnh mua cổ ph
 
 Sau khi chọn loại lệnh và điền đầy đủ thông tin, bạn nhấn nút Mua và xác thực mã PIN bảo mật để hoàn tất quá trình gửi lệnh lên sàn HOSE. Khi giao dịch thành công, cổ phiếu MWG sẽ tự động được lưu ký về tài khoản của bạn sau T+2 ngày làm việc.
 
----
-
 ## Cần bao nhiêu vốn tối thiểu để sở hữu cổ phiếu MWG?
 
 Nhà đầu tư mới cần nắm vững quy tắc tính toán sức mua tối thiểu để chủ động nộp tiền giao dịch:
 
 *   **Quy định lô chẵn sàn HOSE:** Sàn HOSE áp dụng quy định lô giao dịch tối thiểu là **100 cổ phiếu** đối với hình thức khớp lệnh tự động. Bạn bắt buộc phải đặt mua theo các cấp số nhân của 100 (như 100, 200, 300 cổ phiếu).
 *   **Công thức tính vốn tối thiểu:**
-    $$\text{Vốn tối thiểu} = (\text{Thị giá cổ phiếu MWG} \times 100) + \text{Phí giao dịch}$$
+    > **\text{Vốn tối thiểu} = (\text{Thị giá cổ phiếu MWG} \times 100) + \text{Phí giao dịch}**
 *   **Ví dụ tính toán thực tế:**
     *   *Thị giá cổ phiếu MWG giả định:* 60.000 đồng/cổ phiếu.
-    *   *Giá trị lô 100 cổ phiếu:* $60.000 \times 100 = 6.000.000$ đồng.
-    *   *Phí giao dịch tạm tính (tỷ lệ 0,15%):* $6.000.000 \times 0,15\% = 9.000$ đồng.
+    *   *Giá trị lô 100 cổ phiếu:* `60.000 \times 100 = 6.000.000` đồng.
+    *   *Phí giao dịch tạm tính (tỷ lệ 0,15%):* `6.000.000 \times 0,15\% = 9.000` đồng.
     *   *Tổng số vốn tối thiểu bạn cần nạp vào tài khoản:* **6.009.000 đồng**.
-
----
 
 ## Những lưu ý quan trọng và quản trị rủi ro khi đầu tư mã MWG
 
@@ -129,8 +121,6 @@ Việc thiết lập các kịch bản hành động giúp bạn luôn chủ đ�
 *   **Kịch bản 2: Áp lực suy giảm biên lợi nhuận**
     *   *Điều kiện:* Lạm phát tiêu dùng kéo dài làm giảm 10% biên lợi nhuận gộp của tập đoàn, giá cổ phiếu phá vỡ các vùng hỗ trợ kỹ thuật quan trọng.
     *   *Hành động:* Bạn chủ động thực hiện bán hạ tỷ trọng cổ phiếu MWG về mức an toàn để bảo vệ nguồn vốn nhàn rỗi ban đầu. Sự dứt khoát này giúp bạn ổn định tốt [tâm lý đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan).
-
----
 
 ## Nâng cao tư duy đầu tư thực chiến cùng HVS Tài Chính Số
 

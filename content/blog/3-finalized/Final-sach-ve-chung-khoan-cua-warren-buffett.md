@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: sách về chứng khoán của warren buffett
 Search_Intent: Informational
@@ -15,13 +15,13 @@ Tìm hiểu triết lý đầu tư của Warren Buffett qua sách vở là cách
 
 Sách về chứng khoán của Warren Buffett là **các tài liệu lưu giữ toàn bộ triết lý đầu tư giá trị bền vững, tư duy phân bổ vốn hiệu quả và cách thức định giá doanh nghiệp cốt lõi của nhà đầu tư vĩ đại nhất thế giới**. Warren Buffett không tự viết sách giáo khoa dạy đầu tư. Tất cả những gì thế giới biết về ông đều thông qua các thư gửi cổ đông Berkshire Hathaway hàng năm hoặc qua các tác phẩm phân tích của những tác giả uy tín. Những đầu sách này luôn đứng đầu danh sách tìm kiếm vì chúng giải quyết bài toán cốt lõi của đầu tư: Làm sao để bảo vệ vốn trước những biến động ngắn hạn của thị trường và tích lũy tài sản dài hạn thông qua việc đồng hành cùng các doanh nghiệp có lợi thế cạnh tranh cao.
 
-Việc đọc các tài liệu này giúp sinh viên và nhà đầu tư F0 định hình phương pháp luận đầu tư đúng đắn. Thay vì sa đà vào các hội nhóm hô hào giao dịch ngắn hạn theo tin đồn, bạn sẽ tập trung phân tích năng lực quản trị, biên an toàn và sức khỏe tài chính thực chất của doanh nghiệp. Bạn nên bắt đầu với các cuốn [sách chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-sach-chung-khoan.md) cơ bản hoặc [sách về tài chính](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-sach-ve-tai-chinh.md) tổng quan để nắm rõ cách vận hành của dòng tiền trước khi bước vào nghiên cứu chuyên sâu các triết lý của Buffett.
+Việc đọc các tài liệu này giúp sinh viên và nhà đầu tư F0 định hình phương pháp luận đầu tư đúng đắn. Thay vì sa đà vào các hội nhóm hô hào giao dịch ngắn hạn theo tin đồn, bạn sẽ tập trung phân tích năng lực quản trị, biên an toàn và sức khỏe tài chính thực chất của doanh nghiệp. Bạn nên bắt đầu với các cuốn [sách chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/sach-chung-khoan) cơ bản hoặc [sách về tài chính](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/sach-ve-tai-chinh) tổng quan để nắm rõ cách vận hành của dòng tiền trước khi bước vào nghiên cứu chuyên sâu các triết lý của Buffett.
 
 ## Những cuốn sách Warren Buffett khuyên đọc để xây dựng tư duy nền tảng
 
 Để hiểu được cách Warren Buffett suy nghĩ, trước hết bạn cần tìm về cội nguồn tư duy của ông, đặc biệt là triết lý đầu tư từ người thầy Benjamin Graham. Dưới đây là hai tác phẩm nền tảng:
 
-*   **Nhà đầu tư thông minh (Benjamin Graham):** Đây là cuốn sách gối đầu giường của Warren Buffett từ năm 19 tuổi. Sách giới thiệu triết lý đầu tư giá trị kinh điển với hai bài học cốt lõi: Ngài Thị Trường (Mr. Market) và Biên an toàn (Margin of Safety). Buffett nhấn mạnh chương 8 và chương 20 là hai phần quan trọng nhất giúp nhà đầu tư kiểm soát cảm xúc trước biến động ngắn hạn và định giá doanh nghiệp độc lập. Bạn có thể tìm hiểu thêm về trường phái này qua các tài liệu [sách về đầu tư giá trị](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-sach-ve-dau-tu-gia-tri.md) phổ biến khác trên thị trường.
+*   **Nhà đầu tư thông minh (Benjamin Graham):** Đây là cuốn sách gối đầu giường của Warren Buffett từ năm 19 tuổi. Sách giới thiệu triết lý đầu tư giá trị kinh điển với hai bài học cốt lõi: Ngài Thị Trường (Mr. Market) và Biên an toàn (Margin of Safety). Buffett nhấn mạnh chương 8 và chương 20 là hai phần quan trọng nhất giúp nhà đầu tư kiểm soát cảm xúc trước biến động ngắn hạn và định giá doanh nghiệp độc lập. Bạn có thể tìm hiểu thêm về trường phái này qua các tài liệu [sách về đầu tư giá trị](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/sach-ve-dau-tu-gia-tri) phổ biến khác trên thị trường.
 *   **Phân tích chứng khoán (Benjamin Graham & David Dodd):** Cuốn sách mang nặng tính học thuật và chuyên sâu hơn, được Buffett ví như tấm bản đồ chi tiết để bóc tách báo cáo tài chính doanh nghiệp. Cuốn sách cung cấp phương pháp định lượng cụ thể để kiểm tra giá trị tài sản ròng, đánh giá các khoản nợ phải trả và dòng tiền hoạt động của doanh nghiệp, giúp nhà đầu tư tránh xa các công ty có nguy cơ rủi ro thanh khoản cao.
 
 ## Nhóm sách phân tích chi tiết phương pháp đầu tư của Warren Buffett

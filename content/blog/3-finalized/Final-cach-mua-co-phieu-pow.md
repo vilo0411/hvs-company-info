@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: cách mua cổ phiếu pow
 Search_Intent: Transactional
@@ -29,19 +29,19 @@ Sau khi tài khoản kích hoạt, bạn tiến hành nạp tiền vào tài kho
 
 Trước khi giao dịch, bạn cần kiểm tra số dư sức mua trên hệ thống:
 
-$$\text{Sức mua} = \frac{\text{Số dư tiền mặt}}{\text{Tỷ lệ ký quỹ}}$$
+> **\text{Sức mua} = \frac{\text{Số dư tiền mặt}}{\text{Tỷ lệ ký quỹ}}**
 
-Ví dụ, bạn nạp $10.000.000\text{ VND}$ tiền mặt, với tỷ lệ ký quỹ $100\%$, sức mua khả dụng bằng đúng $10.000.000\text{ VND}$. Chi phí thực tế mua cổ phiếu POW được tính theo công thức:
+Ví dụ, bạn nạp `10.000.000\text{ VND}` tiền mặt, với tỷ lệ ký quỹ `100\%`, sức mua khả dụng bằng đúng `10.000.000\text{ VND}`. Chi phí thực tế mua cổ phiếu POW được tính theo công thức:
 
-$$\text{Tổng chi phí} = P \times Q \times (1 + r)$$
+> **\text{Tổng chi phí} = P \times Q \times (1 + r)**
 
-Trong đó, $P$ là thị giá cổ phiếu POW, $Q$ là số lượng mua, và $r$ là tỷ lệ phí giao dịch (thường từ $0,1\%$ đến $0,2\%$). Bạn phải đảm bảo số dư lớn hơn tổng chi phí này để đặt lệnh thành công.
+Trong đó, `P` là thị giá cổ phiếu POW, `Q` là số lượng mua, và `r` là tỷ lệ phí giao dịch (thường từ `0,1\%` đến `0,2\%`). Bạn phải đảm bảo số dư lớn hơn tổng chi phí này để đặt lệnh thành công.
 
 ### Bước 3: Xem bảng điện chứng khoán và theo dõi mã POW
 
 Bảng điện chứng khoán hiển thị toàn bộ diễn biến của [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thi-truong-chung-khoan-la-gi). Mã POW niêm yết trên sàn HOSE, do đó bạn cần theo dõi bảng điện HOSE trong khung giờ hành chính từ 9 giờ đến 15 giờ, từ thứ Hai đến thứ Sáu.
 
-Biên độ dao động giá quy định của sàn HOSE là $\pm 7\%$ so với mức giá tham chiếu. Bảng điện sử dụng ba màu chủ đạo: màu tím (giá trần), màu xanh lam (giá sàn) và màu vàng (giá tham chiếu). Mức giá tham chiếu là cơ sở để tính toán biên độ cho phiên kế tiếp. Hiểu rõ bảng điện sẽ giúp bạn tránh các sai lầm do tâm lý đám đông.
+Biên độ dao động giá quy định của sàn HOSE là `\pm 7\%` so với mức giá tham chiếu. Bảng điện sử dụng ba màu chủ đạo: màu tím (giá trần), màu xanh lam (giá sàn) và màu vàng (giá tham chiếu). Mức giá tham chiếu là cơ sở để tính toán biên độ cho phiên kế tiếp. Hiểu rõ bảng điện sẽ giúp bạn tránh các sai lầm do tâm lý đám đông.
 
 Bạn cần quan sát kỹ sự chênh lệch cung cầu để đưa ra quyết định giao dịch hợp lý.
 
@@ -55,7 +55,7 @@ Khi xác định được vùng giá mua an toàn, bạn tiến hành đặt l�
 | **Lệnh thị trường (MP)** | Tự động khớp ngay lập tức với các mức giá tốt nhất đang có trên sàn HOSE. | Phù hợp khi cần mua nhanh để giải ngân kịp thời mà không quá chú trọng chênh lệch giá nhỏ. |
 | **Lệnh đóng cửa (ATC)** | Khớp lệnh tại mức giá xác định giá đóng cửa trong phiên từ 14 giờ 30 đến 14 giờ 45. | Sử dụng khi muốn đồng bộ hóa vị thế giao dịch theo mức giá chốt phiên cuối ngày. |
 
-Lưu ý quy định pháp lý khi sở hữu lượng cổ phiếu lớn. Nếu số lượng cổ phiếu POW bạn mua vượt quá $5\%$ tổng số cổ phiếu lưu hành của PV Power, bạn trở thành cổ đông lớn. Bạn phải thực hiện báo cáo sở hữu trong vòng 5 ngày làm việc theo quy định công bố thông tin công khai.
+Lưu ý quy định pháp lý khi sở hữu lượng cổ phiếu lớn. Nếu số lượng cổ phiếu POW bạn mua vượt quá `5\%` tổng số cổ phiếu lưu hành của PV Power, bạn trở thành cổ đông lớn. Bạn phải thực hiện báo cáo sở hữu trong vòng 5 ngày làm việc theo quy định công bố thông tin công khai.
 
 ## Những lưu ý khi đầu tư cổ phiếu POW
 
@@ -69,13 +69,13 @@ La Nina mưa nhiều ủng hộ thủy điện phát huy ưu thế giá rẻ. Ng
 
 ### Phương pháp phân bổ vốn và xác định ngưỡng cắt lỗ cho cổ phiếu POW
 
-Đối với [cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) có tính phòng thủ như POW, bạn chỉ nên phân bổ tỷ trọng từ $10\%$ đến $15\%$ tổng danh mục đầu tư. Kỷ luật quản trị rủi ro yêu cầu thiết lập ngưỡng cắt lỗ tự động từ $7\%$ đến $8\%$ từ giá mua trung bình.
+Đối với [cổ phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) có tính phòng thủ như POW, bạn chỉ nên phân bổ tỷ trọng từ `10\%` đến `15\%` tổng danh mục đầu tư. Kỷ luật quản trị rủi ro yêu cầu thiết lập ngưỡng cắt lỗ tự động từ `7\%` đến `8\%` từ giá mua trung bình.
 
-Giả sử bạn giải ngân mua POW tại mức giá $13.500\text{ VND}$, ngưỡng cắt lỗ kỹ thuật được tính như sau:
+Giả sử bạn giải ngân mua POW tại mức giá `13.500\text{ VND}`, ngưỡng cắt lỗ kỹ thuật được tính như sau:
 
-$$P_{\text{stop-loss}} = 13.500 \times (1 - 0,07) = 12.555\text{ VND}$$
+> **P_{\text{stop-loss}} = 13.500 \times (1 - 0,07) = 12.555\text{ VND}**
 
-Khi thị giá chạm vùng $12.555\text{ VND}$ trên sàn HOSE, bạn phải chủ động đóng vị thế để bảo toàn vốn trước khi áp lực điều chỉnh nới rộng đà giảm.
+Khi thị giá chạm vùng `12.555\text{ VND}` trên sàn HOSE, bạn phải chủ động đóng vị thế để bảo toàn vốn trước khi áp lực điều chỉnh nới rộng đà giảm.
 
 ### Kịch bản giao dịch thực chiến cho cổ phiếu POW
 
@@ -96,7 +96,7 @@ Nhiều nhà đầu tư F0 thường chịu áp lực thua lỗ lớn do thói q
 
 ### Thực hành không rủi ro và thảo luận cùng cộng đồng HVS
 
-Việc rèn luyện tâm lý giao dịch thực tế là bắt buộc. Hệ thống **HVS Demo** cung cấp tài khoản thực hành giao dịch giả lập sử dụng dữ liệu trực tuyến theo thời gian thực của sàn HOSE. Bạn được tự do trải nghiệm đặt các loại lệnh giao dịch và thực hành phương pháp phân bổ tỷ trọng vốn $10\%$ đến $15\%$ an toàn mà không phải đối mặt với bất kỳ rủi ro mất tiền thật nào.
+Việc rèn luyện tâm lý giao dịch thực tế là bắt buộc. Hệ thống **HVS Demo** cung cấp tài khoản thực hành giao dịch giả lập sử dụng dữ liệu trực tuyến theo thời gian thực của sàn HOSE. Bạn được tự do trải nghiệm đặt các loại lệnh giao dịch và thực hành phương pháp phân bổ tỷ trọng vốn `10\%` đến `15\%` an toàn mà không phải đối mặt với bất kỳ rủi ro mất tiền thật nào.
 
 Sau khi thực hành, bạn có thể truy cập ngay vào **HVS Forum** để phản biện các giả định phân tích của mình cùng các chuyên gia giàu kinh nghiệm.
 
@@ -106,7 +106,7 @@ Chúng tôi tóm tắt hệ sinh thái giải pháp HVS trong bảng dưới đ�
 | :--- | :--- | :--- |
 | **HVS Tài chính số** | Nền tảng quản lý danh mục và cung cấp dữ liệu phân tích chuyên nghiệp. | Cập nhật liên tục các chỉ số tài chính, tiến độ dự án điện khí Nhơn Trạch 3 & 4 của POW để ra quyết định kịp thời. |
 | **HVS Thực tập số** | Lộ trình trải nghiệm thực tế về kỹ năng phân tích chứng khoán chuyên sâu. | Giúp bạn làm chủ phương pháp phân tích cơ bản để tự định giá giá trị nội tại của doanh nghiệp ngành năng lượng. |
-| **HVS Demo** | Công cụ giả lập đặt lệnh trực tuyến an toàn với dữ liệu thời gian thực. | Thực hành đặt lệnh LO, MP, ATC và rèn luyện kỷ luật cắt lỗ tự động từ $7\%$ đến $8\%$. |
+| **HVS Demo** | Công cụ giả lập đặt lệnh trực tuyến an toàn với dữ liệu thời gian thực. | Thực hành đặt lệnh LO, MP, ATC và rèn luyện kỷ luật cắt lỗ tự động từ `7\%` đến `8\%`. |
 | **HVS Forum** | Cộng đồng thảo luận, phản biện và kết nối kiến thức đầu tư thực chiến. | Nơi bạn chia sẻ nhận định, trao đổi cơ hội đầu tư cổ phiếu POW cùng các Mentor chuyên nghiệp 24/7. |
 
 Hãy hành động để nâng cao năng lực đầu tư của mình. Thử ngay HVS Demo và Tham gia HVS Forum để tự tin làm chủ dòng vốn phòng thủ điện khí hiệu quả ngay hôm nay!

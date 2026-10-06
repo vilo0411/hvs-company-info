@@ -1,8 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
 Pipeline_Mode: Express
-Mode: Detailed
 Persona: HVS Senior Mentor
 Target_Keyword: Cổ phiếu trắng bên mua là gì
 Search_Intent: Informational

@@ -31,7 +31,7 @@ Nhà đầu tư áp dụng công cụ này trên biểu đồ các mã cổ phi�
 
 ## Các mức tỷ lệ Fibonacci thoái lui quan trọng
 
-Các mức tỷ lệ Fibonacci thoái lui quan trọng là các ngưỡng phần trăm cụ thể nhằm phản ánh các mức độ điều chỉnh giá khác nhau của cổ phiếu. Mỗi mức tỷ lệ tương ứng với một trạng thái [tâm lý đầu tư chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-tam-ly-dau-tu-chung-khoan.md) của đám đông.
+Các mức tỷ lệ Fibonacci thoái lui quan trọng là các ngưỡng phần trăm cụ thể nhằm phản ánh các mức độ điều chỉnh giá khác nhau của cổ phiếu. Mỗi mức tỷ lệ tương ứng với một trạng thái [tâm lý đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan) của đám đông.
 
 - `Mức 23.6%, 38.2% và 50%`: Đại diện cho nhịp điều chỉnh nông.
 - `Mức 61.8%`: Tỷ lệ vàng quan trọng nhất, nơi giá dễ đảo chiều nhất.
@@ -82,13 +82,11 @@ Làm chủ công cụ xác định điểm vào lệnh cùng HVS Tài chính s�
 
 Nhiều nhà đầu tư mới (như Lan Newbie) liên tục vẽ sai đỉnh và đáy kỹ thuật (pivot swing) do chưa nhận diện được cấu trúc sóng. Việc chọn sai điểm kéo chuột khiến dải tỷ lệ Fibonacci bị lệch hướng, phát ra tín hiệu mua bán giả dẫn đến các quyết định giao dịch thua lỗ lớn.
 
-Để khắc phục lỗi phổ biến này, [chương trình HVS Thực tập số](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-khoa-hoc-chung-khoan.md) (lộ trình đào tạo Phân tích kỹ thuật TA Level 1 nằm trong nền tảng trực tuyến **HVS Tài chính số**) cung cấp các bài học bài bản giúp bạn định vị đỉnh đáy chuẩn xác. Bạn được rèn luyện kỹ năng vẽ Fibonacci thực chiến trên hệ thống giao dịch mô phỏng **HVS Demo** để tự tin phân tích mà không gặp rủi ro mất tiền thật. Đội ngũ mentor chuyên nghiệp tại **HVS Forum** luôn sẵn sàng giải đáp thắc mắc và hỗ trợ bạn trong suốt quá trình thực hành biểu đồ.
+Để khắc phục lỗi phổ biến này, [chương trình HVS Thực tập số](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/khoa-hoc-chung-khoan) (lộ trình đào tạo Phân tích kỹ thuật TA Level 1 nằm trong nền tảng trực tuyến **HVS Tài chính số**) cung cấp các bài học bài bản giúp bạn định vị đỉnh đáy chuẩn xác. Bạn được rèn luyện kỹ năng vẽ Fibonacci thực chiến trên hệ thống giao dịch mô phỏng **HVS Demo** để tự tin phân tích mà không gặp rủi ro mất tiền thật. Đội ngũ mentor chuyên nghiệp tại **HVS Forum** luôn sẵn sàng giải đáp thắc mắc và hỗ trợ bạn trong suốt quá trình thực hành biểu đồ.
 
 ## Kết luận
 
-Fibonacci thoái lui là một công cụ đo lường hữu hiệu giúp bạn xác định các vùng đảo chiều tiềm năng của giá cổ phiếu. Bạn nên ghi nhớ rằng chỉ báo này hoạt động tối ưu khi kết hợp cùng các phương pháp phân tích kỹ thuật khác và kỷ luật quản trị rủi ro nghiêm ngặt. Rèn luyện thường xuyên giúp bạn nâng cao năng lực đọc hiểu biểu đồ và đưa ra quyết định giao dịch chính xác. HVS cam kết đồng hành để hỗ trợ bạn cải thiện hiệu quả đầu tư trên [thị trường chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-chung-khoan-la-gi.md).
-
----
+Fibonacci thoái lui là một công cụ đo lường hữu hiệu giúp bạn xác định các vùng đảo chiều tiềm năng của giá cổ phiếu. Bạn nên ghi nhớ rằng chỉ báo này hoạt động tối ưu khi kết hợp cùng các phương pháp phân tích kỹ thuật khác và kỷ luật quản trị rủi ro nghiêm ngặt. Rèn luyện thường xuyên giúp bạn nâng cao năng lực đọc hiểu biểu đồ và đưa ra quyết định giao dịch chính xác. HVS cam kết đồng hành để hỗ trợ bạn cải thiện hiệu quả đầu tư trên [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi).
 
 ## 4. Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-23):** Khởi tạo outline cho từ khóa "fibonacci thoái lui" theo yêu cầu viết 10 bài tiếp theo trong sprint backlog.

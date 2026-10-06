@@ -512,7 +512,7 @@ def check_geo(rep: Report, lines, start, end):
 
 def check_images(rep: Report, lines, start, end, original: Path):
     try:
-        orig = original.read_text(encoding="utf-8")
+        orig = original.read_text(encoding="utf-8-sig")
     except OSError as e:
         rep.add("CL1-images", "seo", "MAJOR", 1, f"Không đọc được bài gốc: {e}")
         return
@@ -610,7 +610,7 @@ def faq_items(lines, start, end):
 
 def check_paa(rep: Report, lines, start, end, outline: Path):
     try:
-        paa = parse_outline_paa(outline.read_text(encoding="utf-8"))
+        paa = parse_outline_paa(outline.read_text(encoding="utf-8-sig"))
     except OSError:
         return
     rep.stats["paa_questions"] = len(paa)
@@ -748,7 +748,7 @@ def main() -> int:
         print(f"Error: {e}", file=sys.stderr)
         return 2
     nl = "\r\n" if b"\r\n" in raw else "\n"
-    text = raw.decode("utf-8").replace("\r\n", "\n")
+    text = raw.decode("utf-8-sig").replace("\r\n", "\n")  # strip BOM (legacy files)
 
     sitemap = set() if args.no_sitemap else load_sitemap()
     rep = Report(file=str(path))

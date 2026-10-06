@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["chia tách cổ phiếu là gì"]
 Status: Finalized
@@ -20,8 +20,6 @@ Meta_Description: Định nghĩa chia tách cổ phiếu là gì, phân loại c
 
 Hiểu rõ chia tách cổ phiếu là gì và các hình thức phân tách giúp bạn tránh bẫy tâm lý vào ngày giao dịch không hưởng quyền. Phân tích thực tế dưới đây từ HVS sẽ làm rõ cách tính giá điều chỉnh và ảnh hưởng đến túi tiền của bạn.
 
----
-
 ## Chia tách cổ phiếu là gì?
 
 **Chia tách cổ phiếu là nghiệp vụ doanh nghiệp tăng số lượng cổ phiếu đang lưu hành bằng cách chia nhỏ các cổ phiếu hiện tại theo tỷ lệ nhất định, đồng thời giảm mệnh giá và thị giá tương ứng mà không làm thay đổi vốn chủ sở hữu.**
@@ -35,8 +33,6 @@ Sau khi doanh nghiệp A thực hiện chia tách theo tỷ lệ 3:1, tài kho�
 - **Tổng giá trị tài sản:** Vẫn giữ nguyên mức 150.000.000 VNĐ.
 
 Quy mô vốn đầu tư của cổ đông không bị ảnh hưởng, chỉ có số lượng cổ phần tăng lên và đơn giá mỗi cổ phần giảm đi tương ứng. Tổng giá trị danh mục đầu tư vẫn giữ nguyên 150.000.000 VNĐ nếu doanh nghiệp thực hiện chia tách theo tỷ lệ 3:1 từ mức giá 150.000 VNĐ. Mệnh giá của cổ phiếu sau chia tách không được thấp hơn giới hạn quy định tối thiểu là 10.000 VNĐ theo Luật Chứng khoán 2019 (tra cứu văn bản pháp quy tại vbpl.vn).
-
----
 
 ## Các hình thức phân tách cổ phiếu trên thị trường
 
@@ -92,8 +88,6 @@ Các đặc trưng chính của cổ phiếu ESOP bao gồm:
 - Pha loãng nhẹ tỷ lệ sở hữu của các cổ đông bên ngoài công ty.
 Dòng tiền thực tế tăng nhẹ nếu bán giá ưu đãi, hoặc không thay đổi nếu thưởng giá 0 đồng. Tỷ lệ sở hữu của cổ đông bên ngoài công ty bị pha loãng nhẹ.
 
----
-
 ## Mục đích của việc phân tách cổ phiếu là gì?
 
 **Mục đích của việc phân tách cổ phiếu là giảm thị giá để tăng tính thanh khoản, gửi tín hiệu tích cực về tiềm năng tăng trưởng của doanh nghiệp và tối ưu hóa cơ cấu cổ đông.**
@@ -112,8 +106,6 @@ Thị trường xem đây là thông điệp tích cực giúp củng cố niề
 
 #### Tối ưu hóa cơ cấu sở hữu cổ đông
 Gia tăng số lượng cổ phiếu giúp phân tán tỷ lệ sở hữu, giảm rủi ro thâu tóm. Lượng cổ đông phổ thông tăng giúp cải thiện thanh khoản, đa dạng hóa sở hữu và quảng bá rộng rãi thương hiệu. Cơ cấu cổ đông lành mạnh giúp doanh nghiệp phát triển bền vững.
-
----
 
 ## Giải đáp thắc mắc thường gặp về chia tách cổ phiếu
 
@@ -139,8 +131,6 @@ Một số đặc trưng biến động vốn hóa cần nắm rõ:
 - Tổng giá trị vốn hóa giữ nguyên tại thời điểm chốt quyền.
 Tuy nhiên, thị giá điều chỉnh giảm giúp cải thiện thanh khoản và thu hút thêm lực cầu từ nhà đầu tư cá nhân trên sàn HOSE và sàn HNX. Thị giá cổ phiếu có thể tăng nếu lực cầu vượt trội so với lực bán ở các phiên sau, từ đó gián tiếp thúc đẩy vốn hóa doanh nghiệp tăng trưởng. Đây là hiệu ứng tâm lý kích thích thanh khoản phổ biến sau chia tách.
 
----
-
 ## Phòng ngừa bẫy tâm lý ngày giao dịch không hưởng quyền cùng HVS Tài chính số
 
 **Phòng ngừa bẫy tâm lý ngày giao dịch không hưởng quyền đòi hỏi nhà đầu tư phải trang bị kiến thức bài bản trước khi giao dịch.**
@@ -150,8 +140,6 @@ Nhiều nhà đầu tư cá nhân mới (F0) dễ mắc bẫy tâm lý ảo giá
 - **HVS Demo:** Công cụ giao dịch mô phỏng giúp học viên thực hành tính toán giá điều chỉnh và kiểm chứng biến động tài sản không rủi ro. Bạn sẽ nắm chắc cơ chế điều chỉnh giá và cách đọc hiểu các chỉ tiêu tài chính doanh nghiệp.
 - **HVS Forum:** Cộng đồng chia sẻ nhận định thực chiến về lịch chia tách cổ tức của các mã lớn như VCB, VNM, HPG.
 Học viên có thể nâng cao năng lực tự phân tích và tự lên kế hoạch quản trị rủi ro danh mục, chủ động lên kịch bản giao dịch thay vì mua bán theo tin đồn hay hiệu ứng đám đông trên sàn chứng khoán.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 

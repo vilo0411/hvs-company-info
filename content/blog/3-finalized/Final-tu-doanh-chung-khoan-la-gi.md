@@ -24,7 +24,7 @@ Bài viết này do HVS biên soạn nhằm giúp bạn làm rõ khái niệm t�
 
 Thuật ngữ tự doanh chứng khoán trong tiếng Anh được gọi là Proprietary Trading (viết tắt là Prop Trading). Căn cứ theo quy định tại khoản 30 Điều 4 Luật Chứng khoán 2019, tự doanh chứng khoán được định nghĩa là việc công ty chứng khoán mua, bán chứng khoán cho chính mình thông qua nguồn vốn chủ sở hữu hoặc nguồn vốn vay hợp pháp của doanh nghiệp.
 
-Bản chất của nghiệp vụ này đặt công ty chứng khoán vào một vị thế đặc biệt trên thị trường [giao dịch chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-giao-dich-chung-khoan-la-gi.md). Một mặt, doanh nghiệp đóng vai trò là tổ chức trung gian cung cấp hạ tầng, quản lý tài khoản và hỗ trợ giao dịch cho nhà đầu tư cá nhân. Mặt khác, chính bộ phận tự doanh lại trực tiếp nộp tiền vào tài khoản riêng để đóng vai một nhà đầu tư tổ chức quy mô lớn. 
+Bản chất của nghiệp vụ này đặt công ty chứng khoán vào một vị thế đặc biệt trên thị trường [giao dịch chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/giao-dich-chung-khoan-la-gi). Một mặt, doanh nghiệp đóng vai trò là tổ chức trung gian cung cấp hạ tầng, quản lý tài khoản và hỗ trợ giao dịch cho nhà đầu tư cá nhân. Mặt khác, chính bộ phận tự doanh lại trực tiếp nộp tiền vào tài khoản riêng để đóng vai một nhà đầu tư tổ chức quy mô lớn. 
 
 Mục tiêu tối thượng của khối tự doanh là tối đa hóa lợi nhuận cho cổ đông công ty chứng khoán. Thu nhập này đến từ hai nguồn chính: chênh lệch giá mua bán cổ phiếu trên thị trường niêm yết (HOSE, HNX) và nguồn thu cố định từ cổ tức, lãi trái phiếu hoặc cổ tức cổ phiếu. 
 
@@ -32,7 +32,7 @@ Khác với nhà đầu tư nhỏ lẻ trading bằng cảm xúc, khối tự do
 
 ## Phân biệt tự doanh chứng khoán và môi giới chứng khoán
 
-Một trong những nhầm lẫn phổ biến nhất của các nhà đầu tư mới tham gia thị trường là đánh đồng nghiệp vụ tự doanh với nghiệp vụ [môi giới chứng khoán là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-moi-gioi-chung-khoan-la-gi.md). Dù cùng nằm dưới sự điều hành của một công ty chứng khoán, hai mảng hoạt động này hoàn toàn tách biệt về mục đích, nguồn vốn và cơ chế phân bổ rủi ro.
+Một trong những nhầm lẫn phổ biến nhất của các nhà đầu tư mới tham gia thị trường là đánh đồng nghiệp vụ tự doanh với nghiệp vụ [môi giới chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/moi-gioi-chung-khoan-la-gi). Dù cùng nằm dưới sự điều hành của một công ty chứng khoán, hai mảng hoạt động này hoàn toàn tách biệt về mục đích, nguồn vốn và cơ chế phân bổ rủi ro.
 
 Môi giới chứng khoán là hoạt động công ty làm đại lý thực hiện lệnh giao dịch mua hoặc bán chứng khoán thay cho khách hàng. Công ty không bỏ vốn đầu tư và chỉ thu tiền từ phí giao dịch. Trong khi đó, tự doanh chứng khoán là việc công ty bỏ chính dòng tiền của mình ra kinh doanh.
 
@@ -52,7 +52,7 @@ Nhà đầu tư cần hiểu rõ rằng khi công ty chứng khoán công bố d
 
 Do vị thế vừa làm trọng tài vừa làm cầu thủ trên thị trường, hoạt động tự doanh chứng khoán chịu sự giám sát pháp lý cực kỳ nghiêm ngặt nhằm ngăn ngừa rủi ro thao túng và bảo vệ quyền lợi hợp pháp của nhà đầu tư. Các quy định này được cụ thể hóa trong Luật Chứng khoán 2019 và Nghị định 155/2020/NĐ-CP:
 
-1. **Điều kiện về vốn điều lệ tối thiểu:** Theo Luật Chứng khoán 2019, để được Ủy ban Chứng khoán Nhà nước cấp phép nghiệp vụ tự doanh, [công ty chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-san-giao-dich-chung-khoan-la-gi.md) phải đáp ứng mức vốn điều lệ tối thiểu là 50 tỷ đồng. Ngoài ra, điều kiện bắt buộc là công ty phải được cấp phép nghiệp vụ môi giới chứng khoán trước hoặc đồng thời với nghiệp vụ tự doanh.
+1. **Điều kiện về vốn điều lệ tối thiểu:** Theo Luật Chứng khoán 2019, để được Ủy ban Chứng khoán Nhà nước cấp phép nghiệp vụ tự doanh, [công ty chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/san-giao-dich-chung-khoan-la-gi) phải đáp ứng mức vốn điều lệ tối thiểu là 50 tỷ đồng. Ngoài ra, điều kiện bắt buộc là công ty phải được cấp phép nghiệp vụ môi giới chứng khoán trước hoặc đồng thời với nghiệp vụ tự doanh.
 2. **Nguyên tắc ưu tiên lệnh của khách hàng:** Đây là nguyên tắc đạo đức và pháp lý quan trọng nhất (Mandatory Order Priority). Pháp luật quy định công ty chứng khoán có nghĩa vụ ưu tiên xử lý và khớp lệnh giao dịch của khách hàng trước lệnh tự doanh của chính công ty. 
 3. **Nghiêm cấm hành vi đè giá (Front-running):** Khi khách hàng gửi lệnh giao dịch giới hạn, bộ phận tự doanh tuyệt đối không được phép đặt lệnh mua hoặc bán cùng loại cổ phiếu đó cho tài khoản công ty ở mức giá bằng hoặc tốt hơn giá khách hàng trước khi lệnh của khách hàng được thực hiện xong.
 4. **Tách biệt tuyệt đối tài khoản và tài sản:** Công ty chứng khoán phải mở tài khoản giao dịch tự doanh riêng biệt tại các Sở Giao dịch Chứng khoán (HOSE, HNX). Pháp luật nghiêm cấm việc dùng tiền hoặc chứng khoán trên tài khoản của khách hàng để thực hiện các giao dịch tự doanh dưới mọi hình thức.
@@ -98,8 +98,6 @@ Chương trình **HVS Thực tập số** (nền tảng cốt lõi nằm trong h
 Hoạt động tự doanh chứng khoán là một nghiệp vụ kinh doanh vốn hợp pháp và quan trọng, mang lại nguồn thu lớn cho các công ty chứng khoán đồng thời đóng góp thanh khoản tích cực cho toàn thị trường. Đối với nhà đầu tư cá nhân, số liệu giao dịch của khối tự doanh là một nguồn dữ liệu tham khảo có giá trị, nhưng tuyệt đối không phải là kim chỉ nam hay tín hiệu mua bán thần thánh để giao dịch mù quáng.
 
 Để bảo vệ tài khoản và đạt hiệu quả đầu tư bền vững, HVS khuyên bạn nên tập trung vào giá trị nội tại của doanh nghiệp, thực hiện kiểm tra báo cáo tài chính cẩn trọng, tuân thủ nguyên tắc quản trị rủi ro nghiêm ngặt và không ngừng nâng cao tri thức tài chính thực chiến cùng HVS.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-09-03):** Tạo Outline cho bài viết "Tự doanh chứng khoán là gì" theo Express Mode, tích hợp quy định Luật Chứng khoán 2019 (vốn tối thiểu 50 tỷ, ưu tiên lệnh khách hàng) và phân tích sâu các nghiệp vụ tự doanh thực tế.

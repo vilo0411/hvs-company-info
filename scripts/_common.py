@@ -62,7 +62,7 @@ def read_text(p: Path) -> tuple[str, str]:
     """Return (text with LF endings, original newline) so writers can preserve CRLF/LF."""
     raw = p.read_bytes()
     nl = "\r\n" if b"\r\n" in raw else "\n"
-    return raw.decode("utf-8").replace("\r\n", "\n"), nl
+    return raw.decode("utf-8-sig").replace("\r\n", "\n"), nl  # utf-8-sig: 169 legacy Finals carry a BOM
 
 
 def write_text(p: Path, text: str, nl: str = "\n") -> None:

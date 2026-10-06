@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Lan Newbie
 Target_Keyword: đầu tư tích sản cổ phiếu là gì
 Search_Intent: Informational
@@ -69,13 +69,9 @@ Tích sản cổ phiếu đòi hỏi tính kỷ luật cao và khả năng chọ
 
 **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
 
----
-
 ## Kết luận
 
 Đầu tư tích sản cổ phiếu là phương pháp xây dựng tài sản vững chắc nhờ sức mạnh của lãi kép và bình quân giá. Để gặt hái quả ngọt trong dài hạn, bạn cần kiên trì giữ vững kỷ luật mua định kỳ và không ngừng học hỏi cách định giá doanh nghiệp. Đồng hành cùng HVS sẽ giúp bạn làm chủ kỹ năng tự phân tích và kiến tạo lộ trình đầu tư an toàn từ hôm nay.
-
----
 
 ## Revision Log
 - **[2026-05-14]:** Tối ưu hóa bài viết lần 1. Sửa lỗi vi phạm quy tắc Anti-AI 3.79 (loại bỏ dấu ngoặc kép nhấn mạnh ở các từ như "bỏ ống", "thuế").

@@ -68,7 +68,7 @@ Ví dụ trên sàn HOSE, cổ phiếu HPG hoặc SSI sau nhịp giảm 20% thư
 | **Vùng kỹ thuật** | Ngưỡng kháng cự | Ngưỡng hỗ trợ |
 | **Hành vi F0** | Mua đuổi rồi kẹp hàng | Bán tháo rồi mất hàng |
 
-Nhà đầu tư cần phân biệt bẫy tăng giá với tín hiệu bứt phá thực sự. Việc đối chiếu bản chất giữa Bull trap và [Bear Trap là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-bear-trap-la-gi.md) giúp bạn có cái nhìn toàn diện hơn.
+Nhà đầu tư cần phân biệt bẫy tăng giá với tín hiệu bứt phá thực sự. Việc đối chiếu bản chất giữa Bull trap và [Bear Trap là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/bear-trap-la-gi) giúp bạn có cái nhìn toàn diện hơn.
 
 ## 4 dấu hiệu nhận biết Bull trap chính xác trên biểu đồ giá
 
@@ -84,7 +84,7 @@ Hình thái nến phản ánh sự tranh chấp giữa phe mua và phe bán. Khi
 Phân kỳ âm (Negative Divergence) xảy ra khi giá tạo đỉnh sau cao hơn đỉnh trước, nhưng chỉ báo RSI hoặc MACD lại tạo đỉnh sau thấp hơn đỉnh trước. Cổ phiếu NVL trên sàn HOSE từng có nhịp tăng vượt đỉnh ngắn hạn nhưng chỉ báo RSI lại tạo đỉnh thấp hơn ở vùng quá mua (RSI > 70). Đây là tín hiệu cảnh báo lực mua đã kiệt sức.
 
 #### 4. Thiếu nhịp Retest kiểm định vùng bứt phá thành công
-Một đợt bứt phá chuẩn xác thường quay đầu kiểm định (Retest) vùng kháng cự cũ. Trong kịch bản Bull trap, giá không thể tích lũy trên vùng bứt phá mà đâm thủng ngay lập tức qua ngưỡng hỗ trợ mới, xác nhận cú [breakout trong chứng khoán là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-breakout-trong-chung-khoan-la-gi.md) chỉ là pha lừa đảo kỹ thuật.
+Một đợt bứt phá chuẩn xác thường quay đầu kiểm định (Retest) vùng kháng cự cũ. Trong kịch bản Bull trap, giá không thể tích lũy trên vùng bứt phá mà đâm thủng ngay lập tức qua ngưỡng hỗ trợ mới, xác nhận cú [breakout trong chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/breakout-trong-chung-khoan-la-gi) chỉ là pha lừa đảo kỹ thuật.
 
 ## Tại sao nhà đầu tư F0 thường xuyên sập bẫy Bull trap?
 
@@ -102,7 +102,7 @@ Thứ ba là bỏ qua hành vi dòng tiền lớn. Các tổ chức tài chính 
 
 Một là kiên nhẫn chờ nhịp Retest. Tuyệt đối không mua đuổi ở ngay cây nến xanh bứt phá đầu tiên. Hãy quan sát nhịp quay đầu test lại ngưỡng kháng cự cũ. Nếu giá chạm lại vùng này với khối lượng giao dịch cạn kiệt rồi bật tăng trở lại, đó mới là điểm giải ngân an toàn. 
 
-Hai là thiết lập [nguyên tắc cắt lỗ](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-cat-lo-la-gi.md) cố định ngay khi mở vị thế. Nếu mua tại vùng bẫy tăng giá, bạn phải kiên quyết kích hoạt dừng lỗ (Stop Loss) khi giá quay đầu xuyên thủng đít nến breakout hoặc lỗ 3% đến 5%. Cắt lỗ sớm giúp bạn giữ thanh khoản để làm lại ở cơ hội rõ ràng hơn.
+Hai là thiết lập [nguyên tắc cắt lỗ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cat-lo-la-gi) cố định ngay khi mở vị thế. Nếu mua tại vùng bẫy tăng giá, bạn phải kiên quyết kích hoạt dừng lỗ (Stop Loss) khi giá quay đầu xuyên thủng đít nến breakout hoặc lỗ 3% đến 5%. Cắt lỗ sớm giúp bạn giữ thanh khoản để làm lại ở cơ hội rõ ràng hơn.
 
 Nhà đầu tư F0 thường thiếu phản xạ nhận diện bẫy kỹ thuật và dễ bị cảm xúc chi phối. Bạn có thể tham gia chương trình **HVS Thực tập số** (thuộc nền tảng **HVS Tài chính số**). Học viên được đồng hành cùng Mentor CFA để học phương pháp đọc đồ thị Phân tích kỹ thuật (TA LV1). Ngoài ra, bạn được rèn luyện trên **HVS Demo** để tạo phản xạ dừng lỗ không cảm xúc, và trao đổi kinh nghiệm tại **HVS Forum**.
 
@@ -111,8 +111,6 @@ Nhà đầu tư F0 thường thiếu phản xạ nhận diện bẫy kỹ thuậ
 Bull trap là thử thách phổ biến nhưng khốc liệt trên thị trường chứng khoán. Nhận diện sớm các dấu hiệu bẫy tăng giá qua khối lượng giao dịch, hình thái nến và chỉ báo phân kỳ sẽ giúp bạn tránh được những khoản thua lỗ nặng nề không đáng có. 
 
 Kỷ luật tuân thủ nguyên tắc cắt lỗ và sự kiên nhẫn chờ đợi xác nhận dòng tiền là chìa khóa sống còn của nhà đầu tư chuyên nghiệp. Việc liên tục học hỏi, thực hành quản trị rủi ro trên nền tảng mô phỏng và rèn luyện tâm lý vững vàng sẽ giúp bạn đứng vững qua mọi biến động thị trường. HVS luôn sẵn sàng đồng hành cùng bạn trên chặng đường nâng cao tri thức và xây dựng tư duy đầu tư thực chiến chuẩn mực.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-09-14):** Khởi tạo dàn ý Express mode.

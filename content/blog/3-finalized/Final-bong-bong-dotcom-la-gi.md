@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Claude Code
 Status: Finalized
 Pipeline_Mode: Express
@@ -13,13 +13,7 @@ Search_Intent: Informational
 Content_Type: Evergreen Education
 Featured_Snippet: Paragraph | Table
 Word_Count_Target: 2100
-HVS_Products:
-  - product: "HVS Tài chính số (lộ trình HVS Thực tập số — FA Level 1)"
-    benefit: "Học phân tích cơ bản và nhận diện bong bóng tài sản qua case study lịch sử thực tế"
-  - product: "HVS Demo"
-    benefit: "Luyện tập danh mục anti-bubble không rủi ro vốn thực"
-  - product: "HVS Forum"
-    benefit: "Thảo luận case study tài chính lịch sử cùng cộng đồng"
+HVS_Products: ["HVS Tài chính số (lộ trình HVS Thực tập số — FA Level 1)", "HVS Demo", "HVS Forum"]
 Anti_AI_Flags: "không thể phủ nhận, điều này minh chứng rằng, chúng ta có thể thấy, đáng chú ý là, hành trình, giải pháp toàn diện"
 Internal_Links:
   - role: Pillar

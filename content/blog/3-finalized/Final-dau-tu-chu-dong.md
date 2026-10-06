@@ -28,9 +28,9 @@ Việc theo đuổi chiến lược này đòi hỏi bạn phải có nền tả
 
 ## So sánh đầu tư chủ động và đầu tư thụ động
 
-Để hiểu rõ định hướng quản lý tài sản, bạn cần phân biệt rạch ròi giữa đầu tư chủ động và [đầu tư thụ động](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-dau-tu-thu-dong.md). Hai chiến lược này đại diện cho hai triết lý đầu tư trái ngược về mục tiêu lợi nhuận, mức độ chấp nhận rủi ro và nguồn lực bỏ ra.
+Để hiểu rõ định hướng quản lý tài sản, bạn cần phân biệt rạch ròi giữa đầu tư chủ động và [đầu tư thụ động](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/dau-tu-thu-dong). Hai chiến lược này đại diện cho hai triết lý đầu tư trái ngược về mục tiêu lợi nhuận, mức độ chấp nhận rủi ro và nguồn lực bỏ ra.
 
-Đầu tư thụ động hướng tới việc bám sát tỷ suất sinh lời của thị trường chung thông qua các sản phẩm như [etf là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-etf-la-gi.md) (quỹ hoán đổi danh mục). Nhà đầu tư thụ động chấp nhận mức lợi nhuận bình quân, tối thiểu hóa số lần giao dịch và cắt giảm chi phí quản lý. Trái lại, nhà đầu tư chủ động tìm kiếm sự bứt phá lợi nhuận bằng việc chấp nhận khối lượng công việc phân tích lớn hơn và tần suất giao dịch cao hơn.
+Đầu tư thụ động hướng tới việc bám sát tỷ suất sinh lời của thị trường chung thông qua các sản phẩm như [etf là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/etf-la-gi) (quỹ hoán đổi danh mục). Nhà đầu tư thụ động chấp nhận mức lợi nhuận bình quân, tối thiểu hóa số lần giao dịch và cắt giảm chi phí quản lý. Trái lại, nhà đầu tư chủ động tìm kiếm sự bứt phá lợi nhuận bằng việc chấp nhận khối lượng công việc phân tích lớn hơn và tần suất giao dịch cao hơn.
 
 Bảng so sánh chi tiết dưới đây tóm tắt các điểm khác biệt cốt lõi giữa hai phương pháp:
 
@@ -56,7 +56,7 @@ Ví dụ, nhà đầu tư có thể phân tích nhóm cổ phiếu đầu ngành
 
 #### 2. Định thời điểm thị trường dựa trên phân tích kỹ thuật (Market Timing)
 
-Market Timing là chiến lược tận dụng các sóng biến động giá ngắn và trung hạn để tối ưu hóa giá vốn. Nhà đầu tư áp dụng [phân tích kỹ thuật là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-phan-tich-ky-thuat-la-gi.md) để đọc biểu đồ giá, khối lượng giao dịch (Volume) và các đường trung bình động (MA) nhằm nhận diện vùng đáy tích lũy hoặc vùng đỉnh phân phối của VN-Index.
+Market Timing là chiến lược tận dụng các sóng biến động giá ngắn và trung hạn để tối ưu hóa giá vốn. Nhà đầu tư áp dụng [phân tích kỹ thuật là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-ky-thuat-la-gi) để đọc biểu đồ giá, khối lượng giao dịch (Volume) và các đường trung bình động (MA) nhằm nhận diện vùng đáy tích lũy hoặc vùng đỉnh phân phối của VN-Index.
 
 Kịch bản hành động của nhà đầu tư theo trường phái này rất rõ ràng. Khi VN-Index xác nhận tín hiệu đảo chiều tăng từ vùng hỗ trợ mạnh, nhà đầu tư chủ động gia tăng tỷ trọng cổ phiếu lên 80-100%. Ngược lại, khi chỉ số chạm vùng kháng cự mạnh với khối lượng bán lớn, họ sẽ chủ động hạ tỷ trọng cổ phiếu, chốt lời và nâng tỷ lệ tiền mặt để bảo vệ thành quả.
 
@@ -68,7 +68,7 @@ Trong giai đoạn nới lỏng tiền tệ và lãi suất giảm, nhà đầu 
 
 ## Ưu điểm và rủi ro thực tế khi lựa chọn đầu tư chủ động
 
-Đầu tư chủ động mang lại cơ hội gia tăng tài sản bứt phá nhưng cũng đi kèm những đốm lửa rủi ro nếu bạn thiếu kinh nghiệm [quản lý danh mục đầu tư chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-quan-ly-danh-muc-dau-tu-chung-khoan.md). Phân tích khách quan hai mặt của vấn đề giúp bạn chuẩn bị tâm lý và kịch bản ứng phó phù hợp.
+Đầu tư chủ động mang lại cơ hội gia tăng tài sản bứt phá nhưng cũng đi kèm những đốm lửa rủi ro nếu bạn thiếu kinh nghiệm [quản lý danh mục đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quan-ly-danh-muc-dau-tu-chung-khoan). Phân tích khách quan hai mặt của vấn đề giúp bạn chuẩn bị tâm lý và kịch bản ứng phó phù hợp.
 
 Về ưu điểm, chiến lược chủ động mang lại tiềm năng lợi nhuận không giới hạn. Khi phân tích đúng doanh nghiệp tăng trưởng và mua vào đúng thời điểm, bạn có thể đạt tỷ suất sinh lời 30-50%/năm, vượt xa mức 10-12%/năm của thị trường chung. Ngoài ra, tính linh hoạt giúp bạn chủ động phòng vệ tài sản. Nếu phát hiện rủi ro vĩ mô bất ngờ như suy thoái kinh tế hay biến động tỷ giá căng thẳng, bạn có thể lập tức bán cổ phiếu về tiền mặt thay vì thụ động chịu đợt sụt giảm giá.
 
@@ -97,8 +97,6 @@ Nhà đầu tư có thể bắt đầu hành trình đầu tư chủ động bà
 3. **Đồng hành cùng cộng đồng chuyên môn:** Thảo luận kịch bản thị trường và nhận phản hồi từ các Mentor tại **HVS Forum** để liên tục tối ưu hóa hiệu suất đầu tư.
 
 Với sự đồng hành của **HVS**, bạn hoàn toàn có thể làm chủ phương pháp đầu tư chủ động và từng bước đạt được các mục tiêu tài chính dài hạn một cách an toàn và hiệu quả.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-09-03):** Khởi tạo Outline cho bài viết "Đầu tư chủ động" dựa trên phân tích SERP Google Top 5, tích hợp đầy đủ chuẩn Anti-AI và phân cấp sản phẩm HVS đúng quy định.

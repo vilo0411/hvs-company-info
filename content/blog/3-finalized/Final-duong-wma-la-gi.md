@@ -16,31 +16,27 @@ Meta_Description: Đường WMA là gì? Tìm hiểu đường trung bình độ
 
 Để giải quyết bài toán cân bằng giữa độ nhạy và độ mượt của chỉ báo, đường WMA ra đời như một công cụ đo đà giá hiệu quả. HVS sẽ giải mã bản chất đường WMA là gì, công thức tính trọng số tuyến tính, bảng so sánh SMA vs EMA vs WMA và hướng dẫn 3 chiến lược ứng dụng WMA thực chiến trên thị trường chứng khoán Việt Nam.
 
----
-
 ## Đường WMA là gì trong phân tích kỹ thuật?
 
-**Đường WMA (Weighted Moving Average)** hay đường trung bình động có trọng số là chỉ báo kỹ thuật tính giá trị trung bình của cổ phiếu trong một khoảng thời gian $N$ phiên, trong đó các dữ liệu giá gần thời điểm hiện tại nhất được gán trọng số lớn nhất và giảm dần theo tỷ lệ tuyến tính về quá khứ.
+**Đường WMA (Weighted Moving Average)** hay đường trung bình động có trọng số là chỉ báo kỹ thuật tính giá trị trung bình của cổ phiếu trong một khoảng thời gian `N` phiên, trong đó các dữ liệu giá gần thời điểm hiện tại nhất được gán trọng số lớn nhất và giảm dần theo tỷ lệ tuyến tính về quá khứ.
 
 Trong bộ công cụ phân tích kỹ thuật chứng khoán, đường WMA sở hữu 3 đặc điểm vận hành cốt lõi:
 
-1. **Gán trọng số tuyến tính cho giá mới:** Khác với đường SMA chia đều trọng số cho mọi phiên, WMA áp dụng phép nhân trọng số tăng dần từ 1 đến $N$. Nhờ đó, biến động giá của phiên giao dịch hôm nay có ảnh hưởng mạnh nhất đến hướng đi của chỉ báo.
+1. **Gán trọng số tuyến tính cho giá mới:** Khác với đường SMA chia đều trọng số cho mọi phiên, WMA áp dụng phép nhân trọng số tăng dần từ 1 đến `N`. Nhờ đó, biến động giá của phiên giao dịch hôm nay có ảnh hưởng mạnh nhất đến hướng đi của chỉ báo.
 2. **Giảm thiểu độ trễ hiệu quả:** Ưu tiên các mức giá đóng cửa mới nhất giúp WMA bám rất sát đường giá real-time. Điều này giúp nhà đầu tư phát hiện sớm các tín hiệu [đảo chiều xu hướng](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-dao-chieu-xu-huong-la-gi.md) so với đường trung bình đơn giản.
 3. **Nguy cơ dính nến nhiễu khi sideway:** Độ nhạy cao cũng là con dao hai lưỡi. Khi cổ phiếu tích lũy biên độ hẹp, đường WMA dễ liên tục phát ra tín hiệu giao cắt giả, khiến nhà đầu tư lướt sóng chịu tổn thất nếu thiếu kỷ luật.
-
----
 
 ## Công thức tính đường WMA & Bảng so sánh với SMA, EMA
 
 Để ứng dụng thành thạo WMA trong phân tích kỹ thuật, bạn cần nắm rõ cơ chế phân bổ trọng số tuyến tính đằng sau công thức tính toán.
 
 ### Công thức tính toán tổng quát
-Giá trị đường WMA chu kỳ $N$ phiên được xác định theo công thức:
+Giá trị đường WMA chu kỳ `N` phiên được xác định theo công thức:
 
 `WMA = [(P1 × 1) + (P2 × 2) + ... + (Pn × n)] ÷ [(n × (n + 1)) ÷ 2]`
 
 *Trong đó:*
-- `Pn`: Giá đóng cửa phiên giao dịch mới nhất (phiên $n$).
+- `Pn`: Giá đóng cửa phiên giao dịch mới nhất (phiên `n`).
 - `P1`: Giá đóng cửa phiên xa nhất trong chu kỳ (phiên 1).
 - `n`: Số phiên trong chu kỳ (ví dụ: 5, 10, 20 phiên).
 
@@ -66,8 +62,6 @@ Nếu tính theo đường trung bình đơn giản SMA 5 phiên:
 | **Mức độ trễ** | Cao nhất | Trung bình | Thấp nhất |
 | **Trường hợp sử dụng** | Xu hướng dài hạn (SMA 50, SMA 200) | Giao dịch sóng trung hạn | Lướt sóng ngắn hạn (Scalping) |
 
----
-
 ## 3 Chiến lược giao dịch thực chiến với đường WMA
 
 Đường WMA được ứng dụng rộng rãi trong giao dịch ngắn hạn với 3 chiến lược vào lệnh hiệu quả sau:
@@ -88,8 +82,6 @@ Nếu tính theo đường trung bình đơn giản SMA 5 phiên:
 
 - **Quy tắc vào lệnh:** Giá vượt WMA 20 kèm Volume phiên breakout gấp 1.5 - 2 lần trung bình 20 phiên, đồng thời RSI > 50. Nếu thiếu Volume bùng nổ, đó nhiều khả năng là bẫy dòng tiền và bạn không nên mua đuổi.
 
----
-
 ## Giải pháp HVS — Luyện tập giao dịch WMA không rủi ro
 
 Nhược điểm lớn nhất của F0 khi dùng WMA không nằm ở công thức tính toán, mà ở bẫy tâm lý: vội vàng mua đuổi (FOMO) khi giá cắt qua WMA mà không chờ xác nhận, hoặc lưỡng lự không chịu cắt lỗ khi bị dính nến nhiễu.
@@ -100,8 +92,6 @@ Hệ sinh thái HVS hỗ trợ bạn chuyển hóa kiến thức thành kỹ nă
 - **Nền tảng HVS Demo:** Công cụ mô phỏng giao dịch chứng khoán chạy trên dữ liệu thời gian thực, giúp bạn thử nghiệm các chiến lược WMA và rèn kỷ luật stoploss mà không lo rủi ro tổn thất tài chính thật.
 - **Cộng đồng HVS Forum:** Nơi trao đổi góc nhìn phân tích kỹ thuật, đối chiếu biểu đồ cổ phiếu hàng ngày và nhận phản hồi trực tiếp từ đội ngũ cố vấn HVS.
 
----
-
 ## Kết luận: 3 Nguyên tắc vàng khi sử dụng đường WMA
 
 Đường WMA là công cụ đo đà giá nhạy bén, giúp nhà đầu tư phát hiện sớm nhịp chuyển động của dòng tiền ngắn hạn. Để giao dịch hiệu quả với đường WMA, bạn hãy ghi nhớ 3 nguyên tắc vàng sau:
@@ -109,8 +99,6 @@ Hệ sinh thái HVS hỗ trợ bạn chuyển hóa kiến thức thành kỹ nă
 1. **Không bao giờ dùng WMA độc lập:** Luôn kết hợp đường WMA với các chỉ báo xác nhận thanh khoản và động lượng như Volume, RSI hoặc [đường EMA](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-duong-ema-la-gi.md) để loại bỏ tối đa tín hiệu giả.
 2. **Kỷ luật cắt lỗ tuyệt đối:** Tuân thủ nguyên tắc cắt lỗ từ 5% đến 7% khi vị thế giao dịch đi ngược lại kịch bản dự tính ban đầu.
 3. **Lựa chọn chu kỳ WMA phù hợp:** Dùng WMA 10 - WMA 20 cho chiến lược lướt sóng ngắn hạn (Scalping), và ưu tiên WMA 50 hoặc [đường MA200](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-duong-ma200-la-gi.md) để định hướng xu hướng dài hạn của cổ phiếu.
-
----
 
 ## Revision Log
 - **2026-09-15:** Khởi tạo Outline bài viết "Đường WMA là gì" ở chế độ Express Mode với đầy đủ SERP Research và cấu trúc Word Count Target cho từng section.

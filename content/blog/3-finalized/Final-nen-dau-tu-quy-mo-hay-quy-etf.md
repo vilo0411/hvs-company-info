@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: Nên đầu tư quỹ mở hay quỹ etf
 Search_Intent: Informational | Commercial
@@ -44,7 +44,7 @@ Giá giao dịch quỹ mở được tính theo giá trị tài sản ròng (NAV
 Chi phí vận hành quỹ mở thường cao hơn, dao động từ 1.0% đến 2.0% mỗi năm do cần đội ngũ chuyên gia nghiên cứu chọn lọc cổ phiếu. Đối với quỹ ETF, chi phí quản lý hằng niên rẻ hơn rất nhiều, chỉ từ 0.5% đến 0.8% mỗi năm do danh mục được cơ cấu tự động theo rổ chỉ số tham chiếu có sẵn.
 
 5. **Mức vốn tham gia ban đầu:**
-Bạn chỉ cần số vốn tối thiểu từ 100.000 đồng là có thể bắt đầu mua quỹ mở qua chương trình tích lũy định kỳ SIP. Đối với quỹ ETF trên sàn HOSE, quy định khớp lệnh yêu cầu lô chẵn tối thiểu là 100 chứng chỉ quỹ. Nếu thị giá của quỹ ETF VN30 là 20.000 đồng/chứng chỉ quỹ, bạn cần có tối thiểu $100 \times 20.000 = 2.000.000$ đồng để thực hiện một lệnh mua.
+Bạn chỉ cần số vốn tối thiểu từ 100.000 đồng là có thể bắt đầu mua quỹ mở qua chương trình tích lũy định kỳ SIP. Đối với quỹ ETF trên sàn HOSE, quy định khớp lệnh yêu cầu lô chẵn tối thiểu là 100 chứng chỉ quỹ. Nếu thị giá của quỹ ETF VN30 là 20.000 đồng/chứng chỉ quỹ, bạn cần có tối thiểu `100 \times 20.000 = 2.000.000` đồng để thực hiện một lệnh mua.
 
 | Tiêu chí so sánh | Quỹ mở (Open-ended Fund) | Quỹ ETF (Exchange Traded Fund) |
 | :--- | :--- | :--- |
@@ -97,8 +97,6 @@ Nếu muốn thử nghiệm thực tế trước khi dùng tiền thật, bạn 
 Quyết định nên đầu tư quỹ mở hay quỹ ETF phụ thuộc vào nhu cầu tích lũy, quy mô vốn và trải nghiệm giao dịch của riêng bạn. Quỹ mở phù hợp với định hướng tích lũy kỷ luật định kỳ từ số vốn nhỏ, trong khi quỹ ETF là lựa chọn tối ưu để tối giản chi phí và sử dụng tính thanh khoản cao trên sàn chứng khoán. Việc trang bị kiến thức tự phân tích tại **HVS** sẽ giúp bạn chủ động đưa ra lựa chọn đầu tư phù hợp nhất.
 
 **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ chứng chỉ quỹ hay mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-07-20):** Khởi tạo nội dung so sánh quỹ mở và quỹ ETF theo chế độ Express.

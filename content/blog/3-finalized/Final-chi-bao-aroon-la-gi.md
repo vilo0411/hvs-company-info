@@ -26,7 +26,7 @@ Chỉ báo Aroon là công cụ phân tích kỹ thuật chuyên biệt dùng đ
 
 Công cụ này được nhà phân tích Tushar Chande phát triển vào năm 1995. Trong tiếng Phạn cổ, "Aroon" mang ý nghĩa là "Ánh sáng sớm của bình minh". Tên gọi này tượng trưng cho khả năng cốt lõi của công cụ: giúp nhà đầu tư phát hiện sự hình thành của một xu hướng giá mới từ những phiên đầu tiên.
 
-Trong [phương pháp phân tích kỹ thuật](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-phan-tich-ky-thuat-la-gi.md), phần lớn công cụ như [chỉ báo RSI](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-rsi-la-gi.md) hay MACD hoạt động dựa trên tốc độ và biên độ thay đổi giá. Ngược lại, điểm độc đáo của chỉ báo Aroon nằm ở việc đo lường khoảng cách thời gian (tính theo số phiên giao dịch) kể từ thời điểm giá đạt mức đỉnh cao nhất hoặc đáy thấp nhất trong một chu kỳ xác định.
+Trong [phương pháp phân tích kỹ thuật](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-ky-thuat-la-gi), phần lớn công cụ như [chỉ báo RSI](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-rsi-la-gi.md) hay MACD hoạt động dựa trên tốc độ và biên độ thay đổi giá. Ngược lại, điểm độc đáo của chỉ báo Aroon nằm ở việc đo lường khoảng cách thời gian (tính theo số phiên giao dịch) kể từ thời điểm giá đạt mức đỉnh cao nhất hoặc đáy thấp nhất trong một chu kỳ xác định.
 
 Nếu cổ phiếu liên tục lập đỉnh mới trong các phiên gần đây, chỉ báo Aroon sẽ đánh giá đà tăng đang rất mạnh mẽ. Ngược lại, nếu trải qua nhiều phiên không thể tạo đỉnh mới, chỉ báo phát tín hiệu cảnh báo xu hướng tăng đã suy yếu.
 
@@ -67,7 +67,7 @@ Chỉ báo này hợp nhất Aroon-Up và Aroon-Down thành một đường duy 
 **Cách đọc giá trị Aroon Oscillator:**
 - **Giá trị dương (> 0 đến +100):** Aroon-Up lớn hơn Aroon-Down, phe mua kiểm soát thế trận. Chỉ báo vượt +50 phản ánh lực tăng rất mạnh mẽ.
 - **Giá trị âm (< 0 đến -100):** Aroon-Down lớn hơn Aroon-Up, phe bán chiếm ưu thế. Chỉ báo xuống dưới -50 phản ánh đà giảm áp đảo.
-- **Giá trị quanh mốc 0 (-20 đến +20):** Hai đường xấp xỉ ngang nhau, cổ phiếu rơi vào giai đoạn [xu hướng sideway](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-sideway-la-gi.md) tích lũy giằng co. Khi Aroon Oscillator duy trì gần mốc 0 kéo dài, nhà đầu tư nên kiên nhẫn đứng ngoài chờ sóng mới.
+- **Giá trị quanh mốc 0 (-20 đến +20):** Hai đường xấp xỉ ngang nhau, cổ phiếu rơi vào giai đoạn [xu hướng sideway](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/sideway-la-gi) tích lũy giằng co. Khi Aroon Oscillator duy trì gần mốc 0 kéo dài, nhà đầu tư nên kiên nhẫn đứng ngoài chờ sóng mới.
 
 ## 4. 3 Tín hiệu giao dịch quan trọng từ chỉ báo Aroon
 
@@ -75,7 +75,7 @@ Nhà đầu tư cá nhân có thể khai thác 3 dạng tín hiệu cốt lõi t
 
 **Tín hiệu 1: Giao cắt giữa Aroon-Up và Aroon-Down (Đảo chiều sớm)**
 - **Bullish Cross:** Aroon-Up cắt vượt lên trên Aroon-Down, báo hiệu phe mua làm chủ. Đây là điểm mở vị thế thăm dò tốt.
-- **Bearish Cross:** Aroon-Down cắt vượt lên trên Aroon-Up, phản ánh áp lực bán áp đảo. Nhà đầu tư nên thực hiện [nguyên tắc cắt lỗ](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-cat-lo-la-gi.md).
+- **Bearish Cross:** Aroon-Down cắt vượt lên trên Aroon-Up, phản ánh áp lực bán áp đảo. Nhà đầu tư nên thực hiện [nguyên tắc cắt lỗ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cat-lo-la-gi).
 
 **Tín hiệu 2: Xác định sức mạnh xu hướng qua ngưỡng 70 và 30**
 - **Uptrend mạnh:** Aroon-Up duy trì 70 đến 100, Aroon-Down chìm dưới 30.
@@ -128,8 +128,6 @@ Checklist 4 bước hành động cho nhà đầu tư:
 2. **Xác nhận giao cắt:** Chờ Aroon-Up cắt vượt Aroon-Down và tiến vào vùng 70 - 100 để đón sóng tăng.
 3. **Đối chiếu đa công cụ:** Kết hợp thêm đường MA, thanh khoản và vùng kháng cự để lọc nhiễu.
 4. **Rèn luyện thực chiến:** Đăng ký tham gia **HVS Thực tập số** để chuẩn hóa quy trình giao dịch và kiểm soát kỷ luật đầu tư.
-
----
 
 ## Revision Log
 - 2026-09-14: Khởi tạo Outline bài viết "Chỉ báo Aroon là gì" chuẩn SEO Express Mode.

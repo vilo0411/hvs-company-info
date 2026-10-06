@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Active Trader (F0, F1)
 Target_Keyword: bullish là gì
 Search_Intent: Informational
@@ -24,7 +24,6 @@ Bài viết này phân tích chi tiết bản chất thuật ngữ bullish là g
 Tên gọi này bắt nguồn từ hình ảnh con bò tót (*Bull*) với cú húc sừng từ dưới lên trên, tượng trưng cho lực đẩy giá cổ phiếu đi lên. Ngược lại, **bearish** đại diện cho thị trường giảm giá, gắn liền với hình ảnh con gấu (*Bear*) vung móng vuốt tạt từ trên xuống.
 
 Nhà đầu tư cần phân biệt **bullish** (trạng thái hoặc kỳ vọng tăng giá ngắn hạn ở từng mã hoặc nhóm ngành) và **bull market** (chu kỳ tăng giá dài hạn kéo dài từ một đến nhiều năm trên toàn thị trường, được hỗ trợ bởi nền tảng kinh tế vĩ mô).
-
 
 ## So sánh chi tiết thị trường Bullish và Bearish
 
@@ -157,8 +156,6 @@ Tham khảo thêm các bài viết phân tích chuyên sâu tại [danh mục Đ
 ## Kết luận
 
 Bullish đại diện cho trạng thái tăng giá của thị trường chứng khoán dưới sự dẫn dắt của lực cầu chủ động và tâm lý lạc quan. Để giao dịch thành công trong chu kỳ bullish, nhà đầu tư cần kết hợp đối chiếu hành động giá, thanh khoản, chỉ báo kỹ thuật và bối cảnh vĩ mô, đồng thời cẩn trọng trước các bẫy giá Bull Trap. Tuân thủ kỷ luật quản trị rủi ro và rèn luyện kỹ năng đọc đồ thị sẽ giúp bạn làm chủ mọi sóng tăng của thị trường.
-
----
 
 ## Revision Log
 

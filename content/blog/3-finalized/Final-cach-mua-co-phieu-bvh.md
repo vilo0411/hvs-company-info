@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
-Mode: Detailed
+Pipeline_Mode: Guided
 Persona: HVS Senior Mentor
 Target_Keyword: cách mua cổ phiếu bvh
 Search_Intent: Transactional
@@ -51,8 +51,6 @@ Bảng dưới đây so sánh các loại lệnh đặt mua cổ phiếu BVH ph�
 
 Sau khi chọn loại lệnh và điền mức giá mong muốn, bạn nhấn nút Mua. Hệ thống yêu cầu nhập mã PIN hoặc xác thực vân tay bảo mật. Lệnh mua BVH lập tiếp được gửi lên sàn HOSE. Khi có người bán khớp với mức giá của bạn, giao dịch hoàn tất. Cổ phiếu BVH sẽ chuyển về tài khoản của bạn sau 2 ngày làm việc (quy trình T+2).
 
----
-
 ## Những lưu ý khi đầu tư cổ phiếu BVH (Tập đoàn Bảo Việt)
 
 Khi mua cổ phiếu BVH, nhà đầu tư cần chú ý đến chu kỳ ngành bảo hiểm, quản trị vốn và theo dõi sát sao sức khỏe tài chính doanh nghiệp. Điều này giúp bạn hạn chế những thua lỗ không đáng có do biến động thị trường gây ra.
@@ -75,8 +73,6 @@ Tư duy kịch bản giúp bạn luôn chủ động trước mọi diễn biế
 
 *   **Kịch bản 1:** Nếu lãi suất huy động của hệ thống ngân hàng phục hồi ổn định và doanh thu phí bảo hiểm của tập đoàn tăng trên 8% trong năm 2026, đà tăng giá của BVH sẽ tiếp tục được củng cố. Trong trường hợp này, bạn có thể tiếp tục nắm giữ cổ phiếu BVH để tối ưu hóa lợi nhuận kỳ vọng.
 *   **Kịch bản 2:** Nếu lãi suất vĩ mô giảm sâu kéo dài hoặc tỷ lệ bồi thường bảo hiểm đột biến làm giảm 15% lợi nhuận, áp lực điều chỉnh giá của BVH sẽ gia tăng. Lúc này, bạn nên chủ động bán bớt cổ phiếu để bảo toàn vốn. Việc phản ứng linh hoạt với các biến số thực tế ảnh hưởng lớn đến [tâm lý đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tam-ly-dau-tu-chung-khoan) của bạn.
-
----
 
 ## Nâng cao tư duy đầu tư thực chiến cùng HVS Tài Chính Số
 

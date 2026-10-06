@@ -96,11 +96,8 @@ Một nhà đầu tư có kiến thức tốt nhưng tâm lý yếu thường b�
 
 Chúng tôi cung cấp hệ sinh thái từ tư vấn đầu tư, công cụ quản trị danh mục đến các chương trình đào tạo thực chiến như HVS Thực tập số để bạn vững vàng cả về kiến thức lẫn bản lĩnh thị trường.
 
----
-
 *Box chuyên gia: "Lời nhắn từ HVS: Đầu tư là một hành trình dài, đừng để cảm xúc ngắn hạn quyết định tài sản dài hạn. Hãy bắt đầu bằng việc kỷ luật với chính mình."*
 
 👉 [Khám phá ngay lộ trình HVS Thực tập số để làm chủ tâm lý đầu tư]
 
----
 - [2026-05-07]: Khởi tạo bản thảo tối ưu từ file raw. Mở rộng chi tiết phần các bẫy tâm lý (thêm Bẫy xác nhận, Sự tự tin quá mức và ví dụ thực tế). Áp dụng quy tắc Anti-AI (loại bỏ icon tiêu đề, dùng ngôn ngữ thực chiến).

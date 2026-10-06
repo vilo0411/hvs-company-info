@@ -1,8 +1,8 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 381 bài
-- **Active Pipeline:** 14 items
+- **Published:** 432 bài
+- **Active Pipeline:** 11 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
 ---
@@ -21,9 +21,6 @@
 | vòng quay vốn lưu động | F0 | Express | Outline-Pending |
 | roic là gì | F0 | Express | Outline-Pending |
 | tỷ lệ đòn bẩy tài chính | F0 | Express | Outline-Pending |
-| Đầu tư chứng khoán cần bao nhiêu tiền | F0 | Express | Outline-Pending |
-| dư mua dư bán là gì | F0 | Express | Planned |
-| điểm trong chứng khoán là gì | F0 | Express | Planned |
 | Sàn OTC là gì | F0 | Express | Outline-Pending |
 
 ---
@@ -32,6 +29,58 @@
 
 | Date | Keyword | Persona | Mode | File Path |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-06 | khoảng trống giá là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-khoang-trong-gia-la-gi.md` |
+| 2026-10-05 | Mô hình nến Dark Cloud Cover là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-mo-hinh-nen-dark-cloud-cover-la-gi.md` |
+| 2026-10-05 | Mô hình cốc tay cầm | Lan Newbie | Express | `content/blog/3-finalized/Final-mo-hinh-coc-tay-cam.md` |
+| 2026-09-25 | wyckoff là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-wyckoff-la-gi.md` |
+| 2026-09-25 | zero sum game là gì | Lan Newbie (F0 - Đầu tư bài bản) | Express | `content/blog/3-finalized/Final-zero-sum-game.md` |
+| 2026-09-25 | washout là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-washout-la-gi.md` |
+| 2026-09-25 | vùng quá mua là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-vung-qua-mua-la-gi.md` |
+| 2026-09-25 | Vùng đỉnh và đáy là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-vung-dinh-va-day-la-gi.md` |
+| 2026-09-25 | trend following là gì | Lan Newbie & Senior Mentor | Express | `content/blog/3-finalized/Final-trend-following-la-gi.md` |
+| 2026-09-25 | swing trading | Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-swing-trading.md` |
+| 2026-09-25 | Sự kiện bong bóng hoa tulip | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-su-kien-bong-bong-hoa-tulip.md` |
+| 2026-09-24 | spread là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-spread-la-gi.md` |
+| 2026-09-24 | quy tắc của Richard Rhodes | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-quy-tac-cua-richard-rhodes.md` |
+| 2026-09-24 | pullback trading là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-pullback-trading-la-gi.md` |
+| 2026-09-24 | pivot point là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-pivot-point-la-gi.md` |
+| 2026-09-24 | Phân phối đỉnh là gì | Lan Newbie (F0 - Đầu tư bài bản, tháo gỡ tâm lý đu đỉnh) | Express | `content/blog/3-finalized/Final-phan-phoi-dinh-la-gi.md` |
+| 2026-09-24 | phân kỳ rsi | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-phan-ky-rsi.md` |
+| 2026-09-24 | Phân kỳ ẩn | Lan Newbie / Nhà đầu tư F0-F1 | Express | `content/blog/3-finalized/Final-phan-ky-an.md` |
+| 2026-09-24 | Phân biệt phân tích cơ bản và phân tích kỹ thuật | Lan Newbie | Express | `content/blog/3-finalized/Final-phan-biet-phan-tich-co-ban-va-phan-tich-ky-thuat.md` |
+| 2026-09-24 | Nến Shooting Star | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-nen-shooting-star.md` |
+| 2026-09-24 | Nến pin bar | HVS Senior Mentor - tham chiếu @tone-and-voice.md | Express | `content/blog/3-finalized/Final-nen-pin-bar.md` |
+| 2026-09-24 | Nến Marubozu là gì | Lan Newbie (F0 - Đầu tư bài bản) | Express | `content/blog/3-finalized/Final-nen-marubozu-la-gi.md` |
+| 2026-09-24 | nến inside bar | Lan Newbie (F0 - Đầu tư bài bản) | Express | `content/blog/3-finalized/Final-nen-inside-bar.md` |
+| 2026-09-24 | nến heikin ashi | Lan Newbie (F0 - Đầu tư bài bản) | Express | `content/blog/3-finalized/Final-nen-heikin-ashi.md` |
+| 2026-09-24 | Nến Harami là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-nen-harami-la-gi.md` |
+| 2026-09-24 | Nến Hanging Man | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-nen-hanging-man.md` |
+| 2026-09-24 | Nến Evening Star là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-nen-evening-star-la-gi.md` |
+| 2026-09-24 | mô hình wyckoff | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-mo-hinh-wyckoff.md` |
+| 2026-09-24 | mô hình vai đầu vai | Lan Newbie | Express | `content/blog/3-finalized/Final-mo-hinh-vai-dau-vai.md` |
+| 2026-09-24 | Mô hình tam giác mở rộng là gì | Senior Technical Analyst & Trainer tại HVS Tài Chính Số | Express | `content/blog/3-finalized/Final-mo-hinh-tam-giac-mo-rong-la-gi.md` |
+| 2026-09-22 | mô hình chữ nhật | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-mo-hinh-chu-nhat.md` |
+| 2026-09-22 | mô hình tam giác | F0 | Express | `content/blog/3-finalized/Final-mo-hinh-tam-giac.md` |
+| 2026-09-22 | Mô hình cờ đuôi nheo | F0 | Express | `content/blog/3-finalized/Final-mo-hinh-co-duoi-nheo.md` |
+| 2026-09-22 | Mô hình lá cờ là gì | F0 | Express | `content/blog/3-finalized/Final-mo-hinh-la-co-la-gi.md` |
+| 2026-09-22 | mô hình nến engulfing | F0 | Express | `content/blog/3-finalized/Final-mo-hinh-nen-engulfing.md` |
+| 2026-09-22 | Mô hình nến búa ngược | F0 | Express | `content/blog/3-finalized/Final-mo-hinh-nen-bua-nguoc.md` |
+| 2026-09-22 | Mô hình cái nêm là gì | Senior Mentor | Express | `content/blog/3-finalized/Final-mo-hinh-cai-nem-la-gi.md` |
+| 2026-09-22 | mô hình 3 đáy | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-mo-hinh-3-day.md` |
+| 2026-09-22 | mô hình 3 chàng lính ngự lâm | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-mo-hinh-3-chang-linh-ngu-lam.md` |
+| 2026-09-22 | mô hình 2 đỉnh là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-mo-hinh-2-dinh-la-gi.md` |
+| 2026-09-22 | mô hình 2 đáy | Lan Newbie | Express | `content/blog/3-finalized/Final-mo-hinh-2-day.md` |
+| 2026-09-22 | lý thuyết dow | HVS Senior Mentor — Thực chiến, trực diện, dữ liệu thực tế | Express | `content/blog/3-finalized/Final-ly-thuyet-dow.md` |
+| 2026-09-22 | kênh giá song song | Lan Newbie | Express | `content/blog/3-finalized/Final-kenh-gia-song-song.md` |
+| 2026-09-22 | kênh giá là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-kenh-gia-la-gi.md` |
+| 2026-09-22 | Ichimoku là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-ichimoku-la-gi.md` |
+| 2026-09-22 | golden cross là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-golden-cross-la-gi.md` |
+| 2026-09-22 | Đường ZigZag | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-duong-zigzag.md` |
+| 2026-09-21 | chỉ báo uo | Lan Newbie & Anh Minh F1 - NĐT tìm kiếm công cụ lọc phân kỳ giả và chuẩn hóa quy trình giao dịch kỹ thuật | Express | `content/blog/3-finalized/Final-chi-bao-uo.md` |
+| 2026-09-21 | chỉ báo supertrend là gì | Lan Newbie / Nhà đầu tư F0 | Optimized | `content/blog/3-finalized/Final-chi-bao-supertrend-la-gi.md` |
+| 2026-09-21 | cách đọc biểu đồ nến | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-cach-doc-bieu-do-nen.md` |
+| 2026-09-21 | buy the dip là gì | Persona 2 — Lan Newbie (F0 - Đầu tư bài bản) | Express | `content/blog/3-finalized/Final-buy-the-dip-la-gi.md` |
+| 2026-09-21 | biểu đồ kỹ thuật | Lan Newbie | Express | `content/blog/3-finalized/Final-bieu-do-ky-thuat.md` |
 | 2026-09-15 | Đường WMA là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-duong-wma-la-gi.md` |
 | 2026-09-15 | Đường Trendline là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-duong-trendline-la-gi.md` |
 | 2026-09-15 | đường ma200 là gì | HVS Senior Mentor | Express | `content/blog/3-finalized/Final-duong-ma200-la-gi.md` |

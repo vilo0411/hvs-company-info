@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["Trái phiếu ngân hàng là gì"]
 Status: Finalized
@@ -103,8 +103,6 @@ Bên cạnh đó, bạn có thể thực hành rèn luyện kỹ năng trên **H
 ## Kết luận
 
 Hiểu rõ trái phiếu ngân hàng là gì và phân biệt được nó với kênh tiền gửi tiết kiệm sẽ giúp bạn chủ động hơn trong việc phân bổ dòng vốn cá nhân. Trái phiếu ngân hàng là kênh tích lũy tài sản ổn định, nhưng bạn phải luôn kiểm tra uy tín của tổ chức phát hành thực tế để phòng ngừa rủi ro tín dụng. Hãy đồng hành cùng các lộ trình đào tạo tại HVS để nâng cao năng lực tự phân tích báo cáo tài chính, từ đó xây dựng cho bản thân một danh mục đầu tư an toàn.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-23):** Khởi tạo outline cho từ khóa "Trái phiếu ngân hàng là gì" theo yêu cầu viết 10 bài tiếp theo trong sprint backlog.

@@ -2,7 +2,7 @@
 Author: Antigravity
 aliases: ["Tư vấn chứng khoán là gì"]
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: Tư vấn chứng khoán là gì
 Search_Intent: Informational
@@ -37,7 +37,7 @@ Nhiều nhà đầu tư mới tham gia thị trường thường gộp chung hai
 | **Nguồn thu nhập chính** | Phí tư vấn cố định hoặc phần trăm quản lý danh mục. | Phí giao dịch (commission) tính theo % giá trị mỗi giao dịch (0.15% - 0.25%). |
 | **Trách nhiệm pháp lý** | Cung cấp thông tin trung thực, khách quan, có căn cứ phân tích khoa học. | Thực hiện chính xác lệnh của khách hàng, đảm bảo tính hợp lệ của giao dịch. |
 
-Sự phân định này có ý nghĩa then chốt. Nhân viên [Môi giới chứng khoán là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-moi-gioi-chung-khoan-la-gi.md) tập trung hạ tầng giao dịch, còn chuyên viên tư vấn tập trung phân tích định giá. Khi người môi giới tư vấn mà thiếu [chứng chỉ hành nghề chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-chung-chi-hanh-nghe-chung-khoan.md) hoặc đưa ra lời khuyên thiếu báo cáo phân tích, rủi ro sai lệch chiến lược thuộc về tài khoản khách hàng.
+Sự phân định này có ý nghĩa then chốt. Nhân viên [Môi giới chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/moi-gioi-chung-khoan-la-gi) tập trung hạ tầng giao dịch, còn chuyên viên tư vấn tập trung phân tích định giá. Khi người môi giới tư vấn mà thiếu [chứng chỉ hành nghề chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-hanh-nghe-chung-khoan) hoặc đưa ra lời khuyên thiếu báo cáo phân tích, rủi ro sai lệch chiến lược thuộc về tài khoản khách hàng.
 
 ## Quy trình tư vấn chứng khoán chuyên nghiệp gồm những gì?
 
@@ -46,7 +46,7 @@ Một dịch vụ tư vấn đầu tư bài bản không dừng lại ở nhữn
 - **Bước 1: Khảo sát khẩu vị rủi ro và mục tiêu tài chính:** Chuyên viên tư vấn thu thập thông tin về quy mô vốn, thời gian đầu tư và mức độ chấp nhận rủi ro của khách hàng trước khi đưa ra lời khuyên.
 - **Bước 2: Phân tích kinh tế vĩ mô và lọc cổ phiếu:** Đội ngũ chuyên gia tiến hành đánh giá bức tranh kinh tế, triển vọng ngành và định giá doanh nghiệp. Ví dụ: Phân tích mã HPG dựa trên sản lượng thép và chi phí quặng sắt, hoặc phân tích VCB dựa trên tăng trưởng tín dụng và biên lãi ròng (NIM).
 - **Bước 3: Lập kế hoạch giao dịch và khuyến nghị:** Chuyên gia đưa ra báo cáo khuyến nghị gồm vùng giá tích lũy, mục tiêu chốt lời, ngưỡng cắt lỗ bắt buộc (thường 5% - 7%) và tỷ lệ phân bổ tài sản.
-- **Bước 4: Theo dõi danh mục và quản trị rủi ro:** Định kỳ đánh giá lại hiệu quả đầu tư, cập nhật thông tin doanh nghiệp và khuyến nghị tái cơ cấu [Quản lý danh mục đầu tư chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-quan-ly-danh-muc-dau-tu-chung-khoan.md) khi diễn biến thị trường thay đổi so với kịch bản gốc.
+- **Bước 4: Theo dõi danh mục và quản trị rủi ro:** Định kỳ đánh giá lại hiệu quả đầu tư, cập nhật thông tin doanh nghiệp và khuyến nghị tái cơ cấu [Quản lý danh mục đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quan-ly-danh-muc-dau-tu-chung-khoan) khi diễn biến thị trường thay đổi so với kịch bản gốc.
 
 ## 3 bẫy tư vấn chứng khoán nhà đầu tư F0 thường gặp
 
@@ -56,7 +56,7 @@ Mặc dù mục tiêu của dịch vụ tư vấn là hỗ trợ nhà đầu tư
 
 **2. Bẫy "phím hàng" không báo cáo phân tích:** Nhiều hội nhóm tư vấn đưa ra các khuyến nghị mua bán cổ phiếu penny hoặc cổ phiếu thanh khoản thấp kèm những lời hứa hẹn lợi nhuận bằng lần. Các khuyến nghị này hoàn toàn thiếu báo cáo phân tích chính thức, không có căn cứ định giá và không nêu rõ rủi ro doanh nghiệp. Khi cổ phiếu đảo chiều, nhà đầu tư cá nhân là bên gánh chịu rủi ro mất vốn nặng nề nhất.
 
-**3. Xung đột lợi ích giữa tự doanh và tư vấn khách hàng:** Hoạt động [tự doanh chứng khoán là gì](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-tu-doanh-chung-khoan-la-gi.md) của CTCK đôi khi phát sinh xung đột lợi ích với khuyến nghị cho nhà đầu tư cá nhân. Nếu thiếu kiểm soát độc lập, rủi ro khách hàng nhận khuyến nghị mua đúng thời điểm khối tự doanh chốt lời hoàn toàn có thể xảy ra.
+**3. Xung đột lợi ích giữa tự doanh và tư vấn khách hàng:** Hoạt động [tự doanh chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/tu-doanh-chung-khoan-la-gi) của CTCK đôi khi phát sinh xung đột lợi ích với khuyến nghị cho nhà đầu tư cá nhân. Nếu thiếu kiểm soát độc lập, rủi ro khách hàng nhận khuyến nghị mua đúng thời điểm khối tự doanh chốt lời hoàn toàn có thể xảy ra.
 
 ## Giải pháp từ HVS: Từ phụ thuộc khuyến nghị đến chủ động quản lý danh mục
 
@@ -77,8 +77,6 @@ Tư vấn chứng khoán là công cụ hỗ trợ thông tin đắc lực giúp
 1. Yêu cầu báo cáo phân tích chính thức có căn cứ định giá rõ ràng thay vì tin vào lời tư vấn suông.
 2. Kiểm tra tính phù hợp của khuyến nghị với khẩu vị rủi ro và tỷ lệ phân bổ danh mục cá nhân.
 3. Liên tục học hỏi, rèn luyện tư duy phân tích độc lập thông qua các chương trình thực chiến để từng bước tự quản lý tài sản của chính mình.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-09-03):** Khởi tạo Outline cho keyword "Tư vấn chứng khoán là gì" (Express Mode), trích dẫn Luật Chứng khoán 2019 và lồng ghép hệ sinh thái HVS.

@@ -60,6 +60,57 @@
 | ✅ `https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thi-gia-co-phieu-la-gi` | thị giá cổ phiếu là gì | giá thị trường cổ phiếu, market price, thị giá và mệnh giá khác nhau |
 | ✅ `https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/von-hoa-thi-truong-la-gi` | vốn hóa thị trường là gì | market cap, large cap mid cap small cap, vốn hóa doanh nghiệp |
 | ✅ `https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/giao-dich-chung-khoan-la-gi` | giao dịch chứng khoán là gì | mua bán chứng khoán, khớp lệnh, phiên giao dịch chứng khoán |
+| ⚠️ `Final-bieu-do-ky-thuat.md` | biểu đồ kỹ thuật |  |
+| ⚠️ `Final-buy-the-dip-la-gi.md` | buy the dip là gì |  |
+| ⚠️ `Final-cach-doc-bieu-do-nen.md` | cách đọc biểu đồ nến |  |
+| ⚠️ `Final-chi-bao-uo.md` | chỉ báo uo |  |
+| ⚠️ `Final-duong-zigzag.md` | Đường ZigZag |  |
+| ⚠️ `Final-golden-cross-la-gi.md` | golden cross là gì |  |
+| ⚠️ `Final-ichimoku-la-gi.md` | Ichimoku là gì |  |
+| ⚠️ `Final-kenh-gia-la-gi.md` | kênh giá là gì |  |
+| ⚠️ `Final-kenh-gia-song-song.md` | kênh giá song song |  |
+| ⚠️ `Final-ly-thuyet-dow.md` | lý thuyết dow |  |
+| ⚠️ `Final-mo-hinh-2-day.md` | mô hình 2 đáy |  |
+| ⚠️ `Final-mo-hinh-2-dinh-la-gi.md` | mô hình 2 đỉnh là gì |  |
+| ⚠️ `Final-mo-hinh-3-chang-linh-ngu-lam.md` | mô hình 3 chàng lính ngự lâm |  |
+| ⚠️ `Final-mo-hinh-3-day.md` | mô hình 3 đáy |  |
+| ⚠️ `Final-mo-hinh-cai-nem-la-gi.md` | Mô hình cái nêm là gì |  |
+| ⚠️ `Final-mo-hinh-nen-bua-nguoc.md` | Mô hình nến búa ngược |  |
+| ⚠️ `Final-mo-hinh-nen-engulfing.md` | mô hình nến engulfing |  |
+| ⚠️ `Final-mo-hinh-la-co-la-gi.md` | Mô hình lá cờ là gì |  |
+| ⚠️ `Final-mo-hinh-co-duoi-nheo.md` | Mô hình cờ đuôi nheo |  |
+| ⚠️ `Final-mo-hinh-tam-giac.md` | mô hình tam giác |  |
+| ⚠️ `Final-mo-hinh-chu-nhat.md` | mô hình chữ nhật |  |
+| ⚠️ `Final-mo-hinh-tam-giac-mo-rong-la-gi.md` | Mô hình tam giác mở rộng là gì |  |
+| ⚠️ `Final-mo-hinh-vai-dau-vai.md` | mô hình vai đầu vai |  |
+| ⚠️ `Final-mo-hinh-wyckoff.md` | mô hình wyckoff |  |
+| ⚠️ `Final-nen-evening-star-la-gi.md` | Nến Evening Star là gì |  |
+| ⚠️ `Final-nen-hanging-man.md` | Nến Hanging Man |  |
+| ⚠️ `Final-nen-harami-la-gi.md` | Nến Harami là gì |  |
+| ⚠️ `Final-nen-heikin-ashi.md` | nến heikin ashi |  |
+| ⚠️ `Final-nen-inside-bar.md` | nến inside bar |  |
+| ⚠️ `Final-nen-marubozu-la-gi.md` | Nến Marubozu là gì |  |
+| ⚠️ `Final-nen-pin-bar.md` | Nến pin bar |  |
+| ⚠️ `Final-nen-shooting-star.md` | Nến Shooting Star |  |
+| ⚠️ `Final-phan-biet-phan-tich-co-ban-va-phan-tich-ky-thuat.md` | Phân biệt phân tích cơ bản và phân tích kỹ thuật |  |
+| ⚠️ `Final-phan-ky-an.md` | Phân kỳ ẩn |  |
+| ⚠️ `Final-phan-ky-rsi.md` | phân kỳ rsi |  |
+| ⚠️ `Final-phan-phoi-dinh-la-gi.md` | Phân phối đỉnh là gì |  |
+| ⚠️ `Final-pivot-point-la-gi.md` | pivot point là gì |  |
+| ⚠️ `Final-pullback-trading-la-gi.md` | pullback trading là gì |  |
+| ⚠️ `Final-quy-tac-cua-richard-rhodes.md` | quy tắc của Richard Rhodes |  |
+| ⚠️ `Final-spread-la-gi.md` | spread là gì |  |
+| ⚠️ `Final-su-kien-bong-bong-hoa-tulip.md` | Sự kiện bong bóng hoa tulip |  |
+| ⚠️ `Final-swing-trading.md` | swing trading |  |
+| ⚠️ `Final-trend-following-la-gi.md` | trend following là gì |  |
+| ⚠️ `Final-vung-dinh-va-day-la-gi.md` | Vùng đỉnh và đáy là gì |  |
+| ⚠️ `Final-vung-qua-mua-la-gi.md` | vùng quá mua là gì |  |
+| ⚠️ `Final-washout-la-gi.md` | washout là gì |  |
+| ⚠️ `Final-zero-sum-game.md` | zero sum game là gì |  |
+| ⚠️ `Final-wyckoff-la-gi.md` | wyckoff là gì |  |
+| ⚠️ `Final-mo-hinh-coc-tay-cam.md` | Mô hình cốc tay cầm |  |
+| ⚠️ `Final-mo-hinh-nen-dark-cloud-cover-la-gi.md` | Mô hình nến Dark Cloud Cover là gì |  |
+| ⚠️ `Final-khoang-trong-gia-la-gi.md` | khoảng trống giá là gì |  |
 
 ---
 

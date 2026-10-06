@@ -1,10 +1,12 @@
-# 🎨 HVS Securities - Dynamic Visual Color Palette Config
-# Đồng bộ hóa 100% với ảnh bìa thực tế của HVS Tài Chính Số
+# HVS Tài Chính Số — Visual Color Palette Config
+# Nguồn chân lý: resources/company/visual-brand-guidelines.md (quyết định 2026-09-21)
 
-PRIMARY_COLOR: "#311B92"      # Tím Indigo sâu (Màu bắt đầu của dải Gradient)
-SECONDARY_COLOR: "#00838F"    # Xanh ngọc Teal đậm (Màu kết thúc của dải Gradient)
-ACCENT_COLOR: "#00E5FF"       # Cyan Neon sáng (Màu nhấn Logo / Đồ thị phát sáng)
-BG_GRADIENT: "linear-gradient(135deg, #311B92 0%, #00838F 100%)"
-BG_DARK: "#121212"            # Nền tối của trang
-BG_LIGHT: "#FAF6F0"           # Nền sáng ấm áp
+PRIMARY_COLOR: "#7B57E0"      # Vibrant Purple — màu chủ đạo, gradient start
+SECONDARY_COLOR: "#20C997"    # Cyan/Teal — gradient end, đồ thị
+ACCENT_COLOR: "#20C997"       # Điểm nhấn logo / highlight
+BG_GRADIENT: "linear-gradient(135deg, #7B57E0 0%, #20C997 100%)"
+BG_DARK: "#121212"            # Nền tối
+BG_LIGHT: "#FAF6F0"           # Nền sáng ấm
 FONT_FAMILY: "Plus Jakarta Sans, Montserrat"
+COVER_SIZE: "1000x600"
+INLINE_SIZE: "800x500"

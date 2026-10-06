@@ -17,8 +17,6 @@ Persona: Lan Newbie / F0
 
 **Trading** (giao dịch chứng khoán) là phương thức tìm kiếm lợi nhuận ngắn hạn dựa trên biến động giá tài sản. Tuy nhiên, nhiều người mới thường nhầm lẫn giữa trading và đầu tư dài hạn dẫn đến những sai lầm nghiêm trọng trong quản lý vốn. HVS giúp bạn hiểu rõ bản chất trading, phân biệt chi tiết các phong cách giao dịch và cách xây dựng chiến lược quản trị rủi ro hiệu quả.
 
----
-
 ## Bản chất Trading là gì trong thị trường tài chính?
 
 Trading (giao dịch) là hoạt động mua và bán các loại tài sản tài chính trên thị trường trong khoảng thời gian ngắn hoặc trung hạn nhằm tìm kiếm lợi nhuận từ sự chênh lệch giá. Thay vì nắm giữ tài sản lâu dài, trader tập trung khai thác biến động giá ngắn hạn của cổ phiếu, chứng chỉ quỹ hoặc chứng khoán phái sinh để sinh lời.

@@ -14,13 +14,7 @@ Search_Intent: Informational
 Content_Type: Educational Guide
 Featured_Snippet: Table
 Word_Count_Target: 1600
-HVS_Products:
-  - product: HVS Tài chính số
-    benefit: "Đào tạo lộ trình thực chiến về quản lý vốn và tỷ lệ ký quỹ"
-  - product: HVS Demo
-    benefit: "Thực hành theo dõi tỷ lệ ký quỹ thời gian thực không mất tiền thật"
-  - product: HVS Forum
-    benefit: "Mentor CFA hỗ trợ 24/7 mọi câu hỏi về mở và sử dụng tài khoản"
+HVS_Products: ["HVS Tài chính số", "HVS Demo", "HVS Forum"]
 Anti_AI_Flags: ["mở khóa tiềm năng", "hành trình", "giải pháp toàn diện", "nâng tầm"]
 Internal_Links:
   - role: Cluster

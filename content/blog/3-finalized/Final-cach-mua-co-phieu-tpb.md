@@ -1,7 +1,7 @@
-﻿---
+---
 Author: HVS Senior Mentor
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: Cách mua cổ phiếu TPB
 Search_Intent: Informational | Transactional
@@ -25,11 +25,11 @@ Quy định giao dịch cổ phiếu TPB trực tuyến yêu cầu bạn phải 
 
 Nhà đầu tư cá nhân có thể nhanh chóng dự toán khoản vốn tối thiểu cần thiết thông qua công thức tính toán tiêu chuẩn sau:
 
-$$Vốn tối thiểu = (Thị giá TPB \times 100) + Phí giao dịch$$
+> **Vốn tối thiểu = (Thị giá TPB \times 100) + Phí giao dịch**
 
 Thông thường, mức phí giao dịch mua áp dụng tại hầu hết các công ty chứng khoán dao động quanh ngưỡng 0,15% tổng giá trị giao dịch đặt mua. Giả sử giá cổ phiếu TPB trên bảng điện trực tuyến khớp ở vùng giá 18.000 đồng/cổ phiếu, số tiền tối thiểu bạn bắt buộc phải chuẩn bị để khớp lệnh thành công được tính cụ thể:
 
-$$Vốn tối thiểu = (18.000 \times 100) + 0,15\% \times (18.000 \times 100) = 1.802.700 \text{ đồng}$$
+> **Vốn tối thiểu = (18.000 \times 100) + 0,15\% \times (18.000 \times 100) = 1.802.700 \text{ đồng}**
 
 Bảng giả lập dưới đây chi tiết hóa lượng vốn tối thiểu cần nộp để đặt mua thành công 100 cổ phiếu TPB ở các mức thị giá khác nhau trên thị trường:
 

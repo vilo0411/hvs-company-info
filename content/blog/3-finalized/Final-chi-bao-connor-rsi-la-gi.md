@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie / Nhà đầu tư F0
 Target_Keyword: chỉ báo connor rsi
 Search_Intent: Informational
@@ -13,8 +13,6 @@ Meta_Description: Chỉ báo Connors RSI (CRSI) là gì? Công thức tính 3 th
 
 Khi tham gia thị trường chứng khoán, nhiều nhà đầu tư F0 sử dụng [chỉ báo RSI] 14 phiên truyền thống nhưng thấy phản ứng khá chậm trong các nhịp chỉnh ngắn hạn. Chỉ báo Connors RSI (CRSI) ra đời nhằm khắc phục nhược điểm này. Với sự kết hợp từ 3 thành phần đo lường độc lập, Connors RSI mang lại độ nhạy cao, phản ánh chính xác các vùng quá bán cực đoan để nhà đầu tư lướt sóng chớp thời cơ giải ngân an toàn.
 
----
-
 ## 1. Chỉ báo Connors RSI là gì? Nguồn gốc và lý do ra đời
 
 **Chỉ báo Connors RSI** (thường viết tắt là **CRSI**) là một chỉ báo dao động động lượng (momentum oscillator) được thiết kế chuyên biệt để xác định các vùng giá quá mua (overbought) và quá bán (oversold) trong các khung thời gian ngắn hạn. 
@@ -24,8 +22,6 @@ Chỉ báo này do nhà giao dịch nổi tiếng Larry Connors cùng các cộn
 ![Chỉ báo Connors RSI trên đồ thị chứng khoán](https://via.placeholder.com/800x400?text=Chi+bao+Connors+RSI+tren+do+thi+chung+khoan)
 
 Nếu như RSI 14 phiên cần một đà giảm rất dài mới rơi xuống dưới vùng 30, thì Connors RSI có khả năng phản ứng ngay lập tức khi giá xuất hiện 2 đến 3 phiên giảm liên tiếp. Nhờ đó, công cụ này giúp các nhà giao dịch lướt sóng (swing trader) nhận diện chính xác thời điểm phe bán bị kiệt sức để mở vị thế mua kéo ngược ngay trong một xu hướng tăng giá chủ đạo.
-
----
 
 ## 2. Cấu tạo & Công thức tính Connors RSI: 3 thành phần cốt lõi
 
@@ -40,8 +36,6 @@ Connors RSI ghép nối 3 chỉ số đo lường riêng biệt để tạo ra m
 **Ví dụ tính toán thực tế với cổ phiếu HPG:**
 Khi cổ phiếu HPG trải qua 3 phiên giảm liên tiếp từ vùng 28.000 đồng xuống 26.500 đồng, thành phần `RSI(3)` tính được giá trị là 12, `RSI(Streak, 2)` đo chuỗi giảm trả về giá trị 8, thành phần `PercentRank(100)` trả về giá trị 6. Tổng hợp lại: `CRSI = (12 + 8 + 6) ÷ 3 = 8.67`. Mức 8.67 rơi sâu dưới 10 phát tín hiệu quá bán cực đoan báo hiệu vùng đáy ngắn hạn tiềm năng của HPG.
 
----
-
 ## 3. So sánh Connors RSI và RSI 14 truyền thống: Điểm khác biệt lớn nhất
 
 Để lựa chọn đúng công cụ cho chiến lược giao dịch của mình, bạn cần phân biệt rõ sự khác nhau giữa chỉ báo Connors RSI và RSI 14 phiên thông thường.
@@ -54,8 +48,6 @@ Khi cổ phiếu HPG trải qua 3 phiên giảm liên tiếp từ vùng 28.000 �
 | **Mục đích sử dụng chính** | Xác định xu hướng và phân kỳ trung hạn | Tìm điểm vào nhịp rũ bỏ lướt sóng 2-5 phiên |
 
 RSI 14 truyền thống phù hợp với nhà đầu tư nắm giữ theo sóng dài. Trong khi đó, Connors RSI là vũ khí quan trọng cho nhà đầu tư lướt sóng ngắn hạn muốn tối ưu giá vốn trong các nhịp điều chỉnh kỹ thuật.
-
----
 
 ## 4. Cách đọc & 3 Tín hiệu giao dịch thực chiến với chỉ báo Connors RSI
 
@@ -77,8 +69,6 @@ Chỉ mở vị thế Mua theo Connors RSI khi giá nằm TRÊN [đường trung
 | **CRSI < 10** | Quá bán | Giá nằm DƯỚI MA200 | Đứng ngoài quan sát, tuyệt đối không bắt đáy |
 | **10 ≤ CRSI ≤ 90** | Vùng trung tính | Bất kỳ | Theo dõi vận động giá, chờ tín hiệu xác nhận |
 
----
-
 ## 5. Chiến lược lướt sóng ngắn hạn (Swing Trading) kết hợp Connors RSI trên thị trường Việt Nam
 
 Áp dụng Connors RSI vào giao dịch thực tế trên sàn HOSE đòi hỏi quy trình 4 bước chặt chẽ trên các cổ phiếu có thanh khoản lớn như VCB, SSI, HPG, FPT.
@@ -94,8 +84,6 @@ Chỉ mở vị thế Mua theo Connors RSI khi giá nằm TRÊN [đường trung
 
 **Hướng dẫn cài đặt Connors RSI trên TradingView và Amibroker:**
 Trên TradingView, bạn nhấn vào mục Indicators, gõ từ khóa `Connors RSI` và chọn chỉ báo mặc định `(3, 2, 100)`. Trên Amibroker, bạn chèn đoạn mã AFL tính toán 3 thành phần `RSI(3)`, `RSI(Streak, 2)` và `PercentRank(100)` để hiển thị chỉ báo.
-
----
 
 ## 6. Thực hành nhận diện tín hiệu Connors RSI cùng hệ sinh thái HVS
 
@@ -113,8 +101,6 @@ Bạn bắt buộc phải đặt [cắt lỗ là gì] từ 5% đến 7% ngay khi
 * **HVS Forum:** Tham gia **HVS Forum** để thảo luận điểm vào lệnh ngắn hạn cùng cộng đồng nhà đầu tư.
 * **HVS Thực tập số:** Đăng ký chương trình **HVS Thực tập số** (chương trình rèn luyện kỹ năng thực chiến thuộc **HVS Tài chính số**) để được tư vấn 1-1 và xây dựng hệ thống quản trị rủi ro chuyên nghiệp.
 
----
-
 ## 7. Kết luận & Checklist 4 bước sử dụng chỉ báo Connors RSI hiệu quả
 
 Connors RSI là nâng cấp đáng giá của RSI truyền thống. Nhờ sự kết hợp nhịp nhàng giữa RSI 3 kỳ, Streak RSI 2 kỳ và Percent Rank 100 kỳ, chỉ báo này giúp nhà đầu tư ngắn hạn chớp chính xác nhịp kiệt sức của phe bán để giải ngân đúng thời điểm và tối ưu hóa lợi nhuận.
@@ -124,8 +110,6 @@ Connors RSI là nâng cấp đáng giá của RSI truyền thống. Nhờ sự k
 2. Lọc các cổ phiếu có giá nằm trên MA200 và kiên nhẫn chờ đợi Connors RSI giảm xuống dưới mốc 10.
 3. Kiểm tra tín hiệu nến đảo chiều và khối lượng tại vùng hỗ trợ trước khi mở vị thế giải ngân.
 4. Rèn luyện kỷ luật giao dịch lướt sóng trên **HVS Demo** và đăng ký **HVS Thực tập số** để nâng cao kinh nghiệm thực chiến.
-
----
 
 ## Revision Log
 - 2026-09-14: Khởi tạo Outline bài viết "Chỉ báo Connors RSI là gì" chuẩn SEO Express Mode.

@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["CASA trong ngành ngân hàng là gì"]
 Status: Finalized
@@ -16,9 +16,7 @@ Word_Count_Target: 2200
 Cluster: Phân tích cơ bản
 Cluster_Role: Cluster
 Featured_Snippet: Table
-HVS_Products:
-  - product: "HVS Tài chính số"
-    benefit: "Học cách đọc BCTC ngân hàng — phân tích NIM, CASA, ROE trong bộ môn FA LV1 của chương trình HVS Thực tập số"
+HVS_Products: ["HVS Tài chính số"]
 Internal_Links:
   - role: context
     file: Final-phan-tich-co-ban-la-gi.md
@@ -35,8 +33,6 @@ Internal_Links:
 
 CASA (Current Account Savings Account) là chỉ số ít nhà đầu tư cổ phiếu ngân hàng để ý, nhưng lại quyết định phần lớn lợi nhuận của một tổ chức tín dụng. Ngân hàng có CASA càng cao, chi phí huy động vốn càng thấp, biên lãi ròng (NIM) càng rộng, và khả năng duy trì lợi nhuận bền vững qua các chu kỳ lãi suất càng lớn. Bài viết này giải thích cơ chế đó từ gốc rễ: định nghĩa CASA, cách tính tỷ lệ bằng số liệu cụ thể, dữ liệu của 5 ngân hàng dẫn đầu Việt Nam năm 2025, và cách dùng CASA như một tín hiệu phân tích khi đánh giá cổ phiếu ngân hàng.
 
----
-
 ## CASA trong ngân hàng là gì?
 
 CASA (Current Account Savings Account) là tổng tiền gửi không kỳ hạn của khách hàng tại ngân hàng, gồm tài khoản thanh toán và tài khoản tiết kiệm không kỳ hạn. Đây là nguồn vốn rẻ nhất ngân hàng huy động được, với lãi suất chỉ khoảng 0.1–0.5%/năm.
@@ -50,8 +46,6 @@ CASA gồm hai loại tài khoản có bản chất khác nhau:
 Ví dụ trực tiếp: số dư trong app ngân hàng bạn dùng để đặt Grab, mua sắm online, hay nhận lương mỗi tháng đều là CASA. Bạn rút bất cứ lúc nào mà không mất lãi. Đổi lại, ngân hàng chỉ trả lãi vài chục nghìn đồng mỗi năm dù số dư lên đến vài chục triệu.
 
 Điểm khác với tiền gửi có kỳ hạn: tiền gửi kỳ hạn 6 tháng ngân hàng phải trả 4–5.5%/năm, kỳ hạn 12 tháng lên đến 6%/năm. CASA chỉ tốn 0.1–0.5%/năm. Chênh lệch đó, cộng dồn trên hàng trăm nghìn tỷ đồng tiền gửi, chính là lợi thế nhà đầu tư đọc được từ BCTC ngân hàng.
-
----
 
 ## Công thức tính tỷ lệ CASA và ví dụ thực tế
 
@@ -84,8 +78,6 @@ Tiết kiệm hơn 20,000 tỷ đồng/năm. Chỉ từ cấu trúc nguồn vố
 
 **Lưu ý khi so sánh số liệu giữa các ngân hàng:** Một số tổ chức có công ty chứng khoán con (như MBBank qua MBS, VPBank qua VPBankS) sẽ tính thêm tiền ký quỹ của khách hàng chứng khoán vào phần CASA nếu dùng phương pháp đầy đủ. Con số đó cao hơn phương pháp cơ bản nhưng không phản ánh cùng loại hành vi khách hàng. Khi so sánh CASA giữa ngân hàng A và ngân hàng B, phải xác định cả hai dùng cùng phương pháp thì mới có ý nghĩa.
 
----
-
 ## Tại sao CASA quan trọng với lợi nhuận ngân hàng?
 
 CASA quyết định chi phí vốn (Cost of Funds) của ngân hàng, từ đó ảnh hưởng trực tiếp đến NIM và cuối cùng là ROE. Chuỗi nhân quả này là lý do nhà đầu tư không thể bỏ qua chỉ số này khi [phân tích cơ bản](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-co-ban-la-gi) cổ phiếu ngân hàng.
@@ -117,8 +109,6 @@ Ngân hàng có CASA cao bền vững → NIM ổn định qua các chu kỳ lã
 
 Phân tích viên thường đặt NIM và CASA là hai chỉ số đầu tiên khi đánh giá cổ phiếu ngân hàng. Hai con số này tiết lộ chất lượng nguồn vốn và lợi thế cạnh tranh dài hạn của tổ chức đó.
 
----
-
 ## Nhà đầu tư đọc tỷ lệ CASA như thế nào để chọn cổ phiếu ngân hàng?
 
 CASA cao không tự động nghĩa là ngân hàng tốt. Câu hỏi quan trọng hơn là: CASA tăng vì lý do gì?
@@ -146,8 +136,6 @@ Nếu CASA tăng đều 3 năm liên tiếp và NIM cùng xu hướng đi lên, 
 
 Nhiều nhà đầu tư F0 không biết tìm số liệu CASA ở trang nào trong BCTC ngân hàng vì cấu trúc báo cáo khác hoàn toàn so với doanh nghiệp thông thường. Trên **HVS Tài Chính Số**, chương trình FA LV1 trong lộ trình **HVS Thực tập số** hướng dẫn trực tiếp cách truy xuất CASA từ thuyết minh tài chính ngân hàng niêm yết, kết nối CASA → NIM → ROE vào mô hình định giá P/B với dữ liệu thực tế.
 
----
-
 ## 5 ngân hàng có tỷ lệ CASA cao nhất Việt Nam 2025
 
 Tính đến 2025, Techcombank và MBBank dẫn đầu thị trường với CASA trên 38–40%, cách xa nhóm còn lại nhờ chiến lược số hóa sớm và miễn phí chuyển khoản từ những năm 2016–2019.
@@ -170,8 +158,6 @@ Tỷ lệ CASA toàn ngành tăng rõ trong giai đoạn này. Ba động lực 
 
 Ba động lực này có đặc điểm chung: tạo ra hành vi giữ tiền thường xuyên mà khách hàng không cần suy nghĩ về lãi suất. Đó là lý do CASA dạng này bền hơn so với khuyến mãi.
 
----
-
 ## Tỷ lệ CASA bao nhiêu là tốt?
 
 Không có ngưỡng CASA tốt tuyệt đối áp dụng cho mọi ngân hàng. Mức hợp lý phụ thuộc vào mô hình kinh doanh và phân khúc khách hàng của từng tổ chức.
@@ -192,13 +178,9 @@ CASA không đủ để kết luận một mình: đặt cạnh NIM, NPL và CAR
 
 Chương trình FA LV1 trong **HVS Tài Chính Số** hướng dẫn đọc và kết nối các chỉ số BCTC ngân hàng từ dữ liệu thực tế, bao gồm CASA, NIM, ROE và P/B của các ngân hàng niêm yết trên HOSE và HNX.
 
----
-
 ## Nhật ký chỉnh sửa (Revision Log)
 
 - **v1.0 (2026-06-18):** Tạo outline từ SERP research — gap chính: góc nhà đầu tư cổ phiếu ngân hàng và hướng dẫn thực chiến "nuôi CASA".
 - **v1.1 (2026-06-18):** Sửa heading H2 "CASA ảnh hưởng khách hàng cá nhân" → tập trung nhà đầu tư; thêm HVS Bridge đến HVS Tài Chính Số.
-
----
 
 **Tuyên bố miễn trừ trách nhiệm:** Mọi phân tích và nhận định trong bài viết này chỉ mang tính chất tham khảo thông tin, hỗ trợ học tập và thực hành phân tích chứng khoán tại HVS. Nội dung không cấu thành lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ mã cổ phiếu nào. Nhà đầu tư tự chịu trách nhiệm trước mọi quyết định tài chính của bản thân.

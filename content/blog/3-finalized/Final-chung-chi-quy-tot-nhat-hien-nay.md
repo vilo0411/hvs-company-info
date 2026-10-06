@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: chứng chỉ quỹ tốt nhất hiện nay
 Secondary_Keywords: nên mua chứng chỉ quỹ nào, danh sách chứng chỉ quỹ tốt, hiệu suất chứng chỉ quỹ
@@ -23,7 +23,7 @@ Nhà đầu tư cá nhân, đặc biệt là những người mới tham gia th�
 Để đánh giá một chứng chỉ quỹ thực sự chất lượng, bạn cần áp dụng 4 tiêu chí cốt lõi dưới đây nhằm đảm bảo tính khách quan và giảm thiểu rủi ro:
 
 1. **Thời gian hoạt động thực tế của quỹ:** Bạn nên ưu tiên chọn các quỹ có lịch sử hoạt động liên tục từ 5 năm trở lên trên thị trường chứng khoán Việt Nam. Lịch sử giao dịch dài hạn là minh chứng rõ nhất cho thấy năng lực quản trị rủi ro và khả năng chèo lái danh mục của công ty quản lý qua nhiều biến động lớn của nền kinh tế.
-2. **Quy mô tài sản quản lý (AUM):** AUM đại diện cho tổng giá trị tài sản ròng mà quỹ đang quản lý. Đối với các quỹ mở cổ phiếu tại Việt Nam, quy mô AUM lý tưởng nhất nên đạt mức tối thiểu là $500$ tỷ đồng. Những quỹ có quy mô lớn thường tối ưu hóa được chi phí vận hành, đồng thời hạn chế tối đa rủi ro thanh khoản khi có lượng lớn nhà đầu tư thực hiện rút vốn cùng lúc.
+2. **Quy mô tài sản quản lý (AUM):** AUM đại diện cho tổng giá trị tài sản ròng mà quỹ đang quản lý. Đối với các quỹ mở cổ phiếu tại Việt Nam, quy mô AUM lý tưởng nhất nên đạt mức tối thiểu là `500` tỷ đồng. Những quỹ có quy mô lớn thường tối ưu hóa được chi phí vận hành, đồng thời hạn chế tối đa rủi ro thanh khoản khi có lượng lớn nhà đầu tư thực hiện rút vốn cùng lúc.
 3. **Cơ cấu danh mục đầu tư thực tế:** Một quỹ hoạt động hiệu quả phải sở hữu danh mục đầu tư lành mạnh với các mã cổ phiếu đầu ngành có nền tảng tài chính vững chắc như VCB, FPT, HPG. Bạn cần xem xét kỹ báo cáo tài chính và báo cáo định kỳ của quỹ để kiểm tra xem cơ cấu danh mục có phù hợp với mục tiêu đầu tư cá nhân của mình hay không.
 4. **Uy tín pháp lý của công ty quản lý quỹ:** Quỹ đầu tư bắt buộc phải được vận hành bởi các công ty quản lý quỹ uy tín và được Ủy ban Chứng khoán Nhà nước (UBCKNN) cấp phép hoạt động chính thức. Bạn có thể tra cứu thông tin pháp lý này tại các cổng thông tin chính thức như `vanban.chinhphu.vn` hoặc `ssc.gov.vn`.
 
@@ -51,17 +51,17 @@ Dưới đây là bảng đối chiếu hiệu suất hoạt động thực tế
 
 | Tên Chứng Chỉ Quỹ | Loại hình quỹ | Công ty quản lý | Hiệu suất trung bình 3 năm | Phí quản lý năm (%) |
 | :--- | :--- | :--- | :--- | :--- |
-| DCDS | Quỹ mở chủ động | Dragon Capital | $18.5\%$ | $2.0\%$ |
-| VESAF | Quỹ mở chủ động | VinaCapital | $22.1\%$ | $1.75\%$ |
-| FUEVFVND | Quỹ ETF thụ động | Dragon Capital | $15.8\%$ | $0.9\%$ |
-| E1VFVN30 | Quỹ ETF thụ động | Dragon Capital | $12.3\%$ | $0.8\%$ |
+| DCDS | Quỹ mở chủ động | Dragon Capital | `18.5\%` | `2.0\%` |
+| VESAF | Quỹ mở chủ động | VinaCapital | `22.1\%` | `1.75\%` |
+| FUEVFVND | Quỹ ETF thụ động | Dragon Capital | `15.8\%` | `0.9\%` |
+| E1VFVN30 | Quỹ ETF thụ động | Dragon Capital | `12.3\%` | `0.8\%` |
 
 ## Rủi ro cần lưu ý khi mua chứng chỉ quỹ hiệu suất cao
 
 Nguyên tắc bất biến của thị trường tài chính là lợi nhuận kỳ vọng luôn đồng hành cùng rủi ro tương ứng. Đầu tư chứng chỉ quỹ không phải là một giải pháp gửi tiết kiệm an toàn tuyệt đối, và bạn bắt buộc phải nhận diện rõ 3 yếu tố rủi ro cốt lõi sau:
 
 * **Rủi ro biến động giá trị tài sản ròng (NAV):** Giá trị của chứng chỉ quỹ được tính toán dựa trên biến động thực tế của các tài sản nằm trong danh mục. Khi thị trường chứng khoán chịu áp lực điều chỉnh mạnh do các yếu tố vĩ mô, giá trị tài khoản tích sản của bạn hoàn toàn có thể sụt giảm tạm thời.
-* **Sự bào mòn từ chi phí quản lý hàng năm:** Các quỹ mở cổ phiếu chủ động thường áp dụng phí quản lý từ $1.5\%$ đến $2.0\%$ mỗi năm. Khoản phí này được trích trực tiếp từ tài sản của quỹ hàng ngày, bất kể kết quả đầu tư của quỹ có lãi hay lỗ. Do đó, chi phí quản lý cao sẽ âm thầm làm giảm đi lợi nhuận thực tế mà bạn nhận được nếu hiệu suất sinh lời dài hạn của quỹ không thực sự vượt trội.
+* **Sự bào mòn từ chi phí quản lý hàng năm:** Các quỹ mở cổ phiếu chủ động thường áp dụng phí quản lý từ `1.5\%` đến `2.0\%` mỗi năm. Khoản phí này được trích trực tiếp từ tài sản của quỹ hàng ngày, bất kể kết quả đầu tư của quỹ có lãi hay lỗ. Do đó, chi phí quản lý cao sẽ âm thầm làm giảm đi lợi nhuận thực tế mà bạn nhận được nếu hiệu suất sinh lời dài hạn của quỹ không thực sự vượt trội.
 * **Quy định về phí bán trước hạn:** Nhằm khuyến khích nhà đầu tư nắm giữ tài sản dài hạn, hầu hết các quỹ mở đều áp dụng phí rút vốn (phí bán) khá cao nếu bạn tất toán chứng chỉ quỹ trong thời gian ngắn (dưới 12 hoặc 24 tháng). Điều này yêu cầu bạn phải sử dụng nguồn vốn thực sự nhàn rỗi để tránh việc phải rút tiền gấp trong các nhịp điều chỉnh sâu của thị trường.
 
 ## Thiết lập kế hoạch tích sản quỹ vững vàng cùng HVS

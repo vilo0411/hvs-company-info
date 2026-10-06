@@ -2,7 +2,7 @@
 Author: Claude Code
 aliases: ["liên ngân hàng là gì"]
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 SERP_Research: true
 Target_Keyword: liên ngân hàng là gì
 Secondary_Keywords: lãi suất liên ngân hàng, thị trường liên ngân hàng là gì, thanh khoản liên ngân hàng, thị trường liên ngân hàng
@@ -18,8 +18,6 @@ Word_Count_Target: 2600
 # Thị trường liên ngân hàng là gì? Lãi suất, OMO và kịch bản đầu tư vĩ mô
 
 Thị trường liên ngân hàng là nơi các tổ chức tín dụng giao dịch vốn ngắn hạn để đảm bảo khả năng thanh toán và thanh khoản hệ thống. Đối với hoạt động [đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-khoan-la-gi), các biến động lãi suất trên thị trường này trực tiếp dự báo hướng đi của dòng tiền lớn. HVS Tài chính số sẽ giúp bạn làm rõ khái niệm thị trường liên ngân hàng là gì, phân biệt cụ thể với thị trường dân cư, cơ chế điều tiết OMO của [Ngân hàng Nhà nước](https://taichinhso.hvsvn.com/kinh-te-vi-mo/chinh-sach-tien-te/ngan-hang-nha-nuoc-la-gi) và kịch bản ứng dụng chỉ báo lãi suất liên ngân hàng vào thực chiến giao dịch.
-
----
 
 ## Làm chủ chỉ báo thanh khoản liên ngân hàng cùng HVS
 

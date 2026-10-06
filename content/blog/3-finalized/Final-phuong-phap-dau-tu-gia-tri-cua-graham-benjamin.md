@@ -2,7 +2,7 @@
 Author: Antigravity
 aliases: ["phương pháp đầu tư giá trị của graham benjamin"]
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 SERP_Research: true
 Target_Keyword: phương pháp đầu tư giá trị của graham benjamin
 Secondary_Keywords: đầu tư giá trị graham, phương pháp graham, benjamin graham là ai, lọc cổ phiếu graham, triết lý benjamin graham

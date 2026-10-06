@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Active Trader & Investor (F0, F1)
 Target_Keyword: cắt margin là gì
 Search_Intent: Informational
@@ -59,9 +59,8 @@ Trong quá trình quản lý danh mục [đầu tư](https://taichinhso.hvsvn.co
 | :--- | :--- | :--- | :--- |
 | **Bản chất** | Tạm dừng/chấm dứt cho vay đòn bẩy đối với một mã cổ phiếu. | Yêu cầu nhà đầu tư nộp thêm tiền/tài sản để nâng tỷ lệ an toàn tài khoản. | Công ty chứng khoán tự động bán cổ phiếu trong tài khoản để thu hồi nợ. |
 | **Đối tượng tác động** | Áp dụng chung cho **một mã cổ phiếu** (tất cả nhà đầu tư nắm giữ mã đó). | Áp dụng riêng cho **một tài khoản cá nhân** có tỷ lệ ký quỹ vi phạm ngưỡng an toàn. | Áp dụng cho **tài khoản cá nhân** vi phạm ngưỡng giải chấp mà không khắc phục đúng hạn. |
-| **Nguyên nhân kích hoạt** | Doanh nghiệp vi phạm quy định niêm yết, BCTC lỗ, hoặc CTCK hạ hạn mức rủi ro. | Giá cổ phiếu trong danh mục giảm khiến Tỷ lệ ký quỹ (R) < Tỷ lệ ký quỹ duy trì ($R_{dt}$). | Nhà đầu tư không nộp tiền hoặc không bán hạ nợ khi Tỷ lệ ký quỹ chạm ngưỡng xử lý ($R_{xl}$). |
+| **Nguyên nhân kích hoạt** | Doanh nghiệp vi phạm quy định niêm yết, BCTC lỗ, hoặc CTCK hạ hạn mức rủi ro. | Giá cổ phiếu trong danh mục giảm khiến Tỷ lệ ký quỹ (R) < Tỷ lệ ký quỹ duy trì (`R_{dt}`). | Nhà đầu tư không nộp tiền hoặc không bán hạ nợ khi Tỷ lệ ký quỹ chạm ngưỡng xử lý (`R_{xl}`). |
 | **Hậu quả nếu không xử lý** | Tài khoản bị khóa sức mua mới mã đó, tỷ lệ tài sản đảm bảo bị sụt giảm. | Nếu giá cổ phiếu tiếp tục giảm, tài khoản sẽ chuyển sang trạng thái Force sell. | Mất quyền chủ động giá bán, tài sản bị phát mại bắt buộc ở mức giá sàn. |
-
 
 ## Case Study thực tế: Tác động của cắt margin trên thị trường Việt Nam
 
@@ -99,16 +98,16 @@ Kiểm tra xem mã cổ phiếu bị cắt margin do quyết định của Sở 
 * Nếu cắt margin do BCTC lỗ hoặc vi phạm kiểm toán: Đây là rủi ro nội tại doanh nghiệp, nguy cơ giảm giá kéo dài rất cao.
 * Nếu cắt margin kỹ thuật hoặc hết hạn mức cho vay của CTCK: Rủi ro ngắn hạn, giá cổ phiếu có thể sớm ổn định lại.
 
-### Bước 2: Tính toán lại tỷ lệ ký quỹ thực tế ($R_{real}$)
+### Bước 2: Tính toán lại tỷ lệ ký quỹ thực tế (`R_{real}`)
 Khi tỷ lệ tài sản đảm bảo của mã bị cắt margin bị hạ về 0%, tổng giá trị tài sản tính ký quỹ của bạn sẽ sụt giảm lập tức. Bạn cần áp dụng công thức:
 
 $$\text{Tỷ lệ ký quỹ thực tế } (R) = \frac{\text{Tổng giá trị tài sản thực có trên tài khoản}}{\text{Tổng dư nợ vay margin}} \times 100\%$$
 
-So sánh chỉ số $R$ này với Tỷ lệ ký quỹ duy trì ($R_{dt}$, thường ở mức 35% - 40%) và Tỷ lệ ký quỹ xử lý ($R_{xl}$, thường ở mức 30%) để xác định mức độ rủi ro hiện tại của tài khoản.
+So sánh chỉ số `R` này với Tỷ lệ ký quỹ duy trì (`R_{dt}`, thường ở mức 35% - 40%) và Tỷ lệ ký quỹ xử lý (`R_{xl}`, thường ở mức 30%) để xác định mức độ rủi ro hiện tại của tài khoản.
 
 ### Bước 3: Chủ động cơ cấu tài sản trước khi bị cưỡng chế
 Dựa trên kết quả tính toán ở Bước 2, bạn có hai lựa chọn xử lý chủ động:
-* **Phương án 1 (Nộp thêm tiền mặt):** Nếu cổ phiếu bị cắt margin là doanh nghiệp tốt, bị cắt chỉ vì lý do kỹ thuật và bạn có sẵn dòng tiền dự phòng, hãy chuyển thêm tiền mặt vào tài khoản margin để kéo tỷ lệ $R$ lên trên ngưỡng an toàn.
+* **Phương án 1 (Nộp thêm tiền mặt):** Nếu cổ phiếu bị cắt margin là doanh nghiệp tốt, bị cắt chỉ vì lý do kỹ thuật và bạn có sẵn dòng tiền dự phòng, hãy chuyển thêm tiền mặt vào tài khoản margin để kéo tỷ lệ `R` lên trên ngưỡng an toàn.
 * **Phương án 2 (Bán hạ vị thế):** Chủ động đặt lệnh bán một phần cổ phiếu bị cắt margin hoặc bán bớt các cổ phiếu khác trong danh mục để thu hồi tiền mặt trả bớt nợ vay. Việc chủ động bán giúp bạn chọn được mức giá tốt trong phiên, tránh việc để tài khoản rơi vào trạng thái Force sell bị bán với giá sàn.
 
 ### Bước 4: Rèn luyện kỹ năng quản trị đòn bẩy trên môi trường thực hành
@@ -133,14 +132,12 @@ Cắt margin là cơ chế quản trị rủi ro bắt buộc của cơ quan qu�
 
 Đối với nhà đầu tư, cổ phiếu bị cắt margin là tín hiệu cảnh báo quan trọng về sức khỏe tài chính doanh nghiệp hoặc biến động thanh khoản ngắn hạn. Bằng cách nắm vững bản chất, phân biệt rõ với call margin và tuân thủ quy trình 4 bước xử lý tài khoản, bạn hoàn toàn có thể làm chủ đòn bẩy tài chính và bảo vệ an toàn cho nguồn vốn đầu tư.
 
----
-
 ## Revision Log
 - **04/09/2026 (v1.0 - Optimized):**
   - Khởi tạo bài viết từ nội dung thô (0-raw), tối ưu cấu trúc chuẩn E-E-A-T và UX.
   - Bổ sung 5 nguyên nhân pháp lý theo Thông tư 120/2020/TT-BTC và tiêu chí CTCK.
   - Xây dựng bảng đối chiếu 3 khái niệm: Cắt margin - Call margin - Force sell và sơ đồ chuỗi phản ứng.
   - Bổ sung Case Study thực tế (BCTC thua lỗ sau kiểm toán vs Cắt margin kỹ thuật nội bộ).
-  - Thiết lập quy trình 4 bước xử lý tài khoản có công thức tính tỷ lệ ký quỹ thực tế ($R_{real}$).
+  - Thiết lập quy trình 4 bước xử lý tài khoản có công thức tính tỷ lệ ký quỹ thực tế (`R_{real}`).
   - Gắn liên kết nội bộ chuẩn Sitemap tới phân tầng HVS Đầu tư và [HVS Thực tập số](https://taichinhso.hvsvn.com/thuc-tap-so).
   - Tối ưu Anti-AI 100%: Loại bỏ các từ cấm, điều chỉnh nhịp điệu câu, chia nhỏ đoạn văn ≤ 4 câu.

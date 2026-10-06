@@ -1,8 +1,8 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["Phương pháp Richard Donchian"]
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 SERP_Research: true
 Target_Keyword: Phương pháp Richard Donchian
 Secondary_Keywords: kênh donchian, chỉ báo donchian channel, richard donchian là gì, phương pháp giao dịch theo xu hướng, donchian channel là gì

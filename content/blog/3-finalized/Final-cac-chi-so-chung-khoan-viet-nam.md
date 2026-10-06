@@ -1,7 +1,7 @@
 ---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: các chỉ số chứng khoán việt nam
 Search_Intent: Informational
@@ -71,8 +71,6 @@ Thực tế thị trường cho thấy khoảng cách rất lớn giữa việc 
 Đó là lý do HVS xây dựng hệ sinh thái đào tạo thực chiến thông qua **HVS Thực tập số**, hoạt động trực tiếp trên nền tảng công nghệ **HVS Tài chính số**. Tại đây, sinh viên và nhà đầu tư mới (F0) sẽ được đào tạo bởi đội ngũ Senior Mentors với 100% dữ liệu thị trường thực (real-time data). 
 
 Chúng tôi không dạy lý thuyết suông. Thay vào đó, Mentors hướng dẫn bạn bóc tách từng rổ chỉ số, tính toán rủi ro liên đới và tự tay thiết lập kịch bản phân bổ tài sản như một nhà quản lý quỹ thực thụ. Việc kiên trì rèn luyện trên HVS Tài chính số sẽ giúp bạn hình thành tư duy dữ liệu sắc bén, sẵn sàng ứng cụ biến động phức tạp nhất.
-
----
 
 ## Revision Log
 - **v1.0 (2026-05-25):** Tạo bản Draft và Finalize theo workflow Express.

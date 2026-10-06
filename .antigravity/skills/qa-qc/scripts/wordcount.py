@@ -76,7 +76,7 @@ def split_into_sections(content: str) -> list[dict]:
                 in_yaml = False
             continue
 
-        if re.match(r'^#{2,3} ', line):
+        if re.match(r'^#{2} ', line):
             if current_heading is not None:
                 sections.append({
                     "heading": current_heading,
@@ -108,7 +108,7 @@ def parse_outline_targets(outline_path: Path) -> dict[str, dict]:
     if not outline_path.exists():
         return {}
 
-    content = outline_path.read_text(encoding='utf-8')
+    content = outline_path.read_text(encoding='utf-8-sig')
     targets = {}
     blocks = re.split(r'\n(?=#{2,5} )', content)
 
@@ -152,7 +152,9 @@ def find_best_match(heading: str, targets: dict) -> tuple[str | None, dict | Non
 
 def check_file(draft_path: Path, outline_path: Path | None = None) -> dict:
     """Kiểm tra một file Draft/Final. Trả về dict kết quả."""
-    content = draft_path.read_text(encoding='utf-8')
+    content = draft_path.read_text(encoding='utf-8-sig')
+    # Revision Log is pipeline metadata, not article body — drop it before counting
+    content = re.split(r'^##\s+\**\s*(?:Revision Log|Nhật ký chỉnh sửa)', content, maxsplit=1, flags=re.M | re.I)[0]
 
     total_words = count_words_vn(content)
 

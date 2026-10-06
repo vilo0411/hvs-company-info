@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Antigravity
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: Phân biệt quỹ ETF và quỹ tương hỗ
 Search_Intent: Informational
@@ -66,8 +66,8 @@ Bạn có thể tham khảo bảng so sánh tổng hợp trực quan dưới đ�
 | **Triết lý đầu tư** | Thụ động mô phỏng rổ chỉ số | Chủ động tìm kiếm lợi nhuận vượt trội |
 | **Kênh mua bán** | Khớp lệnh trên sàn HOSE giống cổ phiếu | Đặt lệnh trực tiếp với công ty quản lý |
 | **Tần suất công bố danh mục** | Hằng ngày trước giờ mở cửa | Định kỳ hằng tháng hoặc hằng quý |
-| **Phí quản lý thường niên** | Thấp ($0.5\% - 0.8\%$/năm) | Cao ($1.5\% - 2.5\%$/năm) |
-| **Phí bán phạt trước hạn** | Không có (chỉ chịu phí sàn $0.1\% - 0.2\%$) | Cao ($1.0\% - 2.0\%$ nếu rút dưới 12 tháng) |
+| **Phí quản lý thường niên** | Thấp (`0.5\% - 0.8\%`/năm) | Cao (`1.5\% - 2.5\%`/năm) |
+| **Phí bán phạt trước hạn** | Không có (chỉ chịu phí sàn `0.1\% - 0.2\%`) | Cao (`1.0\% - 2.0\%` nếu rút dưới 12 tháng) |
 
 Nếu bạn ưu tiên sự đơn giản, tự chủ quản trị danh mục cá nhân trực tiếp trên bảng điện và tối ưu hóa chi phí vận hành, ETF là công cụ tích sản lý tưởng.
 Ngược lại, nếu bạn bận rộn công việc chuyên môn, không muốn mở tài khoản chứng khoán cá nhân và muốn thiết lập lệnh trích tiền đầu tư tự động định kỳ hằng tháng, quỹ tương hỗ/quỹ mở là giải pháp tối ưu hơn.

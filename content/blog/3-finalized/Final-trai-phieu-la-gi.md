@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trái phiếu là gì? Cẩm nang đầu tư trái phiếu an toàn từ A-Z
 keyword: trái phiếu là gì
 slug: trai-phieu-la-gi
@@ -6,6 +6,7 @@ persona: F0, Nhà đầu tư mới
 status: finalized
 created_at: 2026-05-07
 updated_at: 2026-05-07
+Status: Finalized
 ---
 
 # Trái phiếu là gì? Cẩm nang đầu tư trái phiếu an toàn từ A-Z
@@ -57,7 +58,7 @@ Rất nhiều nhà đầu tư F0 nhầm lẫn giữa hai loại này. Hãy nhìn
 | **Quyền quyết định** | Không có quyền biểu quyết | Có quyền dự họp ĐHĐCĐ và biểu quyết |
 | **Ưu tiên thanh toán** | Được ưu tiên trả trước khi phá sản | Chỉ được nhận phần còn lại cuối cùng |
 
->> Xem thêm: [Cách đầu tư chứng khoán cho người mới](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-cach-dau-tu-chung-khoan.md)
+>> Xem thêm: [Cách đầu tư chứng khoán cho người mới](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cach-dau-tu-chung-khoan)
 
 ## 5. Những rủi ro cần đặc biệt lưu ý
 
@@ -75,7 +76,6 @@ Rất nhiều nhà đầu tư F0 nhầm lẫn giữa hai loại này. Hãy nhìn
  
  Dù bạn chọn trái phiếu hay cổ phiếu, chìa khóa vẫn nằm ở việc am hiểu nền tảng của doanh nghiệp và nắm bắt được nhịp đập của thị trường. Hãy luôn giữ cho mình một cái đầu lạnh và một nền tảng kiến thức vững chắc trước khi xuống tiền cho bất kỳ mã chứng khoán nào.
 
----
 **Revision Log:**
 - [2026-05-07]: Viết bản thảo đầu tiên (Draft-v1). Tuân thủ bộ quy tắc Anti-AI của HVS.
 - [2026-05-07]: Tích hợp link nội bộ đến bài "Chứng khoán là gì" và "Cách đầu tư chứng khoán".

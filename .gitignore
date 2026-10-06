@@ -11,3 +11,7 @@ brain/
 # API keys / SERP cache
 .antigravity/config/api-keys.md
 seo-strategy/raw/serp/
+
+# Python bytecode
+__pycache__/
+*.pyc

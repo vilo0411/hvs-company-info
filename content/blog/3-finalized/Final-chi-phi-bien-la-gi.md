@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Claude Code
 Status: Finalized
 Pipeline_Mode: Express
@@ -18,9 +18,7 @@ Cluster_Role: Cluster
 Search_Intent: Informational
 Word_Count_Target: 2200
 
-HVS_Products:
-  - product: "HVS Tài Chính Số"
-    benefit: "Phân tích doanh nghiệp có MC thấp = lợi thế cạnh tranh bền vững — kỹ năng thực chiến trong lộ trình FA LV2 của HVS Thực tập số"
+HVS_Products: ["HVS Tài Chính Số"]
 
 Internal_Links:
   - role: context
@@ -179,8 +177,6 @@ Nhiều nhà đầu tư F0 đọc được khái niệm chi phí biên nhưng g�
 Đây là kỹ năng thực chiến được xây dựng trong lộ trình FA LV2 thuộc **HVS Tài Chính Số**, nền tảng đào tạo đầu tư bài bản cho người bắt đầu. Học viên trong chương trình **HVS Thực tập số** được hướng dẫn đọc BCTC, nhận diện doanh nghiệp có chi phí biên thấp và đánh giá lợi thế cạnh tranh thực sự qua số liệu, không phải narrative của doanh nghiệp.
 
 Bạn đang muốn học FA từ nền tảng để tự phân tích cổ phiếu?
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-18):** Tạo outline từ SERP — gap chính: MC = MR 3 tình huống và kết nối phân tích đầu tư cổ phiếu.

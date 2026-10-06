@@ -1,7 +1,7 @@
-﻿---
+---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: khi nào nên bán cổ phiếu
 Search_Intent: Informational | Transactional
@@ -12,8 +12,6 @@ Meta_Description: Khi nào nên bán cổ phiếu? 5 trường hợp cần cân 
 # Khi nào nên bán cổ phiếu? 5 thời điểm quản trị danh mục thực chiến
 
 Bán cổ phiếu là bài học khó nhất trong đầu tư tài chính. Bài viết này tổng hợp 5 trường hợp cần bán cổ phiếu theo chuẩn ASEAN Securities, cùng các quy tắc cắt lỗ chốt lời kỷ luật và cách dùng công nghệ để kiểm soát cảm xúc khi giao dịch.
-
----
 
 ## Bán cổ phiếu: Thử thách tâm lý lớn nhất của nhà đầu tư
 
@@ -26,8 +24,6 @@ Nỗi sợ hãi và lòng tham chi phối toàn bộ hành động của bạn t
 Ngược lại, khi cổ phiếu lao dốc, bạn chọn cách gồng lỗ sâu với hy vọng hảo huyền rằng giá sẽ sớm hồi phục về điểm hòa vốn ban đầu. Bạn ôm khư khư vị thế lỗ 20-30%, tự an ủi bản thân rằng không bán thì chưa lỗ thực tế. Lối tư duy này khiến vốn của bạn bị chôn chân, thậm chí đối mặt nguy cơ thâm hụt nặng nề hơn khi doanh nghiệp đi vào chu kỳ giảm giá dài.
 
 Đầu tư chuyên nghiệp không có chỗ cho hy vọng cảm tính. Bán cổ phiếu là một phần bắt buộc trong quy trình quản trị rủi ro. Việc mua cổ phiếu chỉ là bước phân bổ vốn ban đầu. Việc bán cổ phiếu mới là hành động quyết định bạn có mang được tiền về tài khoản hay không. Bảo vệ dòng vốn luôn là ưu tiên tối thượng trước khi nghĩ đến việc sinh lời.
-
----
 
 ## 5 trường hợp thực tế cần cân nhắc bán cổ phiếu
 
@@ -73,8 +69,6 @@ Về mặt cá nhân, bạn có quyền bán cổ phiếu để đáp ứng nhu 
 
 Về mặt quản trị danh mục, bạn cần bán để tái cơ cấu dòng vốn. Hãy chủ động cắt bỏ những cổ phiếu yếu, có thanh khoản sụt giảm và biên độ dao động hẹp. Giải phóng dòng vốn này để tập trung vào các mã cổ phiếu đầu ngành như HPG hay VCB khi chúng đang tích lũy tốt ở vùng hỗ trợ mạnh. Cơ cấu lại danh mục giúp bạn tối ưu hóa chi phí cơ hội và tăng hiệu suất sử dụng vốn.
 
----
-
 ## Quy tắc và kỹ thuật bán cổ phiếu tối ưu hiệu suất
 
 Để việc bán cổ phiếu không bị chi phối bởi cảm xúc cá nhân, bạn cần áp dụng các quy tắc kỹ thuật rõ ràng dưới đây.
@@ -109,8 +103,6 @@ Khi cổ phiếu đạt mức tăng trưởng mục tiêu từ 20% đến 25%, b
 
 Sử dụng lệnh điều kiện tự động giúp bạn thực thi kỷ luật bán một cách máy móc, loại bỏ hoàn toàn sự can thiệp của cảm xúc lo âu hay hy vọng lúc thị trường dao động mạnh.
 
----
-
 ## Làm chủ kỷ luật chiều bán cùng HVS
 
 Nỗi đau lớn nhất của nhà đầu tư F0 trên thị trường là không có phương pháp định giá doanh nghiệp để biết điểm bán chốt lời hợp lý, cũng như thiếu kỷ luật thép để cắt lỗ chủ động dẫn đến [cháy tài khoản chứng khoán là gì](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chay-tai-khoan-chung-khoan-la-gi).
@@ -118,8 +110,6 @@ Nỗi đau lớn nhất của nhà đầu tư F0 trên thị trường là khôn
 Để giải quyết vấn đề này, lộ trình đào tạo **HVS Thực tập số** (nằm trong nền tảng **HVS Tài chính số**) sẽ trang bị cho bạn bộ kiến thức đầu tư cốt lõi. Bạn sẽ được học Phân tích cơ bản FA Level 1 để biết cách định giá doanh nghiệp cơ bản và Phân tích kỹ thuật TA Level 1 để tự xác định các vùng hỗ trợ, kháng cự và điểm bán tối ưu. 
 
 Bên cạnh đó, bạn có thể thực hành đặt các lệnh điều kiện bán tự động không rủi ro trên công cụ bổ trợ **HVS Demo** để làm quen với nhịp đập thị trường trước khi giao dịch tiền thật. Hãy tham gia thảo luận chiến lược giao dịch và nhận tham vấn từ các nhà đầu tư kinh nghiệm trên cộng đồng **HVS Forum** để nâng cao tính kỷ luật trong đầu tư.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-06-04):** Khởi tạo outline bởi Antigravity dựa trên cấu trúc tư vấn thực chiến trên SERP.

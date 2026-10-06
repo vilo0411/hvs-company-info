@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie
 Target_Keyword: chu kỳ kinh tế là gì
 Search_Intent: Informational
@@ -12,8 +12,6 @@ Meta_Description: Chu kỳ kinh tế là gì? Hướng dẫn chi tiết 4 giai �
 # Chu kỳ kinh tế là gì? 4 giai đoạn và cách đầu tư thực chiến
 
 Chu kỳ kinh tế là gì? Câu hỏi vĩ mô này quyết định đến 90% hiệu quả phân bổ tài sản của bạn. Chu kỳ kinh tế (Business Cycle) phản ánh dao động của nền kinh tế thực qua bốn pha lặp đi lặp lại: mở rộng, đạt đỉnh, suy thoái và tạo đáy. Nhận diện chính xác từng pha giúp bạn chủ động cơ cấu danh mục cổ phiếu Việt Nam thay vì giao dịch theo cảm tính. Bài viết này làm rõ định nghĩa chu kỳ, phân tích các chỉ báo đi trước như PMI, đường cong lợi suất đảo ngược, đồng thời cung cấp bảng xoay vòng ngành chi tiết trên sàn HOSE.
-
----
 
 ## Định vị chu kỳ kinh tế và luân chuyển tài sản cùng HVS
 

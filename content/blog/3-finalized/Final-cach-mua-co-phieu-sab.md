@@ -1,7 +1,7 @@
-﻿---
+---
 Author: HVS Senior Mentor
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: HVS Senior Mentor
 Target_Keyword: Cách mua cổ phiếu SAB
 Search_Intent: Informational | Transactional
@@ -25,11 +25,11 @@ Quy định của Sở Giao dịch Chứng khoán TP.HCM (HOSE) bắt buộc nh�
 
 Số tiền tối thiểu để bạn sở hữu 1 lô chẵn cổ phiếu SAB phụ thuộc vào thị giá giao dịch thực tế trên bảng điện. Bạn có thể tự tính toán lượng vốn cần thiết bằng công thức toán học sau:
 
-$$Vốn tối thiểu = (Thị giá SAB \times 100) + Phí giao dịch$$
+> **Vốn tối thiểu = (Thị giá SAB \times 100) + Phí giao dịch**
 
 Thông thường, các công ty chứng khoán áp dụng mức phí giao dịch dao động quanh 0,15% giá trị lệnh mua. Giả sử giá cổ phiếu SAB khớp lệnh trên bảng điện ở mức 53.000 đồng/cổ phiếu, số tiền tối thiểu bạn cần chuẩn bị được tính cụ thể:
 
-$$Vốn tối thiểu = (53.000 \times 100) + 0,15\% \times (53.000 \times 100) = 5.307.950 \text{ đồng}$$
+> **Vốn tối thiểu = (53.000 \times 100) + 0,15\% \times (53.000 \times 100) = 5.307.950 \text{ đồng}**
 
 Dưới đây là bảng tính toán vốn tối thiểu thực tế để mua 100 cổ phiếu SAB ở các mức giá giả định khác nhau nhằm giúp bạn chủ động chuẩn bị tài chính:
 

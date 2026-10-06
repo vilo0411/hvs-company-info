@@ -2,7 +2,7 @@
 Author: Claude Code
 aliases: ["chi phí cố định"]
 Status: Finalized
-Mode: Fast
+Pipeline_Mode: Express
 Meta_Description: "Tìm hiểu chi phí cố định là gì, phân loại các chi phí phổ biến và cách tối ưu đòn bẩy hoạt động giúp nhà đầu tư F0 lọc cổ phiếu hiệu quả cùng HVS."
 SERP_Research: true
 

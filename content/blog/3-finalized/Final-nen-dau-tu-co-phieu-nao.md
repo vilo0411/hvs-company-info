@@ -1,4 +1,4 @@
-﻿---
+---
 Author: Antigravity
 aliases: ["nên đầu tư cổ phiếu nào"]
 Status: Finalized
@@ -91,7 +91,6 @@ Lộ trình đào tạo tại HVS Thực tập số được thiết kế để 
 
 Đầu tư chứng khoán không phải là một canh bạc, đó là quá trình phân tích và quản trị rủi ro. Hãy bắt đầu từ những mã cổ phiếu đầu ngành uy tín và không ngừng nâng cao năng lực cá nhân để bảo vệ và gia tăng tài sản bền vững.
 
----
 ### Revision Log
 - [2026-05-07]: Khởi tạo bản tối ưu từ file raw. Chuyển đổi đối tượng giới thiệu HVS Thực tập số từ Sinh viên sang Nhà đầu tư cá nhân.
 - [2026-05-07]: Bổ sung danh sách cổ phiếu đầu ngành (VCB, FPT, HPG, VNM) cho người mới. Điều chỉnh văn phong mục chỉ số tài chính theo hướng đào tạo, dẫn dắt. Loại bỏ các cụm từ AI-vibe ("mở khóa", "nâng tầm").

@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Optimized
+Pipeline_Mode: Optimized
 Persona: Senior Mentor
 Target_Keyword: các loại lệnh trong chứng khoán
 Search_Intent: Informational

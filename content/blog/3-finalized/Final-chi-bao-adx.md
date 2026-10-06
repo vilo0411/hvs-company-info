@@ -24,7 +24,7 @@ Bài viết này từ HVS sẽ hướng dẫn bạn chi tiết chỉ báo ADX l�
 
 Chỉ báo ADX (Average Directional Index) là chỉ số định hướng trung bình trong phân tích kỹ thuật, dùng để đo lường độ mạnh yếu của một xu hướng giá (tăng hoặc giảm) trên thang điểm từ 0 đến 100, kết hợp với hai đường chỉ báo hướng +DI và -DI để tìm tín hiệu giao dịch. Công cụ này được phát triển bởi nhà phân tích kỹ thuật lừng danh J. Welles Wilder Jr. vào năm 1978 — tác giả của nhiều chỉ báo nổi tiếng khác như RSI hay Parabolic SAR.
 
-Điểm khác biệt căn bản giúp ADX trở nên độc đáo trong [phương pháp phân tích kỹ thuật](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-phan-tich-ky-thuat-la-gi.md) nằm ở bản chất tính toán. Trong khi phần lớn chỉ báo kỹ thuật tập trung dự đoán hướng đi của giá (giá sẽ tăng hay giảm), ADX lại đo lường duy nhất một biến số: **sức mạnh của xu hướng hiện tại**. Dù thị trường đang thuộc xu hướng tăng điểm hay giảm điểm, nếu giá di chuyển nhanh và quyết liệt, chỉ báo ADX đều sẽ dốc lên và tăng giá trị.
+Điểm khác biệt căn bản giúp ADX trở nên độc đáo trong [phương pháp phân tích kỹ thuật](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-ky-thuat-la-gi) nằm ở bản chất tính toán. Trong khi phần lớn chỉ báo kỹ thuật tập trung dự đoán hướng đi của giá (giá sẽ tăng hay giảm), ADX lại đo lường duy nhất một biến số: **sức mạnh của xu hướng hiện tại**. Dù thị trường đang thuộc xu hướng tăng điểm hay giảm điểm, nếu giá di chuyển nhanh và quyết liệt, chỉ báo ADX đều sẽ dốc lên và tăng giá trị.
 
 Bộ chỉ báo đầy đủ (thường gọi là hệ thống DMI - Directional Movement Index) được cấu thành từ 3 đường chính:
 
@@ -38,7 +38,7 @@ Nhà đầu tư không nên nhìn nhận đường ADX một cách đơn độc.
 
 Thang đo của ADX dao động trong khoảng từ 0 đến 100. Tuy nhiên, trên thực tế giao dịch chứng khoán, chỉ báo này hiếm khi vượt qua mốc 60. Nhà đầu tư kỹ thuật chia thang đo ADX thành 4 vùng giá trị chính để đưa ra quyết định giao dịch phù hợp với từng giai đoạn biến động của cổ phiếu:
 
-- **ADX dưới 20 (Thị trường không có xu hướng rõ ràng):** Giá cổ phiếu đang trong [xu hướng sideway](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-sideway-la-gi.md) hoặc tích lũy đi ngang. Phe mua và phe bán ở trạng thái giằng co cân bằng, đà tăng hay giảm đều rất yếu. Tín hiệu từ các công cụ giao dịch theo xu hướng lúc này rất dễ bị nhiễu. Nhà đầu tư nên kiên nhẫn đứng ngoài quan sát hoặc áp dụng chiến lược giao dịch trong biên độ hẹp.
+- **ADX dưới 20 (Thị trường không có xu hướng rõ ràng):** Giá cổ phiếu đang trong [xu hướng sideway](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/sideway-la-gi) hoặc tích lũy đi ngang. Phe mua và phe bán ở trạng thái giằng co cân bằng, đà tăng hay giảm đều rất yếu. Tín hiệu từ các công cụ giao dịch theo xu hướng lúc này rất dễ bị nhiễu. Nhà đầu tư nên kiên nhẫn đứng ngoài quan sát hoặc áp dụng chiến lược giao dịch trong biên độ hẹp.
 - **ADX từ 20 đến 25 (Xu hướng bắt đầu hình thành):** Thị trường phát ra tín hiệu bứt phá khỏi vùng nén. Đường ADX cắt lên vượt qua mốc 20-25 cho thấy lực đẩy mới đang xuất hiện. Đây là thời điểm vàng để nhà đầu tư đưa cổ phiếu vào danh sách theo dõi sát sao và chuẩn bị mở vị thế thăm dò.
 - **ADX từ 25 đến 50 (Xu hướng mạnh mẽ):** Cổ phiếu bước vào giai đoạn sóng tăng (hoặc sóng giảm) rõ nét và quyết liệt. Đây là vùng lý tưởng nhất để thực hiện chiến lược giao dịch Trend Following (đua theo xu hướng). Tín hiệu Mua hoặc Bán lúc này có độ tin cậy rất cao.
 - **ADX trên 50 (Xu hướng cực kỳ mạnh/Cảnh báo quá đà):** Động lực tăng (hoặc giảm) của cổ phiếu đạt mức đỉnh điểm. Khi ADX vượt mốc 50 và chạm các vùng 60-70, thị trường thường rơi vào trạng thái mua đuổi quá đà. Mặc dù xu hướng chưa lập tức đảo chiều, nhưng rủi ro xuất hiện các nhịp điều chỉnh bất ngờ là rất lớn. Nhà đầu tư không nên mở vị thế mua mới mà nên ưu tiên quản trị rủi ro và chốt lời từng phần để bảo toàn lợi nhuận.
@@ -119,8 +119,6 @@ Trước khi thực hiện bất kỳ lệnh giao dịch nào dựa trên ADX, n
 2. **Đối chiếu vị trí +DI và -DI:** Xác định rõ bên nào đang nắm thế chủ động. Chỉ mở vị thế Mua khi +DI nằm trên -DI và ngược lại.
 3. **Xác nhận với bộ chỉ báo bổ trợ:** Kiểm tra lại xu hướng trên đường MA20/MA50 và quan sát xem giá có đang tiệm cận các vùng kháng cự cứng hay không.
 4. **Xác định mức dừng lỗ kỷ luật:** Luôn đặt sẵn điểm cắt lỗ ngay dưới đáy gần nhất hoặc đường MA quan trọng để bảo vệ nguồn vốn trước mọi biến động bất ngờ của thị trường.
-
----
 
 ## Nhật ký chỉnh sửa (Revision Log)
 - **v1.0 (2026-09-14):** Tạo Outline cho bài viết "Chỉ báo ADX" theo yêu cầu Express Mode, tích hợp dữ liệu SERP research, cấu trúc định lượng các H2 (tổng 1.500 từ), bộ quy tắc chống AI và lồng ghép đúng persona hệ sinh thái HVS.

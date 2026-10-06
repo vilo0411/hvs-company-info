@@ -20,8 +20,6 @@ Meta_Description: Tỷ giá là gì? Hướng dẫn chi tiết định nghĩa, 4
 
 Tỷ giá là mức giá quy đổi giữa đồng tiền của quốc gia này với đồng tiền của quốc gia khác trên thị trường tài chính. Thước đo này phản ánh sức mua đối ngoại và sức khỏe kinh tế vĩ mô của một đất nước trong quan hệ thương mại quốc tế. Bài viết này của HVS sẽ làm rõ khái niệm tỷ giá hối đoái, cơ chế vận hành tỷ giá trung tâm tại Việt Nam, 4 công cụ điều hành của Ngân hàng Nhà nước, cùng phân tích tác động phân hóa sâu sắc của biến động tỷ giá đến thị trường chứng khoán và từng nhóm ngành cổ phiếu thực tế.
 
----
-
 ## Phân tích ảnh hưởng của tỷ giá USD/VND cùng HVS
 
 Biến động tỷ giá tác động trực tiếp đến rủi ro chi phí tài chính của doanh nghiệp vay nợ USD và hành vi mua bán của [dòng tiền khối ngoại](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/khoi-ngoai-la-gi). Ngược lại, tỷ giá tăng giúp các nhóm [cổ phiếu xuất nhập khẩu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-xuat-nhap-khau) gia tăng biên lợi nhuận quy đổi.

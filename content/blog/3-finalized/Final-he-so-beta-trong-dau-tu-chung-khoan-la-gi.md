@@ -1,7 +1,7 @@
 ---
 Author: Claude Code
 Status: Finalized
-Mode: Express
+Pipeline_Mode: Express
 Persona: Lan Newbie / Nhà đầu tư F0
 Target_Keyword: hệ số beta trong đầu tư chứng khoán là gì
 Search_Intent: Informational
@@ -81,7 +81,7 @@ Khi tra cứu chỉ số Beta trên Vietstock hay CafeF, nhà đầu tư F0 cầ
 
 ## 4. Chiến lược ứng dụng Beta để tái cơ cấu danh mục theo từng chu kỳ thị trường
 
-Việc nắm rõ hệ số Beta cho phép bạn chủ động điều chỉnh tỷ trọng danh mục đầu tư linh hoạt theo từng giai đoạn chuyển động của vĩ mô và chỉ số VN-Index trong việc [quản lý danh mục đầu tư chứng khoán](file:///e:/project/hvs-company-info/content/blog/3-finalized/Final-quan-ly-danh-muc-dau-tu-chung-khoan.md):
+Việc nắm rõ hệ số Beta cho phép bạn chủ động điều chỉnh tỷ trọng danh mục đầu tư linh hoạt theo từng giai đoạn chuyển động của vĩ mô và chỉ số VN-Index trong việc [quản lý danh mục đầu tư chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/quan-ly-danh-muc-dau-tu-chung-khoan):
 
 - **Khi thị trường xác nhận chu kỳ giá lên (Uptrend bùng nổ):**
   - *Kịch bản ứng dụng:* Gia tăng tỷ trọng nhóm cổ phiếu có **Beta > 1.2** (như nhóm chứng khoán SSI, VND hay thép HPG). Khi VN-Index bứt phá qua các vùng kháng cự với thanh khoản lớn, nhóm cổ phiếu Beta cao sẽ đóng vai trò đầu tàu tăng giá, giúp danh mục đạt hiệu suất lợi nhuận vượt trội so với thị trường.
@@ -113,8 +113,6 @@ Hãy thực hiện checklist 3 bước hành động trước mỗi quyết đ�
 3. **Phân bổ tỷ trọng giữa cổ phiếu Beta cao và Beta thấp** phù hợp với khẩu vị rủi ro cá nhân.
 
 Hãy bắt đầu rèn luyện tư duy quản trị rủi ro ngay hôm nay để làm chủ dòng vốn và chủ động ứng phó trước mọi biến động của thị trường chứng khoán!
-
----
 
 ## Revision Log
 - **2026-09-03:** Khởi tạo Outline cho keyword "hệ số beta trong đầu tư chứng khoán là gì" theo chế độ Express Mode.
