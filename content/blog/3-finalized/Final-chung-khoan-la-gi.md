@@ -15,9 +15,9 @@ Nếu bạn đang tìm kiếm một kênh để gia tăng tài sản thay vì ch
 
 ## Chứng khoán là gì? Hiểu đúng bản chất của việc đầu tư
 
-Về mặt pháp lý, chứng khoán là bằng chứng xác nhận quyền và lợi ích hợp pháp của nhà đầu tư đối với tài sản hoặc vốn của tổ chức phát hành. Thực tế, khi bạn mua chứng khoán của một công ty như Hòa Phát (HPG) hay Vinamilk (VNM), bạn đang sở hữu một chứng chỉ cho thấy bạn đã góp vốn vào doanh nghiệp đó.
+Theo Luật Chứng khoán, chứng khoán là bằng chứng xác nhận quyền và lợi ích hợp pháp của nhà đầu tư đối với tài sản hoặc vốn của tổ chức phát hành. Thực tế, khi bạn mua chứng khoán của một công ty như Hòa Phát (HPG) hay Vinamilk (VNM), bạn đang sở hữu một chứng chỉ cho thấy bạn đã góp vốn vào doanh nghiệp đó.
 
-Chứng khoán không chỉ là những con số nhảy múa trên bảng điện. Nó là chỉ báo quan trọng của nền kinh tế. Khi các doanh nghiệp làm ăn tốt, [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thi-truong-chung-khoan-la-gi) sẽ khởi sắc và ngược lại. Đối với cá nhân, việc sở hữu chứng khoán là cách để bạn đa dạng hóa nguồn thu nhập, không chỉ dựa vào tiền lương mà còn dựa vào sự phát triển của các doanh nghiệp hàng đầu.
+Chứng khoán không chỉ là những con số trên bảng điện. Nó được giao dịch theo lô 100 cổ phiếu trên sàn HOSE, trong phiên từ 9h00 đến 14h45, và biên độ mỗi phiên giới hạn ở 7%. Đó là phần cơ chế. Khi các doanh nghiệp làm ăn tốt, [thị trường chứng khoán](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/thi-truong-chung-khoan-la-gi) sẽ khởi sắc và ngược lại. Đối với cá nhân, việc sở hữu chứng khoán là cách để bạn đa dạng hóa nguồn thu nhập, không chỉ dựa vào tiền lương mà còn dựa vào sự phát triển của các doanh nghiệp hàng đầu.
 
 ## 3 Loại chứng khoán phổ biến nhất tại Việt Nam bạn cần biết
 
@@ -27,7 +27,7 @@ Thị trường chứng khoán rất rộng lớn, nhưng với người mới, 
 Đây là loại chứng khoán quen thuộc nhất. Khi sở hữu cổ phiếu, bạn trở thành [cổ đông](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/co-phieu-la-gi) (người sở hữu một phần doanh nghiệp). Nếu công ty làm ăn có lãi, bạn sẽ được chia cổ tức và hưởng lợi từ việc giá cổ phiếu tăng lên. Tuy nhiên, đi kèm với đó là rủi ro khi doanh nghiệp gặp khó khăn hoặc thị trường sụt giảm.
 
 ### 2. Trái phiếu
-Khác với cổ phiếu, mua [trái phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-la-gi) giống như bạn cho doanh nghiệp hoặc Chính phủ vay tiền. Bạn là chủ nợ và sẽ nhận được một khoản lợi nhuận cố định (lãi suất) theo cam kết. Trái phiếu thường có tính an toàn cao hơn cổ phiếu nhưng lợi nhuận kỳ vọng cũng thường thấp hơn.
+Khác với cổ phiếu, mua [trái phiếu](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/trai-phieu-la-gi) là cho doanh nghiệp hoặc Chính phủ vay tiền. Bạn là chủ nợ, nhận lãi cố định theo cam kết, với kỳ hạn thường từ 1 đến 10 năm và ngày trả lãi ghi rõ trong bản cáo bạch. Trái phiếu thường có tính an toàn cao hơn cổ phiếu nhưng lợi nhuận kỳ vọng cũng thường thấp hơn.
 
 ### 3. Chứng chỉ quỹ
 Nếu bạn chưa có đủ kiến thức để tự chọn cổ phiếu, [chứng chỉ quỹ](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/chung-chi-quy-la-gi) là lựa chọn hợp lý. Bạn ủy thác tiền của mình cho các quỹ đầu tư chuyên nghiệp. Tại đây, các chuyên gia tài chính sẽ thay bạn quản lý và đem tiền đi đầu tư vào các danh mục đa dạng để sinh lời.
@@ -36,13 +36,13 @@ Nếu bạn chưa có đủ kiến thức để tự chọn cổ phiếu, [chứ
 
 Chứng khoán không phải là trò chơi may rủi, nó là một công cụ tài chính hiệu quả nếu bạn biết cách sử dụng:
 
-*   **Tỷ suất sinh lời hấp dẫn:** Trong dài hạn, đầu tư chứng khoán thường mang lại mức lợi nhuận cao hơn đáng kể so với gửi tiết kiệm ngân hàng hay mua vàng.
-*   **Chống lại lạm phát:** Cổ phiếu của các doanh nghiệp tốt thường tăng trưởng mạnh hơn tốc độ mất giá của đồng tiền, giúp bảo vệ sức mua cho tài sản của bạn.
-*   **Tính thanh khoản linh hoạt:** Bạn có thể dễ dàng bán chứng khoán để lấy lại tiền mặt chỉ sau vài thao tác trên ứng dụng điện thoại. Đây là lợi thế rất lớn so với việc đầu tư bất động sản.
+*   **Tỷ suất sinh lời dài hạn có thể đo được:** VN-Index đi từ 770 điểm ngày 24/08/2017 lên 1.698 điểm ngày 15/10/2026, tương đương +120,6% trong 9,1 năm, tức khoảng 9,0% mỗi năm. Đây là chỉ số giá, chưa tính cổ tức, và là mức bình quân của cả thị trường chứ không phải cam kết cho từng mã.
+*   **Phòng vệ lạm phát:** Doanh nghiệp có quyền tăng giá bán khi chi phí tăng, nên doanh thu danh nghĩa đi cùng lạm phát, còn tiền gửi thì không. Điều kiện là doanh nghiệp giữ được biên lợi nhuận gộp, chứ không phải mọi cổ phiếu đều chống lạm phát.
+*   **Thanh khoản tính bằng ngày, không phải tháng:** Bạn khớp lệnh bán trong phiên, tiền về tài khoản sau 2 ngày làm việc theo chu kỳ thanh toán T+2. So với bất động sản cần vài tháng để tìm người mua, đó là khác biệt về bản chất.
 
 ## Đầu tư chứng khoán có rủi ro không?
 
-Rủi ro là một phần tất yếu của thị trường chứng khoán. Nó có thể đến từ sự biến động khó lường của vĩ mô hoặc từ chính những sai lầm trong hoạt động kinh doanh của doanh nghiệp. 
+Có. Và rủi ro đó đo được bằng số. Mỗi phiên trên HOSE, giá một mã có thể giảm tối đa 7%, nên một tuần 5 phiên giảm sàn liên tiếp làm mất khoảng 30% giá trị. Ở quy mô toàn thị trường, VN-Index từng rơi từ đỉnh đóng cửa 1.529 điểm ngày 06/01/2022 về 912 điểm ngày 15/11/2022, giảm 40% trong 10 tháng. 
 
 Tuy nhiên, rủi ro lớn nhất thực chất đến từ việc nhà đầu tư thiếu kiến thức và tham gia thị trường theo kiểu cá cược may rủi. Tại HVS, chúng tôi tin rằng rủi ro hoàn toàn có thể kiểm soát được nếu bạn có một lộ trình học tập bài bản và kỷ luật. Thay vì sợ hãi, hãy trang bị cho mình tư duy phân tích để biến rủi ro thành cơ hội.
 

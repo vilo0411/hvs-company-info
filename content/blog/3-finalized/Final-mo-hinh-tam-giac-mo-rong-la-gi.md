@@ -13,15 +13,15 @@ HVS_Products: ["HVS Thực tập số", "HVS Tài chính số", "HVS Demo"]
 
 # Mô hình tam giác mở rộng là gì: Đặc điểm và chiến lược giao dịch
 
-Thị trường chứng khoán thường xuất hiện giai đoạn biến động lớn khi giá tạo đỉnh mới cao hơn rồi nhanh chóng rơi sâu tạo đáy mới thấp hơn. Diễn biến này khiến không ít nhà đầu tư cá nhân hoảng loạn và thua lỗ do mua đúng đỉnh và bán đúng đáy.
+Có những giai đoạn giá tạo đỉnh cao hơn, rồi rơi xuống đáy thấp hơn, liên tục như vậy qua nhiều tuần. Biên độ cứ rộng ra. Nhà đầu tư cá nhân mua ở đỉnh và bán ở đáy, đúng hai lần sai liên tiếp.
 
-Để nhận biết bản chất giai đoạn biến động này, nhà đầu tư quan sát chỉ báo giá qua câu hỏi **mô hình tam giác mở rộng là gì**. Việc nắm vững hình thái giá kết hợp với [các mô hình nến Nhật](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cac-mo-hinh-nen-nhat-thuong-duoc-su-dung-trong-chung-khoan) hỗ trợ HVS Tài Chính Số giúp người giao dịch kiểm soát rủi ro hiệu quả.
+Hình thái đó có tên: **mô hình tam giác mở rộng**. HVS Tài chính số phân tích 5 điểm chạm A-B-C-D-E, cách phân biệt với tam giác hội tụ, và hai chiến lược giao dịch kèm mốc dừng lỗ, có thể ghép thêm [các mô hình nến Nhật](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/cac-mo-hinh-nen-nhat-thuong-duoc-su-dung-trong-chung-khoan) để xác nhận.
 
 ## Khái niệm mô hình tam giác mở rộng (Broadening Triangle là gì?)
 
 **Mô hình tam giác mở rộng (Broadening Triangle hoặc Megaphone Pattern) là mô hình phân tích kỹ thuật gồm hai đường xu hướng phân kỳ. Cấu trúc này tạo ra các đỉnh sau cao hơn đỉnh trước và đáy sau thấp hơn đáy trước.** Hình dáng của mô hình nới rộng dần từ trái sang phải, tạo thành cấu trúc giống chiếc loa phóng thanh trên biểu đồ giá.
 
-Khác với mô hình thu hẹp biên độ, tam giác mở rộng thể hiện sự mất kiểm soát giữa hai lực lượng mua và bán. Sự giằng co khiến giá liên tục bứt phá khỏi các vùng kháng cự và hỗ trợ ngắn hạn nhưng không duy trì được đà tăng hay đà giảm bền vững.
+Tam giác hội tụ cho thấy biên độ bị nén. Tam giác mở rộng thì ngược lại: không bên nào kiểm soát được. Giá vượt kháng cự ngắn hạn rồi lại thủng hỗ trợ ngắn hạn, không giữ được chiều nào, và với biên độ 7% mỗi phiên trên HOSE, một mô hình như vậy đủ tạo ra biến động 20% đến 30% trong vài tuần.
 
 Cấu trúc hình học cơ bản bao gồm:
 
@@ -31,7 +31,7 @@ Cấu trúc hình học cơ bản bao gồm:
 
 > **Lưu ý từ chuyên gia HVS:** Sự xuất hiện của hai đường xu hướng phân kỳ phản ánh tâm lý thị trường rất rủi ro khi phe mua và phe bán đều không giữ được sự chủ động.
 
-Về bản chất tâm lý, mô hình tam giác mở rộng là hình ảnh phản chiếu của sự hoảng loạn và hưng phấn quá đà. Phe mua hào hứng đẩy giá vượt đỉnh cũ nhưng ngay lập tức gặp lực bán xả hàng. Ngược lại, khi giá rớt xuống đáy mới, phe bắt đáy xuất hiện đẩy giá bật tăng trở lại.
+Về tâm lý, đây là hưng phấn và hoảng loạn xen kẽ. Phe mua đẩy giá vượt đỉnh cũ, gặp ngay lực xả. Giá rơi về đáy mới, phe bắt đáy nhảy vào. Cả hai bên đều hành động theo biến động giá, không theo giá trị.
 
 ## Các dạng mô hình tam giác mở rộng phổ biến trong chứng khoán
 
@@ -39,13 +39,13 @@ Trong [phân tích kỹ thuật là gì](https://taichinhso.hvsvn.com/dau-tu/dan
 
 ### Mô hình tam giác mở rộng ở đỉnh (Broadening Top)
 
-Mô hình tam giác mở rộng ở đỉnh hình thành sau một đợt tăng giá kéo dài. Xu hướng tăng ban đầu mất đi sự ổn định khi thị trường xuất hiện các phiên chốt lời mạnh đan xen với các nhịp đẩy giá hưng phấn.
+Dạng này hình thành sau một đợt tăng kéo dài, thường 3 đến 6 tháng. Xu hướng mất ổn định khi các phiên chốt lời mạnh đan xen những nhịp đẩy giá hưng phấn.
 
-Mô hình này cảnh báo khả năng đảo chiều giảm giá (Bearish Reversal) rất cao. Khi lực mua kiệt sức tại đỉnh mở rộng cuối cùng, giá thường phá vỡ đường hỗ trợ dưới với khối lượng giao dịch lớn, xác nhận xu hướng giảm giá.
+Nó cảnh báo đảo chiều giảm. Khi lực mua cạn ở đỉnh mở rộng cuối cùng, giá thường thủng đường hỗ trợ dưới kèm khối lượng cao hơn 50% bình quân 20 phiên.
 
 ### Mô hình tam giác mở rộng ở đáy (Broadening Bottom)
 
-Mô hình tam giác mở rộng ở đáy xuất hiện sau một chu kỳ giảm giá sâu. Sự hoảng loạn của nhà đầu tư nhỏ lẻ khiến các đáy mới liên tục bị đục thủng. Tuy nhiên, dòng tiền lớn bắt đầu tham gia bắt đáy tại các vùng giá thấp.
+Dạng ở đáy xuất hiện sau một chu kỳ giảm sâu, như giai đoạn VN-Index về đáy 912 điểm ngày 15/11/2022. Từ vùng đó, chỉ số mất hơn 3 năm để lên đỉnh 1.928 điểm ngày 18/05/2026, nên biên độ mở rộng ở đáy là cơ hội dài hạn chứ không phải tín hiệu lướt sóng. Nhà đầu tư nhỏ lẻ hoảng loạn, các đáy mới liên tục bị xuyên, trong khi dòng tiền lớn gom hàng ở vùng giá thấp.
 
 Biến thể này thường phát ra tín hiệu đảo chiều tăng giá (Bullish Reversal). Sự phân kỳ biến động ở vùng đáy tạo tiền đề cho đợt bùng nổ khi giá phá vỡ đường kháng cự trên để bước vào chu kỳ hồi phục.
 
@@ -59,11 +59,11 @@ Căn cứ vào góc độ của các đường xu hướng, nhà phân tích chi
 | **Tam giác mở rộng dốc lên** | Nằm ngang hoặc dốc lên nhẹ | Dốc xuống rất mạnh | Tín hiệu thiên về phe bán |
 | **Tam giác mở rộng dốc xuống** | Dốc lên rất mạnh | Nằm ngang hoặc dốc xuống nhẹ | Tín hiệu thiên về phe mua |
 
-Mô hình tam giác mở rộng báo hiệu xu hướng tăng hay giảm phụ thuộc lớn vào vị trí xuất hiện của mô hình trên biểu đồ. Hướng phá vỡ thực tế của nến xác nhận đóng vai trò quyết định.
+Vị trí xuất hiện quyết định thiên hướng, nhưng hướng phá vỡ của nến xác nhận mới là điều bạn giao dịch theo. Đừng đoán trước.
 
 ## Đặc điểm nhận diện & So sánh với các mô hình tam giác khác
 
-Nhà đầu tư chủ động phân biệt rõ mô hình tam giác mở rộng với các dạng tam giác phân tích kỹ thuật phổ biến để tránh quyết định giao dịch nhầm lẫn.
+Nhầm tam giác mở rộng với tam giác hội tụ dẫn đến đặt dừng lỗ sai chỗ. Ba tiêu chuẩn dưới đây giúp bạn xác nhận đúng mô hình.
 
 Các tiêu chuẩn xác nhận mô hình bao gồm:
 
@@ -71,7 +71,7 @@ Các tiêu chuẩn xác nhận mô hình bao gồm:
 2. **Hình thái khối lượng giao dịch:** Khối lượng giao dịch gia tăng đáng kể ở các nhịp giá tiệm cận đường biên mở rộng, phản ánh dòng tiền giao tranh dữ dội.
 3. **Thời gian hình thành:** Thường kéo dài từ vài tuần đến vài tháng trên đồ thị ngày (D1) hoặc đồ thị tuần (W1).
 
-Để tối ưu hóa hiệu quả đầu tư, người giao dịch kết hợp với kiến thức [phân tích mô hình kinh doanh doanh nghiệp](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-mo-hinh-kinh-doanh-cua-doanh-nghiep). Việc hiểu rõ bức tranh cơ bản giúp nhà đầu tư chọn lọc cổ phiếu tiềm năng trước khi áp dụng công cụ kỹ thuật.
+Mô hình giá không cho biết doanh nghiệp làm ăn thế nào. Ghép thêm [phân tích mô hình kinh doanh doanh nghiệp](https://taichinhso.hvsvn.com/dau-tu/danh-cho-nguoi-moi-bat-dau/phan-tich-mo-hinh-kinh-doanh-cua-doanh-nghiep) để lọc danh sách trước, rồi mới dùng công cụ kỹ thuật tìm điểm vào.
 
 Bảng so sánh chi tiết các đặc tính kỹ thuật:
 
@@ -88,9 +88,9 @@ Giao dịch với mô hình tam giác mở rộng đòi hỏi tính kỷ luật 
 
 ### Nhận diện bẫy giá (False Breakout) và rủi ro F0 hay mắc phải
 
-Bẫy giá là rủi ro lớn nhất khi áp dụng mô hình này. F0 thường thấy giá vượt đỉnh cũ liền mua đuổi (FOMO). Ngay sau đó, giá quay đầu giảm sàn tạo đáy mới, dẫn đến thua lỗ nặng nề.
+Bẫy giá là rủi ro lớn nhất ở mô hình này. F0 thấy giá vượt đỉnh cũ là mua đuổi. Giá quay đầu, có phiên giảm hết biên độ 7%, rồi tạo đáy mới thấp hơn. Mất 15% trong 3 phiên là kịch bản thường gặp.
 
-Hiện tượng phá vỡ giả xuất hiện liên tục vì biên độ mở rộng kích thích tâm lý đám đông tham gia thị trường cảm tính. Sự tham gia này thiếu đi sự xác nhận của dòng tiền thông minh.
+Phá vỡ giả xuất hiện liên tục ở đây vì biên độ rộng khuếch đại cảm xúc. Dòng tiền lớn không tham gia những cú vượt biên đó.
 
 ### Phương pháp giao dịch trong biên độ (Swing Trading)
 
@@ -110,7 +110,7 @@ Chiến lược giao dịch an toàn hơn là kiên nhẫn chờ đợi điểm 
 
 ### Nguyên tắc quản trị rủi ro & Đặt Stop Loss / Take Profit
 
-Nhà đầu tư xác định mục tiêu lợi nhuận và mức chịu lỗi theo công thức quản trị vốn:
+Ba thông số cần chốt trước khi đặt lệnh, không phải sau:
 
 | Thông số quản trị | Công thức / Quy tắc tính | Mục tiêu thực hành |
 |---|---|---|
