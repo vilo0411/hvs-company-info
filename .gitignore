@@ -15,3 +15,7 @@ seo-strategy/raw/serp/
 # Python bytecode
 __pycache__/
 *.pyc
+
+# Market / news caches (regenerated on demand, high churn)
+scripts/market-cache.json
+scripts/news-cache.json
