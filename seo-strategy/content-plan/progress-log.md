@@ -1,7 +1,7 @@
 # HVS SEO — Production Log
 
 ## Dashboard
-- **Published:** 432 bài
+- **Published:** 442 bài
 - **Active Pipeline:** 11 items
 - **Content Map:** xem `topic-clusters.md` (600 bài dự kiến)
 
@@ -29,6 +29,16 @@
 
 | Date | Keyword | Persona | Mode | File Path |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-15 | margin là gì tất tần tật về margin | Lan Newbie | Optimized | `content/blog/3-finalized/Final-tat-tan-tat-ve-margin.md` |
+| 2026-10-15 | quy định các sàn giao dịch chứng khoán hose hnx upcom | Lan Newbie | Optimized | `content/blog/3-finalized/Final-quy-dinh-cua-cac-san-giao-dich-hose-hxn-upcom.md` |
+| 2026-10-15 | giải thích các chỉ số chứng khoán vnindex hnx upcom | Lan Newbie | Optimized | `content/blog/3-finalized/Final-giai-thich-cac-chi-so-vnindex-hnxindex-upcomindex.md` |
+| 2026-10-15 | hướng dẫn đặt lệnh mua bán cổ phiếu | Lan Newbie | Optimized | `content/blog/3-finalized/Final-huong-dan-dat-lenh-mua-ban-co-phieu.md` |
+| 2026-10-15 | hướng dẫn đọc bảng giá chứng khoán | Lan Newbie | Optimized | `content/blog/3-finalized/Final-huong-dan-doc-bang-gia-chung-khoan.md` |
+| 2026-10-15 | lựa chọn mở tài khoản ở công ty chứng khoán nào | Lan Newbie | Optimized | `content/blog/3-finalized/Final-lua-chon-mo-tai-khoan-o-cong-ty-chung-khoan-nao.md` |
+| 2026-10-15 | hướng dẫn mở tài khoản chứng khoán tại nhà | Lan Newbie | Optimized | `content/blog/3-finalized/Final-huong-dan-mo-tai-khoan-chung-khoan-don-gian-tai-nha.md` |
+| 2026-10-15 | các thành viên trong thị trường chứng khoán | Lan Newbie | Optimized | `content/blog/3-finalized/Final-cac-thanh-vien-va-cach-hoat-dong-trong-thi-truong-chung-khoan.md` |
+| 2026-10-15 | phân biệt các loại cổ phiếu | Lan Newbie | Optimized | `content/blog/3-finalized/Final-phan-biet-cac-loai-co-phieu.md` |
+| 2026-10-15 | cổ phiếu là gì mua cổ phiếu lãi từ đâu | Lan Newbie | Optimized | `content/blog/3-finalized/Final-co-phieu-la-gi-mua-co-phieu-lai-tu-dau.md` |
 | 2026-10-06 | khoảng trống giá là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-khoang-trong-gia-la-gi.md` |
 | 2026-10-05 | Mô hình nến Dark Cloud Cover là gì | Lan Newbie / Nhà đầu tư F0 | Express | `content/blog/3-finalized/Final-mo-hinh-nen-dark-cloud-cover-la-gi.md` |
 | 2026-10-05 | Mô hình cốc tay cầm | Lan Newbie | Express | `content/blog/3-finalized/Final-mo-hinh-coc-tay-cam.md` |

@@ -1,12 +1,12 @@
 # Topic Clusters — HVS SEO Content Map
 > Cập nhật: 2026-09-04 | Nguồn: sitemap taichinhso.hvsvn.com (quét thực tế)
-> ✅ Published: 393 | 🔄 In Progress: 1 | ⭕ Planned: 105
+> ✅ Published: 403 | 🔄 In Progress: 1 | ⭕ Planned: 105
 
 ---
 
-## Group: Cho người mới (497 articles)
+## Group: Cho người mới (507 articles)
 
-### Cluster: Chỉ số chứng khoán (13 articles | ✅ 13 | 🔄 0 | ⭕ 0)
+### Cluster: Chỉ số chứng khoán (14 articles | ✅ 14 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ Chỉ số DAX là gì *(Published — Final-chi-so-dax-la-gi.md)*
 
@@ -23,6 +23,7 @@
 - ✅ chỉ số chứng khoán châu Á *(Published — Final-chi-so-chung-khoan-chau-a.md)*
 - ✅ chỉ số chứng khoán thế giới *(Published — Final-chi-so-chung-khoan-the-gioi.md)*
 - ✅ chỉ số hang seng là gì *(Published — Final-chi-so-hang-seng-la-gi.md)*
+- ✅ giải thích các chỉ số chứng khoán vnindex hnx upcom *(Published — Final-giai-thich-cac-chi-so-vnindex-hnxindex-upcomindex.md)*
 
 ### Cluster: Chứng chỉ quỹ (8 articles | ✅ 8 | 🔄 0 | ⭕ 0)
 
@@ -122,7 +123,7 @@
 - ✅ Có nên mua cổ phiếu MWG *(Published — Final-co-nen-mua-co-phieu-mwg.md)*
 - ✅ Có nên mua cổ phiếu SBT *(Published — Final-co-nen-mua-co-phieu-sbt.md)*
 
-### Cluster: Cổ phiếu (25 articles | ✅ 25 | 🔄 0 | ⭕ 0)
+### Cluster: Cổ phiếu (27 articles | ✅ 27 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ Cổ tức là gì *(Published — Final-co-tuc-la-gi.md)*
 
@@ -151,6 +152,8 @@
 - ✅ cổ phiếu penny là gì *(Published — Final-co-phieu-penny-la-gi.md)*
 - ✅ mid cap là gì *(Published — Final-mid-cap-la-gi.md)*
 - ✅ blue chip là gì *(Published — Final-co-phieu-blue-chip-la-gi.md)*
+- ✅ cổ phiếu là gì mua cổ phiếu lãi từ đâu *(Published — Final-co-phieu-la-gi-mua-co-phieu-lai-tu-dau.md)*
+- ✅ phân biệt các loại cổ phiếu *(Published — Final-phan-biet-cac-loai-co-phieu.md)*
 
 ### Cluster: Cổ phiếu ngành (29 articles | ✅ 29 | 🔄 0 | ⭕ 0)
 
@@ -459,7 +462,7 @@
 - ✅ Trái phiếu ngân hàng là gì *(Published — Final-trai-phieu-ngan-hang-la-gi.md)*
 - ✅ Tín phiếu là gì *(Published — Final-tin-phieu-la-gi.md)*
 
-### Cluster: Tài khoản chứng khoán (8 articles | ✅ 8 | 🔄 0 | ⭕ 0)
+### Cluster: Tài khoản chứng khoán (10 articles | ✅ 10 | 🔄 0 | ⭕ 0)
 
 **Pillar:** ✅ cách mở tài khoản chứng khoán *(Published — Final-cach-mo-tai-khoan-chung-khoan.md)*
 
@@ -471,6 +474,8 @@
 - ✅ hợp đồng mở tài khoản chứng khoán *(Published — Final-hop-dong-mo-tai-khoan-chung-khoan.md)*
 - ✅ Một người được mở bao nhiêu tài khoản chứng khoán *(Published — Final-mot-nguoi-duoc-mo-bao-nhieu-tai-khoan-chung-khoan.md)*
 - ✅ cháy tài khoản chứng khoán là gì *(Published — Final-chay-tai-khoan-chung-khoan-la-gi.md)*
+- ✅ hướng dẫn mở tài khoản chứng khoán tại nhà *(Published — Final-huong-dan-mo-tai-khoan-chung-khoan-don-gian-tai-nha.md)*
+- ✅ lựa chọn mở tài khoản ở công ty chứng khoán nào *(Published — Final-lua-chon-mo-tai-khoan-o-cong-ty-chung-khoan-nao.md)*
 
 ### Cluster: chứng chỉ (5 articles | ✅ 5 | 🔄 0 | ⭕ 0)
 
@@ -482,7 +487,7 @@
 - ✅ chứng chỉ hành nghề chứng khoán *(Published — Final-chung-chi-hanh-nghe-chung-khoan.md)*
 - ✅ chứng chỉ tài chính *(Published — Final-chung-chi-tai-chinh.md)*
 
-### Cluster: chứng khoán (69 articles | ✅ 51 | 🔄 1 | ⭕ 17)
+### Cluster: chứng khoán (74 articles | ✅ 56 | 🔄 1 | ⭕ 17)
 
 **Pillar:** ✅ ce là gì *(Published — Final-ce-la-gi.md)*
 
@@ -555,6 +560,11 @@
 - ✅ tâm lý đầu tư chứng khoán *(Published — Final-tam-ly-dau-tu-chung-khoan.md)*
 - ✅ cách đầu tư cổ phiếu *(Published — cach-dau-tu-co-phieu)* ⚠️ Chưa có file Final nội bộ
 - ✅ biên độ giao động giá *(Published — External)*
+- ✅ các thành viên trong thị trường chứng khoán *(Published — Final-cac-thanh-vien-va-cach-hoat-dong-trong-thi-truong-chung-khoan.md)*
+- ✅ hướng dẫn đọc bảng giá chứng khoán *(Published — Final-huong-dan-doc-bang-gia-chung-khoan.md)*
+- ✅ hướng dẫn đặt lệnh mua bán cổ phiếu *(Published — Final-huong-dan-dat-lenh-mua-ban-co-phieu.md)*
+- ✅ quy định các sàn giao dịch chứng khoán hose hnx upcom *(Published — Final-quy-dinh-cua-cac-san-giao-dich-hose-hxn-upcom.md)*
+- ✅ margin là gì tất tần tật về margin *(Published — Final-tat-tan-tat-ve-margin.md)*
 
 ### Cluster: khóa học (3 articles | ✅ 3 | 🔄 0 | ⭕ 0)
 

@@ -322,11 +322,18 @@ def check_sapo_and_conclusion(rep: Report, lines, start, end, keyword, h2s):
 
 def check_anti_ai(rep: Report, lines, start, end, rules: dict):
     hedge_hits, soft_hits = [], {}
+    in_official_footer = False
     for i, raw in iter_body(lines, start, end):
+        low = raw.lower()
+        if "về hvs tài chính số:" in low or "thông tin liên hệ:" in low:
+            in_official_footer = True
+        if in_official_footer:
+            if "info@hvsvn.com" in low:
+                in_official_footer = False
+            continue
         kind = classify(raw)
         if kind in ("table", "image", "html"):
             continue
-        low = raw.lower()
         for p in rules["hard"]:
             if p.lower() in low:
                 rep.add("CL2-hard", "anti_ai", "CRITICAL", i + 1, f"Từ cấm Tier 1: “{p}”", raw)
