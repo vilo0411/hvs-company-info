@@ -32,8 +32,10 @@ Chỉ trong phạm vi đã chốt. 3S (Specific · Story · Statistics), giữ p
 
 ```
 python scripts/qa_lint.py <file> --fix
+python scripts/slop_check.py <file> -v
+python scripts/market_facts.py --verify <file>
 ```
-→ 0 CRITICAL/MAJOR mới (≤2 vòng). Self-audit 4 điểm: mở đoạn trực diện · nguồn số liệu · persona/xưng hô · HVS bridge không bị vỡ.
+→ 0 CRITICAL/MAJOR mới (≤2 vòng); slop score không được thấp hơn trước khi sửa. Self-audit 4 điểm: mở đoạn trực diện · nguồn số liệu · persona/xưng hô · HVS bridge không bị vỡ.
 
 ## Bước 5 — Trình bày
 

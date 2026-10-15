@@ -57,6 +57,17 @@ python .antigravity/skills/seo-research/scripts/serp_research.py "<keyword>" --t
    python scripts/qa_lint.py content/blog/2-user-review/Draft-<slug>.md --fix
    ```
    (Outline tự detect ở `1-outlines/`.) Exit 1 → sửa đúng dòng báo → chạy lại. **Tối đa 2 vòng.**
+2a. **Fact check dữ liệu (advisory — không chặn khi mất mạng):**
+   ```
+   python scripts/market_facts.py --verify content/blog/2-user-review/Draft-<slug>.md
+   ```
+   `FACT-index-wrong` = số liệu chỉ số sai → sửa bắt buộc. `FACT-ticker` = mã không niêm yết → sửa bắt buộc. `FACT-stale` = mọi mốc cũ hơn 18 tháng → thêm 1 mốc hiện tại. Exit 3 = nguồn dữ liệu chết, bỏ qua bước này.
+2b. **Slop check (BLOCKING):**
+   ```
+   python scripts/slop_check.py content/blog/2-user-review/Draft-<slug>.md -v
+   ```
+   Tầng thống kê — bắt cái lint không thấy: nhịp câu phẳng, mật độ bằng chứng thấp, câu sáo rỗng, khung H2 trùng bài cũ. Exit 1 → sửa theo rule `SLOP-*` được báo. **Tối đa 2 vòng.**
+   Cách sửa theo rule: `SLOP-rhythm`/`burstiness`/`uniform-run` → chèn câu 3–7 từ, gộp/cắt câu · `SLOP-evidence`/`anchor` → thêm mã CP + mốc Tháng M/YYYY + % thật · `SLOP-vague` → thay cụm sáo rỗng bằng số hoặc tiêu chí · `SLOP-template` → đổi khung H2.
 3. **Internal link:** chèn theo `Internal_Links` của Outline; thiếu → `find_links.py`. Anchor partial match tự nhiên, không ép "là gì".
 4. **Quality Guardian** (`.antigravity/agents/quality-guardian.md`): chỉ khi lint PASS. FAIL → sửa → tối đa 2 vòng. Copy `## Revision Log` từ Outline sang cuối Draft.
 5. Vẫn FAIL sau 2 vòng → trình bày kèm `⚠️ Remaining issues`.

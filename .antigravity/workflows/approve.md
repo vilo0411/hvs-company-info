@@ -23,7 +23,7 @@ User đã duyệt. Xác định file đang làm việc trong session (hoặc `$A
 3. ```
    python scripts/finalize.py <slug>
    ```
-   Script làm trọn: snapshot `Section_Targets` → `Status: Finalized` → move `Final-<slug>.md` → xóa Draft + Outline → `topic_status --set Finalized` → `sprint_status --remove` → Publication Log + Dashboard → `find_links --add-row` → `qa_lint --log`.
+   Script làm trọn: gate `qa_lint` (CRITICAL) + gate `slop_check` (score < 80) → snapshot `Section_Targets` → `Status: Finalized` → move `Final-<slug>.md` → xóa Draft + Outline → `topic_status --set Finalized` → `sprint_status --remove` → Publication Log + Dashboard → `find_links --add-row` → `qa_lint --log`.
    Script từ chối (exit 1) nếu còn CRITICAL → sửa rồi chạy lại; `--force` chỉ khi user đồng ý.
 4. **Learning** (nếu Final có `## Revision Log` hoặc bước 1 = có):
    - `.antigravity/skills/content-feedback-loop/SKILL.md` (routing theo `learning-loop.md`) → `python scripts/optimize_instincts.py`.
@@ -33,7 +33,7 @@ User đã duyệt. Xác định file đang làm việc trong session (hoặc `$A
 ## Nhánh C — Optimize (`content/blog/2-user-review/Optimize-<slug>.md`)
 
 1. Hỏi như B.1.
-2. `python scripts/qa_lint.py content/blog/2-user-review/Optimize-<slug>.md --original content/blog/3-finalized/Final-<slug>.md` → exit 0.
+2. `python scripts/qa_lint.py content/blog/2-user-review/Optimize-<slug>.md --original content/blog/3-finalized/Final-<slug>.md` → exit 0, rồi `python scripts/slop_check.py content/blog/2-user-review/Optimize-<slug>.md` → exit 0.
 3. `python scripts/finalize.py <slug> --optimize` (backup Final cũ vào `archive/optimize-backups/`, ghi đè Final, xóa Optimize/Proposal, `topic_status --set Finalized`, `qa_lint --log`).
 4. Learning như B.4. Báo cáo Indexation Audit Table (trước/sau).
 

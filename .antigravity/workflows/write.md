@@ -56,6 +56,8 @@ Song song: `grep -n "<slug>" seo-strategy/content-plan/revision-log.md`.
 
 1. Viết `content/blog/2-user-review/Draft-<slug>.md` (YAML schema `seo-formatting.md §4`, copy `## Revision Log` từ Outline).
 2. `python scripts/qa_lint.py content/blog/2-user-review/Draft-<slug>.md --fix` → exit 0 (≤2 vòng).
+2a. `python scripts/market_facts.py --verify content/blog/2-user-review/Draft-<slug>.md` → sửa `FACT-index-wrong` / `FACT-ticker` / `FACT-stale`. Exit 3 (nguồn chết) → bỏ qua.
+2b. `python scripts/slop_check.py content/blog/2-user-review/Draft-<slug>.md` → exit 0 (≤2 vòng). FAIL = nhịp phẳng / thiếu bằng chứng; sửa theo đúng rule `SLOP-*` được báo, không viết lại cả bài.
 3. Chèn internal link theo Outline; thiếu → `find_links.py`.
 4. Quality Guardian (`.antigravity/skills/qa-qc/SKILL.md` Bước 1) → PASSED (≤2 vòng).
 5. Vẫn FAIL → trình bày kèm `⚠️ Remaining issues`.

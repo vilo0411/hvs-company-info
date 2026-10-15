@@ -7,6 +7,7 @@ Usage:
 
 Steps (all-or-nothing after the lint gate):
   1. Lint source (qa_lint) — refuse if CRITICAL unless --force
+  1b. Slop gate (slop_check) — refuse if slop score < PASS_SCORE unless --force
   2. Snapshot per-H2 Word_Count from Outline → YAML `Section_Targets`
   3. YAML: Status: Finalized, Pipeline_Mode kept (Optimized when --optimize), drop legacy Mode:
   4. Move → content/blog/3-finalized/Final-<slug>.md  (--optimize: backup old Final to archive/optimize-backups/)
@@ -125,6 +126,37 @@ def main() -> int:
         print("Còn CRITICAL — sửa rồi chạy lại, hoặc --force khi user đồng ý.", file=sys.stderr)
         return 1
 
+    # 1b. Slop gate — statistical layer; qa_lint cannot see flat rhythm / empty prose
+    rs = run(["scripts/slop_check.py", str(src), "--json"])
+    slop = None
+    try:
+        slop = json.loads(rs.stdout)
+    except json.JSONDecodeError:
+        print("slop_check lỗi (bỏ qua gate):\n" + rs.stderr.strip(), file=sys.stderr)
+    if slop:
+        majors = [f for f in slop["findings"] if f["severity"] == "MAJOR"]
+        print(f"Slop: {'PASS' if slop['pass'] else 'FAIL'} · Score {slop['slop_score']}/100 · MAJOR {len(majors)}")
+        for f in majors:
+            print(f"  [{f['check']}] {f['message']}")
+        if not slop["pass"] and not a.force:
+            print("Slop score dưới ngưỡng — sửa nhịp/bằng chứng rồi chạy lại, hoặc --force khi user đồng ý.",
+                  file=sys.stderr)
+            return 1
+
+    # 1c. Fact check (ADVISORY ONLY - depends on an unofficial external data source;
+    #     a source outage must never block finalize, so findings are printed, not enforced)
+    rf = run(["scripts/market_facts.py", "--verify", str(src), "--json"])
+    try:
+        facts = json.loads(rf.stdout).get("findings", [])
+    except json.JSONDecodeError:
+        facts = []
+        if rf.returncode == 3:
+            print("Fact check: nguồn dữ liệu không truy cập được — bỏ qua (không chặn).")
+    if facts:
+        print(f"Fact check: {len(facts)} cảnh báo số liệu (advisory, không chặn finalize)")
+        for f in facts:
+            print(f"  [{f['severity']}] {f['check']}: {f['message']}")
+
     # 2. Section targets snapshot
     targets = outline_targets(outline) if outline.exists() else {}
     updates = {"Status": "Finalized", "Pipeline_Mode": mode}
@@ -133,7 +165,8 @@ def main() -> int:
     new_text = set_yaml(text, updates, drop=("Mode",))
 
     plan = [
-        f"lint OK ({rep['score']}/100)",
+        f"lint {'OK' if rep['pass'] else 'FAIL (--force)'} ({rep['score']}/100)"
+        + (f" · slop {'OK' if slop['pass'] else 'FAIL (--force)'} ({slop['slop_score']}/100)" if slop else ""),
         f"YAML → Status: Finalized, Pipeline_Mode: {mode}" + (f", Section_Targets ({len(targets)} H2)" if targets else ""),
         (f"backup {final.name} → archive/optimize-backups/ và ghi đè" if a.optimize and final.exists() else f"move → {final.relative_to(ROOT)}"),
         "xóa " + ", ".join(p.name for p in (src, outline, proposal) if p.exists()),

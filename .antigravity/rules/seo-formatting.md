@@ -35,6 +35,8 @@
 | Mốc thời gian mơ hồ ("hiện nay,", "gần đây,") | `GEO-vague-time` | MINOR |
 | Word count từng H2 ±10% so với `Word_Count` trong Outline; tổng ±10% `Word_Count_Target` | `WC-section`, `WC-total` | MAJOR |
 | Mọi câu `PAA_Questions` trong Outline phải thành H2/H3 hoặc FAQ | `PAA-missing` | MAJOR |
+| Mật độ mỏ neo kiểm chứng được / nhịp câu (tầng B, offline) | `SLOP-evidence`, `SLOP-anchor`, `SLOP-rhythm`, … | MAJOR / MINOR |
+| Mốc chỉ số đúng thực tế; mã CP có niêm yết; không để mọi số liệu cũ hơn 18 tháng (tầng dữ liệu, cần mạng) | `FACT-index-wrong`, `FACT-ticker`, `FACT-stale` | CRITICAL / MAJOR |
 
 ## 2. Rule cần suy luận (Quality Guardian kiểm tra, lint không bắt được)
 
@@ -79,3 +81,19 @@ HVS_Products: ["HVS Thực tập số", "HVS Tài chính số", "HVS Demo"]
 Section_Targets: {"Sàn OTC là gì": 250, "Kết luận": 180}   # finalize.py tự sinh từ Outline
 ---
 ```
+
+## 5. Khối thông tin thương hiệu cuối bài (Brand Footer Boilerplate)
+
+Mọi bài viết xuất bản đều đính kèm khối thông tin giới thiệu và liên hệ chính thức của HVS Tài chính số ở cuối bài (sau Tuyên bố miễn trừ trách nhiệm, trước `## Revision Log`) dưới định dạng blockquote:
+
+```markdown
+> **Về HVS Tài chính số:**
+> HVS Tài chính số là nền tảng toàn diện đồng hành cùng nhà đầu tư trong suốt hành trình chinh phục thị trường chứng khoán - từ trang bị kiến thức, cập nhật thông tin thị trường đến hỗ trợ ra quyết định và quản lý danh mục. Tích hợp trọn bộ công cụ trên một hệ sinh thái duy nhất, HVS giúp tối ưu thời gian, mang lại trải nghiệm đầu tư liền mạch và hiệu quả cho cả người mới bắt đầu lẫn nhà đầu tư giàu kinh nghiệm.
+> 
+> **Thông tin liên hệ:**
+> * Website: https://taichinhso.hvsvn.com/
+> * Hội sở: Tầng 4, TTTM Dịch vụ Cống Vị, Số 2 Liễu Giai, Phường Ngọc Hà, TP. Hà Nội
+> * Điện thoại: (+84-24) 3886 9999
+> * Email: info@hvsvn.com
+```
+

@@ -32,6 +32,9 @@ Các bước sau (QA, sửa, approve) **không đọc lại**. Tra cứu bằng 
 | Internal link | đọc `anchor-index.md` (450 dòng) | `python scripts/find_links.py "<kw>" --exclude <slug>` |
 | Bài cũ nên link tới bài mới | đọc các Final | `python scripts/find_links.py --backfill <slug>` |
 | SEO / anti-AI / format / word count | rà checklist bằng mắt | `python scripts/qa_lint.py <file> [--outline] [--original] [--fix]` |
+| Nhịp câu / bằng chứng / trùng khung (AI slop) | đọc lại đoán "nghe như AI" | `python scripts/slop_check.py <file> [-v]` · `--baseline` |
+| Số liệu thị trường để viết / kiểm chứng số trong bài | tự nhớ giá, chỉ số | `python scripts/market_facts.py --brief` · `--verify <file>` |
+| Tin tức, sự kiện mới quanh keyword | WebSearch | `python scripts/news_feed.py --topic "<kw>" --days 14` |
 | URL có live không | đoán slug | `python scripts/fetch_sitemap.py --slug <slug>` / `--search "kw"` / `--refresh` |
 | Lỗi cũ của bài | đọc cả `revision-log.md` | `grep -n "<slug>" seo-strategy/content-plan/revision-log.md` |
 | Finalize | 9 bước tay | `python scripts/finalize.py <slug> [--optimize] [--dry-run]` |
@@ -39,7 +42,7 @@ Các bước sau (QA, sửa, approve) **không đọc lại**. Tra cứu bằng 
 
 ## ✍️ Content Edit Rule (mọi yêu cầu sửa nội dung, kể cả chat tự do)
 
-Sửa bất kỳ file nào trong `content/blog/` → (1) đã load context trên; (2) sửa đúng phạm vi; (3) `python scripts/qa_lint.py <file>` rồi self-audit ngữ nghĩa; (4) trình bày `❌ BẢN CŨ / ✅ BẢN SỬA`; (5) 1 dòng vào `revision-log.md`. Entry point: `/revise`.
+Sửa bất kỳ file nào trong `content/blog/` → (1) đã load context trên; (2) sửa đúng phạm vi; (3) `python scripts/qa_lint.py <file>` + `python scripts/slop_check.py <file>` + `python scripts/market_facts.py --verify <file>` rồi self-audit ngữ nghĩa; (4) trình bày `❌ BẢN CŨ / ✅ BẢN SỬA`; (5) 1 dòng vào `revision-log.md`. Entry point: `/revise`.
 **QA loop tối đa 2 vòng** → vẫn FAIL thì dừng, trình bày `⚠️ Remaining issues`.
 Học bản năng mới → `/learn`: regex bắt được → `anti-ai-rules.md §0` / `qa_lint.py`; judgment → `instincts-archive.md` + `python scripts/optimize_instincts.py`.
 
@@ -86,10 +89,13 @@ SOP duy nhất: `.antigravity/workflows/<cmd>.md`. Wrapper: `.claude/commands/<c
 | Script | Dùng để |
 |---|---|
 | `qa_lint.py <file> [--outline] [--original] [--fix] [--json] [--log] [--no-sitemap] [--dump-rules]` | ~40 check tất định, Score 0–100, exit 1 = FAIL. Rule đọc từ `anti-ai-rules.md §0`, `glossary.md`, `confirm-with-leadership.md`, sitemap cache; word count qua `wordcount.py` |
+| `slop_check.py <file> [-v] [--json]` · `--baseline [--csv f] [--top N]` · `--thresholds` | Tầng B: 13 rule `SLOP-*` thống kê (burstiness, rhythm_gap, evidence/100w, vague, template_sim…). Ngưỡng relative theo corpus — xem `seo-strategy/content-plan/slop-audit-2026-10-15.md`. Gate: score < 80 = FAIL |
+| `market_facts.py --brief [--tickers …]` · `--ticker VCB` · `--index VNINDEX --years 2022,2026` · `--verify <file>` | **Script duy nhất có network trong pipeline viết.** Lấy OHLCV thật (VNDirect dchart) + danh sách mã niêm yết (SSI iboard), cache 24h `market-cache.json`. `--verify` bắt `FACT-index-wrong` / `FACT-ticker` / `FACT-stale`. Exit 3 = nguồn chết, KHÔNG chặn pipeline |
+| `news_feed.py --topic "<kw>" [--days N]` · `--latest` · `--feeds` | RSS 6 báo (CafeF, VnExpress, Vietstock, Tuổi Trẻ, Dân Trí), cache 6h. Dùng để tìm góc bài + mốc sự kiện có ngày, KHÔNG dùng để viết lại tin |
 | `topic_status.py` | Đọc/ghi trạng thái trong `topic-clusters.md` (giữ format bullet) |
 | `sprint_status.py` | Ghi duy nhất cho `sprint-backlog.md` + Dashboard/Active Pipeline của `progress-log.md` |
 | `find_links.py` | Tra anchor-index + sitemap; backfill; `--add-row` |
-| `finalize.py <slug> [--optimize] [--dry-run] [--force]` | Toàn bộ bước finalize, từ chối khi còn CRITICAL |
+| `finalize.py <slug> [--optimize] [--dry-run] [--force]` | Toàn bộ bước finalize, từ chối khi còn CRITICAL (qa_lint) hoặc slop score < 80 (`slop_check`) |
 | `pipeline_audit.py [--fix] [--wrappers]` | Outline/draft/backlog stale, dashboard, path hỏng, wrapper drift |
 | `optimize_instincts.py [--dry-run]` | Sinh `instincts.md` + `instincts-by-scope/` từ archive |
 | `normalize_raw.py [--apply]` | `0-raw/<Tiêu đề>.md` → `Raw-<slug>.md` |

@@ -16,6 +16,9 @@ Như `write.md` Bước 0 (1 lần/session). Thêm: `grep -n "<slug>" seo-strate
 ```
 python scripts/topic_status.py <slug> --set Optimizing
 python scripts/qa_lint.py content/blog/3-finalized/Final-<slug>.md --no-sitemap   # baseline lỗi cơ học
+python scripts/slop_check.py content/blog/3-finalized/Final-<slug>.md -v          # baseline slop: nhịp, bằng chứng, trùng khung
+python scripts/market_facts.py --verify content/blog/3-finalized/Final-<slug>.md  # số liệu sai / cũ hơn 18 tháng
+python scripts/news_feed.py --topic "<keyword>" --days 30                         # sự kiện mới để cập nhật bài
 ```
 - Copy `Final-<slug>.md` → `content/blog/2-user-review/Optimize-<slug>.md`. **Không sửa Final trực tiếp.**
 - Ghi **Intent & Persona Declaration** đầu phiên (không lưu vào bài): TARGET KEYWORD · SEARCH INTENT · PERSONA · PRODUCT BRIDGE (Thực tập số).

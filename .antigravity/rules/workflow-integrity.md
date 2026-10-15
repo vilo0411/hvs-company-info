@@ -40,6 +40,10 @@ Các bước sau (QA, sửa, approve) **không đọc lại** các file trên.
 | Tìm internal link | đọc `anchor-index.md` (450 dòng) | `python scripts/find_links.py "<kw>" --exclude <slug>` |
 | Tìm bài cũ nên link tới bài mới | đọc các file Final | `python scripts/find_links.py --backfill <slug>` |
 | Check SEO / anti-AI / format / word count | rà checklist bằng mắt | `python scripts/qa_lint.py <file> [--outline …] [--fix]` |
+| Check nhịp câu / mật độ bằng chứng / trùng khung (AI slop) | đọc lại bài đoán "nghe như AI" | `python scripts/slop_check.py <file> [-v]` · `--baseline` để lấy lại phân bố corpus |
+| Lấy số liệu thị trường để viết | tự nhớ giá / chỉ số | `python scripts/market_facts.py --brief [--tickers VCB,HPG]` |
+| Kiểm chứng số liệu trong bài | đọc lại bằng mắt | `python scripts/market_facts.py --verify <file>` |
+| Tin tức / sự kiện mới quanh keyword | WebSearch tốn quota | `python scripts/news_feed.py --topic "<kw>" --days 14` |
 | Kiểm tra URL có live | đoán slug | `python scripts/fetch_sitemap.py --slug <slug>` / `--search "kw"` |
 | Lỗi cũ của bài | đọc cả `revision-log.md` | `grep -n "<slug>" seo-strategy/content-plan/revision-log.md` |
 | Finalize | làm tay 9 bước | `python scripts/finalize.py <slug>` |
@@ -50,7 +54,7 @@ Các bước sau (QA, sửa, approve) **không đọc lại** các file trên.
 Bất kỳ khi nào sửa / viết lại / thêm đoạn trong file thuộc `content/blog/`:
 1. Đã load context §2 (nếu chưa có trong session)
 2. Sửa đúng phạm vi được yêu cầu — không viết lại section đã PASS
-3. Chạy `python scripts/qa_lint.py <file>` → sửa CRITICAL/MAJOR → Self-audit ngữ nghĩa (mở bài, kết bài, số liệu, persona)
+3. Chạy `python scripts/qa_lint.py <file>` → sửa CRITICAL/MAJOR → rồi `python scripts/slop_check.py <file>` → sửa MAJOR `SLOP-*` → Self-audit ngữ nghĩa (mở bài, kết bài, số liệu, persona)
 4. Trình bày dạng `❌ BẢN CŨ / ✅ BẢN SỬA` khi sửa đoạn; ghi 1 dòng vào `revision-log.md`
 
 **Vòng lặp QA có giới hạn:** FAIL → sửa → lint lại **tối đa 2 vòng**. Vẫn FAIL → dừng, trình bày kèm `⚠️ Remaining issues` cho user quyết định.
